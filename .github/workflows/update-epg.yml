@@ -1,0 +1,33 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Atualiza a cada 4 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios cheerio xml2js
+
+      - name: Generate EPG
+        run: node index.js
+
+      - name: Commit EPG update
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add epg.xml
+          git commit -m "EPG atualizado automaticamente"
+          git push
