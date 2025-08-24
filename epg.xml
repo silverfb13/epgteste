@@ -37594,6 +37594,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20250825070200 -0300" stop="20250825083200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Depoimento</title>
+    <desc lang="pt">Depoimentos pouco editados, que revelam não apenas conteúdos, mas modos de falar, formas de pensar e onde o silêncio pode ter espaço e significados. O encontro de uma personalidade com um assunto, mediado por um entrevistador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20250825073200 -0300" stop="20250825090200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Unespiano</title>
     <desc lang="pt">Apresentação de música clássica e obras dos pianistas do instituto de Artes da Unesp em São Paulo.</desc>
@@ -37622,6 +37629,34 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20250825150200 -0300" stop="20250825163200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Biblioteca Labô</title>
+    <desc lang="pt">Acompanhe conversas com convidados sobre grandes obras das literaturas nacional e internacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825153200 -0300" stop="20250825170200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825170200 -0300" stop="20250825183200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825173200 -0300" stop="20250825190200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20250825183200 -0300" stop="20250825200200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Ciência sem Limites</title>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
@@ -37630,6 +37665,20 @@
     </rating>
   </programme>
   <programme start="20250825190200 -0300" stop="20250825203200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825200200 -0300" stop="20250825213200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Desafio - Profissão</title>
+    <desc lang="pt">Um programa que coloca em pauta as várias profissões e o processo de escolha profissional, apresentando casos para que os professores e pesquisadores possam abordar suas linhas temáticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825203200 -0300" stop="20250825220200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -37651,48 +37700,34 @@
     </rating>
   </programme>
   <programme start="20250825220200 -0300" stop="20250825233200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Terra em Transe</title>
+    <desc lang="pt">Pesquisas e debates sobre questões contemporâneas envolvendo política e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825223200 -0300" stop="20250826000200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250825023200 -0300" stop="20250825040200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250825030200 -0300" stop="20250825043200 -0300" channel="Canal Universitário CNU">
-    <title lang="pt">Nova Stella - Ex Libris</title>
-    <desc lang="pt">O programa coloca a ciência em discussão sob múltiplas perspectivas.</desc>
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250825033200 -0300" stop="20250825050200 -0300" channel="Canal Universitário CNU">
-    <title lang="pt">Educando para a Diversidade</title>
-    <desc lang="pt">Acompanhe a exibição de cursos com conscientização sobre as diversidades, com guias educativos, com o objetivo de fortalecer uma cultura inclusiva na comunidade acadêmica.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250825040200 -0300" stop="20250825053200 -0300" channel="Canal Universitário CNU">
-    <title lang="pt">Educando para a Diversidade</title>
-    <desc lang="pt">Acompanhe a exibição de cursos com conscientização sobre as diversidades, com guias educativos, com o objetivo de fortalecer uma cultura inclusiva na comunidade acadêmica.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250825043200 -0300" stop="20250825060200 -0300" channel="Canal Universitário CNU">
-    <title lang="pt">Programação Canal Universitário</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250825050200 -0300" stop="20250825063200 -0300" channel="Canal Universitário CNU">
-    <title lang="pt">Programação Canal Universitário</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20250825053200 -0300" stop="20250825070200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -67955,7 +67990,7 @@
   </programme>
   <programme start="20250825070200 -0300" stop="20250825083200 -0300" channel="ESPN HD">
     <title lang="pt">Bahamas x Brasil</title>
-    <desc lang="pt">Vigésima edição da principal competição de basquete entre seleções masculinas das Américas, realizada em Manágua, Nicarágua.</desc>
+    <desc lang="pt">Segunda rodada do Grupo A. O Brasil e Bahamas se enfrentam no Ginásio Alexis Argüello, Nicarágua.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -67983,7 +68018,7 @@
   </programme>
   <programme start="20250825130200 -0300" stop="20250825143200 -0300" channel="ESPN HD">
     <title lang="pt">Real Oviedo x Real Madrid</title>
-    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <desc lang="pt">Pela segunda rodada, o Real Oviedo recebe o Real Madrid no Estádio Municipal Carlos Tartiere. Os Merengues venceram na estreia do campeonato espanhol e agora precisam do resultado para se isolarem na liderança do nacional.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -207603,7 +207638,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250823120200 -0300" stop="20250823133200 -0300" channel="Telefe">
+  <programme start="20250823110200 -0300" stop="20250823123200 -0300" channel="Telefe">
+    <title lang="pt">Snoopy &amp; Charlie Brown: Peanuts, la película</title>
+    <desc lang="pt">Snoopy y su inseparable pájaro Emilio persiguen a su gran enemigo, el Barón Rojo. Mientras tanto, su mejor amigo, Charlie Brown, se embarca a su vez en una aventura de proporciones épicas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250823123200 -0300" stop="20250823140200 -0300" channel="Telefe">
+    <title lang="pt">Los tres chiflados</title>
+    <desc lang="pt">Abandonados en el orfanato de unas monjas, tres cabezas huecas recién nacidos crecen para convertirse en Larry, Curly y Moe. Cuando descubren que los problemas financieros obligarán a cerrar pronto el único hogar que han conocido, el trío se prepara para reunir 830 000 dólares en un mes. Los tres inocentes salen por primera vez al mundo exterior y se involucran en un plan para volverse estrellas de un programa de televisión.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250823140200 -0300" stop="20250823153200 -0300" channel="Telefe">
     <title lang="pt">El Chavo y Chapulín</title>
     <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
@@ -207617,14 +207666,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250823221700 -0300" stop="20250823234700 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20250823204700 -0300" stop="20250823221700 -0300" channel="Telefe">
+    <title lang="pt">Cobra Kai</title>
+    <desc lang="pt">Treinta y cuatro años después de los eventos del torneo de karate All Valley de 1984, Johnny Lawrence busca la redención al abrir un dojo Cobra Kai, reavivando su rivalidad con un exitoso Daniel LaRusso.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250823000200 -0300" stop="20250823013200 -0300" channel="Telefe">
+  <programme start="20250823221700 -0300" stop="20250823234700 -0300" channel="Telefe">
+    <title lang="pt">Depredadores</title>
+    <desc lang="pt">En un planeta extraterrestre, un mercenario y su banda de combatientes luchan para sobrevivir en contra de la arremetida de unos temidos guerreros que están cazándolos por deporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250823001700 -0300" stop="20250823014700 -0300" channel="Telefe">
     <title lang="pt">Pasapalabra</title>
     <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
     <rating system="Brazil">
@@ -207638,9 +207694,9 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20250823030200 -0300" stop="20250823043200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20250823031700 -0300" stop="20250823044700 -0300" channel="Telefe">
+    <title lang="pt">Misión rescate</title>
+    <desc lang="pt">Un explorador espacial queda atrapado en Marte, abandonado por los miembros de su tripulación, quienes pensaron que había muerto. Sin apenas recursos, sólo su ingenio le permitirá sobrevivir mientras intentan rescatarlo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
