@@ -131199,15 +131199,71 @@
     </rating>
   </programme>
   <programme start="20250827110200 -0300" stop="20250827123200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Juventude x Botafogo</title>
+    <desc lang="pt">Pela rodada 21, o Juventude recebe o Botafogo no Estádio Alfredo Jaconi, em Caxias do Sul, RS. Em 18º lugar, o Verdão precisa vencer para fugir da zona de rebaixamento, enquanto que o Glorioso vem em quinto, buscando vaga na Libertadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827120200 -0300" stop="20250827133200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fortaleza x Mirassol</title>
+    <desc lang="pt">Pela rodada 21, o Fortaleza recebe o Mirassol na Arena Castelão, em Fortaleza, CE. Na vice-lanterna, o Leão do Pici precisa dos três pontos para respirar na tabela. Já o Mirassol vem na sexta posição, buscando vaga na Libertadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827130200 -0300" stop="20250827143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">São Paulo x Atlético-MG</title>
+    <desc lang="pt">Pela rodada 21, o São Paulo recebe o Atlético-MG no MorumBIS, em São Paulo, SP. Em sétimo, uma vitória coloca o Tricolor Paulista dentro da zona de classificação à Libertadores. Já o Galo vem em11º lugar, buscando estabilidade no torneio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827140200 -0300" stop="20250827153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Fluminense</title>
+    <desc lang="pt">Pela rodada 21, o Bragantino recebe o Fluminense no Estádio Cícero de Souza Marques, SP. Jogando em Bragança Paulista, o time da casa vem na nona posição e tenta se aproximar do G6 frente ao atual oitavo colocado do nacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827150200 -0300" stop="20250827163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827160200 -0300" stop="20250827173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Corinthians</title>
+    <desc lang="pt">Pela rodada 21, o Vasco recebe o Corinthians no Estádio São Januário, no Rio de Janeiro, RJ. O Cruzmaltino é o primeiro time fora do Z4 e agora precisa bater o Timão, na 14ª colocação, para respirar na tabela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827170200 -0300" stop="20250827183200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Ceará</title>
+    <desc lang="pt">Pela rodada 21, o Grêmio recebe o Ceará na Arena do Grêmio, em Porto Alegre, Rio Grande do Sul. Em 13º lugar, o Imortal precisa vencer para dar um salto na tabela, enquanto que o Vozão é o atual décimo colocado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827180200 -0300" stop="20250827193200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Sport</title>
+    <desc lang="pt">Pela rodada 21, o Palmeiras recebe o Sport no Allianz Parque, em São Paulo, SP. Na vice-liderança, o Verdão precisa dos três pontos para se aproximar da primeira posição. Já o Leão da Ilha do Retiro é o atual lanterna da Série A.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250827190200 -0300" stop="20250827203200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Flamengo x Vitória</title>
+    <desc lang="pt">Pela rodada 21, o Flamengo recebe o Vitória no Estádio do Maracanã, no Rio de Janeiro, RJ. O Rubro-Negro vem na liderança da Série A e precisa dos três pontos para abrir boa vantagem no topo. Já o Leão é o atual primeiro dentro do Z4.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827200200 -0300" stop="20250827213200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Santos</title>
+    <desc lang="pt">Pela rodada 21, o Bahia recebe o Santos na Arena Fonte Nova, em Salvador, BA. Na quarta posição, o Tricolor de Aço caminha para vaga na fase de grupos da Libertadores, enquanto que o Peixe segue na luta para fugir do rebaixamento.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -131220,8 +131276,50 @@
     </rating>
   </programme>
   <programme start="20250827220200 -0300" stop="20250827233200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Oitavas de Final: Vasco x CSA</title>
+    <desc lang="pt">Pelo duelo de volta das oitavas de final, o Vasco recebe o CSA no Estádio de São Januário, no Rio de Janeiro, RJ. Após empate sem gols no jogo de ida, quem vencer avança para as quartas; nova igualdade leva a decisão para a disputa de pênaltis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827230200 -0300" stop="20250828003200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827003200 -0300" stop="20250827020200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Botafogo</title>
+    <desc lang="pt">Quartas de final, ida. O Vasco recebe o Botafogo no Estádio São Januário, no Rio de Janeiro, RJ. No grande clássico alvinegro do Rio de Janeiro, o Cruzmaltino tenta largar na frente contra seu rival em um caloroso confronto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827023200 -0300" stop="20250827040200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">São Paulo x Atlético-MG</title>
+    <desc lang="pt">Pela rodada 21, o São Paulo recebe o Atlético-MG no MorumBIS, em São Paulo, SP. Em sétimo, uma vitória coloca o Tricolor Paulista dentro da zona de classificação à Libertadores. Já o Galo vem em11º lugar, buscando estabilidade no torneio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827033200 -0300" stop="20250827050200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Fluminense</title>
+    <desc lang="pt">Pela rodada 21, o Bragantino recebe o Fluminense no Estádio Cícero de Souza Marques, SP. Jogando em Bragança Paulista, o time da casa vem na nona posição e tenta se aproximar do G6 frente ao atual oitavo colocado do nacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827043200 -0300" stop="20250827060200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Botafogo</title>
+    <desc lang="pt">Quartas de final, ida. O Vasco recebe o Botafogo no Estádio São Januário, no Rio de Janeiro, RJ. No grande clássico alvinegro do Rio de Janeiro, o Cruzmaltino tenta largar na frente contra seu rival em um caloroso confronto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20250827053200 -0300" stop="20250827070200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Athletico-PR x Corinthians</title>
+    <desc lang="pt">Quartas de final, ida. O Athletico-PR recebe o Corinthians na Ligga Arena, em Curitiba, Paraná. Em um dos duelos mais equilibrados da rodada, o Furacão conta com a força de sua torcida para levar boa vantagem à casa do Timão, em São Paulo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -208550,7 +208648,7 @@
   </programme>
   <programme start="20250828063200 -0300" stop="20250828080200 -0300" channel="SporTV2 HD">
     <title lang="pt">Brasil x Porto Rico</title>
-    <desc lang="pt">Vigésima edição de um dos principais torneios femininos de vôlei do planeta, realizada na Tailândia.</desc>
+    <desc lang="pt">Terceira rodada do Grupo C. O Brasil e Porto Rico jogam no CMECC, em Chiang Mai, Tailândia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -208571,14 +208669,14 @@
   </programme>
   <programme start="20250828124200 -0300" stop="20250828141200 -0300" channel="SporTV2 HD">
     <title lang="pt">Sexta Etapa: Estoril - Corrida 1</title>
-    <desc lang="pt">Todas as emoções da competição de velocidade com automóveis da montadora sediada na Alemanha.</desc>
+    <desc lang="pt">Primeira corrida da sexta etapa da temporada. Do Autódromo do Estoril, em Alcabideche, Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20250828131700 -0300" stop="20250828144700 -0300" channel="SporTV2 HD">
     <title lang="pt">Sexta Etapa: Estoril - Corrida 1</title>
-    <desc lang="pt">Todas as emoções da competição de velocidade monomarca, disputada com veículos da montadora alemã.</desc>
+    <desc lang="pt">Primeira corrida da sexta etapa da temporada. Do Autódromo do Estoril, em Alcabideche, Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -208592,7 +208690,7 @@
   </programme>
   <programme start="20250828162700 -0300" stop="20250828175700 -0300" channel="SporTV2 HD">
     <title lang="pt">Décima Quinta Etapa: Zurique, Suíça - Dia 2</title>
-    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+    <desc lang="pt">Segundo dia da décima quinta etapa do Circuito Mundial de Atletismo. De Zurique, na Suíça.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
