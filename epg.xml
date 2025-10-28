@@ -211314,29 +211314,92 @@
     </rating>
   </programme>
   <programme start="20251029110200 -0300" stop="20251029123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">Camila Carelli e Paula Pequeno recebem Tainara Santos, oposta do Sesc-RJ Flamengo e da Seleção Brasileira de vôlei, e Mel Folhas, ponteira do Brasília que estreou na Superliga na temporada 2025-2026, aos 19 anos, e também é filha de Paula.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029120200 -0300" stop="20251029133200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais por Aparelhos - Dia 1</title>
+    <desc lang="pt">Primeiro dia das decisões individuais por aparelho, com Caio Souza representando o Brasil na disputa masculina das argolas. Da Indonesia Arena, em Jacarta, Indonésia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029161700 -0300" stop="20251029174700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesi Bauru x Joinville</title>
+    <desc lang="pt">Pela rodada de abertura da fase classificatória, o Sesi Bauru recebe o Joinville na Arena Paulo Skaf, em Bauru, SP. Ambas as equipes buscam superar a campanha que fizeram na temporada 2024-2025, quando caíram nas quartas de final da competição.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029180200 -0300" stop="20251029193200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos marcantes de um dos maiores jogadores de basquete de todos os tempos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029183200 -0300" stop="20251029200200 -0300" channel="SporTV2 HD">
     <title lang="pt">Programação SporTV2</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251029190200 -0300" stop="20251029203200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251029184200 -0300" stop="20251029201200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hugo Calderano (BRA) x Hanak Jha (EUA)</title>
+    <desc lang="pt">Rodada de 16 avos do masculino individual. Da Sud de France Arena, em Pérols, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029193200 -0300" stop="20251029210200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Bruna Takahashi (BRA) x Eunhye Lee (COR)</title>
+    <desc lang="pt">Rodada de 16 avos do feminino individual. Da Sud de France Arena, em Pérols, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029203200 -0300" stop="20251029220200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">Camila Carelli e Paula Pequeno recebem Tainara Santos, oposta do Sesc-RJ Flamengo e da Seleção Brasileira de vôlei, e Mel Folhas, ponteira do Brasília que estreou na Superliga na temporada 2025-2026, aos 19 anos, e também é filha de Paula.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251029213200 -0300" stop="20251029230200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Pré-Hora</title>
-    <desc lang="pt">Escalações, preparativos e tudo o que antecede os principais eventos do mundo dos esportes.</desc>
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251029220200 -0300" stop="20251029233200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cruzeiro x Sesi Bauru</title>
+    <desc lang="pt">Pela segunda rodada da fase classificatória, o Cruzeiro (1-0) recebe o Sesi Bauru (1-0) no Ginásio Poliesportivo do Riacho, em Contagem, MG. A Raposa venceu todos os 11 confrontos diretos que disputou contra a equipe paulista desde o início de 2022.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029000200 -0300" stop="20251029013200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Tijuca x Brasília</title>
+    <desc lang="pt">Pela segunda rodada da fase de classificação, o Tijuca (0-1) recebe o Brasília (0-1) no Ginásio do Tijuca Tênis Clube, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029020200 -0300" stop="20251029033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Maringá</title>
+    <desc lang="pt">Pela segunda rodada da fase classificatória, o Praia Clube (1-0) recebe o Maringá (0-1) no Ginásio do Uberlândia Tênis Clube, em Uberlândia, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251029043200 -0300" stop="20251029060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Suzano x Guarulhos</title>
+    <desc lang="pt">Pela segunda rodada da fase classificatória, o Suzano (1-0) recebe o Guarulhos (1-0) na Arena Suzano, em Suzano, SP. A equipe da casa estreou vencendo o São José por 3 sets a 0, enquanto os visitantes ganharam do Minas pelo placar de 3 a 2.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
