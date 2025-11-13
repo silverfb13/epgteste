@@ -130043,28 +130043,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251114051200 -0300" stop="20251114064200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Vitória x Botafogo</title>
-    <desc lang="pt">Pela rodada 33, o Vitória recebe o Botafogo no Estádio Barradão, em Salvador, BA. O Leão da Barra somou quatro empates e cinco derrotas nas nove últimas partidas contra o Glorioso, equipe que os donos da casa não vencem desde outubro de 2017.</desc>
+  <programme start="20251114060200 -0300" stop="20251114073200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Corinthians x Ceará</title>
+    <desc lang="pt">Pela rodada 33, o Corinthians recebe o Ceará na Neo Química Arena, em São Paulo, SP. O Timão vem de três vitórias consecutivas jogando em sua casa, enquanto o Vozão ganhou só uma das seis últimas partidas que disputou como visitante pelo Brasileirão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251114061200 -0300" stop="20251114074200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251114070200 -0300" stop="20251114083200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fortaleza x Grêmio</title>
+    <desc lang="pt">Pela rodada 33, o Fortaleza enfrenta o Grêmio na Arena Castelão, em Fortaleza, CE. Na penúltima colocação, o Leão do Pici vive situação delicada na briga pela permanência, enquanto o Imortal Tricolor é o 14º colocado e tenta se afastar do Z4.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251114071200 -0300" stop="20251114084200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Vasco x Juventude</title>
-    <desc lang="pt">Pela rodada 33, o Vasco recebe o Juventude no Estádio de São Januário, no Rio de Janeiro, RJ. O Cruzmaltino tenta se manter na briga por uma vaga na próxima Libertadores, enquanto o Ju está na zona de rebaixamento e luta pela permanência na Série A.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251114081200 -0300" stop="20251114094200 -0300" channel="Premiere Clubes HD">
+  <programme start="20251114080200 -0300" stop="20251114093200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Internacional x Bahia</title>
     <desc lang="pt">Pela rodada 33, o Internacional recebe o Bahia no Estádio Beira-Rio, em Porto Alegre, RS. Em má fase, o Colorado vê o Z4 se aproximar perigosamente, enquanto o Esquadrão de Aço está na briga por uma vaga na fase de grupos da Libertadores 2026.</desc>
     <rating system="Brazil">
@@ -130072,22 +130065,36 @@
     </rating>
   </programme>
   <programme start="20251114090200 -0300" stop="20251114103200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+    <title lang="pt">Vasco x Juventude</title>
+    <desc lang="pt">Pela rodada 33, o Vasco recebe o Juventude no Estádio de São Januário, no Rio de Janeiro, RJ. O Cruzmaltino tenta se manter na briga por uma vaga na próxima Libertadores, enquanto o Ju está na zona de rebaixamento e luta pela permanência na Série A.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251114170200 -0300" stop="20251114183200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+  <programme start="20251114100200 -0300" stop="20251114113200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vitória x Botafogo</title>
+    <desc lang="pt">Pela rodada 33, o Vitória recebe o Botafogo no Estádio Barradão, em Salvador, BA. O Leão da Barra somou quatro empates e cinco derrotas nas nove últimas partidas contra o Glorioso, equipe que os donos da casa não vencem desde outubro de 2017.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251114010200 -0300" stop="20251114023200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+  <programme start="20251114110200 -0300" stop="20251114123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Programação Premiere Clubes</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251114190200 -0300" stop="20251114203200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Programação Premiere Clubes</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251114030200 -0300" stop="20251114043200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Programação Premiere Clubes</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209213,9 +209220,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251112060200 -0300" stop="20251112073200 -0300" channel="SporTV2 HD">
+  <programme start="20251112054100 -0300" stop="20251112071100 -0300" channel="SporTV2 HD">
     <title lang="pt">Campinas x Guarulhos</title>
     <desc lang="pt">Pela quarta rodada da fase classificatória, o Campinas (2-1) recebe o Guarulhos (2-1) no Ginásio do Taquaral, em Campinas, SP. Os donos da casa venceram suas sete partidas anteriores contra a equipe visitante somando Superliga e Campeonato Paulista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112061500 -0300" stop="20251112074500 -0300" channel="SporTV2 HD">
+    <title lang="pt">Programação SporTV2</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209228,22 +209242,64 @@
     </rating>
   </programme>
   <programme start="20251112100200 -0300" stop="20251112113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Tijuca x Sesc-RJ Flamengo</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Tijuca recebe o Flamengo no Ginásio do Tijuca Tênis Clube, no Rio de Janeiro, RJ. Os donos da casa acumulam seis derrotas seguidas na temporada, enquanto o Rubro-Negro ganhou seus cinco jogos anteriores.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251112180200 -0300" stop="20251112193200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251112115200 -0300" stop="20251112132200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Joinville</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória da Superliga Masculina, o Praia Clube (4-0) enfrenta o Joinville (1-3) no Ginásio do Uberlândia Tênis Clube, em Uberlândia, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112140200 -0300" stop="20251112153200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesi Bauru x Fluminense</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Sesi Bauru (3-0) recebe o Fluminense (2-1) na Arena Paulo Skaf, em Bauru, SP. A equipe da casa ganhou quatro dos cinco confrontos diretos que disputou contra as visitantes desde outubro de 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112160200 -0300" stop="20251112173200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">O programa recebe Ana Sátila, quarta colocada na prova de caiaque individual da canoagem slalom em Paris 2024; Barreto e Fabi também batem um papo com Maria Almeida, campeã brasileira de skate street no STU National 2025.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112170200 -0300" stop="20251112183200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Tijuca x Sesc-RJ Flamengo</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Tijuca recebe o Flamengo no Ginásio do Tijuca Tênis Clube, no Rio de Janeiro, RJ. Os donos da casa acumulam seis derrotas seguidas na temporada, enquanto o Rubro-Negro ganhou seus cinco jogos anteriores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112190200 -0300" stop="20251112203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Joinville</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória da Superliga Masculina, o Praia Clube (4-0) enfrenta o Joinville (1-3) no Ginásio do Uberlândia Tênis Clube, em Uberlândia, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112211200 -0300" stop="20251112224200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas x Tijuca</title>
+    <desc lang="pt">Quinta rodada, primeiro turno. Minas recebe Tijuca na Arena UniBH, em Belo Horizonte, MG. Com quatro vitórias, a equipe mineira vem na vice-liderança do nacional e precisa vencer o vice-lanterna para assumir a primeira colocação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112233200 -0300" stop="20251113010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Campinas</title>
+    <desc lang="pt">Rodada 11, primeiro turno. O Cruzeiro recebe Campinas no Ginásio Poliesportivo do Riacho, Contagem. Na liderança da fase de grupos, a Raposa precisa vencer para permanecer no topo da tabela, enquanto que Campinas vem na terceira colocação.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251112020200 -0300" stop="20251112033200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">O programa recebe Ana Sátila, quarta colocada na prova de caiaque individual da canoagem slalom em Paris 2024; Barreto e Fabi também batem um papo com Maria Almeida, campeã brasileira de skate street no STU National 2025.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209270,15 +209326,43 @@
     </rating>
   </programme>
   <programme start="20251113070200 -0300" stop="20251113083200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Praia Clube x Joinville</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória da Superliga Masculina, o Praia Clube (4-0) enfrenta o Joinville (1-3) no Ginásio do Uberlândia Tênis Clube, em Uberlândia, MG.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251113150200 -0300" stop="20251113163200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251113090200 -0300" stop="20251113103200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesi Bauru x Fluminense</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Sesi Bauru (3-0) recebe o Fluminense (2-1) na Arena Paulo Skaf, em Bauru, SP. A equipe da casa ganhou quatro dos cinco confrontos diretos que disputou contra as visitantes desde outubro de 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113110200 -0300" stop="20251113123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">72: Encontro de Campeões</title>
+    <desc lang="pt">Cinquenta anos depois de Munique 1972, dez heróis das Olimpíadas fazem um emocionante retorno aos locais onde conquistaram suas medalhas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113120200 -0300" stop="20251113133200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas x Tijuca</title>
+    <desc lang="pt">Quinta rodada, primeiro turno. Minas recebe Tijuca na Arena UniBH, em Belo Horizonte, MG. Com quatro vitórias, a equipe mineira vem na vice-liderança do nacional e precisa vencer o vice-lanterna para assumir a primeira colocação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113140700 -0300" stop="20251113153700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Campinas</title>
+    <desc lang="pt">Rodada 11, primeiro turno. O Cruzeiro recebe Campinas no Ginásio Poliesportivo do Riacho, Contagem. Na liderança da fase de grupos, a Raposa precisa vencer para permanecer no topo da tabela, enquanto que Campinas vem na terceira colocação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113161200 -0300" stop="20251113174200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Na Turquia, o técnico José Roberto Guimarães treina três atletas da Seleção; com hérnia, Macris luta contra o tempo; no Fenerbahçe, Ana Cristina segue em recuperação; a Liga das Nações começa no Rio de Janeiro, tendo como palco o Maracanãzinho.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209291,36 +209375,78 @@
     </rating>
   </programme>
   <programme start="20251113193200 -0300" stop="20251113210200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Moldova x Itália</title>
+    <desc lang="pt">Seleções de todo o planeta disputam 45 das vagas para a Copa do Mundo da FIFA de 2026. Os países-sede Estados Unidos, México e Canadá já estarão garantidos naquela que será a 23ª edição do Mundial adulto de futebol masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113214700 -0300" stop="20251113231700 -0300" channel="SporTV2 HD">
+    <title lang="pt">São José x Monte Carmelo</title>
+    <desc lang="pt">Quinta rodada, primeiro turno. O São José recebe o Monte Carmelo na Farma Conde Arena, SP. Jogando em São José dos Campos, o mandante vem na lanterna da competição, ainda sem vencer, enquanto que seu adversário é o atual nono colocado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113000200 -0300" stop="20251113013200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Maringá x Osasco</title>
+    <desc lang="pt">Quinta rodada, primeiro turno. Maringá recebe Osasco no Ginásio Chico Neto, em Maringá, PR. Na quinta posição, as paranaenses têm a dura missão de bater as atuais líderes da fase de grupos, para se aproximarem do topo da tabela.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251113023200 -0300" stop="20251113040200 -0300" channel="SporTV2 HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+    <title lang="pt">Evandro e Arthur Lanci (BRA) x Mora e López (NIC)</title>
+    <desc lang="pt">Pela rodada de abertura do torneio masculino, Grupo D, os brasileiros Evandro e Arthur enfrentam Rubén Mora e Dany López, da Nicarágua, na Quadra 2, em Adelaide, Austrália. Os alemães Henning e Wüst e os argentinos Amieva e Bueno completam a chave.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251113033200 -0300" stop="20251113050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Ana Patrícia e Duda (BRA) x Phillips e Mears (AUS)</title>
+    <desc lang="pt">Primeira rodada do Grupo F pelo torneio feminino. Da Quadra Central, em Adelaide, Austrália. As brasileiras Ana Patrícia e Duda, campeãs olímpicas em Paris 2024, enfrentam as australianas Molly Phillips e Kayla Mears.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251114033200 -0300" stop="20251114050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251113043200 -0300" stop="20251113060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Thâmela e Victoria (BRA) x Gaona e Allcca (PER)</title>
+    <desc lang="pt">Primeira rodada do Grupo A do torneio feminino, disputado na Quadra Central, em Adelaide, Austrália. As brasileiras Thâmela e Victoria fazem sua estreia na competição frente a dupla peruana de Claudia Gaona e Lisbeth Allcca.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113053200 -0300" stop="20251113070200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Campinas</title>
+    <desc lang="pt">Rodada 11, primeiro turno. O Cruzeiro recebe Campinas no Ginásio Poliesportivo do Riacho, Contagem. Na liderança da fase de grupos, a Raposa precisa vencer para permanecer no topo da tabela, enquanto que Campinas vem na terceira colocação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251114053200 -0300" stop="20251114070200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Campinas</title>
+    <desc lang="pt">Rodada 11, primeiro turno. O Cruzeiro recebe Campinas no Ginásio Poliesportivo do Riacho, Contagem. Na liderança da fase de grupos, a Raposa precisa vencer para permanecer no topo da tabela, enquanto que Campinas vem na terceira colocação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251114073200 -0300" stop="20251114090200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">O programa recebe Ana Sátila, quarta colocada na prova de caiaque individual da canoagem slalom em Paris 2024; Barreto e Fabi também batem um papo com Maria Almeida, campeã brasileira de skate street no STU National 2025.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251114083200 -0300" stop="20251114100200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Na Turquia, o técnico José Roberto Guimarães treina três atletas da Seleção; com hérnia, Macris luta contra o tempo; no Fenerbahçe, Ana Cristina segue em recuperação; a Liga das Nações começa no Rio de Janeiro, tendo como palco o Maracanãzinho.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251114090200 -0300" stop="20251114103200 -0300" channel="SporTV2 HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+    <title lang="pt">Van Driel e Bekhuis (PBX) x Vitória e Hegeile (BRA)</title>
+    <desc lang="pt">Pela rodada de abertura do torneio feminino, Grupo C, as neerlandesas Emi van Driel e Wies Bekhuis encaram as brasileiras Vitória e Hegeile na Quadra 3, em Adelaide, Austrália. Nuss e Kloth, dos EUA, e Pamela e Esther, da Nigéria, completam a chave.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209333,8 +209459,8 @@
     </rating>
   </programme>
   <programme start="20251114110200 -0300" stop="20251114123200 -0300" channel="SporTV2 HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+    <title lang="pt">George e Saymon (BRA) x André e Renato (BRA)</title>
+    <desc lang="pt">Pela rodada de abertura do torneio masculino, Grupo C, George Wanderley e Saymon Barbosa enfrentam os compatriotas André Stein e Renato Andrew na Quadra 3, em Adelaide, Austrália. Åhman e Hellvig (SUE) e Burnett e Hodges (AUS) completam a chave.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209368,8 +209494,8 @@
     </rating>
   </programme>
   <programme start="20251114033200 -0300" stop="20251114050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+    <title lang="pt">Ana Patrícia e Duda (BRA) x Okla e ?unio (POL)</title>
+    <desc lang="pt">Pela segunda rodada do torneio feminino, Grupo F, as brasileiras campeãs olímpicas Ana Patrícia e Duda enfrentam as polonesas Natalia Okla e Urszula ?unio na Quadra Central, em Adelaide, Austrália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209382,8 +209508,8 @@
     </rating>
   </programme>
   <programme start="20251114053200 -0300" stop="20251114070200 -0300" channel="SporTV2 HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a anunciar.</desc>
+    <title lang="pt">Thâmela e Victoria (BRA) x Michelle e Corrales (PAR)</title>
+    <desc lang="pt">Pela segunda rodada do torneio feminino, Grupo A, as brasileiras Thâmela Coradello e Victoria Lopes enfrentam as paraguaias Michelle Valiente e Giuliana Corrales na Quadra 2, em Adelaide, Austrália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -209515,22 +209641,50 @@
     </rating>
   </programme>
   <programme start="20251112122200 -0300" stop="20251112135200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">ONE Fight Night 36</title>
+    <desc lang="pt">O tailandês Prajanchai P.K.Saenchai e o ítalo-canadense Jonathan Di Bella disputam título unificado de kickboxing na categoria peso-palha em evento que conta, ainda, com lutas de MMA, muay thai e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251112202200 -0300" stop="20251112215200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251112145200 -0300" stop="20251112162200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 141</title>
+    <desc lang="pt">Evento de artes marciais mistas com as finais do Fight do Milhão, em combates pelas categorias peso-mosca feminino e peso-leve masculino valendo prêmio de 1 milhão de reais. Do Ginásio do Ibirapuera, em São Paulo, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251112042200 -0300" stop="20251112055200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251112174700 -0300" stop="20251112191700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fight Music Show 7</title>
+    <desc lang="pt">Evento de boxe com presença de celebridades e atletas. Na luta principal, o vice-campeão olímpico em Londres 2012 Esquiva Falcão enfrenta Binho de Jesus, campeão da Federação Internacional de Boxe em 2015. Do Ginásio do Ibirapuera, em São Paulo, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112204700 -0300" stop="20251112221700 -0300" channel="SporTV3 HD">
+    <title lang="pt">MAC 16</title>
+    <desc lang="pt">Evento nacional de artes marciais mistas com nove lutas no card, incluindo disputa pelo título interino da categoria peso-mosca. Do Ginásio Municipal de Queimados, em Queimados, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112230200 -0300" stop="20251113003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">PFL Mena 3</title>
+    <desc lang="pt">Semifinais dos torneios pelas categorias média, leve, pena e galo. Dos Ginásios Verdes, em Riade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112005200 -0300" stop="20251112022200 -0300" channel="SporTV3 HD">
+    <title lang="pt">PFL Europe 3</title>
+    <desc lang="pt">Evento com dez lutas, incluindo combates pelas semifinais da temporada 2025 da divisão europeia da PFL nas categorias peso-leve e peso-galo. Jhony Gregory e Keweny Lopes representam o Brasil no card. Do Zénith Nantes Métropole, em Nantes, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251112035700 -0300" stop="20251112052700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 141</title>
+    <desc lang="pt">Evento de artes marciais mistas com as finais do Fight do Milhão, em combates pelas categorias peso-mosca feminino e peso-leve masculino valendo prêmio de 1 milhão de reais. Do Ginásio do Ibirapuera, em São Paulo, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
