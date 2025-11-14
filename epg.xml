@@ -97738,16 +97738,23 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115060200 -0300" stop="20251115073200 -0300" channel="Ideal TV HD">
+  <programme start="20251115050200 -0300" stop="20251115063200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Real Madrid x Panathinaikos Aktor</title>
+    <desc lang="pt">Pela rodada 11, o Real Madrid recebe o Panathinaikos Aktor na Movistar Arena, em Madri, Espanha. Na parte intermediária da tabela, os Merengues precisam vencer para saltar ao pelotão de cima da tabela. Já os gregos vem na parte intermediária.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251115065200 -0300" stop="20251115082200 -0300" channel="Ideal TV HD">
     <title lang="pt">Mundo em Foco</title>
     <desc lang="pt">Matérias da agência de notícias AFP sobre acontecimentos relevantes no Brasil e do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115080200 -0300" stop="20251115093200 -0300" channel="Ideal TV HD">
+  <programme start="20251115081200 -0300" stop="20251115094200 -0300" channel="Ideal TV HD">
     <title lang="pt">Paulistano x União Corinthians</title>
-    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
+    <desc lang="pt">Primeiro turno. O Paulistano recebe o União Corinthians no Ginásio Antônio Prado Júnior, São Paulo. Na oitava posição, o Paulistano vem de três vitórias seguidas e tenta seguir escalando a tabela frente ao atual décimo colocado do NBB.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -129653,7 +129660,7 @@
   </programme>
   <programme start="20251115230200 -0300" stop="20251116003200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Pré-Jogo</title>
-    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <desc lang="pt">Os últimos preparativos para o clássico atrasado pela rodada 13 do Brasileirão Série A de 2025.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -129667,7 +129674,7 @@
   </programme>
   <programme start="20251115020200 -0300" stop="20251115033200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Atlético-MG x Fortaleza</title>
-    <desc lang="pt">Pela rodada 16, o Atlético-MG recebe o Fortaleza na Arena MRV, em Belo Horizonte, MG. Pela partida em atraso no calendário, o Galo vem na nona posição e precisa vencer para se aproximar da Libertadores, enquanto que o Leão do Pici é o vice-lanterna.</desc>
+    <desc lang="pt">Em jogo atrasado pela rodada 16, o Atlético-MG recebe o Fortaleza na Arena MRV, em Belo Horizonte, MG. Nono colocado, o Galo briga por vaga na Libertadores; já o Leão do Pici está em penúltimo lugar e precisa somar pontos para não ser rebaixado.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -204755,15 +204762,43 @@
     </rating>
   </programme>
   <programme start="20251113102200 -0300" stop="20251113115200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251113182200 -0300" stop="20251113195200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251113105200 -0300" stop="20251113122200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Spaten Fight Night - Popó x Wanderlei Silva</title>
+    <desc lang="pt">O tetracampeão mundial de boxe Acelino &quot;Popó&quot; Freitas e o ex-atleta de MMA Wanderlei Silva se enfrentam em combate da &quot;nobre arte&quot; na luta principal do evento realizado no ARCA Spaces, em São Paulo, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113140200 -0300" stop="20251113153200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Frente a frente</title>
+    <desc lang="pt">Uma das maiores rivalidades do judô brasileiro teve início nos anos 2000. Flávio Canto e Tiago Camilo queriam vagas em Olimpíadas e Mundiais. Depois de 15 anos, veja o reencontro no palco dos Jogos de 2016.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113142700 -0300" stop="20251113155700 -0300" channel="SporTV3 HD">
+    <title lang="pt">ONE Fight Night 36</title>
+    <desc lang="pt">O tailandês Prajanchai P.K.Saenchai e o ítalo-canadense Jonathan Di Bella disputam título unificado de kickboxing na categoria peso-palha em evento que conta, ainda, com lutas de MMA, muay thai e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113165200 -0300" stop="20251113182200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Lituânia x Israel</title>
+    <desc lang="pt">Amistoso internacional. A Lituânia recebe Israel no Estádio Dariaus ir Gireno, em Kaunas, Lituânia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113193200 -0300" stop="20251113210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Inglaterra x Sérvia</title>
+    <desc lang="pt">Nona rodada, Grupo K. A Inglaterra recebe a Sérvia no Estádio de Wembley, em Londres. Já classificada para a Copa do Mundo com seis vitórias e nenhum gol sofrido, a Inglaterra apenas cumpre tabela frente aos servos, que brigam pelos Playoffs.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -204776,8 +204811,29 @@
     </rating>
   </programme>
   <programme start="20251113000200 -0300" stop="20251113013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos marcantes de um dos maiores jogadores de basquete de todos os tempos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113003200 -0300" stop="20251113020200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Aquecimento SporTV</title>
+    <desc lang="pt">As últimas informações e os preparativos para os principais eventos esportivos no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113011700 -0300" stop="20251113024700 -0300" channel="SporTV3 HD">
+    <title lang="pt">New England Patriots x New York Jets</title>
+    <desc lang="pt">Pela semana 11, o New England Patriots recebe o New York Jets no Gillette Stadium, em Foxborough. Os Pats tentam chegar a oito vitórias consecutivas pela primeira vez desde 2019, no último ano de Tom Brady no time, agora frente a um Jets em crise.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251113041700 -0300" stop="20251113054700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 141</title>
+    <desc lang="pt">Evento de artes marciais mistas com as finais do Fight do Milhão, em combates pelas categorias peso-mosca feminino e peso-leve masculino valendo prêmio de 1 milhão de reais. Do Ginásio do Ibirapuera, em São Paulo, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -210949,63 +211005,63 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115091700 -0300" stop="20251115104700 -0300" channel="Telefe">
-    <title lang="pt">Finde en Nick</title>
-    <desc lang="pt">Para acompañar a los más pequeños y divertirse junto a nuevos amigos, como Paw Patrol, Shimmer &amp; Shine, Alvin y las Ardillas, Dora y sus amigos y más.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251115110200 -0300" stop="20251115123200 -0300" channel="Telefe">
+  <programme start="20251115101700 -0300" stop="20251115114700 -0300" channel="Telefe">
     <title lang="pt">Película</title>
     <desc lang="pt">Arte cinematográfico mundial.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115123200 -0300" stop="20251115140200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20251115120200 -0300" stop="20251115133200 -0300" channel="Telefe">
+    <title lang="pt">Playback: Una somos dos</title>
+    <desc lang="pt">Sueños, música y dos amigas con secretos que las pondrán a prueba: Emma y Camila se hacen famosas por un video que graban para un concurso de talentos, en el que una hace playback de una canción cantada por la otra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115140200 -0300" stop="20251115153200 -0300" channel="Telefe">
-    <title lang="pt">El Chavo y Chapulín</title>
-    <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251115160200 -0300" stop="20251115173200 -0300" channel="Telefe">
+  <programme start="20251115130200 -0300" stop="20251115143200 -0300" channel="Telefe">
     <title lang="pt">Los Simpson</title>
     <desc lang="pt">En Springfield, los Simpson, una familia de clase trabajadora compuesta por Marge, Homero, Bart, Lisa y Maggie, vive aventuras satíricas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115210200 -0300" stop="20251115223200 -0300" channel="Telefe">
-    <title lang="pt">Cobra Kai</title>
-    <desc lang="pt">Treinta y cuatro años después de los eventos del torneo de karate All Valley de 1984, Johnny Lawrence busca la redención al abrir un dojo Cobra Kai, reavivando su rivalidad con un exitoso Daniel LaRusso.</desc>
+  <programme start="20251115143200 -0300" stop="20251115160200 -0300" channel="Telefe">
+    <title lang="pt">El Chavo y Chapulín</title>
+    <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115001700 -0300" stop="20251115014700 -0300" channel="Telefe">
-    <title lang="pt">Pasapalabra</title>
-    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
+  <programme start="20251115190200 -0300" stop="20251115203200 -0300" channel="Telefe">
+    <title lang="pt">Los Simpson</title>
+    <desc lang="pt">En Springfield, los Simpson, una familia de clase trabajadora compuesta por Marge, Homero, Bart, Lisa y Maggie, vive aventuras satíricas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251115220200 -0300" stop="20251115233200 -0300" channel="Telefe">
+    <title lang="pt">Película</title>
+    <desc lang="pt">Arte cinematográfico mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251115000200 -0300" stop="20251115013200 -0300" channel="Telefe">
+    <title lang="pt">Escape perfecto</title>
+    <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251115020200 -0300" stop="20251115033200 -0300" channel="Telefe">
-    <title lang="pt">Pasapalabra</title>
-    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
+    <title lang="pt">Por el mundo</title>
+    <desc lang="pt">Un recorrido por el mundo en busca de nuevas culturas, costumbres y platos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251115031700 -0300" stop="20251115044700 -0300" channel="Telefe">
+  <programme start="20251115030200 -0300" stop="20251115043200 -0300" channel="Telefe">
     <title lang="pt">Película</title>
     <desc lang="pt">Arte cinematográfico mundial.</desc>
     <rating system="Brazil">
