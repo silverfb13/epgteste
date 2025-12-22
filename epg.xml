@@ -199092,22 +199092,50 @@
     </rating>
   </programme>
   <programme start="20251223103200 -0300" stop="20251223120200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Brasil x Tchéquia</title>
+    <desc lang="pt">Pela segunda rodada do Grupo H, Brasil e Tchéquia se enfrentam na SM Mall of Asia Arena, em Pasay, Filipinas. A Seleção Brasileira estreou vencendo a China por 3 sets a 1, enquanto os tchecos surpreenderam ao ganhar da Sérvia pelo placar de 3 a 0.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251223183200 -0300" stop="20251223200200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251223121200 -0300" stop="20251223134200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasil x Sérvia</title>
+    <desc lang="pt">Pela última rodada do Grupo H, Brasil e Sérvia duelam na SM Mall of Asia Arena, em Pasay, Filipinas. Após vencer China e Tchéquia, a Seleção Brasileira se garante nas oitavas até perdendo por 3 a 2 para os sérvios, que também brigam por vaga.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223141200 -0300" stop="20251223154200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Polônia x Brasil</title>
+    <desc lang="pt">Terceira semana, Grupo 9. Polônia e Brasil jogam na Chiba Port Arena, em Chiba, no Japão. Com ambas seleções já classificadas para a próxima fase, as polonesas e as brasileiras agora buscam o melhor posicionamento para o mata-mata.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223162200 -0300" stop="20251223175200 -0300" channel="SporTV2 HD">
+    <title lang="pt">França x Brasil</title>
+    <desc lang="pt">Terceira e última semana da fase preliminar, Grupo 9. Da Chiba Port Arena, em Chiba, Japão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223190200 -0300" stop="20251223203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal: Polônia x Itália</title>
+    <desc lang="pt">Pela semi, jogo único, Polônia e Itália duelam na SM Mall of Asia Arena, em Pasay, Filipinas. Em busca de &quot;revanche&quot; após perderem a final de 2023 para os italianos, os poloneses tentam chegar à sua quinta decisão em uma sequência de seis Mundiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223204200 -0300" stop="20251223221200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final: Bulgária x Itália</title>
+    <desc lang="pt">Valendo o título, Bulgária e Itália se enfrentam na SM Mall of Asia Arena, em Pasay, Filipinas. Os búlgaros decidem o torneio pela primeira vez desde o vice em 1970, enquanto os italianos buscam a sua segunda conquista consecutiva e quinta no total.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251223224200 -0300" stop="20251224001200 -0300" channel="SporTV2 HD">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Acompanhe uma homenagem a Alessandro Rosa Vieira, o Falcão. Conheça a vida e a carreira do maior atleta de futsal de todos os tempos. Falcão é bicampeão mundial, campeão pan-americano e tem mais de 3 mil gols marcados.</desc>
+    <desc lang="pt">Relembre a incrível carreira do pugilista, duas vezes campeão do mundo, Éder Jofre.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199115,6 +199143,48 @@
   <programme start="20251223231200 -0300" stop="20251224004200 -0300" channel="SporTV2 HD">
     <title lang="pt">Programação SporTV2</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223233200 -0300" stop="20251224010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">A Anunciar</title>
+    <desc lang="pt">Programação a ser anunciada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223003200 -0300" stop="20251223020200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O foco da seleção brasileira de ginástica artística muda após o histórico bronze olímpico conquistado em Paris: é hora de recuperar o corpo e a mente, além de celebrar novas fases da vida; o futuro da modalidade começa a brilhar no Troféu Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223010200 -0300" stop="20251223023200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">No Recife, o programa mostra os bastidores do Campeonato Brasileiro, no qual veteranas voltam às competições e um novo talento surpreende. Com casa cheia, o público vibra com estrelas da ginástica enquanto os olhos da Seleção se voltam ao Mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223013200 -0300" stop="20251223030200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223020200 -0300" stop="20251223033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251223023200 -0300" stop="20251223040200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199127,8 +199197,8 @@
     </rating>
   </programme>
   <programme start="20251223050700 -0300" stop="20251223063700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Canadá x Brasil</title>
+    <desc lang="pt">Primeira rodada do Grupo 5. O Canadá e o Brasil se enfrentam na NOW Arena, Illinois, Estados Unidos. A Seleção Brasileira vive bom momento na competição, na terceira colocação, enquanto que os canadenses vêm em sexto, tentando subir na tabela.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
