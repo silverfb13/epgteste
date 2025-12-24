@@ -125676,15 +125676,8 @@
     </rating>
   </programme>
   <programme start="20251222020200 -0300" stop="20251222033200 -0300" channel="Ponto Jus">
-    <title lang="pt">Culinária - Patrimônio Cultural Imaterial</title>
-    <desc lang="pt">Mais do que sabor, a culinária se traduz em identidade. Quando se fala em acarajé, por exemplo, pensamos na Bahia. O tacacá nos remete ao Pará. E os queijos, a Minas Gerais. Da mistura de sentimentos, conhecimentos e ingredientes nasce a nossa culinária. Tão importante que pode virar patrimônio cultural imaterial.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251222023200 -0300" stop="20251222040200 -0300" channel="Ponto Jus">
-    <title lang="pt">Como Funciona Aí</title>
-    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt">Notícias dos últimos acontecimentos do mundo político brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -205552,51 +205545,114 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224102700 -0300" stop="20251224115700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251224103200 -0300" stop="20251224120200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasil x Itália</title>
+    <desc lang="pt">Terceira rodada do Grupo 5. Brasil e Itália jogam na NOW Arena, em Illinois, Estados Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224172700 -0300" stop="20251224185700 -0300" channel="SporTV2 HD">
+  <programme start="20251224125200 -0300" stop="20251224142200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasil x Polônia</title>
+    <desc lang="pt">Quarta rodada do Grupo 5. Brasil e Polônia jogam na NOW Arena, em Illinois, Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224145700 -0300" stop="20251224162700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Canadá x Brasil</title>
+    <desc lang="pt">Primeira rodada do Grupo 5. O Canadá e o Brasil se enfrentam na NOW Arena, Illinois, Estados Unidos. A Seleção Brasileira vive bom momento na competição, na terceira colocação, enquanto que os canadenses vêm em sexto, tentando subir na tabela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224162200 -0300" stop="20251224175200 -0300" channel="SporTV2 HD">
     <title lang="pt">Spot Takeover: Brasília, DF - Final Feminina</title>
     <desc lang="pt">Segunda etapa do formato Spot Takeover em 2025 e primeira realizada no Brasil. Na disputa, as skatistas têm a oportunidade de realizar sete manobras, com as três melhores notas sendo computadas. Da Esplanada dos Ministérios, em Brasília, DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224185700 -0300" stop="20251224202700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251224170700 -0300" stop="20251224183700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Spot Takeover: Brasília, DF - Final Masculina</title>
+    <desc lang="pt">Segunda etapa do formato Spot Takeover em 2025 e primeira realizada no Brasil. Na disputa, os skatistas têm a oportunidade de realizar sete manobras, com as três melhores notas sendo computadas. Da Esplanada dos Ministérios, em Brasília, DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224202700 -0300" stop="20251224215700 -0300" channel="SporTV2 HD">
+  <programme start="20251224184700 -0300" stop="20251224201700 -0300" channel="SporTV2 HD">
     <title lang="pt">Saquarema, RJ - Final Feminina</title>
     <desc lang="pt">Decisão feminina da segunda etapa do calendário de 2025. Da Turfa Skatepark, em Saquarema, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224215700 -0300" stop="20251224232700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251224195700 -0300" stop="20251224212700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Saquarema, RJ - Final Masculina</title>
+    <desc lang="pt">Decisão masculina da segunda etapa do calendário de 2025. Da Turfa Skatepark, em Saquarema, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224232700 -0300" stop="20251225005700 -0300" channel="SporTV2 HD">
+  <programme start="20251224211700 -0300" stop="20251224224700 -0300" channel="SporTV2 HD">
     <title lang="pt">Brasília: Street Masculino - Final</title>
     <desc lang="pt">Final masculina da etapa decisiva de skate street da temporada 2025 do circuito. Do Parque da Cidade Sarah Kubitschek, em Brasília, DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251224002700 -0300" stop="20251224015700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20251224222200 -0300" stop="20251224235200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Rio de Janeiro: Street Feminino - Final</title>
+    <desc lang="pt">Grande final do street feminino da etapa realizada no Skatepark da Praça Duó, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224231700 -0300" stop="20251225004700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Rio de Janeiro: Park Feminino - Final</title>
+    <desc lang="pt">Grande final do park feminino da etapa realizada no Skatepark da Praça Duó, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224001700 -0300" stop="20251224014700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Rio de Janeiro: Street Masculino - Final</title>
+    <desc lang="pt">Decisão do street masculino da etapa realizada no Skatepark da Praça Duó, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224011200 -0300" stop="20251224024200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Rio de Janeiro: Park Masculino - Final</title>
+    <desc lang="pt">Grande final do park masculino da etapa realizada no Skatepark da Praça Duó, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224021200 -0300" stop="20251224034200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Super Crown: São Paulo, SP - Final Feminina</title>
+    <desc lang="pt">Disputa da grande decisão do Super Crown feminino, realizado no Ginásio do Ibirapuera, em São Paulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224032200 -0300" stop="20251224045200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Super Crown: São Paulo, SP - Final Masculina</title>
+    <desc lang="pt">Grande decisão do Super Crown masculino, disputado no Ginásio do Ibirapuera, em São Paulo, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224043200 -0300" stop="20251224060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Championship Tour: Miami - Final Feminina</title>
+    <desc lang="pt">Disputa da grande decisão do torneio feminino de skate street. Do Watsco Center, em Miami, Flórida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251224054200 -0300" stop="20251224071200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Championship Tour: Miami - Final Masculina</title>
+    <desc lang="pt">Disputa da grande decisão do torneio masculino de skate street. Do Watsco Center, em Miami, Flórida.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -205939,63 +205995,35 @@
   </programme>
   <programme start="20251224042200 -0300" stop="20251224055200 -0300" channel="SporTV3 HD">
     <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
+    <desc lang="pt">Resumo da terceira parte da etapa realizada na Praia de Punta Roca, em La Libertad, El Salvador.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251224061200 -0300" stop="20251224074200 -0300" channel="SporTV3 HD">
     <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
+    <desc lang="pt">Resumo da terceira parte da etapa realizada na Praia de Punta Roca, em La Libertad, El Salvador.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251224080200 -0300" stop="20251224093200 -0300" channel="SporTV3 HD">
     <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
+    <desc lang="pt">Resumo da terceira parte da etapa realizada na Praia de Punta Roca, em La Libertad, El Salvador.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251224100200 -0300" stop="20251224113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251224120200 -0300" stop="20251224133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251224140200 -0300" stop="20251224153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251224160200 -0300" stop="20251224173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251224180200 -0300" stop="20251224193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Os destaques do último dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251224202700 -0300" stop="20251224215700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Amazing Riders</title>
-    <desc lang="pt">A história de atletas incríveis que desafiam qualquer tipo de limite nos esportes radicais.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -206015,8 +206043,8 @@
     </rating>
   </programme>
   <programme start="20251224023200 -0300" stop="20251224040200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Road to Glory</title>
-    <desc lang="pt">Relembra momentos gloriosos da ginástica ao longo da história das Olimpíadas, incluindo Olga Korbut, Nadia Comaneci e Yukio Endo.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -220141,34 +220169,27 @@
     </rating>
   </programme>
   <programme start="20251222010200 -0300" stop="20251222023200 -0300" channel="TV A Crítica HD">
-    <title lang="pt">A Bordo - O Reality</title>
-    <desc lang="pt">Belas mulheres são confinadas em um iate super luxuoso às margens do Rio Negro. Sem contato nenhum como o mundo exterior, as moças devem enfrentar uma série de provas e desafios para conquistar o título de Rainha do Peladão.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20251222023200 -0300" stop="20251222040200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Momento Reflexão com Deive Leonardo</title>
     <desc lang="pt">Pregações e textos religiosos com o pastor da Associação Evangelista.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251222030200 -0300" stop="20251222043200 -0300" channel="TV A Crítica HD">
+  <programme start="20251222020200 -0300" stop="20251222033200 -0300" channel="TV A Crítica HD">
     <title lang="pt">17 Horas</title>
     <desc lang="pt">Jornal exibe matérias e notícias dos principais acontecimentos do país.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251222034700 -0300" stop="20251222051700 -0300" channel="TV A Crítica HD">
+  <programme start="20251222024700 -0300" stop="20251222041700 -0300" channel="TV A Crítica HD">
     <title lang="pt">A Crítica Brasil</title>
     <desc lang="pt">Programa exibe matérias e notícias sobre Manaus, capitais do Brasil e mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251222044700 -0300" stop="20251222061700 -0300" channel="TV A Crítica HD">
+  <programme start="20251222034700 -0300" stop="20251222051700 -0300" channel="TV A Crítica HD">
     <title lang="pt">Alerta Amazonas</title>
     <desc lang="pt">Acompanhe notícias locais e denúncias na capital e no interior do Amazonas.</desc>
     <rating system="Brazil">
