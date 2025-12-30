@@ -93468,23 +93468,107 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20251229090200 -0300" stop="20251229103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
+  <programme start="20251229100200 -0300" stop="20251229113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Baú dos Campeões</title>
     <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229103200 -0300" stop="20251229120200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Heroines</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229110200 -0300" stop="20251229123200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Vasco x Flamengo</title>
+    <desc lang="pt">Pela fase de classificação, o Vasco (2-16) recebe o Flamengo (15-2) no Ginásio de São Januário, no Rio de Janeiro, RJ. O Cruzmaltino não vence o Rubro-Negro desde janeiro de 2017, acumulando dez derrotas consecutivas no confronto direto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229124700 -0300" stop="20251229141700 -0300" channel="Ideal TV HD">
+    <title lang="pt">World&apos;s Strongest Man Competition 2024</title>
+    <desc lang="pt">Trinta atletas de 30 países diferentes testam sua força física, agilidade e resistência mental em provas curiosas que envolvem atividades como levantar pneus gigantes, arremessar pedras e puxar um caminhão por uma corda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229131700 -0300" stop="20251229144700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Virtus Olidata Bologna x Olympiacos Piraeus</title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229150200 -0300" stop="20251229163200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Middlesbrough x Blackburn Rovers</title>
+    <desc lang="pt">Do Estádio Riverside, em Middlesbrough, Inglaterra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251229170200 -0300" stop="20251229183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Gols pelo Mundo</title>
+    <desc lang="pt">Todos os gols de partidas das principais competições de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229175200 -0300" stop="20251229192200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Coventry City x Ipswich Town</title>
+    <desc lang="pt">Da Coventry Building Society Arena, em Coventry, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229200700 -0300" stop="20251229213700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Porto x AFS</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229221700 -0300" stop="20251229234700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229223200 -0300" stop="20251230000200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Flamengo x Botafogo</title>
+    <desc lang="pt">Pela rodada 12, o Flamengo recebe o Botafogo no Ginásio do Maracanãzinho, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20251229010200 -0300" stop="20251229023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Milan x Hellas Verona</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229024700 -0300" stop="20251229041700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Gols pelo Mundo</title>
+    <desc lang="pt">Todos os gols de partidas das principais competições de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229033200 -0300" stop="20251229050200 -0300" channel="Ideal TV HD">
+    <title lang="pt">The Inside Line</title>
+    <desc lang="pt">Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20251229040200 -0300" stop="20251229053200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Final: Furia FC x Peluche Caligari</title>
+    <desc lang="pt">Pela grande decisão, jogo único, Furia e Peluche Caligari se encaram no Estádio Alfredo Harp Helú, na Cidade do México, México. Após vencerem torneios no Brasil e no México, respectivamente, as equipes disputam título continental e vaga em Mundial.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
