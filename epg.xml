@@ -95218,23 +95218,100 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103090200 -0300" stop="20260103103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260103100200 -0300" stop="20260103113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bundesliga Clubs</title>
+    <desc lang="pt">A história dos clubes que fazem parte da primeira divisão do futebol da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103170200 -0300" stop="20260103183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260103101700 -0300" stop="20260103114700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Blackburn Rovers x Wrexham</title>
+    <desc lang="pt">Pela rodada 25, o Blackburn Rovers recebe o Wrexham no Ewood Park, em Blackburn, Inglaterra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103010200 -0300" stop="20260103023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260103120200 -0300" stop="20260103133200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103122200 -0300" stop="20260103135200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Aston Villa x Nottingham Forest</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103143200 -0300" stop="20260103160200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Como x Udinese</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103161700 -0300" stop="20260103174700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103173200 -0300" stop="20260103190200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Corinthians x Trindade-GO</title>
+    <desc lang="pt">Todas as emoções da competição sub-20 de futebol masculino mais tradicional do Brasil. Disputada em diversas sedes no estado de São Paulo durante o mês de janeiro, a &quot;Copinha&quot; reúne 128 equipes de todas as regiões do País.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103194700 -0300" stop="20260103211700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atalanta x Roma</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103214700 -0300" stop="20260103231700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Brasil x Espanha</title>
+    <desc lang="pt">Pela primeira rodada, Brasil e Espanha jogam na Trident Arena, em Guarulhos, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103222200 -0300" stop="20260103235200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Ceará x Olímpico-SE</title>
+    <desc lang="pt">Do Estádio Paulo Constantino, em Presidente Prudente, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103003200 -0300" stop="20260103020200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Athletico-PR x Oeste Barueri</title>
+    <desc lang="pt">Todas as emoções da competição sub-20 de futebol masculino mais tradicional do Brasil. Disputada em diversas sedes no estado de São Paulo durante o mês de janeiro, a &quot;Copinha&quot; reúne 128 equipes de todas as regiões do País.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103023200 -0300" stop="20260103040200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Brasil x Espanha</title>
+    <desc lang="pt">Pela primeira rodada, Brasil e Espanha jogam na Trident Arena, em Guarulhos, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103033200 -0300" stop="20260103050200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Copa São Paulo de Futebol Júnior</title>
+    <desc lang="pt">Todas as emoções da competição sub-20 de futebol masculino mais tradicional do Brasil. Disputada em diversas sedes no estado de São Paulo durante o mês de janeiro, a &quot;Copinha&quot; reúne 128 equipes de todas as regiões do País.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103051700 -0300" stop="20260103064700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atalanta x Roma</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195815,30 +195892,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103044200 -0300" stop="20260103061200 -0300" channel="SporTV2 HD">
+  <programme start="20260103044800 -0300" stop="20260103061800 -0300" channel="SporTV2 HD">
     <title lang="pt">Águas Abertas - Final Masculina 10km</title>
     <desc lang="pt">Luiz Felipe Loureiro e Matheus Melecchi representam o Brasil na tradicional prova de maratona aquática com percurso de 10 km de distância. Do Palawan Green, em Sentosa, Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103070200 -0300" stop="20260103083200 -0300" channel="SporTV2 HD">
+  <programme start="20260103070400 -0300" stop="20260103083400 -0300" channel="SporTV2 HD">
     <title lang="pt">Águas Abertas - Final Feminina 3km</title>
     <desc lang="pt">Ana Marcela Cunha e Viviane Jungblut representam o Brasil no sprint de 3 km; o torneio é disputado em formato de duas baterias classificatórias, semifinal e final, com distâncias diferentes em cada etapa. Do Palawan Green, em Sentosa, Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103081700 -0300" stop="20260103094700 -0300" channel="SporTV2 HD">
+  <programme start="20260103081400 -0300" stop="20260103094400 -0300" channel="SporTV2 HD">
     <title lang="pt">Natação - Finais</title>
     <desc lang="pt">Decisões do segundo dia da natação na World Aquatics Championships Arena, em Kallang, Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103105200 -0300" stop="20260103122200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260103110200 -0300" stop="20260103123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal: Itália x Brasil</title>
+    <desc lang="pt">Valendo vaga na final, Itália e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. A seleção italiana está invicta há 34 jogos oficiais: a última derrota foi justamente para as brasileiras, pela primeira fase da Liga das Nações 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103133700 -0300" stop="20260103150700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Disputa de Terceiro Lugar: Japão x Brasil</title>
+    <desc lang="pt">Valendo o bronze, Japão e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. As japonesas tentam subir ao pódio do Mundial pela primeira vez desde 2010, enquanto as brasileiras medalharam em quatro das cinco edições anteriores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103160200 -0300" stop="20260103173200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O foco da seleção brasileira de ginástica artística muda após o histórico bronze olímpico conquistado em Paris: é hora de recuperar o corpo e a mente, além de celebrar novas fases da vida; o futuro da modalidade começa a brilhar no Troféu Brasil.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195851,15 +195942,43 @@
     </rating>
   </programme>
   <programme start="20260103205200 -0300" stop="20260103222200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103045200 -0300" stop="20260103062200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260103212700 -0300" stop="20260103225700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Olimpíadas Latinas</title>
+    <desc lang="pt">Alguns dos melhores momentos de atletas sul-americanos e caribenhos na história dos Jogos Olímpicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103222200 -0300" stop="20260103235200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final: Osasco x Sesi-SP</title>
+    <desc lang="pt">Pela grande decisão, o Osasco e o Sesi Bauru jogam no Ginásio Guanandizão, em Campo Grande, MS.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103003200 -0300" stop="20260103020200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal: Itália x Brasil</title>
+    <desc lang="pt">Valendo vaga na final, Itália e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. A seleção italiana está invicta há 34 jogos oficiais: a última derrota foi justamente para as brasileiras, pela primeira fase da Liga das Nações 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103025700 -0300" stop="20260103042700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Disputa de Terceiro Lugar: Japão x Brasil</title>
+    <desc lang="pt">Valendo o bronze, Japão e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. As japonesas tentam subir ao pódio do Mundial pela primeira vez desde 2010, enquanto as brasileiras medalharam em quatro das cinco edições anteriores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103051200 -0300" stop="20260103064200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais por Aparelhos - Dia 2</title>
+    <desc lang="pt">Segundo dia das decisões individuais por aparelho, com Flávia Saraiva representando o Brasil na disputa da trave. Da Indonesia Arena, em Jacarta, Indonésia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195920,6 +196039,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260105090200 -0300" stop="20260105103200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Poder Feminino</title>
+    <desc lang="pt">Uma celebração das conquistas das Leoas Lutadoras, seleção de handebol feminino de Montenegro que conquistou a primeira medalha olímpica do país nos Jogos de 2012, e da judoca Majlinda Kelmendi, que ganhou o primeiro ouro da história de Kosovo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260105100200 -0300" stop="20260105113200 -0300" channel="SporTV2 HD">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">Na Turquia, o técnico José Roberto Guimarães treina três atletas da Seleção; com hérnia, Macris luta contra o tempo; no Fenerbahçe, Ana Cristina segue em recuperação; a Liga das Nações começa no Rio de Janeiro, tendo como palco o Maracanãzinho.</desc>
@@ -195928,8 +196054,15 @@
     </rating>
   </programme>
   <programme start="20260105103200 -0300" stop="20260105120200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Quartas de Final: Brasil x França</title>
+    <desc lang="pt">Pelas quartas de final, Brasil e França jogam no Indoor Stadium Huamark, na Tailândia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260105121200 -0300" stop="20260105134200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Disputa de Terceiro Lugar: Japão x Brasil</title>
+    <desc lang="pt">Valendo o bronze, Japão e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. As japonesas tentam subir ao pódio do Mundial pela primeira vez desde 2010, enquanto as brasileiras medalharam em quatro das cinco edições anteriores.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195942,15 +196075,50 @@
     </rating>
   </programme>
   <programme start="20260105161200 -0300" stop="20260105174200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Sesc-RJ Flamengo x Praia Clube</title>
+    <desc lang="pt">Pela terceira rodada, o Sesc-RJ Flamengo recebe o Praia Clube no Ginásio do Maracanãzinho, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260105180200 -0300" stop="20260105193200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Goiás x JF Vôlei</title>
+    <desc lang="pt">Pela terceira rodada, o Goiás recebe JF Vôlei no Ginásio Rio Vermelho, em Goiânia, Goiás.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260105202200 -0300" stop="20260105215200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Joinville</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória da Superliga Masculina, o Praia Clube (4-0) enfrenta o Joinville (1-3) no Ginásio do Uberlândia Tênis Clube, em Uberlândia, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260105223200 -0300" stop="20260106000200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Minas</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Praia Clube (2-2) enfrenta o Minas (3-0) no Ginásio do Uberlândia Tênis Clube, em Uberlândia, MG. As equipes fizeram cinco das seis últimas decisões da Superliga, mas caíram nas semifinais em 2024-2025.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260105001200 -0300" stop="20260105014200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cruzeiro x Minas</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Cruzeiro (3-1) recebe o Minas (0-2) no Ginásio do Riacho, em Contagem, MG. Os donos da casa venceram dez dos 11 últimos confrontos diretos que disputaram contra os visitantes somando todas as competições.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260105021200 -0300" stop="20260105034200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesi Bauru x Fluminense</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Sesi Bauru (3-0) recebe o Fluminense (2-1) na Arena Paulo Skaf, em Bauru, SP. A equipe da casa ganhou quatro dos cinco confrontos diretos que disputou contra as visitantes desde outubro de 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260105040700 -0300" stop="20260105053700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Campinas x Guarulhos</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Campinas (2-1) recebe o Guarulhos (2-1) no Ginásio do Taquaral, em Campinas, SP. Os donos da casa venceram suas sete partidas anteriores contra a equipe visitante somando Superliga e Campeonato Paulista.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -202466,69 +202634,62 @@
     </rating>
   </programme>
   <programme start="20260103091700 -0300" stop="20260103104700 -0300" channel="Telefe">
-    <title lang="pt">Finde en Nick</title>
-    <desc lang="pt">Para acompañar a los más pequeños y divertirse junto a nuevos amigos, como Paw Patrol, Shimmer &amp; Shine, Alvin y las Ardillas, Dora y sus amigos y más.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260103110200 -0300" stop="20260103123200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260103123200 -0300" stop="20260103140200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260103140200 -0300" stop="20260103153200 -0300" channel="Telefe">
     <title lang="pt">El Chavo y Chapulín</title>
     <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103160200 -0300" stop="20260103173200 -0300" channel="Telefe">
+  <programme start="20260103110200 -0300" stop="20260103123200 -0300" channel="Telefe">
+    <title lang="pt">Quieren volverme loco 2</title>
+    <desc lang="pt">Un contratista que tiene un singular plan de negocios complica el intento de un hombre de mudar a su nueva familia a los suburbios.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103123200 -0300" stop="20260103140200 -0300" channel="Telefe">
+    <title lang="pt">El Chavo y Chapulín</title>
+    <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103170200 -0300" stop="20260103183200 -0300" channel="Telefe">
     <title lang="pt">Los Simpson</title>
     <desc lang="pt">En Springfield, los Simpson, una familia de clase trabajadora compuesta por Marge, Homero, Bart, Lisa y Maggie, vive aventuras satíricas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103210200 -0300" stop="20260103223200 -0300" channel="Telefe">
-    <title lang="pt">Cobra Kai</title>
-    <desc lang="pt">Treinta y cuatro años después de los eventos del torneo de karate All Valley de 1984, Johnny Lawrence busca la redención al abrir un dojo Cobra Kai, reavivando su rivalidad con un exitoso Daniel LaRusso.</desc>
+  <programme start="20260103224700 -0300" stop="20260104001700 -0300" channel="Telefe">
+    <title lang="pt">Justo en la mira</title>
+    <desc lang="pt">Un turista, una periodista y otros testigos observan el intento de asesinato en contra del presidente de Estados Unidos momentos después de su llegada a España.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103001700 -0300" stop="20260103014700 -0300" channel="Telefe">
-    <title lang="pt">Pasapalabra</title>
-    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
+  <programme start="20260103000200 -0300" stop="20260103013200 -0300" channel="Telefe">
+    <title lang="pt">Escape perfecto</title>
+    <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260103020200 -0300" stop="20260103033200 -0300" channel="Telefe">
-    <title lang="pt">Pasapalabra</title>
-    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
+    <title lang="pt">Escape perfecto</title>
+    <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260103031700 -0300" stop="20260103044700 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+    <title lang="pt">Blade Runner 2049</title>
+    <desc lang="pt">En el año 2049 el oficial K, un nuevo replicante de la policía de Los Ángeles, emprende la búsqueda del replicante Rick Deckard, desaparecido 30 años antes. K piensa que en Deckard reside la clave que podría permitir salvar a la sociedad del caos en el que está inmersa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103044700 -0300" stop="20260103061700 -0300" channel="Telefe">
+  <programme start="20260103041700 -0300" stop="20260103054700 -0300" channel="Telefe">
     <title lang="pt">Fuera del aire</title>
     <desc lang="pt">Fin de emisión.</desc>
     <rating system="Brazil">
@@ -222122,8 +222283,8 @@
     </rating>
   </programme>
   <programme start="20260103180200 -0300" stop="20260103193200 -0300" channel="TV Antena 10 HD">
-    <title lang="pt">Cine Aventura</title>
-    <desc lang="pt">Aproveite esse espaço para se divertir com os maiores sucessos do cinema. Não deixe de acompanhar grandes produções premiadas e atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
+    <title lang="pt">Buscando...</title>
+    <desc lang="pt">David Kim se desespera quando sua filha de 16 anos desaparece e as investigações policiais não levam a lugar nenhum. Decidido a descobrir o paradeiro da jovem, ele usa o computador da menina para vasculhar suas fotos e vídeos em busca de pistas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -222150,8 +222311,8 @@
     </rating>
   </programme>
   <programme start="20260103013200 -0300" stop="20260103030200 -0300" channel="TV Antena 10 HD">
-    <title lang="pt">Super Tela</title>
-    <desc lang="pt">Divirta-se com os grandes sucessos do cinema. Prepare a pipoca e aproveite para acompanhar produções premiadas e ver atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
+    <title lang="pt">O Dia do Atentado</title>
+    <desc lang="pt">Na sequência dos atentados à bomba na Maratona de Boston, Tommy Saunders, Richard DesLauriers e Ed Davis se juntam aos sobreviventes, socorristas e outros investigadores em uma corrida contra o tempo para encontrar os suspeitos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
