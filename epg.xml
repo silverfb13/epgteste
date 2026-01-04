@@ -97521,16 +97521,86 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103152700 -0300" stop="20260103165700 -0300" channel="HBO Xtreme">
-    <title lang="pt">O Valente</title>
-    <desc lang="pt">Um helicóptero do Exército norte-americano cai nas profundezas do território norte-coreano. O sargento Edward Brockman lidera sua equipe no terreno hostil enquanto tentam uma ousada fuga através da traiçoeira zona desmilitarizada.</desc>
+  <programme start="20260103090200 -0300" stop="20260103103200 -0300" channel="HBO Xtreme">
+    <title lang="pt">Premonição 4</title>
+    <desc lang="pt">Uma premonição salva quatro amigos que estavam assistindo a uma corrida de carros quando um trágico acidente acontece, matando dezenas de pessoas no local. Eles pensam que escaparam da morte, mas logo percebem que ela está em seu encalço.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260103232700 -0300" stop="20260104005700 -0300" channel="HBO Xtreme">
-    <title lang="pt">O Valente</title>
-    <desc lang="pt">Um helicóptero do Exército norte-americano cai nas profundezas do território norte-coreano. O sargento Edward Brockman lidera sua equipe no terreno hostil enquanto tentam uma ousada fuga através da traiçoeira zona desmilitarizada.</desc>
+  <programme start="20260103102600 -0300" stop="20260103115600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Resident Evil 3 - A Extinção</title>
+    <desc lang="pt">Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que ela contamine todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103120200 -0300" stop="20260103133200 -0300" channel="HBO Xtreme">
+    <title lang="pt">Anjos da Noite - A Rebelião</title>
+    <desc lang="pt">Viktor, o cruel rei dos vampiros, tem perseguido e escravizado por séculos os lycans, uma linhagem de lobisomens. Com a ajuda de Sonja, filha do vampiro, o jovem Lucian e seu povo iniciam uma batalha em busca de liberdade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103133700 -0300" stop="20260103150700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Duna - Parte Dois</title>
+    <desc lang="pt">Paul Atreides se une a Chani e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família. Enfrentando uma escolha entre o amor de sua vida e o destino do universo, ele deve evitar um futuro terrível que só ele pode prever.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103162600 -0300" stop="20260103175600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Chappie</title>
+    <desc lang="pt">Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103182900 -0300" stop="20260103195900 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Vingador do Futuro</title>
+    <desc lang="pt">Quaid, um operário entediado, procura uma empresa que oferece um serviço especial: um procedimento que transforma sonhos em lembranças verdadeiras. Como seu sonho era ser espião, Quaid passa pelo procedimento, mas as coisas não saem como planejadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103203000 -0300" stop="20260103220000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Anjos da Noite - A Rebelião</title>
+    <desc lang="pt">Viktor, o cruel rei dos vampiros, tem perseguido e escravizado por séculos os lycans, uma linhagem de lobisomens. Com a ajuda de Sonja, filha do vampiro, o jovem Lucian e seu povo iniciam uma batalha em busca de liberdade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103220700 -0300" stop="20260103233700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Hard Knocks: Temporada de Futebol Americano - A NFC Leste</title>
+    <desc lang="pt">A série acompanha a final da temporada 2025-2026 da NFL através das quatro equipes da Divisão Leste da NFC: Dallas Cowboys, New York Giants, Philadelphia Eagles e Washington Commanders.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103230300 -0300" stop="20260104003300 -0300" channel="HBO Xtreme">
+    <title lang="pt">Chappie</title>
+    <desc lang="pt">Em um futuro próximo, policiais humanos são substituídos por robôs ultrarresistentes, dotados de inteligência artificial. Deon, o cientista criador das máquinas, rouba um modelo defeituoso e consegue fazer com que ele tenha a capacidade de sentir e pensar por si próprio. Porém, as autoridades começam a ver Chappie como um perigo para a humanidade e ordem e vão fazer de tudo para garantir que ele seja o último de sua espécie.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103010700 -0300" stop="20260103023700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Duna - Parte Dois</title>
+    <desc lang="pt">Paul Atreides se une a Chani e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família. Enfrentando uma escolha entre o amor de sua vida e o destino do universo, ele deve evitar um futuro terrível que só ele pode prever.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103035400 -0300" stop="20260103052400 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Vingador do Futuro</title>
+    <desc lang="pt">Quaid, um operário entediado, procura uma empresa que oferece um serviço especial: um procedimento que transforma sonhos em lembranças verdadeiras. Como seu sonho era ser espião, Quaid passa pelo procedimento, mas as coisas não saem como planejadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260103055600 -0300" stop="20260103072600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Resident Evil 3 - A Extinção</title>
+    <desc lang="pt">Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que ela contamine todo o mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195983,16 +196053,79 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260104045200 -0300" stop="20260104062200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260104051200 -0300" stop="20260104064200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais por Aparelhos - Dia 2</title>
+    <desc lang="pt">Segundo dia das decisões individuais por aparelho, com Flávia Saraiva representando o Brasil na disputa da trave. Da Indonesia Arena, em Jacarta, Indonésia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260104125200 -0300" stop="20260104142200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260104090200 -0300" stop="20260104103200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">No Recife, o programa mostra os bastidores do Campeonato Brasileiro, no qual veteranas voltam às competições e um novo talento surpreende. Com casa cheia, o público vibra com estrelas da ginástica enquanto os olhos da Seleção se voltam ao Mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104093200 -0300" stop="20260104110200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104100200 -0300" stop="20260104113200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104103200 -0300" stop="20260104120200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Além do Salto</title>
+    <desc lang="pt">O programa acompanha com exclusividade a rotina de treinos, competições e vida pessoal das principais atletas da seleção brasileira de ginástica artística.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104110200 -0300" stop="20260104123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final: Osasco x Sesi-SP</title>
+    <desc lang="pt">Pela grande decisão, o Osasco e o Sesi Bauru jogam no Ginásio Guanandizão, em Campo Grande, MS.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104131200 -0300" stop="20260104144200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Born to Sail</title>
+    <desc lang="pt">Toda a jornada do Mubadala Brasil SailGP, o primeiro time sul-americano que disputa a liga de vela. O SailGP é conhecido como a liga de velas mais veloz do mundo, com participantes e times de todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104134200 -0300" stop="20260104151200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Born to Sail</title>
+    <desc lang="pt">Toda a jornada do Mubadala Brasil SailGP, o primeiro time sul-americano que disputa a liga de vela. O SailGP é conhecido como a liga de velas mais veloz do mundo, com participantes e times de todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104141200 -0300" stop="20260104154200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Born to Sail</title>
+    <desc lang="pt">Toda a jornada do Mubadala Brasil SailGP, o primeiro time sul-americano que disputa a liga de vela. O SailGP é conhecido como a liga de velas mais veloz do mundo, com participantes e times de todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104144200 -0300" stop="20260104161200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Born to Sail</title>
+    <desc lang="pt">Toda a jornada do Mubadala Brasil SailGP, o primeiro time sul-americano que disputa a liga de vela. O SailGP é conhecido como a liga de velas mais veloz do mundo, com participantes e times de todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104151200 -0300" stop="20260104164200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Born to Sail</title>
+    <desc lang="pt">Toda a jornada do Mubadala Brasil SailGP, o primeiro time sul-americano que disputa a liga de vela. O SailGP é conhecido como a liga de velas mais veloz do mundo, com participantes e times de todo o mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -196005,15 +196138,29 @@
     </rating>
   </programme>
   <programme start="20260104182200 -0300" stop="20260104195200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Kansas City Chiefs x Philadelphia Eagles</title>
+    <desc lang="pt">Pela semana 2, os Chiefs (0-1) recebem os Eagles (1-0) no GEHA Field at Arrowhead Stadium, em Kansas City, EUA. O duelo é uma reedição do Super Bowl 59, realizado em fevereiro de 2025 e vencido pela equipe da Filadélfia com um placar de 40 a 22.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260104022200 -0300" stop="20260104035200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260104205200 -0300" stop="20260104222200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal: Itália x Brasil</title>
+    <desc lang="pt">Valendo vaga na final, Itália e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. A seleção italiana está invicta há 34 jogos oficiais: a última derrota foi justamente para as brasileiras, pela primeira fase da Liga das Nações 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104231700 -0300" stop="20260105004700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Disputa de Terceiro Lugar: Japão x Brasil</title>
+    <desc lang="pt">Valendo o bronze, Japão e Brasil duelam no Estádio Coberto de Hua Mak, em Bangkok, Tailândia. As japonesas tentam subir ao pódio do Mundial pela primeira vez desde 2010, enquanto as brasileiras medalharam em quatro das cinco edições anteriores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104013200 -0300" stop="20260104030200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Décima Quinta Etapa: Zurique, Suíça - Dia 1</title>
+    <desc lang="pt">Primeiro dia da décima quinta etapa do Circuito de Atletismo. De Zurique, na Suíça.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
