@@ -197292,65 +197292,191 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260106100200 -0300" stop="20260106113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
-    <desc lang="pt">Decisões do segundo dia da etapa no Complexo Esportivo de Yunusabad, em Tashkent, Uzbequistão.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260106120700 -0300" stop="20260106133700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
-    <desc lang="pt">Decisões do segundo dia da etapa no Complexo Esportivo de Yunusabad, em Tashkent, Uzbequistão.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260106135700 -0300" stop="20260106152700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
-    <desc lang="pt">Decisões do segundo dia da etapa no Complexo Esportivo de Yunusabad, em Tashkent, Uzbequistão.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260106155200 -0300" stop="20260106172200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Jungle Fight 135</title>
-    <desc lang="pt">Disputa da 135ª edição do evento brasileiro de MMA, realizado na Arena BRB Nilson Nelson, Brasília.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260106190200 -0300" stop="20260106203200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Jungle Fight 137</title>
-    <desc lang="pt">Primeira edição da &quot;Fight do Milhão&quot;, que premia os vencedores do torneio masculino e feminino. A Arena BRB Nilson Nelson, em Brasília, DF, recebe o 137ª card da maior organização de MMA do Brasil.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260106220700 -0300" stop="20260106233700 -0300" channel="SporTV3 HD">
+  <programme start="20260106105700 -0300" stop="20260106122700 -0300" channel="SporTV3 HD">
     <title lang="pt">Jungle Fight 138</title>
     <desc lang="pt">Evento de artes marciais mistas com quatro combates femininos, pela categoria peso-leve, valendo a permanência no Fight do Milhão, torneio que vai entregar prêmio milionário para a grande vencedora. Do Ginásio Mauro Pinheiro, em São Paulo?SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260106005200 -0300" stop="20260106022200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Jungle Fight 139</title>
-    <desc lang="pt">Evento de artes marciais mistas com 16 lutas no card. Da Arena BRB Nilson Nelson, em Brasília?DF.</desc>
+  <programme start="20260106134200 -0300" stop="20260106151200 -0300" channel="SporTV3 HD">
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Os destaques do segundo dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260106035200 -0300" stop="20260106052200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Tbilisi, Geórgia - Finais</title>
-    <desc lang="pt">Decisões do terceiro dia da etapa disputada no Palácio dos Esportes de Tbilisi, em Tbilisi, Geórgia.</desc>
+  <programme start="20260106153200 -0300" stop="20260106170200 -0300" channel="SporTV3 HD">
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Os destaques do segundo dia de disputa na Ilha de Hudayriat, em Abu Dhabi, Emirados Árabes Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106172700 -0300" stop="20260106185700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106175700 -0300" stop="20260106192700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106182700 -0300" stop="20260106195700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106184200 -0300" stop="20260106201200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106191200 -0300" stop="20260106204200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106192700 -0300" stop="20260106205700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106194700 -0300" stop="20260106211700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106200700 -0300" stop="20260106213700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106203700 -0300" stop="20260106220700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106211200 -0300" stop="20260106224200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106214200 -0300" stop="20260106231200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106221200 -0300" stop="20260106234200 -0300" channel="SporTV3 HD">
+    <title lang="pt">História da Copersucar-Fittipaldi</title>
+    <desc lang="pt">Conheça a história da escuderia da família Fittipaldi, que competiu na Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106224200 -0300" stop="20260107001200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106231200 -0300" stop="20260107004200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106234200 -0300" stop="20260107011200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106235700 -0300" stop="20260107012700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106002700 -0300" stop="20260106015700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106004200 -0300" stop="20260106021200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106010200 -0300" stop="20260106023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">História da Copersucar-Fittipaldi</title>
+    <desc lang="pt">Conheça a história da escuderia da família Fittipaldi, que competiu na Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106013200 -0300" stop="20260106030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106023200 -0300" stop="20260106040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106024700 -0300" stop="20260106041700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260106031700 -0300" stop="20260106044700 -0300" channel="SporTV3 HD">
+    <title lang="pt">WSL Replay</title>
+    <desc lang="pt">Melhores momentos da décima etapa do circuito em 2025, realizada em Jeffreys Bay, África do Sul.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260106040200 -0300" stop="20260106053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Ulaanbaatar, Mongólia - Finais</title>
+    <desc lang="pt">Finais do terceiro dia da competição, realizadas na AIC Steppe Arena, em Ulaanbaatar, Mongólia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
