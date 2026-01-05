@@ -122196,6 +122196,27 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260104030200 -0300" stop="20260104043200 -0300" channel="Ponto Jus">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104040200 -0300" stop="20260104053200 -0300" channel="Ponto Jus">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260104050200 -0300" stop="20260104063200 -0300" channel="Ponto Jus">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260105060200 -0300" stop="20260105073200 -0300" channel="Ponto Jus">
     <title lang="pt">Jornal da Justiça</title>
     <desc lang="pt">Notícias dos últimos acontecimentos do mundo político brasileiro.</desc>
