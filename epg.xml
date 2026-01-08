@@ -201234,8 +201234,8 @@
     </rating>
   </programme>
   <programme start="20260109060200 -0300" stop="20260109073200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Superliga Feminina de Vôlei</title>
-    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <title lang="pt">Osasco x Tijuca</title>
+    <desc lang="pt">Pela rodada de abertura do returno da Superliga Feminina 2025-2026, o Osasco (7-4) recebe o Tijuca (1-10) no Ginásio Professor José Liberatti, em Osasco, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201248,8 +201248,15 @@
     </rating>
   </programme>
   <programme start="20260109100200 -0300" stop="20260109113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Paulistano Barueri x Sesc-RJ Flamengo</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109120200 -0300" stop="20260109133200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201262,8 +201269,43 @@
     </rating>
   </programme>
   <programme start="20260109140200 -0300" stop="20260109153200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Doha, Qatar</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109150200 -0300" stop="20260109163200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Doha, Qatar</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109160200 -0300" stop="20260109173200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Doha, Qatar</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109170200 -0300" stop="20260109183200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Doha, Qatar</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109180200 -0300" stop="20260109193200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Doha, Qatar</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109190200 -0300" stop="20260109203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Osasco x Tijuca</title>
+    <desc lang="pt">Pela rodada de abertura do returno da Superliga Feminina 2025-2026, o Osasco (7-4) recebe o Tijuca (1-10) no Ginásio Professor José Liberatti, em Osasco, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201276,22 +201318,29 @@
     </rating>
   </programme>
   <programme start="20260109233200 -0300" stop="20260110010200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260109020200 -0300" stop="20260109033200 -0300" channel="SporTV2 HD">
-    <title lang="pt">JF Vôlei x Cruzeiro</title>
+    <title lang="pt">Minas x Guarulhos</title>
     <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260109020200 -0300" stop="20260109033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">Os principais acontecimentos do ciclo das modalidades olímpicas até os Jogos de Los Angeles, em 2028. Entrevistas, atualidades, termômetro de competições e informações de diversos esportes, com participação de atletas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260109030200 -0300" stop="20260109043200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Athletes to Watch Paris</title>
+    <desc lang="pt">As histórias e os preparativos de atletas que prometem brilhar nos Jogos Olímpicos de Paris 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260109040200 -0300" stop="20260109053200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">JF Vôlei x Cruzeiro</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
