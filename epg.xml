@@ -94280,23 +94280,93 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260124090200 -0300" stop="20260124103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260124100200 -0300" stop="20260124113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">St. Pauli x Hamburgo</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124114700 -0300" stop="20260124131700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124121700 -0300" stop="20260124134700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Millwall x Charlton Athletic</title>
+    <desc lang="pt">Do Estádio The Den, em Londres, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124143200 -0300" stop="20260124160200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124145200 -0300" stop="20260124162200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Burnley x Tottenham Hotspur</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260124170200 -0300" stop="20260124183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260124010200 -0300" stop="20260124023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260124172200 -0300" stop="20260124185200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Union Berlin x Borussia Dortmund</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124193200 -0300" stop="20260124210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Lecce x Lazio</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124214700 -0300" stop="20260124231700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Chelsea x Arsenal</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124233200 -0300" stop="20260125010200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Central Copinha</title>
+    <desc lang="pt">Os principais destaques da Copa São Paulo de Futebol Júnior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124004700 -0300" stop="20260124021700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Estoril x Vitória de Guimarães</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124023200 -0300" stop="20260124040200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Villarreal x Real Madrid</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124041700 -0300" stop="20260124054700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Burnley x Tottenham Hotspur</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -123934,7 +124004,7 @@
   </programme>
   <programme start="20260124060200 -0300" stop="20260124073200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Boavista x Portuguesa-RJ</title>
-    <desc lang="pt">Pela terceira rodada da primeira fase do Cariocão 2026 (Taça Guanabara), o Boavista recebe a Portuguesa-RJ no Estádio de Bacaxá, em Saquarema, RJ.</desc>
+    <desc lang="pt">Em partida válida pela terceira rodada da primeira fase do Cariocão 2026 (Taça Guanabara), o Boavista recebe a Portuguesa-RJ no Estádio de Bacaxá, em Saquarema, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -123968,15 +124038,92 @@
     </rating>
   </programme>
   <programme start="20260124110200 -0300" stop="20260124123200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Flamengo x Portuguesa-RJ</title>
+    <desc lang="pt">Jogo antecipado pela quinta rodada da Taça Guanabara. Do Estádio da Cidadania, em Volta Redonda, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124120200 -0300" stop="20260124133200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Nova Iguaçu x Fluminense</title>
+    <desc lang="pt">Em partida válida pela terceira rodada da primeira fase do Cariocão 2026 (Taça Guanabara), o Nova Iguaçu enfrenta o Fluminense no Estádio Luso-Brasileiro, no Rio de Janeiro?RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124130200 -0300" stop="20260124143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Clássico da Saudade válido pela 24ª rodada do Brasileirão Série A de 2019.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124140200 -0300" stop="20260124153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Clássico da Saudade válido pela 24ª rodada do Brasileirão Série A de 2019.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124150200 -0300" stop="20260124163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">América-MG x Atlético-MG</title>
+    <desc lang="pt">Quarta rodada da fase classificatória do Estadual. Da Arena Independência, em Belo Horizonte, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124160200 -0300" stop="20260124173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Internacional x Inter de Santa Maria</title>
+    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124170200 -0300" stop="20260124183200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Guarany de Bagé x Grêmio</title>
+    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124180200 -0300" stop="20260124193200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Juventude x Caxias</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Juventude recebe o Caxias no Estádio Alfredo Jaconi, em Caxias do Sul, RS. É a 290ª edição do clássico Ca-Ju, que tem em sua história 99 empates, 97 vitórias do Ju e 93 triunfos do Grená do Povo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260124190200 -0300" stop="20260124203200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Boavista x Portuguesa-RJ</title>
+    <desc lang="pt">Em partida válida pela terceira rodada da primeira fase do Cariocão 2026 (Taça Guanabara), o Boavista recebe a Portuguesa-RJ no Estádio de Bacaxá, em Saquarema, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124200200 -0300" stop="20260124213200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Vasco</title>
+    <desc lang="pt">Em Clássico dos Milhões válido pela terceira rodada da primeira fase do Cariocão 2026 (Taça Guanabara), o Flamengo enfrenta o Vasco no Estádio do Maracanã, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124210200 -0300" stop="20260124223200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Internacional x Inter de Santa Maria</title>
+    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124220200 -0300" stop="20260124233200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">América-MG x Atlético-MG</title>
+    <desc lang="pt">Quarta rodada da fase classificatória do Estadual. Da Arena Independência, em Belo Horizonte, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124230200 -0300" stop="20260125003200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -123989,8 +124136,29 @@
     </rating>
   </programme>
   <programme start="20260124021200 -0300" stop="20260124034200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124030200 -0300" stop="20260124043200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Juventude x Caxias</title>
+    <desc lang="pt">Pela quarta rodada da fase classificatória, o Juventude recebe o Caxias no Estádio Alfredo Jaconi, em Caxias do Sul, RS. É a 290ª edição do clássico Ca-Ju, que tem em sua história 99 empates, 97 vitórias do Ju e 93 triunfos do Grená do Povo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124040200 -0300" stop="20260124053200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Botafogo x Bangu</title>
+    <desc lang="pt">Quarta rodada. O Botafogo recebe o Bangu no Estádio Nilton Santos, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124050200 -0300" stop="20260124063200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Uberlândia x América-MG</title>
+    <desc lang="pt">Toda a disputa da principal competição de futebol masculino entre clubes do estado de Minas Gerais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
