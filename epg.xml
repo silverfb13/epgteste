@@ -134719,16 +134719,184 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260126164700 -0300" stop="20260126181700 -0300" channel="Record News HD">
-    <title lang="pt">To Be Announced</title>
-    <desc lang="pt">Programming to be announced.</desc>
+  <programme start="20260126093200 -0300" stop="20260126110200 -0300" channel="Record News HD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260126200200 -0300" stop="20260126213200 -0300" channel="Record News HD">
-    <title lang="pt">Record News Séries</title>
-    <desc lang="pt">Grandes reportagens sobre diversos temas, abordados de forma ampla e aprofundada.</desc>
+  <programme start="20260126100200 -0300" stop="20260126113200 -0300" channel="Record News HD">
+    <title lang="pt">Elas com a Bola</title>
+    <desc lang="pt">Coberturas esportivas dos principais campeonatos femininos de futebol, destacando partidas, análises e entrevistas exclusivas. Momentos emocionantes, histórias inspiradoras das atletas e as principais tendências e desenvolvimentos do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126101700 -0300" stop="20260126114700 -0300" channel="Record News HD">
+    <title lang="pt">Zapping</title>
+    <desc lang="pt">Acompanhe a revista eletrônica dinâmica e com conteúdo diversificado, que traz reportagens sobre cultura, bastidores da televisão, celebridades, música e moda, além de abordar assuntos de saúde e bem-estar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126110200 -0300" stop="20260126123200 -0300" channel="Record News HD">
+    <title lang="pt">Record News Rural</title>
+    <desc lang="pt">Fique por dentro das notícias e novidades do agronegócio e também empreendedorismo agrícola. O programa apresenta conteúdo relevante para o desenvolvimento dos profissionais do setor e para quem aprecia a vida do campo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126114700 -0300" stop="20260126131700 -0300" channel="Record News HD">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126120200 -0300" stop="20260126133200 -0300" channel="Record News HD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">O Fala Brasil é um programa de jornalismo moderno e dinâmico que mostra os mais importantes acontecimentos nacionais e internacionais. A missão é apresentar as principais notícias com muito mais profundidade em comparação ao que está estampado nas primeiras páginas dos maiores jornais do país. Diariamente, repórteres de diversas capitais brasileiras entram ao vivo com as principais notícias dos Estados. Outro objetivo do programa é projetar o dia, antecipando os fatos que vão mobilizar a atenção dos brasileiros. A apresentação é de Carla Cecato e Roberta Piza, dois talentos do telejornalismo nacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126130200 -0300" stop="20260126143200 -0300" channel="Record News HD">
+    <title lang="pt">Alerta Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias destaque pelo país no início das manhãs.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126143200 -0300" stop="20260126160200 -0300" channel="Record News HD">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126150200 -0300" stop="20260126163200 -0300" channel="Record News HD">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126163200 -0300" stop="20260126180200 -0300" channel="Record News HD">
+    <title lang="pt">Conexão Record News</title>
+    <desc lang="pt">A dupla Kelly Godoy e Heródoto Barbeiro aborda os principais assuntos do dia de forma leve, detalhada e aprofundada. Um resumo das notícias mais importantes no Brasil e no mundo, sempre com participação de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126170200 -0300" stop="20260126183200 -0300" channel="Record News HD">
+    <title lang="pt">Conexão Record News</title>
+    <desc lang="pt">A dupla Kelly Godoy e Heródoto Barbeiro aborda os principais assuntos do dia de forma leve, detalhada e aprofundada. Um resumo das notícias mais importantes no Brasil e no mundo, sempre com participação de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126183200 -0300" stop="20260126200200 -0300" channel="Record News HD">
+    <title lang="pt">Zapping</title>
+    <desc lang="pt">Acompanhe a revista eletrônica dinâmica e com conteúdo diversificado, que traz reportagens sobre cultura, bastidores da televisão, celebridades, música e moda, além de abordar assuntos de saúde e bem-estar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126190200 -0300" stop="20260126203200 -0300" channel="Record News HD">
+    <title lang="pt">Hora News</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126210200 -0300" stop="20260126223200 -0300" channel="Record News HD">
+    <title lang="pt">Link Record News</title>
+    <desc lang="pt">As principais notícias do dia, com participação do público por meio das redes sociais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126214700 -0300" stop="20260126231700 -0300" channel="Record News HD">
+    <title lang="pt">Esporte Record News</title>
+    <desc lang="pt">Acompanhe as principais notícias do dia sobre diversas modalidades esportivas no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126220200 -0300" stop="20260126233200 -0300" channel="Record News HD">
+    <title lang="pt">News 19 Horas</title>
+    <desc lang="pt">Acompanhe a cobertura completa de tudo que foi destaque ao longo do dia no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126224700 -0300" stop="20260127001700 -0300" channel="Record News HD">
+    <title lang="pt">Elas com a Bola</title>
+    <desc lang="pt">Coberturas esportivas dos principais campeonatos femininos de futebol, destacando partidas, análises e entrevistas exclusivas. Momentos emocionantes, histórias inspiradoras das atletas e as principais tendências e desenvolvimentos do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126231200 -0300" stop="20260127004200 -0300" channel="Record News HD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126000200 -0300" stop="20260126013200 -0300" channel="Record News HD">
+    <title lang="pt">Jornal da Record News</title>
+    <desc lang="pt">Fique por dentro dos principais fatos do dia com análises profundas sobre política e economia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126010200 -0300" stop="20260126023200 -0300" channel="Record News HD">
+    <title lang="pt">News das 10</title>
+    <desc lang="pt">Acompanhe as notícias mais essenciais do dia, no Brasil e no mundo, de forma ágil e dinâmica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126013200 -0300" stop="20260126030200 -0300" channel="Record News HD">
+    <title lang="pt">Aldeia News</title>
+    <desc lang="pt">Acompanhe reportagens especiais sobre natureza, aventura, turismo e curiosidades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126020200 -0300" stop="20260126033200 -0300" channel="Record News HD">
+    <title lang="pt">Joga das Onze</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126033200 -0300" stop="20260126050200 -0300" channel="Record News HD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126040200 -0300" stop="20260126053200 -0300" channel="Record News HD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126043200 -0300" stop="20260126060200 -0300" channel="Record News HD">
+    <title lang="pt">Jornal da Record - 24h</title>
+    <desc lang="pt">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260126044200 -0300" stop="20260126061200 -0300" channel="Record News HD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">Acompanhe reportagens exclusivas, denúncias e prestação de serviços de interesse da população.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -196292,8 +196460,8 @@
     </rating>
   </programme>
   <programme start="20260124060200 -0300" stop="20260124073200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Superliga Feminina de Vôlei</title>
-    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <title lang="pt">Quartas de Final: Osasco x Fluminense</title>
+    <desc lang="pt">Pelas quartas de final, Osaco recebe o Fluminense no Ginásio Professor José Liberatti, em Osasco.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -196313,29 +196481,106 @@
     </rating>
   </programme>
   <programme start="20260124100200 -0300" stop="20260124113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Mascate, Omã: Final de Duplas Masculina - Benedikt Duda e Patrick Franziska (ALE) x Shidong Lin e Youzheng Huang (CHN)</title>
+    <desc lang="pt">Final de duplas masculinas. Do Complexo Esportivo Sultão Qaboos, em Mascate, Omã.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124104700 -0300" stop="20260124121700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mascate, Omã: Final de Duplas Feminina - Hoi Kem Doo e Wing Lam NG (HKG) x Yuxuan Qin e Geman Zong (CHN)</title>
+    <desc lang="pt">Final de duplas femininas. Do Complexo Esportivo Sultão Qaboos, em Mascate, Omã.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124113200 -0300" stop="20260124130200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mascate, Omã: Final Feminina - Xunyao Shi (CHN) x Zhuojia He (CHN)</title>
+    <desc lang="pt">Final do individual feminino. Do Complexo Esportivo Sultão Qaboos, em Mascate, Omã.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124121700 -0300" stop="20260124134700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mascate, Omã: Final Masculina - Ruibo Wen (CHN) x Patrick Franziska (ALE)</title>
+    <desc lang="pt">Circuito de tênis de mesa com várias etapas valendo pontos no ranking mundial da modalidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124133200 -0300" stop="20260124150200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Doha, Qatar - Final Feminina</title>
+    <desc lang="pt">Nomes em ascensão no tênis de mesa disputam circuito que vale pontos no ranking mundial em busca de um lugar na WTT Champions Series.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124143200 -0300" stop="20260124160200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Doha, Qatar - Final Masculina</title>
+    <desc lang="pt">Nomes em ascensão no tênis de mesa disputam circuito que vale pontos no ranking mundial em busca de um lugar na WTT Champions Series.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124153200 -0300" stop="20260124170200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">Os principais acontecimentos do ciclo das modalidades olímpicas até os Jogos de Los Angeles, em 2028. Entrevistas, atualidades, termômetro de competições e informações de diversos esportes, com participação de atletas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124164200 -0300" stop="20260124181200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260124171200 -0300" stop="20260124184200 -0300" channel="SporTV2 HD">
     <title lang="pt">Brasil x Colômbia</title>
-    <desc lang="pt">Décima quinta edição torneio de futsal entre seleções da América do Sul. De Luque, no Paraguai.</desc>
+    <desc lang="pt">Pela rodada de abertura do Grupo B, Brasil e Colômbia jogam na COP Arena - Óscar Harrison, em Luque, Paraguai. A chave conta ainda com Bolívia, Chile e Venezuela; todos se enfrentam em turno único, e os dois primeiros colocados avançam às semifinais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260124193200 -0300" stop="20260124210200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Brasil e Rússia fazem uma final dramática, decidida numa virada histórica em Londres 2012.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260124033200 -0300" stop="20260124050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260124203200 -0300" stop="20260124220200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre momentos e personagens que entraram para a história. Acompanhe jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124210200 -0300" stop="20260124223200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final: Minas x Maringá Vôlei</title>
+    <desc lang="pt">Pelas quartas de final, Minas recebe o Maringá na Arena UniBH, em Belo Horizonte, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124233200 -0300" stop="20260125010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final: Praia Clube x Sesi Bauru</title>
+    <desc lang="pt">Pelas quartas de final, o Praia Clube recebe o Sesi Bauru no Ginásio do UTC, em Uberlândia, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124020200 -0300" stop="20260124033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final: Minas x Maringá Vôlei</title>
+    <desc lang="pt">Pelas quartas de final, Minas recebe o Maringá na Arena UniBH, em Belo Horizonte, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260124040200 -0300" stop="20260124053200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final: Praia Clube x Sesi Bauru</title>
+    <desc lang="pt">Pelas quartas de final, o Praia Clube recebe o Sesi Bauru no Ginásio do UTC, em Uberlândia, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
