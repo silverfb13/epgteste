@@ -124800,44 +124800,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260127111200 -0300" stop="20260127124200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
+  <programme start="20260127084200 -0300" stop="20260127101200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+    <desc lang="pt">Em partida válida pela quinta rodada da fase classificatória do Estadual, o Atlético-MG recebe o Cruzeiro na Arena MRV, em Belo Horizonte, MG. O Galo venceu só um dos seis clássicos que disputou contra a Raposa desde agosto de 2024.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260127151200 -0300" stop="20260127164200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260127191200 -0300" stop="20260127204200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260127231200 -0300" stop="20260128004200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Campeonato Brasileiro - Série B</title>
-    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260127014200 -0300" stop="20260127031200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260127031200 -0300" stop="20260127044200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
+  <programme start="20260127204200 -0300" stop="20260127221200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+    <desc lang="pt">Em partida válida pela quinta rodada da fase classificatória do Estadual, o Atlético-MG recebe o Cruzeiro na Arena MRV, em Belo Horizonte, MG. O Galo venceu só um dos seis clássicos que disputou contra a Raposa desde agosto de 2024.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -126403,9 +126375,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260129024200 -0300" stop="20260129041200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260129054200 -0300" stop="20260129071200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Grêmio</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260129064200 -0300" stop="20260129081200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Internacional x Athletico-PR</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -126418,13 +126397,34 @@
     </rating>
   </programme>
   <programme start="20260129080200 -0300" stop="20260129093200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Chapecoense x Santos</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260129090200 -0300" stop="20260129103200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Coritiba x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260129100200 -0300" stop="20260129113200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vitória x Remo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260129110200 -0300" stop="20260129123200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Programação Premiere Clubes</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260129160200 -0300" stop="20260129173200 -0300" channel="Premiere Clubes HD">
+  <programme start="20260129190200 -0300" stop="20260129203200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Programação Premiere Clubes</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -205741,65 +205741,93 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128120200 -0300" stop="20260128133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128105700 -0300" stop="20260128122700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Décima Quarta Etapa - Bruxelas, Bélgica</title>
+    <desc lang="pt">Décima quarta etapa da temporada. Do Koning Boudewijnstadion, em Bruxelas, na Bélgica.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128140200 -0300" stop="20260128153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128125700 -0300" stop="20260128142700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128160200 -0300" stop="20260128173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128132200 -0300" stop="20260128145200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Flame Catchers</title>
+    <desc lang="pt">Uma volta ao passado com os Jogos Olímpicos de Inverno de 2002, em Salt Lake City, nos EUA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128180200 -0300" stop="20260128193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128134700 -0300" stop="20260128151700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Schladming, Áustria - Slalom Gigante Masculino</title>
+    <desc lang="pt">As emoções do principal circuito internacional de esqui alpino do mundo, com etapas pelo planeta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128200200 -0300" stop="20260128213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128164700 -0300" stop="20260128181700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Schladming, Áustria - Slalom Masculino</title>
+    <desc lang="pt">As emoções do principal circuito internacional de esqui alpino do mundo, com etapas pelo planeta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128220200 -0300" stop="20260128233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128194700 -0300" stop="20260128211700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128000200 -0300" stop="20260128013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128201700 -0300" stop="20260128214700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Décima Primeira Etapa - Londres, Inglaterra</title>
+    <desc lang="pt">Décimo primeiro encontro da temporada 2025, realizado no London Stadium, em Londres, Inglaterra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128020200 -0300" stop="20260128033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128221700 -0300" stop="20260128234700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Anatomy Of</title>
+    <desc lang="pt">Saiba mais sobre o físico de atletas de elite de BMX, basquete e surfe com a participação da atleta norte-americana Lori &quot;LoLo&quot; Jones, especialista nos 100 metros com barreiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128040200 -0300" stop="20260128053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260128224700 -0300" stop="20260129001700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Copa Super 8 de Basquete</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as oito primeiras colocadas do primeiro turno do NBB. A equipe campeã garante vaga em torneio internacional apoiado pela Liga Nacional de Basquete.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128010200 -0300" stop="20260128023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Momentos Olímpicos Inesquecíveis</title>
+    <desc lang="pt">Reviva os desempenhos mais extraordinários e acontecimentos memoráveis da 27ª Olimpíada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128013200 -0300" stop="20260128030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Atletismo</title>
+    <desc lang="pt">Fique por dentro dos maiores acontecimentos do mundo do atletismo, por todo o planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128023200 -0300" stop="20260128040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Décima Etapa - Mônaco</title>
+    <desc lang="pt">Décimo evento da Diamond League em 2025, realizado no Estádio Louis II, em Fontvieille, Mônaco.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128043700 -0300" stop="20260128060700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Terceira Etapa - Doha, Qatar</title>
+    <desc lang="pt">Terceiro evento da competição em 2025, realizado no Estádio Suheim bin Hamad, em Doha, Qatar.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
