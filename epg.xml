@@ -125325,30 +125325,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128084200 -0300" stop="20260128101200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Atlético-MG x Cruzeiro</title>
-    <desc lang="pt">Em partida válida pela quinta rodada da fase classificatória do Estadual, o Atlético-MG recebe o Cruzeiro na Arena MRV, em Belo Horizonte, MG. O Galo venceu só um dos seis clássicos que disputou contra a Raposa desde agosto de 2024.</desc>
+  <programme start="20260128050200 -0300" stop="20260128063200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Canais Premiere</title>
+    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260128164200 -0300" stop="20260128181200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">To Be Announced</title>
-    <desc lang="pt">Programming to be announced.</desc>
+  <programme start="20260128090200 -0300" stop="20260128103200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Canais Premiere</title>
+    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128130200 -0300" stop="20260128143200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Canais Premiere</title>
+    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128170200 -0300" stop="20260128183200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Canais Premiere</title>
+    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260128210200 -0300" stop="20260128223200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Canais Premiere</title>
+    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260128213200 -0300" stop="20260128230200 -0300" channel="Premiere 6 HD">
     <title lang="pt">Internacional x Athletico-PR</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260128004200 -0300" stop="20260128021200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">To Be Announced</title>
-    <desc lang="pt">Programming to be announced.</desc>
+    <desc lang="pt">Pela rodada de abertura do Brasileirão Série A 2026, o Internacional recebe o Athletico-PR no Estádio Beira-Rio, em Porto Alegre, RS. O Colorado empatou um e perdeu três dos quatro últimos confrontos diretos que disputou contra o Furacão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
