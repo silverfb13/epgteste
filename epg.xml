@@ -95547,30 +95547,107 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260131081700 -0300" stop="20260131094700 -0300" channel="Ideal TV HD">
-    <title lang="pt">Everton x Leeds United</title>
+  <programme start="20260131100200 -0300" stop="20260131113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Baú dos Campeões</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131103200 -0300" stop="20260131120200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131110200 -0300" stop="20260131123200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Monaco x Virtus Olidata Bologna</title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131124700 -0300" stop="20260131141700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bristol City x Derby County</title>
+    <desc lang="pt">Do Estádio de Ashton Gate, em Bristol, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131143200 -0300" stop="20260131160200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131145200 -0300" stop="20260131162200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Brighton &amp; Hove Albion vs. Everton</title>
     <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260131090200 -0300" stop="20260131103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
   <programme start="20260131170200 -0300" stop="20260131183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260131010200 -0300" stop="20260131023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260131172200 -0300" stop="20260131185200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Hamburgo x Bayern de Munique</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131193200 -0300" stop="20260131210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131202200 -0300" stop="20260131215200 -0300" channel="Ideal TV HD">
+    <title lang="pt">FC Alverca x Estrela da Amadora</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131223200 -0300" stop="20260201000200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Eintracht Frankfurt x Bayer Leverkusen</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131001700 -0300" stop="20260131014700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Portsmouth x West Bromwich Albion</title>
+    <desc lang="pt">Do Estádio Fratton Park, em Portsmouth, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131020200 -0300" stop="20260131033200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Hamburgo x Bayern de Munique</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131034700 -0300" stop="20260131051700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Monaco x Virtus Olidata Bologna</title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131053200 -0300" stop="20260131070200 -0300" channel="Ideal TV HD">
+    <title lang="pt">The Inside Line</title>
+    <desc lang="pt">Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -98426,7 +98503,7 @@
   </programme>
   <programme start="20260131095700 -0300" stop="20260131112700 -0300" channel="Maxprime*e">
     <title lang="pt">State of Play</title>
-    <desc lang="pt">Os produtores executivos Peter Berg e Sarah Aubrey unem esforços com a HBO Sports nesta série documental que examina temas completos do esporte. Cada capítulo apresenta um assunto e seu impacto além do esporte.</desc>
+    <desc lang="pt">Os produtores executivos Peter Berg e Sarah Aubrey unem esforços com a HBO Esportes nesta série documental que examina temas complexos do esporte. Cada capítulo apresenta um assunto e seu impacto além do esporte.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -200918,6 +200995,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260131080200 -0300" stop="20260131093200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final: Campinas x Sesi Bauru</title>
+    <desc lang="pt">Pelas quartas de final da Copa Brasil de Vôlei Masculino 2026, em jogo único, o Campinas recebe o Sesi Bauru no Ginásio do Taquaral, em Campinas, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260131100200 -0300" stop="20260131113200 -0300" channel="SporTV2 HD">
     <title lang="pt">Programação SporTV2</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
@@ -200947,7 +201031,7 @@
     </rating>
   </programme>
   <programme start="20260131194700 -0300" stop="20260131211700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Copa América de Futsal 2026</title>
+    <title lang="pt">Semifinal</title>
     <desc lang="pt">Décima quinta edição da principal competição masculina de futsal entre seleções da América do Sul, realizada em Luque, no Paraguai. O Brasil é o atual campeão e maior vencedor do torneio, tendo levantado a taça em 11 das 14 edições anteriores.</desc>
     <rating system="Brazil">
       <value>[14]</value>
