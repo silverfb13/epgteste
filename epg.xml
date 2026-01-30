@@ -195529,29 +195529,50 @@
     </rating>
   </programme>
   <programme start="20260131100200 -0300" stop="20260131113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Especial Vôlei</title>
+    <desc lang="pt">Jackie Silva, Chloe Anderson e Eileen Nasuh têm suas histórias de vida e carreiras reveladas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260131110200 -0300" stop="20260131123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Relembre a final do tênis feminino entre Monica Puig x Angelique Kerber.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131115700 -0300" stop="20260131132700 -0300" channel="SporTV2 HD">
     <title lang="pt">Baú do Esporte</title>
     <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260131113200 -0300" stop="20260131130200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260131121700 -0300" stop="20260131134700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesc-RJ Flamengo x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260131193200 -0300" stop="20260131210200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260131141700 -0300" stop="20260131154700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesc-RJ Flamengo x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131161700 -0300" stop="20260131174700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final: Cruzeiro x Guarulhos</title>
+    <desc lang="pt">Pelas quartas de final da Copa Brasil de Vôlei Masculino 2026, em jogo único, o Cruzeiro recebe o Guarulhos no Ginásio Poliesportivo do Riacho, em Contagem, MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260131180700 -0300" stop="20260131193700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasil x Venezuela</title>
+    <desc lang="pt">Em partida válida pela quinta e última rodada do Grupo B, Brasil e Venezuela se enfrentam na COP Arena - Óscar Harrison, em Luque, Paraguai.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195564,29 +195585,78 @@
     </rating>
   </programme>
   <programme start="20260131214700 -0300" stop="20260131231700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Brasília x Maringá Vôlei</title>
+    <desc lang="pt">Quarta rodada do returno. O Brasília recebe o Maringá no Sesi Taguatinga Norte, em Brasília, DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260131054700 -0300" stop="20260131071700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260131000200 -0300" stop="20260131013200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mackenzie x Osasco</title>
+    <desc lang="pt">Quarta rodada do returno. O Mackenzie recebe o Osasco no Ginásio do Mackenzie, em Belo Horizonte.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260201054700 -0300" stop="20260201071700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260131023200 -0300" stop="20260131040200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasília x Maringá Vôlei</title>
+    <desc lang="pt">Quarta rodada do returno. O Brasília recebe o Maringá no Sesi Taguatinga Norte, em Brasília, DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260201134700 -0300" stop="20260201151700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260131043200 -0300" stop="20260131060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mackenzie x Osasco</title>
+    <desc lang="pt">Quarta rodada do returno. O Mackenzie recebe o Osasco no Ginásio do Mackenzie, em Belo Horizonte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201043200 -0300" stop="20260201060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mackenzie x Osasco</title>
+    <desc lang="pt">Quarta rodada do returno. O Mackenzie recebe o Osasco no Ginásio do Mackenzie, em Belo Horizonte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201063200 -0300" stop="20260201080200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesc-RJ Flamengo x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201083200 -0300" stop="20260201100200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesc-RJ Flamengo x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201103200 -0300" stop="20260201120200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasília x Maringá Vôlei</title>
+    <desc lang="pt">Quarta rodada do returno. O Brasília recebe o Maringá no Sesi Taguatinga Norte, em Brasília, DF.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201123200 -0300" stop="20260201140200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mackenzie x Osasco</title>
+    <desc lang="pt">Quarta rodada do returno. O Mackenzie recebe o Osasco no Ginásio do Mackenzie, em Belo Horizonte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201143200 -0300" stop="20260201160200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesc-RJ Flamengo x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201163200 -0300" stop="20260201180200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Meu Momento Olímpico</title>
+    <desc lang="pt">Reviva os desempenhos mais extraordinários e acontecimentos memoráveis da 27ª Olimpíada.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195599,8 +195669,8 @@
     </rating>
   </programme>
   <programme start="20260201193200 -0300" stop="20260201210200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195613,8 +195683,29 @@
     </rating>
   </programme>
   <programme start="20260201223200 -0300" stop="20260202000200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Minas x Cruzeiro</title>
+    <desc lang="pt">Quarta rodada do returno. Minas recebe o Cruzeiro na Arena UniBH, em Belo Horizonte?MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201010200 -0300" stop="20260201023200 -0300" channel="SporTV2 HD">
+    <title lang="pt">São José x JF Vôlei</title>
+    <desc lang="pt">Pela quarta rodada do returno, o São José (três vitórias e 11 derrotas na temporada, com 11 pontos na tabela) enfrenta o JF Vôlei (uma vitória e 13 derrotas na temporada, com dois pontos na tabela) no Ginásio Teatrão, em São José dos Campos, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201030200 -0300" stop="20260201043200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas x Cruzeiro</title>
+    <desc lang="pt">Quarta rodada do returno. Minas recebe o Cruzeiro na Arena UniBH, em Belo Horizonte?MG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260201050200 -0300" stop="20260201063200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasília x Maringá Vôlei</title>
+    <desc lang="pt">Quarta rodada do returno. O Brasília recebe o Maringá no Sesi Taguatinga Norte, em Brasília, DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195906,86 +195997,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260201034700 -0300" stop="20260201051700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Sétima Etapa - Estocolmo, Suécia</title>
-    <desc lang="pt">Sétima etapa da temporada 2025, realizada no Estádio Olímpico de Estocolmo, em Estocolmo, Suécia.</desc>
+  <programme start="20260201010200 -0300" stop="20260201023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260201073700 -0300" stop="20260201090700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Décima Quinta Etapa: Zurique, Suíça - Dia 1</title>
-    <desc lang="pt">Primeiro dia da décima quinta etapa do Circuito de Atletismo. De Zurique, na Suíça.</desc>
+  <programme start="20260201090200 -0300" stop="20260201103200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260201100200 -0300" stop="20260201113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260201170200 -0300" stop="20260201183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260201120200 -0300" stop="20260201133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201140200 -0300" stop="20260201153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201160200 -0300" stop="20260201173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201180200 -0300" stop="20260201193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201200200 -0300" stop="20260201213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201220200 -0300" stop="20260201233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201000200 -0300" stop="20260201013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201020200 -0300" stop="20260201033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260201040200 -0300" stop="20260201053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260201010200 -0300" stop="20260201023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
