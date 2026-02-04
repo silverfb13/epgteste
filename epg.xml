@@ -203068,22 +203068,64 @@
     </rating>
   </programme>
   <programme start="20260205111200 -0300" stop="20260205124200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Hóquei no Gelo Feminino: Suécia x Alemanha</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205191200 -0300" stop="20260205204200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260205134200 -0300" stop="20260205151200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Curling - Duplas Mistas</title>
+    <desc lang="pt">Disputa da terceira sessão entre duplas mistas, com os confrontos de Noruega e Canadá, e Estados Unidos e Suíça. Do Cortina Curling Olympic Stadium, em Cortina d&apos;Ampezzo, na Itália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205031200 -0300" stop="20260205044200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260205153700 -0300" stop="20260205170700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hóquei no Gelo Feminino: Estados Unidos x Tchéquia</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205183200 -0300" stop="20260205200200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Snowboard: Big Air - Classificação Masculina</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205201200 -0300" stop="20260205214200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hóquei no Gelo Feminino: Finlândia x Canadá</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205214700 -0300" stop="20260205231700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205000200 -0300" stop="20260205013200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205023200 -0300" stop="20260205040200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205043200 -0300" stop="20260205060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Feminina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -203361,14 +203403,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205021700 -0300" stop="20260205034700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260205041700 -0300" stop="20260205054700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 139</title>
+    <desc lang="pt">Evento de artes marciais mistas com 16 lutas no card. Da Arena BRB Nilson Nelson, em Brasília?DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205101700 -0300" stop="20260205114700 -0300" channel="SporTV3 HD">
+  <programme start="20260205071700 -0300" stop="20260205084700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 140</title>
+    <desc lang="pt">Evento de artes marciais mistas com 13 lutas no card. Do Ginásio Tartarugão, em Vila Velha, ES.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205094700 -0300" stop="20260205111700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 141</title>
+    <desc lang="pt">Evento de artes marciais mistas com as finais do Fight do Milhão, em combates pelas categorias peso-mosca feminino e peso-leve masculino valendo prêmio de 1 milhão de reais. Do Ginásio do Ibirapuera, em São Paulo?SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205124700 -0300" stop="20260205141700 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -203376,7 +203432,7 @@
     </rating>
   </programme>
   <programme start="20260205171700 -0300" stop="20260205184700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Al Akhdoud x Al Hilal</title>
+    <title lang="pt">Al Okhdood x Al Hilal</title>
     <desc lang="pt">Todas as emoções da principal competição de futebol masculino profissional da Arábia Saudita.</desc>
     <rating system="Brazil">
       <value>[14]</value>
