@@ -120721,7 +120721,7 @@
   </programme>
   <programme start="20260204210200 -0300" stop="20260204223200 -0300" channel="Premiere 3">
     <title lang="pt">Pré-Hora</title>
-    <desc lang="pt">As últimas informações antes do clássico entre Santos e São Paulo válido pela segunda rodada do Campeonato Brasileiro - Série A de 2026.</desc>
+    <desc lang="pt">As últimas informações e análises antes da bola rolar para o &quot;duelo de Tricolores&quot; entre Bahia e Fluminense válido pela segunda rodada do Campeonato Brasileiro - Série A de 2026.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -120847,7 +120847,7 @@
   </programme>
   <programme start="20260204210200 -0300" stop="20260204223200 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Pré-Hora</title>
-    <desc lang="pt">As últimas informações antes do clássico entre Santos e São Paulo válido pela segunda rodada do Campeonato Brasileiro - Série A de 2026.</desc>
+    <desc lang="pt">As últimas informações e análises antes da bola rolar para o &quot;duelo de Tricolores&quot; entre Bahia e Fluminense válido pela segunda rodada do Campeonato Brasileiro - Série A de 2026.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -122910,30 +122910,128 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260206141700 -0300" stop="20260206154700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260206110200 -0300" stop="20260206123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260206181700 -0300" stop="20260206194700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260206120200 -0300" stop="20260206133200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260206221700 -0300" stop="20260206234700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260206130200 -0300" stop="20260206143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260206021700 -0300" stop="20260206034700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260206140200 -0300" stop="20260206153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Vitória</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206150200 -0300" stop="20260206163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Internacional</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206160200 -0300" stop="20260206173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206170200 -0300" stop="20260206183200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Remo x Mirassol</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206180200 -0300" stop="20260206193200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206190200 -0300" stop="20260206203200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Corinthians</title>
+    <desc lang="pt">Valendo o título da Supercopa Rei, Flamengo e Corinthians duelam na Arena BRB Mané Garrincha, em Brasília, DF. Campeões do Brasileirão e da Copa do Brasil em 2025, respectivamente, o Rubro-Negro e o Timão decidem o primeiro troféu nacional de 2026.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206200200 -0300" stop="20260206213200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Vitória</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206210200 -0300" stop="20260206223200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro - Série B</title>
+    <desc lang="pt">Relembre a Batalha dos Aflitos, que consagrou o Grêmio campeão. Partida disputada em 26/11/2005.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206220200 -0300" stop="20260206233200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Tudo o que aconteceu na partida válida pela quinta rodada do Campeonato Brasileiro de 2006.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206230200 -0300" stop="20260207003200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Quartas de Final: Caxias x Ypiranga-RS</title>
+    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206014200 -0300" stop="20260206031200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206024200 -0300" stop="20260206041200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206034200 -0300" stop="20260206051200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206044200 -0300" stop="20260206061200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260206050200 -0300" stop="20260206063200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -197986,8 +198084,15 @@
     </rating>
   </programme>
   <programme start="20260205124700 -0300" stop="20260205141700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Jungle Fight 142</title>
+    <desc lang="pt">Evento de artes marciais mistas com disputas de cinturão nas categorias masculina até 120 kg e feminina até 61 kg. Do Anfiteatro do Riocentro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205164200 -0300" stop="20260205181200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Rivais históricos, Atlético-MG e Cruzeiro nunca haviam se encontrado numa decisão de título nacional. Rogério Corrêa relembra a final da Copa do Brasil de 2014 que retratou o ápice do futebol mineiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -197999,37 +198104,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205200200 -0300" stop="20260205213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260205193200 -0300" stop="20260205210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">A Nigéria busca a primeira medalha de ouro contra a poderosa Argentina.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205220200 -0300" stop="20260205233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260205204700 -0300" stop="20260205221700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Brasil x Ecuador U20</title>
+    <desc lang="pt">Décima segunda edição do campeonato de futebol feminino sub-20, sediado no Paraguai.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205000200 -0300" stop="20260205013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260205230200 -0300" stop="20260206003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Botafogo x Mogi</title>
+    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205020200 -0300" stop="20260205033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260205013200 -0300" stop="20260205030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">The Z Team</title>
+    <desc lang="pt">O Hall da Fama do Basquete e o medalhista olímpico de ouro, Christian Laettner, mostra aos jogadores do time de basquete da Garinger High School de Charlotte como eles podem melhorar sua forma.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260205040200 -0300" stop="20260205053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260205023200 -0300" stop="20260205040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Zagreb, Croácia - Finais</title>
+    <desc lang="pt">Lutas decisivas do segundo dia da etapa realizada na Arena Zagreb, em Zagreb, Croácia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260205042200 -0300" stop="20260205055200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Zagreb, Croácia - Finais</title>
+    <desc lang="pt">Lutas decisivas do segundo dia da etapa realizada na Arena Zagreb, em Zagreb, Croácia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
