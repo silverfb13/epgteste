@@ -94742,9 +94742,23 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208051700 -0300" stop="20260208064700 -0300" channel="Ideal TV HD">
-    <title lang="pt">Derby County x Ipswich Town</title>
-    <desc lang="pt">Do Pride Park Stadium, em Derby, Inglaterra.</desc>
+  <programme start="20260208034700 -0300" stop="20260208051700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Milano x Eczacibasi</title>
+    <desc lang="pt">Todas as emoções da principal competição feminina de vôlei entre clubes do Velho Continente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208061700 -0300" stop="20260208074700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Baú dos Campeões</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208064700 -0300" stop="20260208081700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bundesliga Clubs</title>
+    <desc lang="pt">A história dos clubes que fazem parte da primeira divisão do futebol da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -94763,23 +94777,93 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208090200 -0300" stop="20260208103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260208100200 -0300" stop="20260208113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Wolfsburg x Borussia Dortmund</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208170200 -0300" stop="20260208183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260208115200 -0300" stop="20260208132200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Arsenal x Manchester City</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260208010200 -0300" stop="20260208023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260208140200 -0300" stop="20260208153200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208141700 -0300" stop="20260208154700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tottenham Hotspur x Chelsea</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208162700 -0300" stop="20260208175700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208172200 -0300" stop="20260208185200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atlético de Madrid x Betis</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208193200 -0300" stop="20260208210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Juventus x Lazio</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208214700 -0300" stop="20260208231700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Swansea City x Sheffield Wednesday</title>
+    <desc lang="pt">Do Swansea.com Stadium, em Swansea, País de Gales.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208233200 -0300" stop="20260209010200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atlético de Madrid x Betis</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208011700 -0300" stop="20260208024700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Campeonato Italiano</title>
+    <desc lang="pt">Destaques e partidas históricas da Serie A, divisão de elite do futebol masculino italiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208023200 -0300" stop="20260208040200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Valencia x Real Madrid</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208041700 -0300" stop="20260208054700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260208044700 -0300" stop="20260208061700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tottenham Hotspur x Chelsea</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -191538,37 +191622,93 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260207043700 -0300" stop="20260207060700 -0300" channel="SporTV3 HD">
+  <programme start="20260207032700 -0300" stop="20260207045700 -0300" channel="SporTV3 HD">
     <title lang="pt">Décima Quinta Etapa: Zurique, Suíça - Dia 2</title>
     <desc lang="pt">Segundo dia da décima quinta etapa do Circuito Mundial de Atletismo. De Zurique, na Suíça.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260207080200 -0300" stop="20260207093200 -0300" channel="SporTV3 HD">
+  <programme start="20260207065200 -0300" stop="20260207082200 -0300" channel="SporTV3 HD">
     <title lang="pt">Segunda Etapa - Shaoxing, China</title>
     <desc lang="pt">Segundo evento da temporada 2025. Do Centro Esportivo da Cidade Têxtil da China, em Shaoxing, China.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260207085200 -0300" stop="20260207102200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260207100200 -0300" stop="20260207113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Abu Dhabi, Emirados Árabes Unidos - Finais</title>
+    <desc lang="pt">Decisões do primeiro dia da etapa realizada na Mubadala Arena, em Abu Dhabi, Emirados Árabes Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260207180200 -0300" stop="20260207193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260207121200 -0300" stop="20260207134200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Tóquio, Japão - Finais</title>
+    <desc lang="pt">Decisão do último dia do torneio de judô. Do Ginásio Metropolitano de Tóquio, no Japão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260207020200 -0300" stop="20260207033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260207150700 -0300" stop="20260207163700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Ippon - Os Bastidores do Judô</title>
+    <desc lang="pt">Os atletas brasileiros se preparam para a última etapa do Grand Slam de Judô em 2025, realizada no &quot;berço&quot; da modalidade: Tóquio, a capital do Japão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207155700 -0300" stop="20260207172700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Paris, França - Finais</title>
+    <desc lang="pt">Finais do segundo dia da etapa de abertura do Grand Slam em 2026. Da Accor Arena, em Paris, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207193200 -0300" stop="20260207210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Ippon - Os Bastidores do Judô</title>
+    <desc lang="pt">Os atletas brasileiros se preparam para a última etapa do Grand Slam de Judô em 2025, realizada no &quot;berço&quot; da modalidade: Tóquio, a capital do Japão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207201700 -0300" stop="20260207214700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fighters - Vida de Guerreiro</title>
+    <desc lang="pt">Conheça mais sobre a vida, a carreira, os desafios e a personalidade dos lutadores mais cascas-grossas do MMA brasileiro. Acompanhe o antes e o depois de cada batalha de atletas profissionais que se dedicam totalmente à prática das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207204700 -0300" stop="20260207221700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Bolívia x Brasil</title>
+    <desc lang="pt">Décima segunda edição do campeonato de futebol feminino sub-20, sediado no Paraguai.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207230200 -0300" stop="20260208003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">NFL - Road to the Super Bowl 2025</title>
+    <desc lang="pt">Destaques da temporada 2025 da liga de futebol americano dos EUA até a chegada ao Super Bowl.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207000200 -0300" stop="20260207013200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Paris, França - Finais</title>
+    <desc lang="pt">Finais do segundo dia da etapa de abertura do Grand Slam em 2026. Da Accor Arena, em Paris, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260207033200 -0300" stop="20260207050200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Tbilisi, Geórgia - Finais</title>
+    <desc lang="pt">Decisões do terceiro dia da etapa disputada no Palácio dos Esportes de Tbilisi, em Tbilisi, Geórgia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
