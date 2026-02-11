@@ -201143,29 +201143,29 @@
     </rating>
   </programme>
   <programme start="20260213084200 -0300" stop="20260213101200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Jogos Olímpicos de Inverno Milão-Cortina 2026</title>
+    <title lang="pt">Snowboard: Cross Masculino - Classificação</title>
     <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260213124200 -0300" stop="20260213141200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Jogos Olímpicos de Inverno Milão-Cortina 2026</title>
+    <title lang="pt">Snowboard: Cross Feminino - Final</title>
     <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260213140200 -0300" stop="20260213153200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Jogos Olímpicos de Inverno Milão-Cortina 2026</title>
+    <title lang="pt">Biatlo - 10km Sprint Masculino</title>
     <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260213150200 -0300" stop="20260213163200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Jogos Olímpicos de Inverno Milão-Cortina 2026</title>
-    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
+    <title lang="pt">Skeleton - Feminino e Masculino</title>
+    <desc lang="pt">Primeira e segunda bateria do skeleton feminino, além da disputa da terceira bateria masculina, que antecede a disputa da medalha de ouro da categoria. Do Cortina Sliding Centre, em Cortina d&apos;Ampezzo, Itália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201178,22 +201178,22 @@
     </rating>
   </programme>
   <programme start="20260213200700 -0300" stop="20260213213700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Jogos Olímpicos de Inverno Milão-Cortina 2026</title>
+    <title lang="pt">Patinação Artística: Individual Masculino - Patinação Livre</title>
     <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260213223200 -0300" stop="20260214000200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Superliga Masculina de Vôlei</title>
-    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <title lang="pt">Guarulhos x Monte Carmelo</title>
+    <desc lang="pt">Sexta rodada do returno. O Guarulhos recebe o Monte Carmelo no Ginásio da Ponte Grande, Guarulhos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260213003200 -0300" stop="20260213020200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Superliga Masculina de Vôlei</title>
-    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <title lang="pt">Sesi Bauru x Campinas</title>
+    <desc lang="pt">Sexta rodada do returno. O Sesi Bauru recebe o Campinas na Arena Paulo Skaf, em Bauru, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201235,7 +201235,7 @@
   </programme>
   <programme start="20260210082200 -0300" stop="20260210095200 -0300" channel="SporTV3 HD">
     <title lang="pt">Tbilisi, Geórgia - Finais</title>
-    <desc lang="pt">Decisões do terceiro dia da etapa disputada no Palácio dos Esportes de Tbilisi, em Tbilisi, Geórgia.</desc>
+    <desc lang="pt">Decisões do primeiro dia da etapa disputada no Palácio dos Esportes de Tbilisi, em Tbilisi, Geórgia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201275,7 +201275,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260210003200 -0300" stop="20260210020200 -0300" channel="SporTV3 HD">
+  <programme start="20260210002000 -0300" stop="20260210015000 -0300" channel="SporTV3 HD">
     <title lang="pt">Na Ponta dos Dedos</title>
     <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
@@ -201325,13 +201325,20 @@
     </rating>
   </programme>
   <programme start="20260211102200 -0300" stop="20260211115200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Abu Dhabi, Emirados Árabes Unidos - Finais</title>
+    <desc lang="pt">Decisões do terceiro e último dia da etapa na Mubadala Arena, em Abu Dhabi, Emirados Árabes Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260211123200 -0300" stop="20260211140200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211133200 -0300" stop="20260211150200 -0300" channel="SporTV3 HD">
     <title lang="pt">Baú do Esporte</title>
     <desc lang="pt">Rubens Barrichello relembra sua primeira vitória da carreira na Fórmula 1, uma das mais impressionantes dentre as 11 que conquistou nos mais de 20 anos da principal categoria do automobilismo: o GP da Alemanha de 2000.</desc>
     <rating system="Brazil">
@@ -201339,57 +201346,85 @@
     </rating>
   </programme>
   <programme start="20260211140200 -0300" stop="20260211153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Mulheres Icônicas</title>
+    <desc lang="pt">Conheça mulheres inspiradoras que deixaram sua marca no maior palco do esporte mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211145700 -0300" stop="20260211162700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260211160200 -0300" stop="20260211173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211170200 -0300" stop="20260211183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260211180200 -0300" stop="20260211193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Final: Argentina x Brasil</title>
+    <desc lang="pt">Valendo o título da Copa América de Futsal 2026, Argentina e Brasil se enfrentam na COP Arena - Óscar Harrison, em Luque, Paraguai. Diante de sua rival histórica, a Seleção Brasileira vai em busca do 12º título do torneio continental.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211200200 -0300" stop="20260211213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260211193200 -0300" stop="20260211210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fighters - Vida de Guerreiro</title>
+    <desc lang="pt">Conheça mais sobre a vida, a carreira, os desafios e a personalidade dos lutadores mais cascas-grossas do MMA brasileiro. Acompanhe o antes e o depois de cada batalha de atletas profissionais que se dedicam totalmente à prática das artes marciais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211220200 -0300" stop="20260211233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260211195700 -0300" stop="20260211212700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Mulheres Icônicas</title>
+    <desc lang="pt">Conheça mulheres inspiradoras que deixaram sua marca no maior palco do esporte mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211204700 -0300" stop="20260211221700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Peru U20 x Brasil</title>
+    <desc lang="pt">Décima segunda edição do campeonato de futebol feminino sub-20, sediado no Paraguai.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211230200 -0300" stop="20260212003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">On The Records</title>
+    <desc lang="pt">A história dos recordistas do atletismo Eddie Tolan, Dick Fosbury, Michael Johnson e Usain Bolt.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260211000200 -0300" stop="20260211013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Os destaques do segundo dia da etapa realizada na Praia dos Supertubos, em Peniche, Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260211020200 -0300" stop="20260211033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Os destaques do segundo dia da etapa realizada na Praia dos Supertubos, em Peniche, Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260211040200 -0300" stop="20260211053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Os destaques do segundo dia da etapa realizada na Praia dos Supertubos, em Peniche, Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
