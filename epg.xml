@@ -119802,21 +119802,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211213200 -0300" stop="20260211230200 -0300" channel="Premiere 3">
+  <programme start="20260211210200 -0300" stop="20260211223200 -0300" channel="Premiere 3">
     <title lang="pt">Chapecoense x Coritiba</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211000200 -0300" stop="20260211013200 -0300" channel="Premiere 3">
+  <programme start="20260211001200 -0300" stop="20260211014200 -0300" channel="Premiere 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211002200 -0300" stop="20260211015200 -0300" channel="Premiere 3">
     <title lang="pt">São Paulo x Grêmio</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211024200 -0300" stop="20260211041200 -0300" channel="Premiere 3">
+  <programme start="20260211030200 -0300" stop="20260211043200 -0300" channel="Premiere 3">
     <title lang="pt">Premiere 3</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
     <rating system="Brazil">
@@ -119935,21 +119942,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211213200 -0300" stop="20260211230200 -0300" channel="PREMIERE 3 HD">
+  <programme start="20260211210200 -0300" stop="20260211223200 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Chapecoense x Coritiba</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211000200 -0300" stop="20260211013200 -0300" channel="PREMIERE 3 HD">
+  <programme start="20260211001200 -0300" stop="20260211014200 -0300" channel="PREMIERE 3 HD">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260211002200 -0300" stop="20260211015200 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">São Paulo x Grêmio</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260211024200 -0300" stop="20260211041200 -0300" channel="PREMIERE 3 HD">
+  <programme start="20260211030200 -0300" stop="20260211043200 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Premiere 3</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
     <rating system="Brazil">
