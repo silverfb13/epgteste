@@ -91439,8 +91439,8 @@
     </rating>
   </programme>
   <programme start="20260214051700 -0300" stop="20260214064700 -0300" channel="Ideal TV HD">
-    <title lang="pt">Halkbank Spor Kulübü x BOGDANKA LUK Lublin</title>
-    <desc lang="pt">Todas as emoções da principal competição masculina de vôlei entre clubes do Velho Continente.</desc>
+    <title lang="pt">Central Córdoba x Gimnasia y Esgrima (Jujuy)</title>
+    <desc lang="pt">Competição em formato mata-mata que dá ao campeão vaga na Libertadores e na Supercopa Argentina.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -91459,23 +91459,100 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214090200 -0300" stop="20260214103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260214100200 -0300" stop="20260214113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Manchester City x Leicester City</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214170200 -0300" stop="20260214183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260214114700 -0300" stop="20260214131700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Borussia Dortmund x Mainz</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214010200 -0300" stop="20260214023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260214133200 -0300" stop="20260214150200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214142200 -0300" stop="20260214155200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Werder Bremen x Bayern de Munique</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214163200 -0300" stop="20260214180200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214165200 -0300" stop="20260214182200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Lazio x Atalanta</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214190200 -0300" stop="20260214203200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Derby County x Swansea City</title>
+    <desc lang="pt">Do Pride Park Stadium, em Derby, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214204700 -0300" stop="20260214221700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Halkbank Spor Kulübü x BOGDANKA LUK Lublin</title>
+    <desc lang="pt">Todas as emoções da principal competição masculina de vôlei entre clubes do Velho Continente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214223200 -0300" stop="20260215000200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Werder Bremen x Bayern de Munique</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214001700 -0300" stop="20260214014700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Lazio x Atalanta</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214020200 -0300" stop="20260214033200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214023200 -0300" stop="20260214040200 -0300" channel="Ideal TV HD">
+    <title lang="pt">The Inside Line</title>
+    <desc lang="pt">Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214030200 -0300" stop="20260214043200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Olympiacos Piraeus x Estrela Vermelha</title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214044700 -0300" stop="20260214061700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Nascar Cup Series</title>
+    <desc lang="pt">Compacto da 68ª edição das 500 Milhas de Daytona, prova que é considerada a mais importante e prestigiosa da Nascar Cup Series. Abrindo a temporada anual da categoria, a corrida é realizada no Daytona International Speedway, em Daytona Beach, EUA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -125067,8 +125144,8 @@
     </rating>
   </programme>
   <programme start="20260214180200 -0300" stop="20260214193200 -0300" channel="Record TV Florianopolis">
-    <title lang="pt">Cine Aventura</title>
-    <desc lang="pt">Aproveite esse espaço para se divertir com os maiores sucessos do cinema. Não deixe de acompanhar grandes produções premiadas e atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
+    <title lang="pt">Jornada da Vida</title>
+    <desc lang="pt">Em seu vilarejo no norte do Senegal, Yao é um garoto de 13 anos disposto a tudo para encontrar seu herói: Seydou Tall, um famoso ator francês. Convidado a promover seu novo livro em Dacar, Tall retorna ao seu país de origem pela primeira vez. Para realizar seu sonho, Yao prepara uma fuga e atravessa 387 km sozinho até a capital senegalesa. Comovido com a atitude do jovem, Tall o acompanha de volta para casa e, ao se dirigir ao vilarejo do garoto, o ator acaba indo de encontro às suas raízes.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -146138,7 +146215,7 @@
   </programme>
   <programme start="20260214013200 -0300" stop="20260214030200 -0300" channel="RedeTV! Pampa">
     <title lang="pt">Bastidores do Carnaval 2026</title>
-    <desc lang="pt">Sem descrição</desc>
+    <desc lang="pt">Os bastidores e toda a folia do Carnaval 2026 nas principais cidades brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -147125,7 +147202,7 @@
   </programme>
   <programme start="20260214013200 -0300" stop="20260214030200 -0300" channel="RedeTV! Sul">
     <title lang="pt">Bastidores do Carnaval 2026</title>
-    <desc lang="pt">Sem descrição</desc>
+    <desc lang="pt">Os bastidores e toda a folia do Carnaval 2026 nas principais cidades brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -172744,8 +172821,8 @@
     </rating>
   </programme>
   <programme start="20260214180200 -0300" stop="20260214193200 -0300" channel="RIC TV Florianópolis HD">
-    <title lang="pt">Cine Aventura</title>
-    <desc lang="pt">Aproveite esse espaço para se divertir com os maiores sucessos do cinema. Não deixe de acompanhar grandes produções premiadas e atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
+    <title lang="pt">Jornada da Vida</title>
+    <desc lang="pt">Em seu vilarejo no norte do Senegal, Yao é um garoto de 13 anos disposto a tudo para encontrar seu herói: Seydou Tall, um famoso ator francês. Convidado a promover seu novo livro em Dacar, Tall retorna ao seu país de origem pela primeira vez. Para realizar seu sonho, Yao prepara uma fuga e atravessa 387 km sozinho até a capital senegalesa. Comovido com a atitude do jovem, Tall o acompanha de volta para casa e, ao se dirigir ao vilarejo do garoto, o ator acaba indo de encontro às suas raízes.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -188179,22 +188256,85 @@
     </rating>
   </programme>
   <programme start="20260214112700 -0300" stop="20260214125700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Sydney, Austrália - Eliminatórias Femininas</title>
+    <desc lang="pt">Eliminatórias femininas da etapa de abertura do SLS Championship Tour 2026, realizada na Ken Rosewall Arena, em Sydney, Austrália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214131700 -0300" stop="20260214144700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Sydney, Austrália - Eliminatórias Masculinas</title>
+    <desc lang="pt">Eliminatórias masculinas da etapa de abertura do SLS Championship Tour 2026, realizada na Ken Rosewall Arena, em Sydney, Austrália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214154700 -0300" stop="20260214171700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Relembre a final do tênis feminino entre Monica Puig x Angelique Kerber.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214164200 -0300" stop="20260214181200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Franca x Minas</title>
+    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214184200 -0300" stop="20260214201200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final: Argentina x Brasil</title>
+    <desc lang="pt">Valendo o título da Copa América de Futsal 2026, Argentina e Brasil se enfrentam na COP Arena - Óscar Harrison, em Luque, Paraguai. Diante de sua rival histórica, a Seleção Brasileira vai em busca do 12º título do torneio continental.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214201200 -0300" stop="20260214214200 -0300" channel="SporTV3 HD">
+    <title lang="pt">The Z Team</title>
+    <desc lang="pt">A lenda do futebol camaronês e do Arsenal, Lauren, treina uma equipe de ligas amadoras do leste de Londres e tenta salvar o time do rebaixamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214211200 -0300" stop="20260214224200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214192700 -0300" stop="20260214205700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260214214700 -0300" stop="20260214231700 -0300" channel="SporTV3 HD">
+    <title lang="pt">América-MG x North</title>
+    <desc lang="pt">Toda a disputa da principal competição de futebol masculino entre clubes do estado de Minas Gerais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214032700 -0300" stop="20260214045700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260214000200 -0300" stop="20260214013200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Perth, Austrália - Dia 1</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214013200 -0300" stop="20260214030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Perth, Austrália - Dia 2</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214030200 -0300" stop="20260214043200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Auckland - Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa da segunda etapa do SailGP em 2026. De Auckland, na Nova Zelândia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214043200 -0300" stop="20260214060200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Perth, Austrália - Dia 1</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194037,7 +194177,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214090200 -0300" stop="20260214103200 -0300" channel="Telefe">
+  <programme start="20260214094700 -0300" stop="20260214111700 -0300" channel="Telefe">
     <title lang="pt">El Chavo y Chapulín</title>
     <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
@@ -194045,8 +194185,8 @@
     </rating>
   </programme>
   <programme start="20260214120200 -0300" stop="20260214133200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+    <title lang="pt">Una familia numerosa</title>
+    <desc lang="pt">Un hombre descubre que las donaciones de esperma anónimas que realizó en una clínica de fertilidad hace 20 años resultaron en 533 niños, y 142 de ellos han pedido conocer su identidad.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194058,7 +194198,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260214220200 -0300" stop="20260214233200 -0300" channel="Telefe">
+  <programme start="20260214193200 -0300" stop="20260214210200 -0300" channel="Telefe">
+    <title lang="pt">Mujeres al ataque</title>
+    <desc lang="pt">Tres mujeres unen fuerzas para vengarse de un hombre canalla, mentiroso e infiel que las traicionó a todas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214213200 -0300" stop="20260214230200 -0300" channel="Telefe">
+    <title lang="pt">Coyote Ugly</title>
+    <desc lang="pt">Una joven, con sueños de convertirse en compositora de éxito, presenta su trabajo en un bullicioso bar de Nueva York.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260214230200 -0300" stop="20260215003200 -0300" channel="Telefe">
     <title lang="pt">Escape perfecto</title>
     <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
@@ -194100,7 +194254,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260215090200 -0300" stop="20260215103200 -0300" channel="Telefe">
+  <programme start="20260215093200 -0300" stop="20260215110200 -0300" channel="Telefe">
     <title lang="pt">El Chavo y Chapulín</title>
     <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
@@ -194108,34 +194262,41 @@
     </rating>
   </programme>
   <programme start="20260215143200 -0300" stop="20260215160200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+    <title lang="pt">Papá por un día</title>
+    <desc lang="pt">Después de la muerte de su padre, un joven entrenador de hockey debe cuidar de su hermana de ocho años de edad, a quien nunca antes había conocido.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260215161700 -0300" stop="20260215174700 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260215163200 -0300" stop="20260215180200 -0300" channel="Telefe">
+    <title lang="pt">Loca por las compras</title>
+    <desc lang="pt">Como muchas mujeres de Nueva York, a Rebecca Bloomwood le encanta comprar. El problema es que ella compra demasiado y está muy endeudada. A Rebecca le encantaría trabajar en la mejor revista de modas de la ciudad, sin embargo no lo ha logrado. Entonces, ella consigue empleo como columnista consejera para una revista financiera propiedad de la misma compañía. Su columna se convierte en todo un éxito, pero su secreto amenaza con arruinar su carrera y su vida romántica.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260215174700 -0300" stop="20260215191700 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260215180200 -0300" stop="20260215193200 -0300" channel="Telefe">
+    <title lang="pt">Recién casados</title>
+    <desc lang="pt">Durante su luna de miel por Europa, una pareja se enfrenta con amigos entrometidos, familias que los desaprueban y a la mala suerte.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260215200200 -0300" stop="20260215213200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260215194700 -0300" stop="20260215211700 -0300" channel="Telefe">
+    <title lang="pt">Plan de vuelo</title>
+    <desc lang="pt">Una viuda pierde el control cuando su hija de seis años desaparece, sin dejar rastro, en un avión de última generación que vuela de Berlín a Nueva York, lo que desata una intensa búsqueda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260215220200 -0300" stop="20260215233200 -0300" channel="Telefe">
+  <programme start="20260215211700 -0300" stop="20260215224700 -0300" channel="Telefe">
+    <title lang="pt">Un cuento chino</title>
+    <desc lang="pt">Roberto ayuda a un hombre chino que no habla español y descubre que están relacionados a través de otro hombre.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260215230200 -0300" stop="20260216003200 -0300" channel="Telefe">
     <title lang="pt">Escape perfecto</title>
     <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
@@ -233980,8 +234141,8 @@
     </rating>
   </programme>
   <programme start="20260214180200 -0300" stop="20260214193200 -0300" channel="TV Clube HD">
-    <title lang="pt">Cine Aventura</title>
-    <desc lang="pt">Aproveite esse espaço para se divertir com os maiores sucessos do cinema. Não deixe de acompanhar grandes produções premiadas e atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
+    <title lang="pt">Jornada da Vida</title>
+    <desc lang="pt">Em seu vilarejo no norte do Senegal, Yao é um garoto de 13 anos disposto a tudo para encontrar seu herói: Seydou Tall, um famoso ator francês. Convidado a promover seu novo livro em Dacar, Tall retorna ao seu país de origem pela primeira vez. Para realizar seu sonho, Yao prepara uma fuga e atravessa 387 km sozinho até a capital senegalesa. Comovido com a atitude do jovem, Tall o acompanha de volta para casa e, ao se dirigir ao vilarejo do garoto, o ator acaba indo de encontro às suas raízes.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -234008,8 +234169,8 @@
     </rating>
   </programme>
   <programme start="20260214020200 -0300" stop="20260214033200 -0300" channel="TV Clube HD">
-    <title lang="pt">Super Tela</title>
-    <desc lang="pt">Divirta-se com os grandes sucessos do cinema. Prepare a pipoca e aproveite para acompanhar produções premiadas e ver atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
+    <title lang="pt">Os Mercenários 3</title>
+    <desc lang="pt">Barney e sua trupe de mercenários resgatam Doc, um dos integrantes do grupo, que estava preso há oito anos. Participando de uma missão, eles são surpreendidos quando reencontram Conrad, um comerciante de armas impiedoso, que Barney acreditava ter matado. Novos membros, mais jovens e mais rápidos, entram para equipe e um novo duelo começa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -260868,7 +261029,7 @@
   </programme>
   <programme start="20260214013200 -0300" stop="20260214030200 -0300" channel="TV Pantanal">
     <title lang="pt">Bastidores do Carnaval 2026</title>
-    <desc lang="pt">Sem descrição</desc>
+    <desc lang="pt">Os bastidores e toda a folia do Carnaval 2026 nas principais cidades brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -261309,7 +261470,7 @@
   </programme>
   <programme start="20260214013200 -0300" stop="20260214030200 -0300" channel="TV Pantanal HD">
     <title lang="pt">Bastidores do Carnaval 2026</title>
-    <desc lang="pt">Sem descrição</desc>
+    <desc lang="pt">Os bastidores e toda a folia do Carnaval 2026 nas principais cidades brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
