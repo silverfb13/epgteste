@@ -87932,29 +87932,29 @@
     </rating>
   </programme>
   <programme start="20260219100200 -0300" stop="20260219113200 -0300" channel="Golf Channel">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219110200 -0300" stop="20260219123200 -0300" channel="Golf Channel">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219150200 -0300" stop="20260219163200 -0300" channel="Golf Channel">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219200200 -0300" stop="20260219213200 -0300" channel="Golf Channel">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -88422,29 +88422,29 @@
     </rating>
   </programme>
   <programme start="20260219100200 -0300" stop="20260219113200 -0300" channel="Golf Channel HD">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219110200 -0300" stop="20260219123200 -0300" channel="Golf Channel HD">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219150200 -0300" stop="20260219163200 -0300" channel="Golf Channel HD">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219200200 -0300" stop="20260219213200 -0300" channel="Golf Channel HD">
-    <title lang="pt">DP World Tour de Golfe</title>
-    <desc lang="pt">Todas as etapas do principal circuito profissional de golfe masculino do continente europeu.</desc>
+    <title lang="pt">Magical Kenya Open - Primeira Rodada</title>
+    <desc lang="pt">Disputa do terceiro dia do torneio de golfe. Do Karen Country Club, em Nairobi, Quênia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199210,6 +199210,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260216010800 -0300" stop="20260216023800 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260216023200 -0300" stop="20260216040200 -0300" channel="SporTV2 HD">
     <title lang="pt">Diário de Inverno</title>
     <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
@@ -199673,14 +199680,14 @@
     </rating>
   </programme>
   <programme start="20260217040200 -0300" stop="20260217053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Primeiras Rodadas</title>
+    <title lang="pt">Rio Open de Tênis 2026</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260217063200 -0300" stop="20260217080200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Primeiras Rodadas</title>
+    <title lang="pt">Gustavo Heide (BRA) x Vit Kopriva (CZE)</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -199688,7 +199695,7 @@
   </programme>
   <programme start="20260217083200 -0300" stop="20260217100200 -0300" channel="SporTV3 HD">
     <title lang="pt">Finais Clássicas</title>
-    <desc lang="pt">Relembre a final do tênis feminino entre Monica Puig x Angelique Kerber.</desc>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199701,85 +199708,99 @@
     </rating>
   </programme>
   <programme start="20260217100200 -0300" stop="20260217113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Etapa de Perth, Austrália - Dia 2</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260217120200 -0300" stop="20260217133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260217113200 -0300" stop="20260217130200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260217140200 -0300" stop="20260217153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260217130200 -0300" stop="20260217143200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Against All Odds</title>
+    <desc lang="pt">O velejador argentino e hexacampeão olímpico Santiago Lange perdeu metade de seu pulmão para o câncer, mas ganhou seu primeiro ouro no Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260217160200 -0300" stop="20260217173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260217133200 -0300" stop="20260217150200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260217180200 -0300" stop="20260217193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260217143200 -0300" stop="20260217160200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Gustavo Heide (BRA) x Vit Kopriva (CZE)</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260217200200 -0300" stop="20260217213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260217170200 -0300" stop="20260217183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Rio Open de Tênis 2026</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260217190200 -0300" stop="20260217203200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Destaques e preparativos para a rodada do Rio Open, torneio de tênis realizado no Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260217193200 -0300" stop="20260217210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260217220200 -0300" stop="20260217233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260217000200 -0300" stop="20260217013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260217020200 -0300" stop="20260217033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260217040200 -0300" stop="20260217053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260218060200 -0300" stop="20260218073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260218040200 -0300" stop="20260218053200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260218080200 -0300" stop="20260218093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260218063200 -0300" stop="20260218080200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260218083200 -0300" stop="20260218100200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Primeiras Rodadas - Quadra 1</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199800,7 +199821,7 @@
   </programme>
   <programme start="20260218160200 -0300" stop="20260218173200 -0300" channel="SporTV3 HD">
     <title lang="pt">Finais Clássicas</title>
-    <desc lang="pt">Relembre a final do tênis feminino entre Monica Puig x Angelique Kerber.</desc>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199814,7 +199835,7 @@
   </programme>
   <programme start="20260218190200 -0300" stop="20260218203200 -0300" channel="SporTV3 HD">
     <title lang="pt">Pré-Jogo</title>
-    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <desc lang="pt">Destaques e preparativos para a rodada do Rio Open, torneio de tênis realizado no Rio de Janeiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199862,71 +199883,78 @@
     </rating>
   </programme>
   <programme start="20260219100200 -0300" stop="20260219113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260219120200 -0300" stop="20260219133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260219103700 -0300" stop="20260219120700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260219140200 -0300" stop="20260219153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260219114700 -0300" stop="20260219131700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada, Segunda Sessão - Dia 2</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219160200 -0300" stop="20260219173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Documentários e programas especiais sobre grandes atletas e histórias dos Jogos Olímpicos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260219180200 -0300" stop="20260219193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260219163200 -0300" stop="20260219180200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fome de Medalha</title>
+    <desc lang="pt">Primeira brasileira medalhista olímpica de tênis, Luisa Stefani relembra o início da carreira, quando sua família se mudou para os EUA apostando no sucesso da filha. Thiago ainda prepara uma receita inspirada em um dos países favoritos da tenista.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260219200200 -0300" stop="20260219213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260219170200 -0300" stop="20260219183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Segunda Fase - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260219190200 -0300" stop="20260219203200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260219193200 -0300" stop="20260219210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Rio Open de Tênis 2026</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219220200 -0300" stop="20260219233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Rio Open de Tênis 2026</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219000200 -0300" stop="20260219013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260219020200 -0300" stop="20260219033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Rio Open de Tênis 2026</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260219040200 -0300" stop="20260219053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Rio Open de Tênis 2026</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
