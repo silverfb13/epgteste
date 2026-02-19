@@ -199183,21 +199183,21 @@
     </rating>
   </programme>
   <programme start="20260218040200 -0300" stop="20260218053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <title lang="pt">Primeiras Rodadas - João Fonseca (BRA) x Thiago Monteiro (BRA)</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260218063200 -0300" stop="20260218080200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <title lang="pt">Primeiras Rodadas - Luis Guto Miguel (BRA) x Vilius Gaubas (LIT)</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260218083200 -0300" stop="20260218100200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Primeiras Rodadas - Quadra 1</title>
+    <title lang="pt">Rio Open de Tênis 2026</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -199219,13 +199219,13 @@
   </programme>
   <programme start="20260218160200 -0300" stop="20260218173200 -0300" channel="SporTV3 HD">
     <title lang="pt">Finais Clássicas</title>
-    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
+    <desc lang="pt">Relembre a final do tênis feminino entre Monica Puig x Angelique Kerber.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260218170200 -0300" stop="20260218183200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Primeiras Rodadas - Quadra Guga Kuerten</title>
+    <title lang="pt">Primeiras Rodadas - João Fonseca (BRA) x Thiago Monteiro (BRA)</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -213800,7 +213800,7 @@
   </programme>
   <programme start="20260219060200 -0300" stop="20260219073200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Magazine</title>
-    <desc lang="pt">Novidades sobre culinária, moda, saúde, música e muito mais.</desc>
+    <desc lang="pt">Un magazine sur des sujets d&apos;actualité d&apos;intérêt général pour la société.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213835,7 +213835,7 @@
   </programme>
   <programme start="20260219183200 -0300" stop="20260219200200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Magazine</title>
-    <desc lang="pt">Novidades sobre culinária, moda, saúde, música e muito mais.</desc>
+    <desc lang="pt">Un magazine sur des sujets d&apos;actualité d&apos;intérêt général pour la société.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213891,7 +213891,7 @@
   </programme>
   <programme start="20260220060200 -0300" stop="20260220073200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Magazine</title>
-    <desc lang="pt">Novidades sobre culinária, moda, saúde, música e muito mais.</desc>
+    <desc lang="pt">Un magazine sur des sujets d&apos;actualité d&apos;intérêt général pour la société.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -213926,7 +213926,7 @@
   </programme>
   <programme start="20260220183200 -0300" stop="20260220200200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Magazine</title>
-    <desc lang="pt">Novidades sobre culinária, moda, saúde, música e muito mais.</desc>
+    <desc lang="pt">Un magazine sur des sujets d&apos;actualité d&apos;intérêt général pour la société.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
