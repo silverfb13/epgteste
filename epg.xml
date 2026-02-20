@@ -74435,6 +74435,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260218023200 -0300" stop="20260218040200 -0300" channel="Globo News HD">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+    <desc lang="pt">Miriam Leitão recebe os principais nomes da economia brasileira para debater decisões do governo e do mercado que afetam o país e a vida dos cidadãos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260218030200 -0300" stop="20260218043200 -0300" channel="Globo News HD">
     <title lang="pt">Jornal GloboNews - Edição da Meia-Noite</title>
     <desc lang="pt">Narayanna Borges traz as repercussões das principais notícias no Brasil e no mundo.</desc>
@@ -85105,21 +85112,21 @@
   </programme>
   <programme start="20260221074200 -0300" stop="20260221091200 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221074500 -0300" stop="20260221091500 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221074800 -0300" stop="20260221091800 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85287,14 +85294,14 @@
   </programme>
   <programme start="20260221111200 -0300" stop="20260221124200 -0300" channel="Gloobinho HD">
     <title lang="pt">Leo, o Guarda da Floresta</title>
-    <desc lang="pt">Acompanhe as aventuras dos jovens guardas-florestais, Leo e Karie, e de seu companheiro Hero, com animais de todo o mundo.</desc>
+    <desc lang="pt">Em uma trilha, Jayden encontra uma raposa vermelha ferida. Leo, Katie e Hero iniciam a missão para ajudá-la, aprendem sobre as raposas e suas particularidades.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221111800 -0300" stop="20260221124800 -0300" channel="Gloobinho HD">
     <title lang="pt">Leo, o Guarda da Floresta</title>
-    <desc lang="pt">Acompanhe as aventuras dos jovens guardas-florestais, Leo e Karie, e de seu companheiro Hero, com animais de todo o mundo.</desc>
+    <desc lang="pt">Em uma trilha, Jayden encontra uma raposa vermelha ferida. Leo, Katie e Hero iniciam a missão para ajudá-la, aprendem sobre as raposas e suas particularidades.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85308,21 +85315,21 @@
   </programme>
   <programme start="20260221113000 -0300" stop="20260221130000 -0300" channel="Gloobinho HD">
     <title lang="pt">Leo, o Guarda da Floresta</title>
-    <desc lang="pt">Acompanhe as aventuras dos jovens guardas-florestais, Leo e Karie, e de seu companheiro Hero, com animais de todo o mundo.</desc>
+    <desc lang="pt">Em uma trilha, Jayden encontra uma raposa vermelha ferida. Leo, Katie e Hero iniciam a missão para ajudá-la, aprendem sobre as raposas e suas particularidades.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221113600 -0300" stop="20260221130600 -0300" channel="Gloobinho HD">
     <title lang="pt">Leo, o Guarda da Floresta</title>
-    <desc lang="pt">Acompanhe as aventuras dos jovens guardas-florestais, Leo e Karie, e de seu companheiro Hero, com animais de todo o mundo.</desc>
+    <desc lang="pt">Em uma trilha, Jayden encontra uma raposa vermelha ferida. Leo, Katie e Hero iniciam a missão para ajudá-la, aprendem sobre as raposas e suas particularidades.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221114200 -0300" stop="20260221131200 -0300" channel="Gloobinho HD">
     <title lang="pt">Leo, o Guarda da Floresta</title>
-    <desc lang="pt">Acompanhe as aventuras dos jovens guardas-florestais, Leo e Karie, e de seu companheiro Hero, com animais de todo o mundo.</desc>
+    <desc lang="pt">Em uma trilha, Jayden encontra uma raposa vermelha ferida. Leo, Katie e Hero iniciam a missão para ajudá-la, aprendem sobre as raposas e suas particularidades.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85343,28 +85350,28 @@
   </programme>
   <programme start="20260221121200 -0300" stop="20260221134200 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221121800 -0300" stop="20260221134800 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221122400 -0300" stop="20260221135400 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221123000 -0300" stop="20260221140000 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85595,7 +85602,7 @@
   </programme>
   <programme start="20260221150600 -0300" stop="20260221163600 -0300" channel="Gloobinho HD">
     <title lang="pt">Vovó Tatá</title>
-    <desc lang="pt">Juca e Keka brigam por um ursinho e Vovó Tatá leva a dupla para conhecer Zé Botina e Ferradura, que estão brigados. Cabem à Vovó Tatá e Box ensinar que a diversão está em poder compartilhar.</desc>
+    <desc lang="pt">Juca e Keka brigam por um ursinho e Vovó Tatá leva a dupla para conhecer Zé Botina e Ferradura, que estão brigados. Cabe à Vovó Tatá e Box ensinar que a diversão está em poder compartilhar.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85630,7 +85637,7 @@
   </programme>
   <programme start="20260221154200 -0300" stop="20260221171200 -0300" channel="Gloobinho HD">
     <title lang="pt">Pipas</title>
-    <desc lang="pt">Dracão enfrenta uma coceira intensa, então Sr. Carretel o leva ao consultório. Ao descobrir que Dracão precisará ficar longe, as Pipas se oferecem para cuidar do Farol da Lua.</desc>
+    <desc lang="pt">Dragão enfrenta uma coceira intensa, então Sr. Carretel o leva ao consultório. Ao descobrir que Dragão precisará ficar longe, as Pipas se oferecem para cuidar do Farol da Lua.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85714,105 +85721,105 @@
   </programme>
   <programme start="20260221170200 -0300" stop="20260221183200 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221170400 -0300" stop="20260221183400 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221170700 -0300" stop="20260221183700 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221170900 -0300" stop="20260221183900 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221171200 -0300" stop="20260221184200 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221171400 -0300" stop="20260221184400 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221171700 -0300" stop="20260221184700 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221171900 -0300" stop="20260221184900 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221172200 -0300" stop="20260221185200 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221172400 -0300" stop="20260221185400 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221172700 -0300" stop="20260221185700 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221172900 -0300" stop="20260221185900 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221173200 -0300" stop="20260221190200 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221173400 -0300" stop="20260221190400 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221173700 -0300" stop="20260221190700 -0300" channel="Gloobinho HD">
     <title lang="pt">Cocomelon</title>
-    <desc lang="pt">O bebê visita o avô na fazenda e se diverte muito aprendendo sobre os animais e os sons que fazem.</desc>
+    <desc lang="pt">A família e os amigos de JJ comemoram todos juntos o seu aniversário na fazenda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -86029,28 +86036,28 @@
   </programme>
   <programme start="20260221224200 -0300" stop="20260222001200 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221224800 -0300" stop="20260222001800 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221225400 -0300" stop="20260222002400 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221230000 -0300" stop="20260222003000 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -86134,7 +86141,7 @@
   </programme>
   <programme start="20260221004600 -0300" stop="20260221021600 -0300" channel="Gloobinho HD">
     <title lang="pt">Vovó Tatá</title>
-    <desc lang="pt">Juca e Keka brigam por um ursinho e Vovó Tatá leva a dupla para conhecer Zé Botina e Ferradura, que estão brigados. Cabem à Vovó Tatá e Box ensinar que a diversão está em poder compartilhar.</desc>
+    <desc lang="pt">Juca e Keka brigam por um ursinho e Vovó Tatá leva a dupla para conhecer Zé Botina e Ferradura, que estão brigados. Cabe à Vovó Tatá e Box ensinar que a diversão está em poder compartilhar.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -86169,7 +86176,7 @@
   </programme>
   <programme start="20260221012200 -0300" stop="20260221025200 -0300" channel="Gloobinho HD">
     <title lang="pt">Pipas</title>
-    <desc lang="pt">Dracão enfrenta uma coceira intensa, então Sr. Carretel o leva ao consultório. Ao descobrir que Dracão precisará ficar longe, as Pipas se oferecem para cuidar do Farol da Lua.</desc>
+    <desc lang="pt">Dragão enfrenta uma coceira intensa, então Sr. Carretel o leva ao consultório. Ao descobrir que Dragão precisará ficar longe, as Pipas se oferecem para cuidar do Farol da Lua.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -86379,35 +86386,35 @@
   </programme>
   <programme start="20260221041200 -0300" stop="20260221054200 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221041800 -0300" stop="20260221054800 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221042400 -0300" stop="20260221055400 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221043000 -0300" stop="20260221060000 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221043600 -0300" stop="20260221060600 -0300" channel="Gloobinho HD">
     <title lang="pt">As Aventuras do Bob Zoom</title>
-    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
+    <desc lang="pt">Bob Zoom vê um trevinho no meio das roseiras, mas ele se acaba se perdendo dos amigos. No entanto, Bob consegue encontrar o caminho de volta quando ouve a canção de Mami Zoom.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -86449,7 +86456,7 @@
   </programme>
   <programme start="20260221053200 -0300" stop="20260221070200 -0300" channel="Gloobinho HD">
     <title lang="pt">Vera e o Reino do Arco-Íris</title>
-    <desc lang="pt">As fontes Splishy Splashy são espetaculares, mas Monte Huffinpuff está incomodado.</desc>
+    <desc lang="pt">É o aniversário de Vera e todos estão cozinhando verdadeiras delícias para a festa, até Griselda. Mas, antes de comemorar, Vera precisa resolver uma bagunça gosmenta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194984,7 +194991,7 @@
   </programme>
   <programme start="20260218190200 -0300" stop="20260218203200 -0300" channel="SporTV3 HD">
     <title lang="pt">Pré-Jogo</title>
-    <desc lang="pt">Destaques e preparativos para a rodada do Rio Open, torneio de tênis realizado no Rio de Janeiro.</desc>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195010,9 +195017,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260218040200 -0300" stop="20260218053200 -0300" channel="SporTV3 HD">
+  <programme start="20260218030600 -0300" stop="20260218043600 -0300" channel="SporTV3 HD">
     <title lang="pt">Segunda Fase - Quadra Guga Kuerten</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260218034400 -0300" stop="20260218051400 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195102,21 +195116,21 @@
     </rating>
   </programme>
   <programme start="20260220040200 -0300" stop="20260220053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Rio Open de Tênis 2026</title>
+    <title lang="pt">Segunda Fase - Quadra Guga Kuerten</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260220063200 -0300" stop="20260220080200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Rio Open de Tênis 2026</title>
+    <title lang="pt">Segunda Fase - Quadra Guga Kuerten</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260220083200 -0300" stop="20260220100200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Rio Open de Tênis 2026</title>
+    <title lang="pt">Quartas de Final - Quadra 1</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -195647,21 +195661,35 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221050200 -0300" stop="20260221063200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260221060200 -0300" stop="20260221073200 -0300" channel="SporTV HD">
+    <title lang="pt">Ypiranga-RS x Internacional</title>
+    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221070200 -0300" stop="20260221083200 -0300" channel="SporTV HD">
+    <title lang="pt">Colômbia x Brasil</title>
+    <desc lang="pt">Décima segunda edição do campeonato de futebol feminino sub-20, sediado no Paraguai.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221080200 -0300" stop="20260221093200 -0300" channel="SporTV HD">
+    <title lang="pt">RB Leipzig x Wolfsburg</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221090200 -0300" stop="20260221103200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Sampaio Corrêa-RJ x Desportiva Ferroviária</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221130200 -0300" stop="20260221143200 -0300" channel="SporTV HD">
+  <programme start="20260221100200 -0300" stop="20260221113200 -0300" channel="SporTV HD">
     <title lang="pt">Programação SporTV</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
