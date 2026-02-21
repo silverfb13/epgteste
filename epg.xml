@@ -86972,6 +86972,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260221183200 -0300" stop="20260221200200 -0300" channel="Golf Channel">
+    <title lang="pt">Playing Lessons</title>
+    <desc lang="pt">Grandes nomes do passado e da atualidade do golfe profissional ensinam estratégias e técnicas eficazes, com muitas análises, explicações e conselhos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260221190200 -0300" stop="20260221203200 -0300" channel="Golf Channel">
     <title lang="pt">The Genesis Invitational - Segunda Rodada</title>
     <desc lang="pt">Segundo dia de disputa do torneio de golfe, realizado no The Riviera Country Club, na Califórnia.</desc>
@@ -93153,30 +93160,114 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221081700 -0300" stop="20260221094700 -0300" channel="Ideal TV HD">
-    <title lang="pt">Pinheiros x Paulistano</title>
-    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
+  <programme start="20260221100200 -0300" stop="20260221113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Heroines</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221090200 -0300" stop="20260221103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
+  <programme start="20260221103200 -0300" stop="20260221120200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bundesliga Clubs</title>
+    <desc lang="pt">A história dos clubes que fazem parte da primeira divisão do futebol da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221104700 -0300" stop="20260221121700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Freeride World Tour</title>
     <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221121700 -0300" stop="20260221134700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Blackburn Rovers x Preston North End</title>
+    <desc lang="pt">Do Estádio Ewood Park, em Blackburn, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221140200 -0300" stop="20260221153200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221145200 -0300" stop="20260221162200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Aston Villa x Leeds United</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221170200 -0300" stop="20260221183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221172200 -0300" stop="20260221185200 -0300" channel="Ideal TV HD">
+    <title lang="pt">RB Leipzig x Borussia Dortmund</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221193200 -0300" stop="20260221210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221195200 -0300" stop="20260221212200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atlético de Madrid x Espanyol</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221220200 -0300" stop="20260221233200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Braga x Vitória de Guimarães</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221234700 -0300" stop="20260222011700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Southampton x Charlton</title>
+    <desc lang="pt">Do Estádio St. Mary&apos;s, em Southampton, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221013200 -0300" stop="20260221030200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Aston Villa x Leeds United</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221031700 -0300" stop="20260221044700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Freeride World Tour</title>
     <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221010200 -0300" stop="20260221023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260221044700 -0300" stop="20260221061700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221051700 -0300" stop="20260221064700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Braga x Vitória de Guimarães</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190021,7 +190112,7 @@
   </programme>
   <programme start="20260219100200 -0300" stop="20260219113200 -0300" channel="SporTV3 HD">
     <title lang="pt">Na Ponta dos Dedos</title>
-    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <desc lang="pt">Fique por dentro da história do piloto brasileiro, que vem marcando seu nome na temporada.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190042,7 +190133,7 @@
   </programme>
   <programme start="20260219160200 -0300" stop="20260219173200 -0300" channel="SporTV3 HD">
     <title lang="pt">Na Ponta dos Dedos</title>
-    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <desc lang="pt">Fique por dentro da história do piloto brasileiro, que vem marcando seu nome na temporada.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190082,9 +190173,16 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260219030300 -0300" stop="20260219043300 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260219040200 -0300" stop="20260219053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Segunda Fase - Quadra Guga Kuerten</title>
-    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <title lang="pt">Tomás Martín Etcheverry (ARG) x Vilius Gaubas (LIT)</title>
+    <desc lang="pt">Pelas oitavas de final do torneio de simples, o argentino Tomás Martín Etcheverry e o lituano Vilius Gaubas se enfrentam na Quadra Guga Kuerten do Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190187,170 +190285,79 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221060200 -0300" stop="20260221073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260221053200 -0300" stop="20260221070200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Quartas de Final - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221080200 -0300" stop="20260221093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Quartas de Final - Quadra Guga Kuerten</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221100200 -0300" stop="20260221113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221120200 -0300" stop="20260221133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221140200 -0300" stop="20260221153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221160200 -0300" stop="20260221173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221180200 -0300" stop="20260221193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221200200 -0300" stop="20260221213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221220200 -0300" stop="20260221233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221000200 -0300" stop="20260221013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221020200 -0300" stop="20260221033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221040200 -0300" stop="20260221053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222060200 -0300" stop="20260222073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222080200 -0300" stop="20260222093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222100200 -0300" stop="20260222113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222120200 -0300" stop="20260222133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222140200 -0300" stop="20260222153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222160200 -0300" stop="20260222173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222180200 -0300" stop="20260222193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222200200 -0300" stop="20260222213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222220200 -0300" stop="20260222233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260222000200 -0300" stop="20260222013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260222020200 -0300" stop="20260222033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222040200 -0300" stop="20260222053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260222100200 -0300" stop="20260222113200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222170200 -0300" stop="20260222183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Lendas Olímpicas</title>
+    <desc lang="pt">A lendária ginasta romena, Nadia Comaneci, está passando adiante suas habilidades, além de fazer grande diferença para os menos afortunados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222173200 -0300" stop="20260222190200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222180200 -0300" stop="20260222193200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222020200 -0300" stop="20260222033200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190629,8 +190636,22 @@
     </rating>
   </programme>
   <programme start="20260221100200 -0300" stop="20260221113200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Grêmio x Palmeiras</title>
+    <desc lang="pt">Pela segunda rodada da primeira fase, o Grêmio enfrenta o Palmeiras no Estádio Francisco Novelletto Neto, em Porto Alegre, RS. As Gurias Gremistas estrearam perdendo por 2 a 1 para o Santos, enquanto as Palestrinas golearam o América-MG por 4 a 0.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221110200 -0300" stop="20260221123200 -0300" channel="SporTV HD">
+    <title lang="pt">Corinthians x Fluminense</title>
+    <desc lang="pt">Pela segunda rodada da primeira fase, o Corinthians recebe o Fluminense na Neo Química Arena, em São Paulo, SP. As Brabas do Timão estrearam batendo o Atlético-MG por 1 a 0, enquanto as Guerreiras do Fluzão ganharam do Vitória pelo mesmo placar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221120200 -0300" stop="20260221133200 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">O dia a dia do esporte e as principais notícias pelo país.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190643,15 +190664,22 @@
     </rating>
   </programme>
   <programme start="20260221160200 -0300" stop="20260221173200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">SporTV News</title>
+    <desc lang="pt">Acompanhe as últimas notícias esportivas do Brasil e do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221200200 -0300" stop="20260221213200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260221180200 -0300" stop="20260221193200 -0300" channel="SporTV HD">
+    <title lang="pt">Curling Masculino, Final</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221190200 -0300" stop="20260221203200 -0300" channel="SporTV HD">
+    <title lang="pt">Patinação Artística - Exibição de Gala</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190664,15 +190692,36 @@
     </rating>
   </programme>
   <programme start="20260221233200 -0300" stop="20260222010200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Boavista x Botafogo</title>
+    <desc lang="pt">Todas as emoções do principal torneio de futebol masculino entre clubes do estado do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221020200 -0300" stop="20260221033200 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">O dia a dia do esporte e as principais notícias pelo país.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260221033200 -0300" stop="20260221050200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Internacional x Ypiranga-RS</title>
+    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221043200 -0300" stop="20260221060200 -0300" channel="SporTV HD">
+    <title lang="pt">Boavista x Botafogo</title>
+    <desc lang="pt">Todas as emoções do principal torneio de futebol masculino entre clubes do estado do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221053200 -0300" stop="20260221070200 -0300" channel="SporTV HD">
+    <title lang="pt">RB Leipzig x Borussia Dortmund</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -196011,21 +196060,14 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221091700 -0300" stop="20260221104700 -0300" channel="Telefe">
-    <title lang="pt">Finde en Nick</title>
-    <desc lang="pt">Para acompañar a los más pequeños y divertirse junto a nuevos amigos, como Paw Patrol, Shimmer &amp; Shine, Alvin y las Ardillas, Dora y sus amigos y más.</desc>
+  <programme start="20260221094700 -0300" stop="20260221111700 -0300" channel="Telefe">
+    <title lang="pt">El Chavo y Chapulín</title>
+    <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221110200 -0300" stop="20260221123200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221123200 -0300" stop="20260221140200 -0300" channel="Telefe">
+  <programme start="20260221120200 -0300" stop="20260221133200 -0300" channel="Telefe">
     <title lang="pt">Película</title>
     <desc lang="pt">Arte cinematográfico mundial.</desc>
     <rating system="Brazil">
@@ -196033,48 +196075,55 @@
     </rating>
   </programme>
   <programme start="20260221140200 -0300" stop="20260221153200 -0300" channel="Telefe">
-    <title lang="pt">El Chavo y Chapulín</title>
-    <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221160200 -0300" stop="20260221173200 -0300" channel="Telefe">
     <title lang="pt">Los Simpson</title>
     <desc lang="pt">En Springfield, los Simpson, una familia de clase trabajadora compuesta por Marge, Homero, Bart, Lisa y Maggie, vive aventuras satíricas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221210200 -0300" stop="20260221223200 -0300" channel="Telefe">
-    <title lang="pt">Cobra Kai</title>
-    <desc lang="pt">Treinta y cuatro años después de los eventos del torneo de karate All Valley de 1984, Johnny Lawrence busca la redención al abrir un dojo Cobra Kai, reavivando su rivalidad con un exitoso Daniel LaRusso.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221001700 -0300" stop="20260221014700 -0300" channel="Telefe">
-    <title lang="pt">Pasapalabra</title>
-    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221020200 -0300" stop="20260221033200 -0300" channel="Telefe">
-    <title lang="pt">Pasapalabra</title>
-    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260221031700 -0300" stop="20260221044700 -0300" channel="Telefe">
+  <programme start="20260221193200 -0300" stop="20260221210200 -0300" channel="Telefe">
     <title lang="pt">Película</title>
     <desc lang="pt">Arte cinematográfico mundial.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221044700 -0300" stop="20260221061700 -0300" channel="Telefe">
+  <programme start="20260221213200 -0300" stop="20260221230200 -0300" channel="Telefe">
+    <title lang="pt">Película</title>
+    <desc lang="pt">Arte cinematográfico mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221230200 -0300" stop="20260222003200 -0300" channel="Telefe">
+    <title lang="pt">Escape perfecto</title>
+    <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221003200 -0300" stop="20260221020200 -0300" channel="Telefe">
+    <title lang="pt">MasterChef celebrity</title>
+    <desc lang="pt">Las celebridades que participan en esta edición del programa deberán superar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221023200 -0300" stop="20260221040200 -0300" channel="Telefe">
+    <title lang="pt">Escape perfecto</title>
+    <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221031700 -0300" stop="20260221044700 -0300" channel="Telefe">
+    <title lang="pt">Por el mundo</title>
+    <desc lang="pt">Un recorrido por el mundo en busca de nuevas culturas, costumbres y platos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221050200 -0300" stop="20260221063200 -0300" channel="Telefe">
     <title lang="pt">Fuera del aire</title>
     <desc lang="pt">Fin de emisión.</desc>
     <rating system="Brazil">
