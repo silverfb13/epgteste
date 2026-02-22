@@ -192595,16 +192595,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222020200 -0300" stop="20260222033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260222060200 -0300" stop="20260222073200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Rio Open de Tênis 2026</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222080200 -0300" stop="20260222093200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final Duplas</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260222100200 -0300" stop="20260222113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Anatomy Of</title>
+    <desc lang="pt">Saiba mais sobre o físico de atletas de elite de BMX, basquete e surfe com a participação da atleta norte-americana Lori &quot;LoLo&quot; Jones, especialista nos 100 metros com barreiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222103200 -0300" stop="20260222120200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Flamengo x Bauru</title>
+    <desc lang="pt">Rodada 18, segundo turno. O Flamengo recebe o Bauru no Ginásio do Maracanãzinho, Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222123200 -0300" stop="20260222140200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Ginástica Artística: Cottbus, Alemanha - Finais</title>
+    <desc lang="pt">Segundo dia de decisões e último de disputa da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222164200 -0300" stop="20260222181200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fome de Medalha</title>
+    <desc lang="pt">Thiago Castanho conhece Flavia Saraiva, a &quot;pequena gigante&quot; da ginástica artística brasileira. Uma conversa descontraída revela a modalidade favorita da atleta, seus ídolos no esporte, a sensação de se descobrir famosa em todo o Brasil e muito mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192624,15 +192652,43 @@
     </rating>
   </programme>
   <programme start="20260222180200 -0300" stop="20260222193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Semifinal</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222020200 -0300" stop="20260222033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260222200200 -0300" stop="20260222213200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222203200 -0300" stop="20260222220200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222230200 -0300" stop="20260223003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Brasil x Argentina U20</title>
+    <desc lang="pt">Décima segunda edição do campeonato de futebol feminino sub-20, sediado no Paraguai.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222010200 -0300" stop="20260222023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222040200 -0300" stop="20260222053200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Semifinal</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
