@@ -192266,16 +192266,51 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260221040200 -0300" stop="20260221053200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260221002200 -0300" stop="20260221015200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260222040200 -0300" stop="20260222053200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260221021900 -0300" stop="20260221034900 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221023200 -0300" stop="20260221040200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260221043200 -0300" stop="20260221060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222043200 -0300" stop="20260222060200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222063200 -0300" stop="20260222080200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260222083200 -0300" stop="20260222100200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Bobsled: Quádruplo Masculino - Baterias 1 e 2</title>
+    <desc lang="pt">Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192491,22 +192526,85 @@
     </rating>
   </programme>
   <programme start="20260224104700 -0300" stop="20260224121700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Grand Smash de Singapura de Tênis de Mesa 2026</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224184700 -0300" stop="20260224201700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260224113200 -0300" stop="20260224130200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Grand Smash de Singapura de Tênis de Mesa 2026</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224024700 -0300" stop="20260224041700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260224121700 -0300" stop="20260224134700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Grand Smash de Singapura de Tênis de Mesa 2026</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224130200 -0300" stop="20260224143200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224150200 -0300" stop="20260224163200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224170200 -0300" stop="20260224183200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores equipes de vôlei feminino da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224190200 -0300" stop="20260224203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores equipes de vôlei feminino da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224210200 -0300" stop="20260224223200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores equipes de vôlei feminino da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224230200 -0300" stop="20260225003200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224000200 -0300" stop="20260224013200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Goiás x Guarulhos</title>
+    <desc lang="pt">Sétima rodada do returno. O Goiás recebe o Guarulhos no Ginásio Rio Vermelho, em Goiânia, GO.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224020200 -0300" stop="20260224033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224040200 -0300" stop="20260224053200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Suzano</title>
+    <desc lang="pt">Sétima rodada do returno. O Praia Clube recebe o Suzano no Ginásio UTC, em Uberlândia, MG.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192687,8 +192785,15 @@
     </rating>
   </programme>
   <programme start="20260223060200 -0300" stop="20260223073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Final Duplas</title>
-    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260223070200 -0300" stop="20260223083200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192743,106 +192848,127 @@
     </rating>
   </programme>
   <programme start="20260223000200 -0300" stop="20260223013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Ginástica de Trampolim: Cottbus, Alemanha - Finais</title>
-    <desc lang="pt">Decisões individuais da etapa da Copa do Mundo realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
+    <title lang="pt">Ginástica Artística: Cottbus, Alemanha - Finais</title>
+    <desc lang="pt">Primeiro dia de decisões da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260223040200 -0300" stop="20260223053200 -0300" channel="SporTV3 HD">
     <title lang="pt">Ginástica Artística: Cottbus, Alemanha - Finais</title>
-    <desc lang="pt">Segundo dia de decisões e último de disputa da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
+    <desc lang="pt">Primeiro dia de decisões da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260224040200 -0300" stop="20260224053200 -0300" channel="SporTV3 HD">
     <title lang="pt">Ginástica Artística: Cottbus, Alemanha - Finais</title>
-    <desc lang="pt">Segundo dia de decisões e último de disputa da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
+    <desc lang="pt">Primeiro dia de decisões da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260224080200 -0300" stop="20260224093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Etapa de Perth, Austrália - Dia 2</title>
-    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224093200 -0300" stop="20260224110200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Momentos Olímpicos Inesquecíveis</title>
-    <desc lang="pt">Conheça grandes atletas olímpicos que lidaram com lesões ou derrotas iminentes e viraram o jogo.</desc>
+  <programme start="20260224090200 -0300" stop="20260224103200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final Duplas</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224100200 -0300" stop="20260224113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224110200 -0300" stop="20260224123200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Semifinal</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224120200 -0300" stop="20260224133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260224140200 -0300" stop="20260224153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224130200 -0300" stop="20260224143200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260224160200 -0300" stop="20260224173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224180200 -0300" stop="20260224193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224163200 -0300" stop="20260224180200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias e revelaram superestrelas. Pelas telas do cinema, gerações de brasileiros tiveram o primeiro contato com as artes marciais. O programa destrincha este fenômeno mergulhando em dez grandes clássicos, revelando bastidores inéditos das gravações e investigando como esses filmes influenciaram estrelas do MMA e fazem parte da memória afetiva brasileira.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224200200 -0300" stop="20260224213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224170200 -0300" stop="20260224183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224220200 -0300" stop="20260224233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224173200 -0300" stop="20260224190200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fight Music Show 6</title>
+    <desc lang="pt">Evento que une boxe, música e entretenimento, com lutas entre influenciadores, celebridades e atletas renomados. No duelo principal, o ex-campeão mundial Acelino &quot;Popó&quot; Freitas enfrenta o ator Duda Nagle. Do Vibra São Paulo, em São Paulo, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224000200 -0300" stop="20260224013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224203200 -0300" stop="20260224220200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224020200 -0300" stop="20260224033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224213200 -0300" stop="20260224230200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260224040200 -0300" stop="20260224053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260224222700 -0300" stop="20260224235700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224235700 -0300" stop="20260225012700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224013200 -0300" stop="20260224030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224023200 -0300" stop="20260224040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Paris, França - Finais</title>
+    <desc lang="pt">Finais do segundo dia da etapa de abertura do Grand Slam em 2026. Da Accor Arena, em Paris, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260224051200 -0300" stop="20260224064200 -0300" channel="SporTV3 HD">
+    <title lang="pt">FMS 2: Acelino Popó Freitas x José Pelé Landy - John Allan x Diego Dias</title>
+    <desc lang="pt">Acompanhe todas as emoções do combate de John Allan e Diego Dias.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
