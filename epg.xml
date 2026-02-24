@@ -195837,8 +195837,8 @@
     </rating>
   </programme>
   <programme start="20260225060200 -0300" stop="20260225073200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Campinas x Minas</title>
-    <desc lang="pt">Sétima rodada do returno. Campinas recebe Minas no Ginásio do Taquaral, em Campinas, SP.</desc>
+    <title lang="pt">Superliga Masculina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195998,7 +195998,7 @@
     </rating>
   </programme>
   <programme start="20260223080200 -0300" stop="20260223093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Final</title>
+    <title lang="pt">Final Duplas</title>
     <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -196048,14 +196048,14 @@
   </programme>
   <programme start="20260223000200 -0300" stop="20260223013200 -0300" channel="SporTV3 HD">
     <title lang="pt">Ginástica Artística: Cottbus, Alemanha - Finais</title>
-    <desc lang="pt">Primeiro dia de decisões da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
+    <desc lang="pt">Segundo dia de decisões e último de disputa da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260223040200 -0300" stop="20260223053200 -0300" channel="SporTV3 HD">
     <title lang="pt">Ginástica Artística: Cottbus, Alemanha - Finais</title>
-    <desc lang="pt">Primeiro dia de decisões da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
+    <desc lang="pt">Segundo dia de decisões e último de disputa da etapa de abertura da Copa do Mundo de Ginástica Artística em 2026, realizada na Lausitz-Arena, em Cottbus, Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
