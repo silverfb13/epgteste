@@ -121903,22 +121903,127 @@
     </rating>
   </programme>
   <programme start="20260227110200 -0300" stop="20260227123200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227190200 -0300" stop="20260227203200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260227114200 -0300" stop="20260227131200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227030200 -0300" stop="20260227043200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260227124200 -0300" stop="20260227141200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227134200 -0300" stop="20260227151200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227144200 -0300" stop="20260227161200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227154200 -0300" stop="20260227171200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227164200 -0300" stop="20260227181200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227174200 -0300" stop="20260227191200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227184200 -0300" stop="20260227201200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227194200 -0300" stop="20260227211200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227204200 -0300" stop="20260227221200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Tudo o que aconteceu na partida válida pela 11ª rodada do Campeonato Brasileiro de 2008.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227214200 -0300" stop="20260227231200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Carioca de Futebol</title>
+    <desc lang="pt">Loco brilha, faz três gols e com emoção leva o Glorioso à decisão da Taça Rio de 2012. Resultado: Bangu 2 x 4 Botafogo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227224200 -0300" stop="20260228001200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Taça Rio, Semifinal: Volta Redonda x Bangu</title>
+    <desc lang="pt">Pelo duelo de volta da semifinal da Taça Rio, o Volta Redonda recebe o Bangu no Estádio da Cidadania, em Volta Redonda, RJ. O Voltaço precisa vencer por dois ou mais gols para avançar no tempo normal, enquanto o Alvirrubro só precisa de um empate.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227011200 -0300" stop="20260227024200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: Vasco x Fluminense</title>
+    <desc lang="pt">Pelo duelo de ida da semifinal, o Vasco enfrenta o Fluminense no Estádio Nilton Santos, no Rio de Janeiro, RJ. O Cruzmaltino venceu dois e perdeu três confrontos contra o Tricolor Carioca em 2025, mas eliminou o rival na semi da Copa do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227021200 -0300" stop="20260227034200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: Flamengo x Madureira</title>
+    <desc lang="pt">Pelo duelo de ida da semifinal, o Flamengo enfrenta o Madureira no Estádio do Maracanã, no Rio de Janeiro, RJ. O Rubro-Negro venceu 13 e empatou seis de seus 19 últimos confrontos diante do Tricolor Suburbano, do qual não perde desde março de 2007.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227031200 -0300" stop="20260227044200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Botafogo x Flamengo</title>
+    <desc lang="pt">Todas as emoções do principal torneio de futebol masculino entre clubes do estado do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227041200 -0300" stop="20260227054200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Volta Redonda</title>
+    <desc lang="pt">Todas as emoções do principal torneio de futebol masculino entre clubes do estado do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227051200 -0300" stop="20260227064200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -200855,14 +200960,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226020200 -0300" stop="20260226033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260226040200 -0300" stop="20260226053200 -0300" channel="SporTV3 HD">
+    <title lang="pt">MAC 15</title>
+    <desc lang="pt">Evento de artes marciais mistas com nove lutas no card; no combate principal, Ricardo Tigrão enfrenta Renan Oliveira valendo o título da categoria peso-pena. Da Associação Atlética Banco do Brasil, no Rio de Janeiro?RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226070200 -0300" stop="20260226083200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fight Music Show 6</title>
+    <desc lang="pt">Evento que une boxe, música e entretenimento, com lutas entre influenciadores, celebridades e atletas renomados. No duelo principal, o ex-campeão mundial Acelino &quot;Popó&quot; Freitas enfrenta o ator Duda Nagle. Do Vibra São Paulo, em São Paulo, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260226100200 -0300" stop="20260226113200 -0300" channel="SporTV3 HD">
+    <title lang="pt">To Be Announced</title>
+    <desc lang="pt">Programming to be announced.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226101200 -0300" stop="20260226114200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -200932,72 +201051,23 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227100200 -0300" stop="20260227113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260227091700 -0300" stop="20260227104700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227120200 -0300" stop="20260227133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260227171700 -0300" stop="20260227184700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227140200 -0300" stop="20260227153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227160200 -0300" stop="20260227173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227180200 -0300" stop="20260227193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227200200 -0300" stop="20260227213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227220200 -0300" stop="20260227233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227000200 -0300" stop="20260227013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227020200 -0300" stop="20260227033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227040200 -0300" stop="20260227053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260227011700 -0300" stop="20260227024700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
