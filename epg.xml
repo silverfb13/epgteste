@@ -36859,9 +36859,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260225030200 -0300" stop="20260225043200 -0300" channel="Canal Universitário CNU">
+  <programme start="20260225003200 -0300" stop="20260225020200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260225010200 -0300" stop="20260225023200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260225023200 -0300" stop="20260225040200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Articulando</title>
+    <desc lang="pt">Professores e artistas visitam exposições na cidade de São Paulo e entram em diálogo com curadores e autores. Uma forma de se apropriar e preservar a riquíssima oferta de exposições de arte que a cidade oferece.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260225030200 -0300" stop="20260225043200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -36894,6 +36915,20 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260226070200 -0300" stop="20260226083200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Histórias Reais</title>
+    <desc lang="pt">Entrevistas com autores nas áreas de narrativas jornalísticas e documentais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226073200 -0300" stop="20260226090200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260226080200 -0300" stop="20260226093200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Tradições do Interior</title>
     <desc lang="pt">Por meio de histórias da cultura popular, conheça as peculiaridades do interior paulista.</desc>
@@ -36902,6 +36937,20 @@
     </rating>
   </programme>
   <programme start="20260226083200 -0300" stop="20260226100200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226093200 -0300" stop="20260226110200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Desafio - Profissão</title>
+    <desc lang="pt">Um programa que coloca em pauta as várias profissões e o processo de escolha profissional, apresentando casos para que os professores e pesquisadores possam abordar suas linhas temáticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226100200 -0300" stop="20260226113200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -36922,6 +36971,20 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260226133200 -0300" stop="20260226150200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Depoimento</title>
+    <desc lang="pt">Depoimentos pouco editados, que revelam não apenas conteúdos, mas modos de falar, formas de pensar e onde o silêncio pode ter espaço e significados. O encontro de uma personalidade com um assunto, mediado por um entrevistador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226140200 -0300" stop="20260226153200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260226143200 -0300" stop="20260226160200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Papo de Jr</title>
     <desc lang="pt">Debates sobre os mercados júnior e sênior na área de comunicação com convidados da área.</desc>
@@ -36930,8 +36993,22 @@
     </rating>
   </programme>
   <programme start="20260226150200 -0300" stop="20260226163200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Terra em Transe</title>
+    <desc lang="pt">Pesquisas e debates sobre questões contemporâneas envolvendo política e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226153200 -0300" stop="20260226170200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226170200 -0300" stop="20260226183200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Depoimento</title>
+    <desc lang="pt">Depoimentos pouco editados, que revelam não apenas conteúdos, mas modos de falar, formas de pensar e onde o silêncio pode ter espaço e significados. O encontro de uma personalidade com um assunto, mediado por um entrevistador.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -36944,6 +37021,20 @@
     </rating>
   </programme>
   <programme start="20260226180200 -0300" stop="20260226193200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226200200 -0300" stop="20260226213200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226203200 -0300" stop="20260226220200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -36964,9 +37055,44 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226030200 -0300" stop="20260226043200 -0300" channel="Canal Universitário CNU">
+  <programme start="20260226220200 -0300" stop="20260226233200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Articulando</title>
+    <desc lang="pt">Professores e artistas visitam exposições na cidade de São Paulo e entram em diálogo com curadores e autores. Uma forma de se apropriar e preservar a riquíssima oferta de exposições de arte que a cidade oferece.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226223200 -0300" stop="20260227000200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226010200 -0300" stop="20260226023200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Terra em Transe</title>
+    <desc lang="pt">Pesquisas e debates sobre questões contemporâneas envolvendo política e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226013200 -0300" stop="20260226030200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226023200 -0300" stop="20260226040200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Biblioteca Labô</title>
+    <desc lang="pt">Acompanhe conversas com convidados sobre grandes obras das literaturas nacional e internacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226030200 -0300" stop="20260226043200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Biblioteca Labô</title>
+    <desc lang="pt">Acompanhe conversas com convidados sobre grandes obras das literaturas nacional e internacional.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -36992,7 +37118,28 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227043200 -0300" stop="20260227060200 -0300" channel="Canal Universitário CNU">
+  <programme start="20260226053200 -0300" stop="20260226070200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Desafio - Profissão</title>
+    <desc lang="pt">Um programa que coloca em pauta as várias profissões e o processo de escolha profissional, apresentando casos para que os professores e pesquisadores possam abordar suas linhas temáticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227060200 -0300" stop="20260227073200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227070200 -0300" stop="20260227083200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Histórias Reais</title>
+    <desc lang="pt">Entrevistas com autores nas áreas de narrativas jornalísticas e documentais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227073200 -0300" stop="20260227090200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -37041,6 +37188,34 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260227150200 -0300" stop="20260227163200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Articulando</title>
+    <desc lang="pt">Professores e artistas visitam exposições na cidade de São Paulo e entram em diálogo com curadores e autores. Uma forma de se apropriar e preservar a riquíssima oferta de exposições de arte que a cidade oferece.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227153200 -0300" stop="20260227170200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227163200 -0300" stop="20260227180200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Terra em Transe</title>
+    <desc lang="pt">Pesquisas e debates sobre questões contemporâneas envolvendo política e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227170200 -0300" stop="20260227183200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260227180200 -0300" stop="20260227193200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Ciência sem Limites</title>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
@@ -37051,6 +37226,34 @@
   <programme start="20260227183200 -0300" stop="20260227200200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227190200 -0300" stop="20260227203200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Depoimento</title>
+    <desc lang="pt">Depoimentos pouco editados, que revelam não apenas conteúdos, mas modos de falar, formas de pensar e onde o silêncio pode ter espaço e significados. O encontro de uma personalidade com um assunto, mediado por um entrevistador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227193200 -0300" stop="20260227210200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227210200 -0300" stop="20260227223200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227213200 -0300" stop="20260227230200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Biblioteca Labô</title>
+    <desc lang="pt">Acompanhe conversas com convidados sobre grandes obras das literaturas nacional e internacional.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -37069,9 +37272,16 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260227023200 -0300" stop="20260227040200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Desafio - Profissão</title>
+    <desc lang="pt">Um programa que coloca em pauta as várias profissões e o processo de escolha profissional, apresentando casos para que os professores e pesquisadores possam abordar suas linhas temáticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260227030200 -0300" stop="20260227043200 -0300" channel="Canal Universitário CNU">
-    <title lang="pt">Programação Canal Universitário</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -37118,6 +37328,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260228083200 -0300" stop="20260228100200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Biblioteca Labô</title>
+    <desc lang="pt">Acompanhe conversas com convidados sobre grandes obras das literaturas nacional e internacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260228090200 -0300" stop="20260228103200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Papo de Jr</title>
     <desc lang="pt">Debates sobre os mercados júnior e sênior na área de comunicação com convidados da área.</desc>
@@ -37126,6 +37343,20 @@
     </rating>
   </programme>
   <programme start="20260228093200 -0300" stop="20260228110200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228110200 -0300" stop="20260228123200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228113200 -0300" stop="20260228130200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -37146,6 +37377,48 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260228150200 -0300" stop="20260228163200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Histórias Reais</title>
+    <desc lang="pt">Entrevistas com autores nas áreas de narrativas jornalísticas e documentais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228153200 -0300" stop="20260228170200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228163200 -0300" stop="20260228180200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228170200 -0300" stop="20260228183200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228180200 -0300" stop="20260228193200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Terra em Transe</title>
+    <desc lang="pt">Pesquisas e debates sobre questões contemporâneas envolvendo política e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228183200 -0300" stop="20260228200200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260228190200 -0300" stop="20260228203200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Ciência sem Limites</title>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
@@ -37154,6 +37427,20 @@
     </rating>
   </programme>
   <programme start="20260228193200 -0300" stop="20260228210200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Programação Canal Universitário</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228203200 -0300" stop="20260228220200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228210200 -0300" stop="20260228223200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -37174,9 +37461,37 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228030200 -0300" stop="20260228043200 -0300" channel="Canal Universitário CNU">
+  <programme start="20260228003200 -0300" stop="20260228020200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228010200 -0300" stop="20260228023200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Biblioteca Labô</title>
+    <desc lang="pt">Acompanhe conversas com convidados sobre grandes obras das literaturas nacional e internacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228013200 -0300" stop="20260228030200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Programação Canal Universitário</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228023200 -0300" stop="20260228040200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Terra em Transe</title>
+    <desc lang="pt">Pesquisas e debates sobre questões contemporâneas envolvendo política e outros temas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228030200 -0300" stop="20260228043200 -0300" channel="Canal Universitário CNU">
+    <title lang="pt">Bom Dia, Fim do Mundo</title>
+    <desc lang="pt">Podcast da Agência Pública com a TV PUC conversa sobre política, economia, clima e outros temas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194976,15 +195291,15 @@
     </rating>
   </programme>
   <programme start="20260226050200 -0300" stop="20260226063200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Campinas x Deportivo Murano</title>
-    <desc lang="pt">Todas as emoções do principal torneio de vôlei masculino entre clubes da América do Sul.</desc>
+    <title lang="pt">Goiás x Guarulhos</title>
+    <desc lang="pt">Sétima rodada do returno. O Goiás recebe o Guarulhos no Ginásio Rio Vermelho, em Goiânia, GO.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260226070200 -0300" stop="20260226083200 -0300" channel="SporTV2 HD">
     <title lang="pt">Cruzeiro x Lagomar</title>
-    <desc lang="pt">Todas as emoções do principal torneio de vôlei masculino entre clubes da América do Sul.</desc>
+    <desc lang="pt">Em partida válida pela rodada de abertura do Grupo B do Sul-Americano Masculino de Clubes de 2026, Cruzeiro e Lagomar, do Uruguai, se enfrentam no Ginásio do Taquaral, em Campinas, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194997,48 +195312,118 @@
     </rating>
   </programme>
   <programme start="20260226100200 -0300" stop="20260226113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">From the Top</title>
+    <desc lang="pt">Acompanhe o dia de um atleta olímpico ao lado de um músico famoso.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260226104700 -0300" stop="20260226121700 -0300" channel="SporTV2 HD">
-    <title lang="pt">Oitavas de Final</title>
+    <title lang="pt">Programação SporTV2</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226125700 -0300" stop="20260226142700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal, Duplas Mistas - Hugo Calderano e Bruna Takahashi (BRA) x Chun Ting Wong e Hoi Kem Doo (HKG)</title>
     <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226113200 -0300" stop="20260226130200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260226133200 -0300" stop="20260226150200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Diário de Inverno</title>
+    <desc lang="pt">Encerramento do dia de transmissões dos Jogos Olímpicos de Inverno Milão-Cortina 2026, com os melhores momentos das provas, destaques da jornada olímpica, quadro de medalhas atualizado e projeção dos próximos eventos, entre outras atrações.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226193200 -0300" stop="20260226210200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260226155200 -0300" stop="20260226172200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Especial Superação</title>
+    <desc lang="pt">Eles venceram a batalha contra o câncer e brilharam no mundo do esporte. Conheça as jornadas do esquiador William Flaherty e do velejador Santiago Lange.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226033200 -0300" stop="20260226050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260226164200 -0300" stop="20260226181200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Defensores de Banfield</title>
+    <desc lang="pt">Em partida válida pela segunda rodada do Grupo B do Sul-Americano Masculino de Clubes de 2026, Cruzeiro e Defensores de Banfield, da Argentina, se enfrentam no Ginásio do Taquaral, em Campinas?SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227033200 -0300" stop="20260227050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260226190200 -0300" stop="20260226203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Heróis do Futuro</title>
+    <desc lang="pt">A jovem atleta Letícia tem a oportunidade de conhecer e treinar com Rosamaria, ícone do vôlei brasileiro. Durante o encontro, as duas compartilham histórias de suas trajetórias, destacando os desafios enfrentados e os valores que as impulsionam.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227113200 -0300" stop="20260227130200 -0300" channel="SporTV2 HD">
+  <programme start="20260226194200 -0300" stop="20260226211200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas x Ciudad Vóley</title>
+    <desc lang="pt">Em partida válida pela segunda rodada do Grupo C do Sul-Americano Masculino de Clubes de 2026, Minas e Ciudad Vóley, da Argentina, se enfrentam no Ginásio do Taquaral, em Campinas, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226220200 -0300" stop="20260226233200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Legends Live On</title>
+    <desc lang="pt">Um perfil do jogador francês de handebol aposentado, que atualmente administra a seleção francesa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226224200 -0300" stop="20260227001200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Campinas x Deportivo Murano</title>
+    <desc lang="pt">Em partida válida pela rodada de abertura do Grupo A do Sul-Americano Masculino de Clubes de 2026, Campinas e Deportivo Murano, do Chile, se enfrentam no Ginásio do Taquaral, em Campinas?SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226010200 -0300" stop="20260226023200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Defensores de Banfield</title>
+    <desc lang="pt">Em partida válida pela segunda rodada do Grupo B do Sul-Americano Masculino de Clubes de 2026, Cruzeiro e Defensores de Banfield, da Argentina, se enfrentam no Ginásio do Taquaral, em Campinas?SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226030200 -0300" stop="20260226043200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas x Ciudad Vóley</title>
+    <desc lang="pt">Em partida válida pela segunda rodada do Grupo C do Sul-Americano Masculino de Clubes de 2026, Minas e Ciudad Vóley, da Argentina, se enfrentam no Ginásio do Taquaral, em Campinas, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226050200 -0300" stop="20260226063200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Campinas x Deportivo Murano</title>
+    <desc lang="pt">Em partida válida pela rodada de abertura do Grupo A do Sul-Americano Masculino de Clubes de 2026, Campinas e Deportivo Murano, do Chile, se enfrentam no Ginásio do Taquaral, em Campinas?SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227050200 -0300" stop="20260227063200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Campinas x Deportivo Murano</title>
+    <desc lang="pt">Em partida válida pela rodada de abertura do Grupo A do Sul-Americano Masculino de Clubes de 2026, Campinas e Deportivo Murano, do Chile, se enfrentam no Ginásio do Taquaral, em Campinas?SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227070200 -0300" stop="20260227083200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Lagomar</title>
+    <desc lang="pt">Em partida válida pela rodada de abertura do Grupo B do Sul-Americano Masculino de Clubes de 2026, Cruzeiro e Lagomar, do Uruguai, se enfrentam no Ginásio do Taquaral, em Campinas, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227090200 -0300" stop="20260227103200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Especial Vôlei</title>
+    <desc lang="pt">Jackie Silva, Chloe Anderson e Eileen Nasuh têm suas histórias de vida e carreiras reveladas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227100200 -0300" stop="20260227113200 -0300" channel="SporTV2 HD">
     <title lang="pt">Programação SporTV2</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -195374,65 +195759,79 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226100200 -0300" stop="20260226113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">To Be Announced</title>
-    <desc lang="pt">Programming to be announced.</desc>
+  <programme start="20260226101200 -0300" stop="20260226114200 -0300" channel="SporTV3 HD">
+    <title lang="pt">FMS 2: Acelino Popó Freitas x José Pelé Landy - John Allan x Diego Dias</title>
+    <desc lang="pt">Acompanhe todas as emoções do combate de John Allan e Diego Dias.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226101200 -0300" stop="20260226114200 -0300" channel="SporTV3 HD">
+  <programme start="20260226125200 -0300" stop="20260226142200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Paris, França - Finais</title>
+    <desc lang="pt">Finais do segundo dia da etapa de abertura do Grand Slam em 2026. Da Accor Arena, em Paris, França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226153200 -0300" stop="20260226170200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <desc lang="pt">As três Eras dos Samurais no Japão feudal; a importância de Jigoro Kano e do desconhecido Mataemon Tanabe na evolução do judô e jiu-jitsu; os desafios de Conde Koma pelo mundo, até se instalar em Belém e conhecer Carlos Gracie.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226160200 -0300" stop="20260226173200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Fique por dentro da história do piloto brasileiro, que vem marcando seu nome na temporada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226170200 -0300" stop="20260226183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada, Segunda Sessão - Dia 2</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226210200 -0300" stop="20260226223200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada, Segunda Sessão - Dia 2</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226010200 -0300" stop="20260226023200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226130700 -0300" stop="20260226143700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Copa do Mundo de Ginástica</title>
-    <desc lang="pt">Todas as emoções das etapas da Copa do Mundo organizada pela Federação Internacional de Ginástica.</desc>
+  <programme start="20260226013200 -0300" stop="20260226030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260226180200 -0300" stop="20260226193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260226200200 -0300" stop="20260226213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260226220200 -0300" stop="20260226233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260226000200 -0300" stop="20260226013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260226020200 -0300" stop="20260226033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260226023200 -0300" stop="20260226040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260226040200 -0300" stop="20260226053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Fique por dentro da história do piloto brasileiro, que vem marcando seu nome na temporada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260226050700 -0300" stop="20260226063700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
