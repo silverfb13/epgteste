@@ -72657,9 +72657,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260302173200 -0300" stop="20260302190200 -0300" channel="Gazeta HD">
+  <programme start="20260302170200 -0300" stop="20260302183200 -0300" channel="Gazeta HD">
     <title lang="pt">Mulheres</title>
     <desc lang="pt">O programa traz especialistas nas áreas de culinária, moda, beleza, atualidades, lazer e direito do consumidor, entre outros assuntos de grande interesse da mulher.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302204700 -0300" stop="20260302221700 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta News</title>
+    <desc lang="pt">O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192239,36 +192246,85 @@
     </rating>
   </programme>
   <programme start="20260301060200 -0300" stop="20260301073200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Semifinal Masculina</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301070200 -0300" stop="20260301083200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal Masculina</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301080200 -0300" stop="20260301093200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Lim Jong-hoon e Shin Yu-bin (COR) x Hugo Calderano e Bruna Takahashi (BRA)</title>
+    <desc lang="pt">Pela grande decisão do torneio de duplas mistas, Lim Jong-hoon e Shin Yu-bin, da Coreia do Sul, enfrentam a dupla brasileira Hugo Calderano e Bruna Takahashi no The Kallang, em Kallang, Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301090200 -0300" stop="20260301103200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Chen Yuanyu (CHN) x Hugo Calderano (BRA)</title>
+    <desc lang="pt">Pelas oitavas de final do torneio individual masculino, o chinês Chen Yuanyu e o brasileiro Hugo Calderano se enfrentam no The Kallang, em Kallang, Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301100200 -0300" stop="20260301113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Final</title>
-    <desc lang="pt">Todas as emoções da competição que reúne as oito primeiras colocadas do primeiro turno da temporada em curso da Superliga Feminina de Vôlei - Série A.</desc>
+    <title lang="pt">Lim Jong-hoon e Shin Yu-bin (COR) x Hugo Calderano e Bruna Takahashi (BRA)</title>
+    <desc lang="pt">Pela grande decisão do torneio de duplas mistas, Lim Jong-hoon e Shin Yu-bin, da Coreia do Sul, enfrentam a dupla brasileira Hugo Calderano e Bruna Takahashi no The Kallang, em Kallang, Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301104700 -0300" stop="20260301121700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301110200 -0300" stop="20260301123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final Feminina</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301120200 -0300" stop="20260301133200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Final Masculina</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301134700 -0300" stop="20260301151700 -0300" channel="SporTV2 HD">
-    <title lang="pt">A Anunciar</title>
-    <desc lang="pt">Programação a ser anunciada.</desc>
+  <programme start="20260301130200 -0300" stop="20260301143200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Heróis do Futuro</title>
+    <desc lang="pt">A jovem atleta Letícia tem a oportunidade de conhecer e treinar com Rosamaria, ícone do vôlei brasileiro. Durante o encontro, as duas compartilham histórias de suas trajetórias, destacando os desafios enfrentados e os valores que as impulsionam.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301150200 -0300" stop="20260301163200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260301132200 -0300" stop="20260301145200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Amazing Riders</title>
+    <desc lang="pt">Lucas Chumbo vai ao Amapá desafiar a Pororoca do Buiado, uma onda que nunca havia sido surfada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301135700 -0300" stop="20260301152700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Medina Surf Fest</title>
+    <desc lang="pt">Desafio de surfe liderado pelo vice-campeão olímpico Gabriel Medina e reúne grandes nomes da modalidade em uma piscina de ondas. Do Beyond The Club, em São Paulo?SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301153200 -0300" stop="20260301170200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal</title>
+    <desc lang="pt">Todas as emoções do principal torneio de vôlei masculino entre clubes da América do Sul.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192281,15 +192337,15 @@
     </rating>
   </programme>
   <programme start="20260301200200 -0300" stop="20260301213200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301204200 -0300" stop="20260301221200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Grêmio x Internacional</title>
-    <desc lang="pt">Acompanhe as emoções da principal competição disputada por equipes masculinas do Rio Grande do Sul.</desc>
+    <title lang="pt">Final: Grêmio x Internacional</title>
+    <desc lang="pt">Pelo duelo de ida da grande final, o Grêmio recebe o Internacional na Arena do Grêmio, em Porto Alegre, RS. É o segundo ano consecutivo em que um Gre-Nal decide o Gauchão; em 2025, o Colorado interrompeu sequência de sete títulos do Imortal Tricolor.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192302,8 +192358,15 @@
     </rating>
   </programme>
   <programme start="20260301013200 -0300" stop="20260301030200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Final Feminina</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301023200 -0300" stop="20260301040200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final Masculina</title>
+    <desc lang="pt">Quinta edição do Singapore Smash, primeira das quatro etapas de nível Grand Smash no calendário de 2026 do circuito mundial de tênis de mesa, reunindo os principais nomes da modalidade no The Kallang, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192609,23 +192672,58 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301035700 -0300" stop="20260301052700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260301053200 -0300" stop="20260301070200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Vela</title>
+    <desc lang="pt">A história dos velejadores Santiago Lange e Pavlos Kontides, que conheceram a glória nas Olimpíadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301063200 -0300" stop="20260301080200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Sydney, Austrália - Dia 2</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301080200 -0300" stop="20260301093200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Auckland - Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa da segunda etapa do SailGP em 2026. De Auckland, na Nova Zelândia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301093200 -0300" stop="20260301110200 -0300" channel="SporTV3 HD">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Relembre o início da carreira, os principais títulos e os seis prêmios de melhor do mundo de Marta.</desc>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301100200 -0300" stop="20260301113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301103200 -0300" stop="20260301120200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias e revelaram superestrelas. Pelas telas do cinema, gerações de brasileiros tiveram o primeiro contato com as artes marciais. O programa destrincha este fenômeno mergulhando em dez grandes clássicos, revelando bastidores inéditos das gravações e investigando como esses filmes influenciaram estrelas do MMA e fazem parte da memória afetiva brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301110200 -0300" stop="20260301123200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301113200 -0300" stop="20260301130200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -192638,29 +192736,78 @@
     </rating>
   </programme>
   <programme start="20260301143200 -0300" stop="20260301160200 -0300" channel="SporTV3 HD">
+    <title lang="pt">FMS Fight Night 8</title>
+    <desc lang="pt">Evento com oito duelos profissionais de boxe, incluindo confronto valendo o título super galo do Conselho Nacional de Boxe na luta principal, e presença da ex-campeã mundial Danila Ramos no card. Da Baixa de Quintas, em Salvador?BA.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301173700 -0300" stop="20260301190700 -0300" channel="SporTV3 HD">
+    <title lang="pt">MAC 14</title>
+    <desc lang="pt">Evento de boxe realizado na Associação Atlética Banco do Brasil, no Rio de Janeiro?RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301202200 -0300" stop="20260301215200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301223200 -0300" stop="20260302000200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260301204200 -0300" stop="20260301221200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Semifinal: América-MG x Atlético-MG</title>
+    <desc lang="pt">Pelo duelo de volta da semifinal, o América-MG recebe o Atlético-MG na Arena Independência, em Belo Horizonte, MG. Após empate em 1 a 1 no jogo de ida, quem vencer avança para a grande decisão; nova igualdade leva o confronto para os pênaltis.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260302223200 -0300" stop="20260303000200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260301230200 -0300" stop="20260302003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Andy Murray e Juan Martín del Potro se enfrentam em um dos grandes momentos do Rio 2016.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260302063200 -0300" stop="20260302080200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260301235700 -0300" stop="20260302012700 -0300" channel="SporTV3 HD">
+    <title lang="pt">The MGM Slam de Tênis 2026</title>
+    <desc lang="pt">Taylor Fritz, Tommy Paul, Casper Ruud, Nick Kyrgios, João Fonseca, Gaël Monfils, Lorenzo Musetti e Alexander Bublik jogam torneio de exibição em busca do grande prêmio de um milhão de dólares. Da T-Mobile Arena, em Las Vegas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301030200 -0300" stop="20260301043200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Semifinal Duplas - João Fonseca e Marcelo Melo (BRA) x Mark Wallner e Jakob Schnaitter (ALE)</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301050200 -0300" stop="20260301063200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260301053200 -0300" stop="20260301070200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302053200 -0300" stop="20260302070200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final</title>
+    <desc lang="pt">Décima segunda edição da principal competição internacional de tênis disputada em solo brasileiro. Com nível ATP 500, o torneio é realizado no Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302080200 -0300" stop="20260302093200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Final Duplas - João Fonseca (BRA) e Marcelo Melo (BRA) x Constantin Frantzen (ALE) e Robin Haase (PBX)</title>
+    <desc lang="pt">Pela grande decisão do torneio de duplas, os brasileiros João Fonseca e Marcelo Melo enfrentam o alemão Constantin Frantzen e o neerlandês Robin Haase na Quadra Guga Kuerten do Jockey Club Brasileiro, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -198335,9 +198482,9 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228120200 -0300" stop="20260228133200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260228121700 -0300" stop="20260228134700 -0300" channel="Telefe">
+    <title lang="pt">Guerra de novias</title>
+    <desc lang="pt">Después de que, por error, sus bodas fueran programadas el mismo día, dos amigas de toda la vida se declaran mutuamente la guerra.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -198349,147 +198496,154 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228210200 -0300" stop="20260228223200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260228204700 -0300" stop="20260228221700 -0300" channel="Telefe">
+    <title lang="pt">Mujeres al ataque</title>
+    <desc lang="pt">Tres mujeres unen fuerzas para vengarse de un hombre canalla, mentiroso e infiel que las traicionó a todas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228230200 -0300" stop="20260301003200 -0300" channel="Telefe">
+  <programme start="20260228223200 -0300" stop="20260301000200 -0300" channel="Telefe">
     <title lang="pt">Escape perfecto</title>
     <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228003200 -0300" stop="20260228020200 -0300" channel="Telefe">
+  <programme start="20260228000200 -0300" stop="20260228013200 -0300" channel="Telefe">
     <title lang="pt">MasterChef celebrity</title>
     <desc lang="pt">Las celebridades que participan en esta edición del programa deberán superar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260228011700 -0300" stop="20260228024700 -0300" channel="Telefe">
+    <title lang="pt">Gran hermano: La noche de los ex</title>
+    <desc lang="pt">Una edición con el aporte y toda la experiencia de los exparticipantes más destacados de las ediciones anteriores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260228023200 -0300" stop="20260228040200 -0300" channel="Telefe">
+    <title lang="pt">DIRECTV y DGO presentan: Espiando la casa</title>
+    <desc lang="pt">Repaso especial de la sección &quot;Espiando la casa&quot; de Gran Hermano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228031700 -0300" stop="20260228044700 -0300" channel="Telefe">
     <title lang="pt">Escape perfecto</title>
     <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260228031700 -0300" stop="20260228044700 -0300" channel="Telefe">
-    <title lang="pt">Por el mundo</title>
-    <desc lang="pt">Un recorrido por el mundo en busca de nuevas culturas, costumbres y platos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260228050200 -0300" stop="20260228063200 -0300" channel="Telefe">
+  <programme start="20260228041700 -0300" stop="20260228054700 -0300" channel="Telefe">
     <title lang="pt">Fuera del aire</title>
     <desc lang="pt">Fin de emisión.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301050200 -0300" stop="20260301063200 -0300" channel="Telefe">
+  <programme start="20260301041700 -0300" stop="20260301054700 -0300" channel="Telefe">
     <title lang="pt">Fuera del aire</title>
     <desc lang="pt">Fin de emisión.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301093200 -0300" stop="20260301110200 -0300" channel="Telefe">
+  <programme start="20260301090200 -0300" stop="20260301103200 -0300" channel="Telefe">
     <title lang="pt">El Chavo y Chapulín</title>
     <desc lang="pt">Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301121700 -0300" stop="20260301134700 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260301111700 -0300" stop="20260301124700 -0300" channel="Telefe">
+    <title lang="pt">El único y gran Iván</title>
+    <desc lang="pt">Un gorila llamado Iván intenta reconstruir su pasado y con ayuda de una elefanta, escapar del cautiverio. Una aventura sobre la amistad, el poder de la visualización y el significado del hogar.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301140200 -0300" stop="20260301153200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260301124700 -0300" stop="20260301141700 -0300" channel="Telefe">
+    <title lang="pt">ABC de amor</title>
+    <desc lang="pt">Un niño de Nueva York experimenta por primera vez el amor, mientras el matrimonio de sus padres se descompone.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301153200 -0300" stop="20260301170200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260301141700 -0300" stop="20260301154700 -0300" channel="Telefe">
+    <title lang="pt">Loca obsesión</title>
+    <desc lang="pt">Después de una romántica cita a ciegas, Mary Horowitz, una escritora de crucigramas, se enamora de Steve, un camarógrafo de noticias. Mary está convencida de que ella y Steve son almas gemelas, y, con el aliento de un reportero, sigue a Steve a través del país en busca del amor de su vida. A lo largo del camino, ella hace amistad con varias personas que la aceptan por lo que es, llevándola a recapacitar sobre las razones de su viaje.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301173200 -0300" stop="20260301190200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260301160200 -0300" stop="20260301173200 -0300" channel="Telefe">
+    <title lang="pt">Guardianes de alta mar</title>
+    <desc lang="pt">Ben Randall, legendario nadador de rescate, está traumatizado después de perder a todo su equipo en un trágico accidente. Por lo mismo, cambio su carrera a entrenador de élite de jovenes deportistas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301190200 -0300" stop="20260301203200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260301180200 -0300" stop="20260301193200 -0300" channel="Telefe">
+    <title lang="pt">Caballo de guerra</title>
+    <desc lang="pt">Después de ser apartado de su querido dueño, un famoso caballo cambia la vida de quienes lo conocen durante la Primera Guerra Mundial.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301210200 -0300" stop="20260301223200 -0300" channel="Telefe">
-    <title lang="pt">Película</title>
-    <desc lang="pt">Arte cinematográfico mundial.</desc>
+  <programme start="20260301203200 -0300" stop="20260301220200 -0300" channel="Telefe">
+    <title lang="pt">Dos policías rebeldes</title>
+    <desc lang="pt">Dos policías de Miami tienen 72 horas para encontrar 100 millones de dólares en heroína robada del almacén de evidencias de su comisaría, pero, para lograrlo, deben intercambiar sus identidades.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301224700 -0300" stop="20260302001700 -0300" channel="Telefe">
-    <title lang="pt">Escape perfecto</title>
-    <desc lang="pt">El trabajo en equipo será fundamental para ganar. Las duplas de participantes que se presenten deberán dividirse las tareas. El primero responderá preguntas trivia con cuatro opciones, donde una sola será la correcta.</desc>
+  <programme start="20260301221700 -0300" stop="20260301234700 -0300" channel="Telefe">
+    <title lang="pt">Pasapalabra</title>
+    <desc lang="pt">Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301000200 -0300" stop="20260301013200 -0300" channel="Telefe">
-    <title lang="pt">Por el mundo</title>
-    <desc lang="pt">Un recorrido por el mundo en busca de nuevas culturas, costumbres y platos.</desc>
+  <programme start="20260301234700 -0300" stop="20260302011700 -0300" channel="Telefe">
+    <title lang="pt">DIRECTV y DGO presentan: Espiando la casa</title>
+    <desc lang="pt">Repaso especial de la sección &quot;Espiando la casa&quot; de Gran Hermano.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301011700 -0300" stop="20260301024700 -0300" channel="Telefe">
-    <title lang="pt">MasterChef celebrity</title>
-    <desc lang="pt">Las celebridades que participan en esta edición del programa deberán superar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen.</desc>
+    <title lang="pt">Gran hermano</title>
+    <desc lang="pt">Un grupo de desconocidos conviven en una casa equipada con decenas de cámaras y micrófonos. Cada semana, los participantes nominan a sus compañeros y la audiencia, con sus votos, decide quién es expulsado de la casa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301023200 -0300" stop="20260301040200 -0300" channel="Telefe">
-    <title lang="pt">MasterChef celebrity</title>
-    <desc lang="pt">Las celebridades que participan en esta edición del programa deberán superar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen.</desc>
+    <title lang="pt">Gran hermano</title>
+    <desc lang="pt">Un grupo de desconocidos conviven en una casa equipada con decenas de cámaras y micrófonos. Cada semana, los participantes nominan a sus compañeros y la audiencia, con sus votos, decide quién es expulsado de la casa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260301030200 -0300" stop="20260301043200 -0300" channel="Telefe">
-    <title lang="pt">Código viaje</title>
-    <desc lang="pt">Un ciclo de programas que difunden variados atractivos naturales, gastronómicos, culturales y de alojamiento.</desc>
+    <title lang="pt">DIRECTV y DGO presentan: Espiando la casa</title>
+    <desc lang="pt">Repaso especial de la sección &quot;Espiando la casa&quot; de Gran Hermano.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301033200 -0300" stop="20260301050200 -0300" channel="Telefe">
-    <title lang="pt">MasterChef celebrity</title>
-    <desc lang="pt">Las celebridades que participan en esta edición del programa deberán superar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen.</desc>
+  <programme start="20260301031700 -0300" stop="20260301044700 -0300" channel="Telefe">
+    <title lang="pt">Juego chino</title>
+    <desc lang="pt">Un invitado famoso se somete a un divertido cuestionario con la propuesta de un juego donde competirá por embocar pelotas de tenis en altura, en un recipiente ubicado en la planta baja.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260301051700 -0300" stop="20260301064700 -0300" channel="Telefe">
+  <programme start="20260301034700 -0300" stop="20260301051700 -0300" channel="Telefe">
     <title lang="pt">Fuera del aire</title>
     <desc lang="pt">Fin de emisión.</desc>
     <rating system="Brazil">
@@ -206940,7 +207094,7 @@
   </programme>
   <programme start="20260227060200 -0300" stop="20260227073200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Magazine</title>
-    <desc lang="pt">Un magazine sur des sujets d&apos;actualité d&apos;intérêt général pour la société.</desc>
+    <desc lang="pt">Novidades sobre culinária, moda, saúde, música e muito mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -206975,7 +207129,7 @@
   </programme>
   <programme start="20260227183200 -0300" stop="20260227200200 -0300" channel="TV A Crítica HD">
     <title lang="pt">Magazine</title>
-    <desc lang="pt">Un magazine sur des sujets d&apos;actualité d&apos;intérêt général pour la société.</desc>
+    <desc lang="pt">Novidades sobre culinária, moda, saúde, música e muito mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -207009,27 +207163,20 @@
     </rating>
   </programme>
   <programme start="20260227020200 -0300" stop="20260227033200 -0300" channel="TV A Crítica HD">
-    <title lang="pt">Nosso Encontro Entrevistas</title>
-    <desc lang="pt">Baby Rizzato, a &quot;dama da TV amazonense&quot;, recebe grandes personalidades para entrevistas exclusivas.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227030200 -0300" stop="20260227043200 -0300" channel="TV A Crítica HD">
     <title lang="pt">17 Horas</title>
     <desc lang="pt">Jornal exibe matérias e notícias dos principais acontecimentos do país.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227034700 -0300" stop="20260227051700 -0300" channel="TV A Crítica HD">
+  <programme start="20260227024700 -0300" stop="20260227041700 -0300" channel="TV A Crítica HD">
     <title lang="pt">A Crítica Brasil</title>
     <desc lang="pt">Programa exibe matérias e notícias sobre Manaus, capitais do Brasil e mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227044700 -0300" stop="20260227061700 -0300" channel="TV A Crítica HD">
+  <programme start="20260227034700 -0300" stop="20260227051700 -0300" channel="TV A Crítica HD">
     <title lang="pt">Alerta Amazonas</title>
     <desc lang="pt">Acompanhe notícias locais e denúncias na capital e no interior do Amazonas.</desc>
     <rating system="Brazil">
