@@ -88449,13 +88449,6 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260227100200 -0300" stop="20260227113200 -0300" channel="Golf Channel HD">
-    <title lang="pt">PGA TOUR: The CUT</title>
-    <desc lang="pt">Confira os perfis dos jogadores e também a prévia dos torneios do PGA Tour em todo o mundo.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
   <programme start="20260227103200 -0300" stop="20260227120200 -0300" channel="Golf Channel HD">
     <title lang="pt">Investec South African Open Championship - Segunda Rodada</title>
     <desc lang="pt">Disputa do segundo dia do torneio de golfe. Do Stellenbosch GC, em Stellenbosch, África do Sul.</desc>
@@ -88471,8 +88464,8 @@
     </rating>
   </programme>
   <programme start="20260227153200 -0300" stop="20260227170200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Investec South African Open Championship - Segunda Rodada</title>
-    <desc lang="pt">Disputa do segundo dia do torneio de golfe. Do Stellenbosch GC, em Stellenbosch, África do Sul.</desc>
+    <title lang="pt">HSBC Women&apos;s World Championship - Segunda Rodada</title>
+    <desc lang="pt">Segundo dia de disputa do torneio de golfe, realizado no Sentosa Golf Club, em Singapura.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -88499,29 +88492,36 @@
     </rating>
   </programme>
   <programme start="20260227000200 -0300" stop="20260227013200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Vanity Index Podcast</title>
+    <desc lang="pt">Uma visão peculiar do jogo de golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227010200 -0300" stop="20260227023200 -0300" channel="Golf Channel HD">
+    <title lang="pt">The Golf Fix</title>
+    <desc lang="pt">Michael Breed, um dos melhores cem instrutores da Revista Golfe, responde perguntas e esclarece as dúvidas dos telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227013200 -0300" stop="20260227030200 -0300" channel="Golf Channel HD">
+    <title lang="pt">HSBC Women&apos;s World Championship - Terceira Rodada</title>
+    <desc lang="pt">Terceiro dia de disputa do torneio de golfe, realizado no Sentosa Golf Club, em Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228013200 -0300" stop="20260228030200 -0300" channel="Golf Channel HD">
+    <title lang="pt">HSBC Women&apos;s World Championship - Terceira Rodada</title>
+    <desc lang="pt">Terceiro dia de disputa do torneio de golfe, realizado no Sentosa Golf Club, em Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260228063200 -0300" stop="20260228080200 -0300" channel="Golf Channel HD">
     <title lang="pt">Cognizant Classic - Segunda Rodada</title>
     <desc lang="pt">Disputa do segundo dia do torneio de golfe. Do Palm Beach Gardens, na Flórida, EUA.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227040200 -0300" stop="20260227053200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Golf Central</title>
-    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260227050200 -0300" stop="20260227063200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Investec South African Open Championship - Segunda Rodada</title>
-    <desc lang="pt">Disputa do segundo dia do torneio de golfe. Do Stellenbosch GC, em Stellenbosch, África do Sul.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260228050200 -0300" stop="20260228063200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Investec South African Open Championship - Segunda Rodada</title>
-    <desc lang="pt">Disputa do segundo dia do torneio de golfe. Do Stellenbosch GC, em Stellenbosch, África do Sul.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190531,8 +190531,50 @@
     </rating>
   </programme>
   <programme start="20260227100200 -0300" stop="20260227113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Momentos Olímpicos Inesquecíveis</title>
+    <desc lang="pt">Reviva os desempenhos mais extraordinários e acontecimentos memoráveis da 28ª Olimpíada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227104700 -0300" stop="20260227121700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Wong Chun Ting (HKG) x Hugo Calderano (BRA)</title>
+    <desc lang="pt">Pela fase 16 avos de final do torneio individual masculino, o brasileiro Hugo Calderano enfrenta Wong Chun Ting, de Hong Kong, no The Kallang, em Kallang, Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227113200 -0300" stop="20260227130200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hugo Calderano e Bruna Takahashi (BRA) x Wong Chun-ting e Doo Hoi Kem (HKG)</title>
+    <desc lang="pt">Pela semifinal do torneio de duplas mistas, Hugo Calderano e Bruna Takahashi representam o Brasil em duelo contra Wong Chun Ting e Doo Hoi Kem, de Hong Kong. Da Infinity ? Arena, no The Kallang, em Kallang, Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227121700 -0300" stop="20260227134700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Lim Jong-hoon e Shin Yu-bin (COR) x Hugo Calderano e Bruna Takahashi (BRA)</title>
+    <desc lang="pt">Pela grande decisão do torneio de duplas mistas, Lim Jong-hoon e Shin Yu-bin, da Coreia do Sul, enfrentam a dupla brasileira Hugo Calderano e Bruna Takahashi no The Kallang, em Kallang, Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227130200 -0300" stop="20260227143200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Chen Yuanyu (CHN) x Hugo Calderano (BRA)</title>
+    <desc lang="pt">Pelas oitavas de final do torneio individual masculino, o chinês Chen Yuanyu e o brasileiro Hugo Calderano se enfrentam no The Kallang, em Kallang, Singapura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227134700 -0300" stop="20260227151700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Lanternas</title>
+    <desc lang="pt">Heroína olímpica dos EUA, Danielle Scott-Arruda vai a Londres para ajudar uma equipe de vôlei.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227150200 -0300" stop="20260227163200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas x Ciudad Vóley</title>
+    <desc lang="pt">Em partida válida pela segunda rodada do Grupo C do Sul-Americano Masculino de Clubes de 2026, Minas e Ciudad Vóley, da Argentina, se enfrentam no Ginásio do Taquaral, em Campinas, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190545,8 +190587,15 @@
     </rating>
   </programme>
   <programme start="20260227180200 -0300" stop="20260227193200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Mastercut</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260227190200 -0300" stop="20260227203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Cruzeiro x Defensores de Banfield</title>
+    <desc lang="pt">Em partida válida pela segunda rodada do Grupo B do Sul-Americano Masculino de Clubes de 2026, Cruzeiro e Defensores de Banfield, da Argentina, se enfrentam no Ginásio do Taquaral, em Campinas?SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190559,8 +190608,8 @@
     </rating>
   </programme>
   <programme start="20260227233200 -0300" stop="20260228010200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Semifinal: Minas x Praia Clube</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as oito primeiras colocadas do primeiro turno da temporada em curso da Superliga Feminina de Vôlei - Série A.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190573,8 +190622,8 @@
     </rating>
   </programme>
   <programme start="20260227030200 -0300" stop="20260227043200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">The Z Team</title>
+    <desc lang="pt">Jackie Silva tenta transformar um time de vôlei no Rio.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -280720,7 +280769,7 @@
   </programme>
   <programme start="20260228130200 -0300" stop="20260228143200 -0300" channel="TV União HD">
     <title lang="pt">Top Mais Especial</title>
-    <desc lang="pt">A seleção dos dez clipes mais pedidos faz do Top Mais um dos programas de maior audiência da TVUnião. Os clipes podem ser votados na página inicial do site. Apresentação: Edney Cunha.</desc>
+    <desc lang="pt">A seleção dos dez clipes mais pedidos faz do Top Mais um dos programas de maior audiência da TV União. Os clipes podem ser votados na página inicial do site. Apresentação: Edney Cunha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
