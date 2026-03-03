@@ -64566,7 +64566,7 @@
     </rating>
   </programme>
   <programme start="20260304130200 -0300" stop="20260304143200 -0300" channel="ESPN HD">
-    <title lang="pt">Semifinal</title>
+    <title lang="pt">Semifinal: South Africa x New Zealand</title>
     <desc lang="pt">Décima edição do maior torneio de críquete categoria T20 do mundo. Da Índia e de Sri Lanka.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -116757,7 +116757,21 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260302020200 -0300" stop="20260302033200 -0300" channel="Ponto Jus">
+  <programme start="20260302060200 -0300" stop="20260302073200 -0300" channel="Ponto Jus">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302070200 -0300" stop="20260302083200 -0300" channel="Ponto Jus">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302080200 -0300" stop="20260302093200 -0300" channel="Ponto Jus">
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
     <rating system="Brazil">
@@ -116765,6 +116779,13 @@
     </rating>
   </programme>
   <programme start="20260302090200 -0300" stop="20260302103200 -0300" channel="Ponto Jus">
+    <title lang="pt">Como Funciona Aí</title>
+    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302093200 -0300" stop="20260302110200 -0300" channel="Ponto Jus">
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
     <rating system="Brazil">
@@ -116800,22 +116821,22 @@
     </rating>
   </programme>
   <programme start="20260302140200 -0300" stop="20260302153200 -0300" channel="Ponto Jus">
-    <title lang="pt">Culinária - Patrimônio Cultural Imaterial</title>
-    <desc lang="pt">Mais do que sabor, a culinária se traduz em identidade. Quando se fala em acarajé, por exemplo, pensamos na Bahia. O tacacá nos remete ao Pará. E os queijos, a Minas Gerais. Da mistura de sentimentos, conhecimentos e ingredientes nasce a nossa culinária. Tão importante que pode virar patrimônio cultural imaterial.</desc>
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260302143200 -0300" stop="20260302160200 -0300" channel="Ponto Jus">
+  <programme start="20260302150200 -0300" stop="20260302163200 -0300" channel="Ponto Jus">
     <title lang="pt">Como Funciona Aí</title>
     <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260302150200 -0300" stop="20260302163200 -0300" channel="Ponto Jus">
-    <title lang="pt">Saber Direito - Aula</title>
-    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+  <programme start="20260302153200 -0300" stop="20260302170200 -0300" channel="Ponto Jus">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt">Reportagens especiais sobre assuntos de interesse da população brasileira, buscando aproximar o cidadão dos seus direitos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -116849,29 +116870,36 @@
     </rating>
   </programme>
   <programme start="20260302200200 -0300" stop="20260302213200 -0300" channel="Ponto Jus">
-    <title lang="pt">Culinária - Patrimônio Cultural Imaterial</title>
-    <desc lang="pt">Mais do que sabor, a culinária se traduz em identidade. Quando se fala em acarajé, por exemplo, pensamos na Bahia. O tacacá nos remete ao Pará. E os queijos, a Minas Gerais. Da mistura de sentimentos, conhecimentos e ingredientes nasce a nossa culinária. Tão importante que pode virar patrimônio cultural imaterial.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260302203200 -0300" stop="20260302220200 -0300" channel="Ponto Jus">
-    <title lang="pt">Como Funciona Aí</title>
-    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260302210200 -0300" stop="20260302223200 -0300" channel="Ponto Jus">
-    <title lang="pt">Saber Direito - Aula</title>
-    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <title lang="pt">135 Anos da Justiça Federal</title>
+    <desc lang="pt">A Justiça Federal completou 135 anos de existência em 2025. Cada decisão, cada magistrado, cada servidor e cada colaborador fazem parte dessa trajetória que se confunde com a própria história do país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302213200 -0300" stop="20260302230200 -0300" channel="Ponto Jus">
+    <title lang="pt">Jornal da Justiça</title>
+    <desc lang="pt">Notícias dos últimos acontecimentos do mundo político brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260302220200 -0300" stop="20260302233200 -0300" channel="Ponto Jus">
-    <title lang="pt">Saber Direito - Aula</title>
-    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
+    <title lang="pt">Academia</title>
+    <desc lang="pt">Temas polêmicos relacionados ao universo jurídico são expostos por meio de teses e dissertações, ajudando no aprimoramento da cultura jurídica no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260302223200 -0300" stop="20260303000200 -0300" channel="Ponto Jus">
+    <title lang="pt">Artigo 5º</title>
+    <desc lang="pt">Assuntos do cotidiano brasileiro examinados a partir de trechos do Artigo 5º da Constituição.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -116898,15 +116926,8 @@
     </rating>
   </programme>
   <programme start="20260302020200 -0300" stop="20260302033200 -0300" channel="Ponto Jus">
-    <title lang="pt">Culinária - Patrimônio Cultural Imaterial</title>
-    <desc lang="pt">Mais do que sabor, a culinária se traduz em identidade. Quando se fala em acarajé, por exemplo, pensamos na Bahia. O tacacá nos remete ao Pará. E os queijos, a Minas Gerais. Da mistura de sentimentos, conhecimentos e ingredientes nasce a nossa culinária. Tão importante que pode virar patrimônio cultural imaterial.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260302023200 -0300" stop="20260302040200 -0300" channel="Ponto Jus">
-    <title lang="pt">Como Funciona Aí</title>
-    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, justiça e conteúdos jurídicos pouco difundidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194927,8 +194948,8 @@
     </rating>
   </programme>
   <programme start="20260302140200 -0300" stop="20260302153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
-    <desc lang="pt">As decisões do terceiro e último dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
+    <title lang="pt">Guadalajara, México - Finais</title>
+    <desc lang="pt">Finais do terceiro e último dia da etapa na Unidad Deportiva López Mateos, em Guadalajara, México.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -194942,14 +194963,14 @@
   </programme>
   <programme start="20260302200200 -0300" stop="20260302213200 -0300" channel="SporTV3 HD">
     <title lang="pt">Tashkent, Uzbequistão - Finais</title>
-    <desc lang="pt">As decisões do terceiro e último dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
+    <desc lang="pt">As decisões do primeiro dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260302223200 -0300" stop="20260303000200 -0300" channel="SporTV3 HD">
     <title lang="pt">Tashkent, Uzbequistão - Finais</title>
-    <desc lang="pt">As decisões do terceiro e último dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
+    <desc lang="pt">As decisões do primeiro dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195053,36 +195074,15 @@
     </rating>
   </programme>
   <programme start="20260304020200 -0300" stop="20260304033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Jungle Fight 145</title>
+    <desc lang="pt">O sergipano Anderson &quot;Astro da Maldade&quot; e o paraense Ernane &quot;The Lion&quot; Pimenta disputam o cinturão vago da categoria meio-médio do Jungle Fight em evento de artes marciais mistas realizado no Velódromo Municipal do Rio, no Rio de Janeiro, RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304062700 -0300" stop="20260304075700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Cine Marcial</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304065700 -0300" stop="20260304082700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Cine Marcial</title>
-    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias e revelaram superestrelas. Pelas telas do cinema, gerações de brasileiros tiveram o primeiro contato com as artes marciais. O programa destrincha este fenômeno mergulhando em dez grandes clássicos, revelando bastidores inéditos das gravações e investigando como esses filmes influenciaram estrelas do MMA e fazem parte da memória afetiva brasileira.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304072700 -0300" stop="20260304085700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Paris, França - Finais</title>
-    <desc lang="pt">Finais do segundo dia da etapa de abertura do Grand Slam em 2026. Da Accor Arena, em Paris, França.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304100200 -0300" stop="20260304113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260304070200 -0300" stop="20260304083200 -0300" channel="SporTV3 HD">
+    <title lang="pt">FMS Fight Night 8</title>
+    <desc lang="pt">Evento com oito duelos profissionais de boxe, incluindo confronto valendo o título super galo do Conselho Nacional de Boxe na luta principal, e presença da ex-campeã mundial Danila Ramos no card. Da Baixa de Quintas, em Salvador?BA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
