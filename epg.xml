@@ -87336,14 +87336,14 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303063200 -0300" stop="20260303080200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Champions de Golfe</title>
-    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
+  <programme start="20260303040200 -0300" stop="20260303053200 -0300" channel="Golf Channel">
+    <title lang="pt">Investec South African Open Championship - Rodada Final</title>
+    <desc lang="pt">Disputa da grande decisão do torneio de golfe. Do Stellenbosch GC, em Stellenbosch, África do Sul.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303093200 -0300" stop="20260303110200 -0300" channel="Golf Channel">
+  <programme start="20260303090200 -0300" stop="20260303103200 -0300" channel="Golf Channel">
     <title lang="pt">Golf Central</title>
     <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
@@ -87357,84 +87357,126 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303103200 -0300" stop="20260303120200 -0300" channel="Golf Channel">
+  <programme start="20260303110200 -0300" stop="20260303123200 -0300" channel="Golf Channel">
     <title lang="pt">Golf Central</title>
     <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303110200 -0300" stop="20260303123200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+  <programme start="20260303120200 -0300" stop="20260303133200 -0300" channel="Golf Channel">
+    <title lang="pt">5 Clubs With Gary Williams</title>
+    <desc lang="pt">Conversas com pessoas notáveis do mundo do golfe, desde jogadores do passado e da atualidade até membros da mídia, administradores e mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260303140200 -0300" stop="20260303153200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Champions de Golfe</title>
-    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
+    <title lang="pt">Darius Rucker Intercollegiate - Primeira Rodada</title>
+    <desc lang="pt">Do Long Cove Club, em Hilton Head Island, Carolina do Sul, Estados Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303170200 -0300" stop="20260303183200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+  <programme start="20260303163200 -0300" stop="20260303180200 -0300" channel="Golf Channel">
+    <title lang="pt">Golf Today</title>
+    <desc lang="pt">Acompanhe debates especiais sobre o mundo do golfe com quem melhor entende do assunto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303200200 -0300" stop="20260303213200 -0300" channel="Golf Channel">
-    <title lang="pt">Golf Central Pregame</title>
-    <desc lang="pt">Acompanhe os preparativos para eventos de golfe pelo mundo, com estatísticas, análises e muito mais.</desc>
+  <programme start="20260303183200 -0300" stop="20260303200200 -0300" channel="Golf Channel">
+    <title lang="pt">Darius Rucker Intercollegiate - Segunda Rodada</title>
+    <desc lang="pt">Do Long Cove Club, em Hilton Head Island, Carolina do Sul, Estados Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260303210200 -0300" stop="20260303223200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260303000200 -0300" stop="20260303013200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Champions de Golfe</title>
-    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260303030200 -0300" stop="20260303043200 -0300" channel="Golf Channel">
+  <programme start="20260303213200 -0300" stop="20260303230200 -0300" channel="Golf Channel">
     <title lang="pt">Golf Central</title>
     <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260303223200 -0300" stop="20260304000200 -0300" channel="Golf Channel">
+    <title lang="pt">PGA Tour Highlights</title>
+    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303233200 -0300" stop="20260304010200 -0300" channel="Golf Channel">
+    <title lang="pt">PGA Tour Highlights</title>
+    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303003200 -0300" stop="20260303020200 -0300" channel="Golf Channel">
+    <title lang="pt">Golf&apos;s Greatest Holes</title>
+    <desc lang="pt">Paul McGinley joga nos buracos mais icônicos dos principais campos de golfe pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303010200 -0300" stop="20260303023200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303013200 -0300" stop="20260303030200 -0300" channel="Golf Channel">
+    <title lang="pt">The Swing Gym</title>
+    <desc lang="pt">Especialistas ensinam jogadores de golfe a corrigirem falhas específicas no movimento da tacada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303020200 -0300" stop="20260303033200 -0300" channel="Golf Channel">
+    <title lang="pt">The Big Swing With Jimmy Roberts</title>
+    <desc lang="pt">Conversas com pessoas que são notícia no mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260303030200 -0300" stop="20260303043200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260303033200 -0300" stop="20260303050200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304033200 -0300" stop="20260304050200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+  <programme start="20260303043200 -0300" stop="20260303060200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304063200 -0300" stop="20260304080200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Champions de Golfe</title>
-    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
+  <programme start="20260303050200 -0300" stop="20260303063200 -0300" channel="Golf Channel">
+    <title lang="pt">Cognizant Classic - Rodada Final</title>
+    <desc lang="pt">Disputa da grande decisão do torneio de golfe. Do Palm Beach Gardens, na Flórida, EUA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304093200 -0300" stop="20260304110200 -0300" channel="Golf Channel">
+  <programme start="20260304050200 -0300" stop="20260304063200 -0300" channel="Golf Channel">
+    <title lang="pt">Cognizant Classic - Rodada Final</title>
+    <desc lang="pt">Disputa da grande decisão do torneio de golfe. Do Palm Beach Gardens, na Flórida, EUA.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304090200 -0300" stop="20260304103200 -0300" channel="Golf Channel">
     <title lang="pt">Golf Central</title>
     <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
@@ -87448,65 +87490,121 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304103200 -0300" stop="20260304120200 -0300" channel="Golf Channel">
+  <programme start="20260304110200 -0300" stop="20260304123200 -0300" channel="Golf Channel">
     <title lang="pt">Golf Central</title>
     <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304110200 -0300" stop="20260304123200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+  <programme start="20260304120200 -0300" stop="20260304133200 -0300" channel="Golf Channel">
+    <title lang="pt">5 Clubs With Gary Williams</title>
+    <desc lang="pt">Conversas com pessoas notáveis do mundo do golfe, desde jogadores do passado e da atualidade até membros da mídia, administradores e mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304140200 -0300" stop="20260304153200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Champions de Golfe</title>
-    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
+  <programme start="20260304130200 -0300" stop="20260304143200 -0300" channel="Golf Channel">
+    <title lang="pt">Darius Rucker Intercollegiate - Segunda Rodada</title>
+    <desc lang="pt">Do Long Cove Club, em Hilton Head Island, Carolina do Sul, Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304153200 -0300" stop="20260304170200 -0300" channel="Golf Channel">
+    <title lang="pt">On the Range</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260304170200 -0300" stop="20260304183200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+    <title lang="pt">Golf Today</title>
+    <desc lang="pt">Acompanhe debates especiais sobre o mundo do golfe com quem melhor entende do assunto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304200200 -0300" stop="20260304213200 -0300" channel="Golf Channel">
-    <title lang="pt">Golf Central Pregame</title>
-    <desc lang="pt">Acompanhe os preparativos para eventos de golfe pelo mundo, com estatísticas, análises e muito mais.</desc>
+  <programme start="20260304183200 -0300" stop="20260304200200 -0300" channel="Golf Channel">
+    <title lang="pt">Darius Rucker Intercollegiate - Rodada Final</title>
+    <desc lang="pt">Do Long Cove Club, em Hilton Head Island, Carolina do Sul, Estados Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260304210200 -0300" stop="20260304223200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304000200 -0300" stop="20260304013200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Champions de Golfe</title>
-    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260304030200 -0300" stop="20260304043200 -0300" channel="Golf Channel">
+  <programme start="20260304213200 -0300" stop="20260304230200 -0300" channel="Golf Channel">
     <title lang="pt">Golf Central</title>
     <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260304223200 -0300" stop="20260305000200 -0300" channel="Golf Channel">
+    <title lang="pt">The Big Swing With Jimmy Roberts</title>
+    <desc lang="pt">Conversas com pessoas que são notícia no mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304233200 -0300" stop="20260305010200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304000200 -0300" stop="20260304013200 -0300" channel="Golf Channel">
+    <title lang="pt">The Swing Gym</title>
+    <desc lang="pt">Especialistas ensinam jogadores de golfe a corrigirem falhas específicas no movimento da tacada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304003200 -0300" stop="20260304020200 -0300" channel="Golf Channel">
+    <title lang="pt">PGA TOUR: The CUT</title>
+    <desc lang="pt">Confira os perfis dos jogadores e também a prévia dos torneios do PGA Tour em todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304010200 -0300" stop="20260304023200 -0300" channel="Golf Channel">
+    <title lang="pt">The Smylie Show</title>
+    <desc lang="pt">A vencedora do PGA Tour, Smylie Kaufman, compartilha seu conhecimento sobre golfe e conversa com profissionais do Tour e celebridades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304020200 -0300" stop="20260304033200 -0300" channel="Golf Channel">
+    <title lang="pt">Vanity Index Podcast</title>
+    <desc lang="pt">Uma visão peculiar do jogo de golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304030200 -0300" stop="20260304043200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260304033200 -0300" stop="20260304050200 -0300" channel="Golf Channel">
-    <title lang="pt">PGA Tour Golf</title>
-    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304043200 -0300" stop="20260304060200 -0300" channel="Golf Channel">
+    <title lang="pt">PGA TOUR: The CUT</title>
+    <desc lang="pt">Confira os perfis dos jogadores e também a prévia dos torneios do PGA Tour em todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260304050200 -0300" stop="20260304063200 -0300" channel="Golf Channel">
+    <title lang="pt">Darius Rucker Intercollegiate - Rodada Final</title>
+    <desc lang="pt">Do Long Cove Club, em Hilton Head Island, Carolina do Sul, Estados Unidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
