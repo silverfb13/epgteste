@@ -195011,15 +195011,78 @@
     </rating>
   </programme>
   <programme start="20260305101700 -0300" stop="20260305114700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Road to Glory</title>
+    <desc lang="pt">Relembra momentos gloriosos da ginástica ao longo da história das Olimpíadas, incluindo Olga Korbut, Nadia Com?neci e Yukio Endo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260305181700 -0300" stop="20260305194700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260305112200 -0300" stop="20260305125200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305120200 -0300" stop="20260305133200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Against All Odds</title>
+    <desc lang="pt">Uma atleta de ginástica de trampolim de nível internacional, de uma hora para a outra, não é mais capaz de saltar. Conheça a surpreendente história da britânica Bryony Page.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305123200 -0300" stop="20260305140200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Auckland - Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa da segunda etapa do SailGP em 2026. De Auckland, na Nova Zelândia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305140200 -0300" stop="20260305153200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Sydney, Austrália - Dia 1</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305153200 -0300" stop="20260305170200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Etapa de Perth, Austrália - Dia 1</title>
+    <desc lang="pt">Todas as emoções da competição mundial de vela envolvendo catamarãs F50.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305170200 -0300" stop="20260305183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305180200 -0300" stop="20260305193200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305185700 -0300" stop="20260305202700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305200200 -0300" stop="20260305213200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305212200 -0300" stop="20260305225200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195032,8 +195095,22 @@
     </rating>
   </programme>
   <programme start="20260305000200 -0300" stop="20260305013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Testes de Pré-Temporada - Dia 1</title>
+    <desc lang="pt">Os pilotos da mais prestigiada categoria de automobilismo do planeta aceleram para o primeiro dia de testes abertos antes da temporada 2026 da Fórmula 1. Do Circuito Internacional do Bahrein, em Sakhir, Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305010200 -0300" stop="20260305023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260305023200 -0300" stop="20260305040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre</title>
+    <desc lang="pt">Sessão de treinos da primeira etapa de 2026. Do Circuito de Albert Park, em Melbourne, Austrália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195046,15 +195123,15 @@
     </rating>
   </programme>
   <programme start="20260305044700 -0300" stop="20260305061700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Fórmula 1</title>
+    <title lang="pt">GP da Austrália - Treino Livre 2</title>
     <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260306060200 -0300" stop="20260306073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">GP da Austrália - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195067,8 +195144,43 @@
     </rating>
   </programme>
   <programme start="20260306084700 -0300" stop="20260306101700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Nos últimos cinquenta anos, os filmes de luta arrebataram bilheterias e revelaram superestrelas. Pelas telas do cinema, gerações de brasileiros tiveram o primeiro contato com as artes marciais. O programa destrincha este fenômeno mergulhando em dez grandes clássicos, revelando bastidores inéditos das gravações e investigando como esses filmes influenciaram estrelas do MMA e fazem parte da memória afetiva brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306092700 -0300" stop="20260306105700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306100200 -0300" stop="20260306113200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306110200 -0300" stop="20260306123200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre 2</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306120200 -0300" stop="20260306133200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre</title>
+    <desc lang="pt">Sessão de treinos da primeira etapa de 2026. Do Circuito de Albert Park, em Melbourne, Austrália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306130200 -0300" stop="20260306143200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Supremacia no Esporte</title>
+    <desc lang="pt">Veja como o Japão se tornou uma terra de lendas do judô.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195082,7 +195194,7 @@
   </programme>
   <programme start="20260306155700 -0300" stop="20260306172700 -0300" channel="SporTV3 HD">
     <title lang="pt">Linz, Áustria - Finais</title>
-    <desc lang="pt">Segundo dia da etapa de abertura do Grand Prix em 2026. Da TipsArena Linz, em Linz, Áustria.</desc>
+    <desc lang="pt">Terceiro e último dia da primeira etapa do Grand Prix em 2026. Da TipsArena Linz, em Linz, Áustria.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -195097,6 +195209,41 @@
   <programme start="20260306223200 -0300" stop="20260307000200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306010200 -0300" stop="20260306023200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fórmula 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306023200 -0300" stop="20260306040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Sprint</title>
+    <desc lang="pt">Corrida sprint da primeira etapa da temporada. Do Circuito de Albert Park, em Melbourne, Austrália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306034700 -0300" stop="20260306051700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306040200 -0300" stop="20260306053200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Aquecimento SporTV</title>
+    <desc lang="pt">As últimas informações e os preparativos finais para a sessão classificatória que define o grid de largada do GP da Austrália, etapa de abertura da temporada 2026 da Fórmula 1, prova disputada no Circuito de Albert Park, em Melbourne, Austrália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260306050200 -0300" stop="20260306063200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
