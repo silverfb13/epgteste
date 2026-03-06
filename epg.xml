@@ -191420,15 +191420,29 @@
     </rating>
   </programme>
   <programme start="20260307110200 -0300" stop="20260307123200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Ginástica de Trampolim: Baku, Azerbaijão - FInais</title>
+    <desc lang="pt">Decisões do primeiro dia da etapa de abertura da Copa do Mundo de Ginástica de Trampolim em 2026, realizada na Arena Nacional de Ginástica, em Baku, Azerbaijão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260307190200 -0300" stop="20260307203200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260307150200 -0300" stop="20260307163200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307155700 -0300" stop="20260307172700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Linz, Áustria - Finais</title>
+    <desc lang="pt">Segundo dia da etapa de abertura do Grand Prix em 2026. Da TipsArena Linz, em Linz, Áustria.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307180200 -0300" stop="20260307193200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
+    <desc lang="pt">As decisões do primeiro dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -191441,15 +191455,71 @@
     </rating>
   </programme>
   <programme start="20260307220200 -0300" stop="20260307233200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Semifinal Park Feminino</title>
+    <desc lang="pt">Semifinal feminina do skate park. Do Parque Cândido Portinari, em São Paulo, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307002200 -0300" stop="20260307015200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fórmula 2</title>
+    <desc lang="pt">Todas as emoções da competição de segundo escalão da Federação Internacional de Automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307013200 -0300" stop="20260307030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Gabriel Bortoleto</title>
+    <desc lang="pt">Os bastidores e os desafios do piloto Gabriel Bortoleto antes do início da temporada 2026 da Fórmula 1. Entre pressão e expectativas, o brasileiro revela o que acontece além das pistas enquanto transita por São Paulo, Mônaco e Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307020200 -0300" stop="20260307033200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre 3</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307030200 -0300" stop="20260307043200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Aquecimento SporTV</title>
+    <desc lang="pt">As últimas informações e os preparativos para os principais eventos esportivos no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307040200 -0300" stop="20260307053200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308060200 -0300" stop="20260308073200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Gabriel Bortoleto</title>
+    <desc lang="pt">Os bastidores e os desafios do piloto Gabriel Bortoleto antes do início da temporada 2026 da Fórmula 1. Entre pressão e expectativas, o brasileiro revela o que acontece além das pistas enquanto transita por São Paulo, Mônaco e Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308063200 -0300" stop="20260308080200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308073200 -0300" stop="20260308090200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260308060200 -0300" stop="20260308073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260308074700 -0300" stop="20260308091700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Ginástica Artística: Baku, Azerbaijão - Finais</title>
+    <desc lang="pt">Segundo e último dia de decisões da segunda etapa da Copa do Mundo de Ginástica Artística em 2026, realizada na Arena Nacional de Ginástica, em Baku, Azerbaijão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -191462,8 +191532,29 @@
     </rating>
   </programme>
   <programme start="20260308143200 -0300" stop="20260308160200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308163200 -0300" stop="20260308180200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308173200 -0300" stop="20260308190200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Sessão SporTV</title>
+    <desc lang="pt">Grandes produções audiovisuais com temática esportiva.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308180200 -0300" stop="20260308193200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Sessão SporTV</title>
+    <desc lang="pt">Grandes produções audiovisuais com temática esportiva.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -191489,13 +191580,6 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260308233200 -0300" stop="20260309010200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
   <programme start="20260308234700 -0300" stop="20260309011700 -0300" channel="SporTV3 HD">
     <title lang="pt">Palmeiras x Universidad Católica U20</title>
     <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
@@ -191504,8 +191588,29 @@
     </rating>
   </programme>
   <programme start="20260308030200 -0300" stop="20260308043200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Especial Gabriel Bortoleto</title>
+    <desc lang="pt">Os bastidores e os desafios do piloto Gabriel Bortoleto antes do início da temporada 2026 da Fórmula 1. Entre pressão e expectativas, o brasileiro revela o que acontece além das pistas enquanto transita por São Paulo, Mônaco e Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308033200 -0300" stop="20260308050200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308043200 -0300" stop="20260308060200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre 2</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260308053200 -0300" stop="20260308070200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
