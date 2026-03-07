@@ -93755,23 +93755,114 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260307090200 -0300" stop="20260307103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
+  <programme start="20260307100200 -0300" stop="20260307113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Baú dos Campeões</title>
     <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307103200 -0300" stop="20260307120200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bundesliga Clubs</title>
+    <desc lang="pt">A história dos clubes que fazem parte da primeira divisão do futebol da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307104700 -0300" stop="20260307121700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Freeride World Tour</title>
+    <desc lang="pt">Série de eventos de esportes radicais, com disputas de esqui e snowboard na modalidade freeride.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307121700 -0300" stop="20260307134700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Blackburn Rovers x Portsmouth</title>
+    <desc lang="pt">Do Estádio Ewood Park, em Blackburn, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307143200 -0300" stop="20260307160200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Freeride World Tour</title>
+    <desc lang="pt">Série de eventos de esportes radicais, com disputas de esqui e snowboard na modalidade freeride.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307153200 -0300" stop="20260307170200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bayern de Munique x Borussia Mönchengladbach</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260307170200 -0300" stop="20260307183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260307010200 -0300" stop="20260307023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260307172200 -0300" stop="20260307185200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Colônia x Borussia Dortmund</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307193200 -0300" stop="20260307210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307202200 -0300" stop="20260307215200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Estoril x Casa Pia</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307223200 -0300" stop="20260308000200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atalanta x Udinese</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307233200 -0300" stop="20260308010200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307235200 -0300" stop="20260308012200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Flamengo x Estudiantes de Merida U20</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307021700 -0300" stop="20260307034700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Athletic Bilbao x Barcelona</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307040200 -0300" stop="20260307053200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atalanta x Udinese</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307054700 -0300" stop="20260307071700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Freeride World Tour</title>
+    <desc lang="pt">Série de eventos de esportes radicais, com disputas de esqui e snowboard na modalidade freeride.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -120194,6 +120285,13 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260307090200 -0300" stop="20260307103200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: Vasco x Fluminense</title>
+    <desc lang="pt">Pelo duelo de ida da semifinal, o Vasco enfrenta o Fluminense no Estádio Nilton Santos, no Rio de Janeiro, RJ. O Cruzmaltino venceu dois e perdeu três confrontos contra o Tricolor Carioca em 2025, mas eliminou o rival na semi da Copa do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260307100200 -0300" stop="20260307113200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Semifinal: Flamengo x Madureira</title>
     <desc lang="pt">Pelo duelo de ida da semifinal, o Flamengo enfrenta o Madureira no Estádio do Maracanã, no Rio de Janeiro, RJ. O Rubro-Negro venceu 13 e empatou seis de seus 19 últimos confrontos diante do Tricolor Suburbano, do qual não perde desde março de 2007.</desc>
@@ -120201,16 +120299,128 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260307173200 -0300" stop="20260307190200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260307110200 -0300" stop="20260307123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: Fluminense x Vasco</title>
+    <desc lang="pt">Pelo duelo de volta da semifinal, o Fluminense enfrenta o Vasco no Estádio do Maracanã, no Rio de Janeiro, RJ. Após vencer por 1 a 0 na ida, o Tricolor Carioca avança à decisão até com um empate, enquanto ao Cruzmaltino só interessa a vitória.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260307013200 -0300" stop="20260307030200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260307120200 -0300" stop="20260307133200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: América-MG x Atlético-MG</title>
+    <desc lang="pt">Pelo duelo de volta da semifinal, o América-MG recebe o Atlético-MG na Arena Independência, em Belo Horizonte, MG. Após empate em 1 a 1 no jogo de ida, quem vencer avança para a grande decisão; nova igualdade leva o confronto para os pênaltis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307130200 -0300" stop="20260307143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Final: Grêmio x Internacional</title>
+    <desc lang="pt">Pelo duelo de ida da grande final, o Grêmio recebe o Internacional na Arena do Grêmio, em Porto Alegre, RS. É o segundo ano consecutivo em que um Gre-Nal decide o Gauchão; em 2025, o Colorado interrompeu sequência de sete títulos do Imortal Tricolor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307140200 -0300" stop="20260307153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Corinthians x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307150200 -0300" stop="20260307163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Athletico-PR x Santos</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307160200 -0300" stop="20260307173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Athletico-PR x Santos</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307170200 -0300" stop="20260307183200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Remo x Internacional</title>
+    <desc lang="pt">Pela quarta rodada, o Remo enfrenta o Internacional no Estádio Mangueirão, em Belém?PA. O Leão Azul tem dois empates e uma derrota no Brasileirão até o momento, enquanto o Colorado está no Z4 com apenas um ponto somado após três jogos disputados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307180200 -0300" stop="20260307193200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307183200 -0300" stop="20260307200200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Pela quarta rodada, o Bragantino enfrenta o Athletico-PR no Estádio Cícero Marques de Souza, em Bragança Paulista?SP. Ambas as equipes somam duas vitórias e uma derrota no Brasileirão até o momento, com o Furacão levando vantagem no saldo de gols.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307193200 -0300" stop="20260307210200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Vasco no Estádio da Vila Belmiro, em Santos, SP. Com apenas um ponto somado após três partidas disputadas, tanto o Peixe quanto o Cruzmaltino buscam a vitória para deixar a zona de rebaixamento do Brasileirão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307203200 -0300" stop="20260307220200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Botafogo x Bangu</title>
+    <desc lang="pt">Todas as emoções do principal torneio de futebol masculino entre clubes do estado do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307231200 -0300" stop="20260308004200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Final: Grêmio x Internacional</title>
+    <desc lang="pt">Pelo duelo de ida da grande final, o Grêmio recebe o Internacional na Arena do Grêmio, em Porto Alegre, RS. É o segundo ano consecutivo em que um Gre-Nal decide o Gauchão; em 2025, o Colorado interrompeu sequência de sete títulos do Imortal Tricolor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307001200 -0300" stop="20260307014200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: Vasco x Fluminense</title>
+    <desc lang="pt">Pelo duelo de ida da semifinal, o Vasco enfrenta o Fluminense no Estádio Nilton Santos, no Rio de Janeiro, RJ. O Cruzmaltino venceu dois e perdeu três confrontos contra o Tricolor Carioca em 2025, mas eliminou o rival na semi da Copa do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307011200 -0300" stop="20260307024200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Semifinal: Flamengo x Madureira</title>
+    <desc lang="pt">Pelo duelo de ida da semifinal, o Flamengo enfrenta o Madureira no Estádio do Maracanã, no Rio de Janeiro, RJ. O Rubro-Negro venceu 13 e empatou seis de seus 19 últimos confrontos diante do Tricolor Suburbano, do qual não perde desde março de 2007.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307021200 -0300" stop="20260307034200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Vasco no Estádio da Vila Belmiro, em Santos, SP. Com apenas um ponto somado após três partidas disputadas, tanto o Peixe quanto o Cruzmaltino buscam a vitória para deixar a zona de rebaixamento do Brasileirão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307031200 -0300" stop="20260307044200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Pela quarta rodada, o Palmeiras enfrenta o Fluminense na Arena Crefisa Barueri, em Barueri, SP. Ambas as equipes somam duas vitórias e um empate no Brasileirão até o momento, com o Verdão levando vantagem sobre o Tricolor Carioca no saldo de gols.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307041200 -0300" stop="20260307054200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Grêmio recebe o Atlético-MG na Arena do Grêmio, em Porto Alegre, RS. O Imortal Tricolor soma uma vitória e duas derrotas no Brasileirão até o momento, enquanto o Galo empatou duas e perdeu uma das três partidas que disputou.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260307051200 -0300" stop="20260307064200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Pela quarta rodada, o Cruzeiro enfrenta o Corinthians no Estádio Mineirão, em Belo Horizonte?MG. Com só um ponto somado, a Raposa amarga a lanterna do Brasileirão; já o Timão soma duas vitórias consecutivas na competição após estrear com derrota.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
