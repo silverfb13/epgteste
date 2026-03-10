@@ -119305,42 +119305,70 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312024200 -0300" stop="20260312041200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260312060200 -0300" stop="20260312073200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Grêmio recebe o Atlético-MG na Arena do Grêmio, em Porto Alegre, RS. O Imortal Tricolor soma uma vitória e duas derrotas no Brasileirão até o momento, enquanto o Galo empatou duas e perdeu uma das três partidas que disputou.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312104200 -0300" stop="20260312121200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260312070200 -0300" stop="20260312083200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Pela quarta rodada, o Cruzeiro enfrenta o Corinthians no Estádio Mineirão, em Belo Horizonte?MG. Com só um ponto somado, a Raposa amarga a lanterna do Brasileirão; já o Timão soma duas vitórias consecutivas na competição após estrear com derrota.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312184200 -0300" stop="20260312201200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260312080200 -0300" stop="20260312093200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Pela quarta rodada, o Cruzeiro enfrenta o Corinthians no Estádio Mineirão, em Belo Horizonte?MG. Com só um ponto somado, a Raposa amarga a lanterna do Brasileirão; já o Timão soma duas vitórias consecutivas na competição após estrear com derrota.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312213200 -0300" stop="20260312230200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Remo x Fluminense</title>
+  <programme start="20260312090200 -0300" stop="20260312103200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Atlético-MG x Internacional</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312000200 -0300" stop="20260312013200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Grêmio x Bragantino</title>
+  <programme start="20260312093200 -0300" stop="20260312110200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Cruzeiro</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312024200 -0300" stop="20260312041200 -0300" channel="Premiere Clubes HD">
+  <programme start="20260312100200 -0300" stop="20260312113200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Corinthians x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312103200 -0300" stop="20260312120200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Vitória</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312110200 -0300" stop="20260312123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Programação Premiere Clubes</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312190200 -0300" stop="20260312203200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Programação Premiere Clubes</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312030200 -0300" stop="20260312043200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Programação Premiere Clubes</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -198419,86 +198447,121 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312060200 -0300" stop="20260312073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312034200 -0300" stop="20260312051200 -0300" channel="SporTV3 HD">
+    <title lang="pt">FMS Fight Night 8</title>
+    <desc lang="pt">Evento com oito duelos profissionais de boxe, incluindo confronto valendo o título super galo do Conselho Nacional de Boxe na luta principal, e presença da ex-campeã mundial Danila Ramos no card. Da Baixa de Quintas, em Salvador?BA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312080200 -0300" stop="20260312093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312064700 -0300" stop="20260312081700 -0300" channel="SporTV3 HD">
+    <title lang="pt">MAC 14</title>
+    <desc lang="pt">Evento de boxe realizado na Associação Atlética Banco do Brasil, no Rio de Janeiro?RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312100200 -0300" stop="20260312113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312093200 -0300" stop="20260312110200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 145</title>
+    <desc lang="pt">O sergipano Anderson &quot;Astro da Maldade&quot; e o paraense Ernane &quot;The Lion&quot; Pimenta disputam o cinturão vago da categoria meio-médio do Jungle Fight em evento de artes marciais mistas realizadas no Velódromo Municipal do Rio, no Rio de Janeiro?RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260312120200 -0300" stop="20260312133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">MAC 14</title>
+    <desc lang="pt">Evento de boxe realizado na Associação Atlética Banco do Brasil, no Rio de Janeiro?RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312140200 -0300" stop="20260312153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312144700 -0300" stop="20260312161700 -0300" channel="SporTV3 HD">
+    <title lang="pt">FMS Fight Night 8</title>
+    <desc lang="pt">Evento com oito duelos profissionais de boxe, incluindo confronto valendo o título super galo do Conselho Nacional de Boxe na luta principal, e presença da ex-campeã mundial Danila Ramos no card. Da Baixa de Quintas, em Salvador?BA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312160200 -0300" stop="20260312173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312175200 -0300" stop="20260312192200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Relembre o primeiro ouro do futebol masculino do Brasil em Olimpíadas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312180200 -0300" stop="20260312193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312184700 -0300" stop="20260312201700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Campeonato Saudita de Futebol</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino profissional da Arábia Saudita.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312200200 -0300" stop="20260312213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312210200 -0300" stop="20260312223200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Experiência de Mestre</title>
+    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312213200 -0300" stop="20260312230200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Experiência de Mestre</title>
+    <desc lang="pt">Demian Maia recebe o ator Duda Nagle para uma aula em que mostra como aperfeiçoou um conjunto de movimentos do jiu-jítsu esportivo para serem eficazes no MMA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260312220200 -0300" stop="20260312233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
+    <desc lang="pt">As decisões do segundo dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312000200 -0300" stop="20260312013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312000700 -0300" stop="20260312013700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fome de Luta</title>
+    <desc lang="pt">Thiago Castanho conhece Jessica Andrade, paranaense que queria jogar futebol, mas ganhou o mundo no octógono. Jessica fala sobre suas conquistas e mata a saudade do Brasil com uma receita especial e discute carreira, preconceito e mais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312020200 -0300" stop="20260312033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312003700 -0300" stop="20260312020700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Fome de Luta</title>
+    <desc lang="pt">O programa vai até a Califórnia conhecer Mackenzie Dern, a estrela do jiu-jítsu mundial. Ela e Thiago pegam onda, lutam e cozinham juntos. Aloém disso, Dern revela como concilia a maternidade com a pressão do cinturão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312040200 -0300" stop="20260312053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260312010700 -0300" stop="20260312023700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312020700 -0300" stop="20260312033700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312023200 -0300" stop="20260312040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Gabriel Bortoleto</title>
+    <desc lang="pt">Os bastidores e os desafios do piloto Gabriel Bortoleto antes do início da temporada 2026 da Fórmula 1. Entre pressão e expectativas, o brasileiro revela o que acontece além das pistas enquanto transita por São Paulo, Mônaco e Bahrein.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312030200 -0300" stop="20260312043200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da China - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260312043200 -0300" stop="20260312060200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Os pilotos aceleram para a etapa de abertura da temporada, no Circuito de Albert Park, em Melbourne, Austrália. A Ferrari é a equipe que mais ganhou a prova australiana, com 14 triunfos: um a mais do que a McLaren, vencedora em 2025 com Lando Norris.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
