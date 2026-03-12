@@ -85602,7 +85602,7 @@
   </programme>
   <programme start="20260310060200 -0300" stop="20260310073200 -0300" channel="Golf Channel">
     <title lang="pt">PGA Tour Highlights</title>
-    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <desc lang="pt">Toda a ação do Cognizant Classic do Champions Course no PGA National Resort.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85651,7 +85651,7 @@
   </programme>
   <programme start="20260310220200 -0300" stop="20260310233200 -0300" channel="Golf Channel">
     <title lang="pt">PGA Tour Highlights</title>
-    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <desc lang="pt">Toda a ação do Cognizant Classic do Champions Course no PGA National Resort.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85664,6 +85664,20 @@
     </rating>
   </programme>
   <programme start="20260310010200 -0300" stop="20260310023200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260310013200 -0300" stop="20260310030200 -0300" channel="Golf Channel">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260310020200 -0300" stop="20260310033200 -0300" channel="Golf Channel">
     <title lang="pt">Live From THE PLAYERS</title>
     <desc lang="pt">Cobertura completa de um dos principais torneios de golfe da temporada, o The Players Championship.</desc>
     <rating system="Brazil">
@@ -85740,7 +85754,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312010200 -0300" stop="20260312023200 -0300" channel="Golf Channel">
+  <programme start="20260312020200 -0300" stop="20260312033200 -0300" channel="Golf Channel">
     <title lang="pt">Live From THE PLAYERS</title>
     <desc lang="pt">Cobertura completa de um dos principais torneios de golfe da temporada, o The Players Championship.</desc>
     <rating system="Brazil">
@@ -85889,7 +85903,7 @@
   </programme>
   <programme start="20260310060200 -0300" stop="20260310073200 -0300" channel="Golf Channel HD">
     <title lang="pt">PGA Tour Highlights</title>
-    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <desc lang="pt">Toda a ação do Cognizant Classic do Champions Course no PGA National Resort.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85938,7 +85952,7 @@
   </programme>
   <programme start="20260310220200 -0300" stop="20260310233200 -0300" channel="Golf Channel HD">
     <title lang="pt">PGA Tour Highlights</title>
-    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <desc lang="pt">Toda a ação do Cognizant Classic do Champions Course no PGA National Resort.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -85951,6 +85965,20 @@
     </rating>
   </programme>
   <programme start="20260310010200 -0300" stop="20260310023200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260310013200 -0300" stop="20260310030200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Studio Golf</title>
+    <desc lang="pt">As últimas informações do mundo do golfe, com entrevistas ao vivo, análises e debates sobre o melhor da modalidade, com foco especial nos jogadores da América Latina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260310020200 -0300" stop="20260310033200 -0300" channel="Golf Channel HD">
     <title lang="pt">Live From THE PLAYERS</title>
     <desc lang="pt">Cobertura completa de um dos principais torneios de golfe da temporada, o The Players Championship.</desc>
     <rating system="Brazil">
@@ -86027,7 +86055,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260312010200 -0300" stop="20260312023200 -0300" channel="Golf Channel HD">
+  <programme start="20260312020200 -0300" stop="20260312033200 -0300" channel="Golf Channel HD">
     <title lang="pt">Live From THE PLAYERS</title>
     <desc lang="pt">Cobertura completa de um dos principais torneios de golfe da temporada, o The Players Championship.</desc>
     <rating system="Brazil">
