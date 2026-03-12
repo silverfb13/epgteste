@@ -195242,85 +195242,127 @@
     </rating>
   </programme>
   <programme start="20260314060200 -0300" stop="20260314073200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Mulheres Icônicas</title>
+    <desc lang="pt">Conheça mulheres inspiradoras que deixaram sua marca no maior palco do esporte mundial.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314080200 -0300" stop="20260314093200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Olympic Outposts</title>
+    <desc lang="pt">Conheça pessoas que desenvolveram paixões extremas por esportes em locais inesperados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314090200 -0300" stop="20260314103200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Olympic Outposts</title>
+    <desc lang="pt">Conheça pessoas que desenvolveram paixões extremas por esportes em locais inesperados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314093200 -0300" stop="20260314110200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Olympic Outposts</title>
+    <desc lang="pt">Conheça pessoas que desenvolveram paixões extremas por esportes em locais inesperados.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314100200 -0300" stop="20260314113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">GP do China - Sprint</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314110200 -0300" stop="20260314123200 -0300" channel="SporTV3 HD">
+    <title lang="pt">WTT Champions de Tênis de Mesa</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314120200 -0300" stop="20260314133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">WTT Champions de Tênis de Mesa</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314130200 -0300" stop="20260314143200 -0300" channel="SporTV3 HD">
+    <title lang="pt">WTT Champions de Tênis de Mesa</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314140200 -0300" stop="20260314153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">WTT Champions de Tênis de Mesa</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314150200 -0300" stop="20260314163200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP do China - Sprint</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314160200 -0300" stop="20260314173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">GP da China - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314180200 -0300" stop="20260314193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260314170200 -0300" stop="20260314183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Tashkent, Uzbequistão - Finais</title>
+    <desc lang="pt">As decisões do segundo dia da segunda etapa do Grand Slam de Judô em 2026. Da Humo Arena, em Tashkent, Uzbequistão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314200200 -0300" stop="20260314213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260314190200 -0300" stop="20260314203200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314220200 -0300" stop="20260314233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260314193200 -0300" stop="20260314210200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 145</title>
+    <desc lang="pt">O sergipano Anderson &quot;Astro da Maldade&quot; e o paraense Ernane &quot;The Lion&quot; Pimenta disputam o cinturão vago da categoria meio-médio do Jungle Fight em evento de artes marciais mistas realizadas no Velódromo Municipal do Rio, no Rio de Janeiro?RJ.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314000200 -0300" stop="20260314013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260314215700 -0300" stop="20260314232700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jungle Fight 146</title>
+    <desc lang="pt">Evento com disputa por cinturão peso-leve. Do Ginásio Nilson Nelson, em Brasília-DF.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314020200 -0300" stop="20260314033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260314023200 -0300" stop="20260314040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Os pilotos aceleram para a etapa de abertura da temporada, no Circuito de Albert Park, em Melbourne, Austrália. A Ferrari é a equipe que mais ganhou a prova australiana, com 14 triunfos: um a mais do que a McLaren, vencedora em 2025 com Lando Norris.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314040200 -0300" stop="20260314053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Miniprograma com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260314043200 -0300" stop="20260314060200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP do China - Sprint</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314053200 -0300" stop="20260314070200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da China - Classificação</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
