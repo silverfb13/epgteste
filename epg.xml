@@ -117576,9 +117576,9 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260315170200 -0300" stop="20260315183200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
+  <programme start="20260315183200 -0300" stop="20260315200200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Internacional x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -117590,23 +117590,9 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260315211200 -0300" stop="20260315224200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Campeonato Brasileiro</title>
+  <programme start="20260315212200 -0300" stop="20260315225200 -0300" channel="Premiere 6 HD">
+    <title lang="pt">Coritiba x Remo</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260315233200 -0300" stop="20260316010200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260315031200 -0300" stop="20260315044200 -0300" channel="Premiere 6 HD">
-    <title lang="pt">Canais Premiere</title>
-    <desc lang="pt">Acompanhe o melhor da programação dos canais Premiere.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190761,16 +190747,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260315033200 -0300" stop="20260315050200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260315053200 -0300" stop="20260315070200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Chongqing, China - Semifinal Masculina</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260315113200 -0300" stop="20260315130200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260315063200 -0300" stop="20260315080200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Athletes to Watch</title>
+    <desc lang="pt">Acompanhe o especial dos atletas que disputarão os Jogos Olímpicos de Inverno em Pequim, de 2022.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315074700 -0300" stop="20260315091700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Jogos Paralímpicos de Inverno Milão-Cortina 2026</title>
+    <desc lang="pt">Décima quarta edição dos Jogos Paralímpicos de Inverno, com 79 eventos competitivos distribuídos entre seis esportes diferentes e atletas de todo o planeta. As regiões de Milão e Cortina d&apos;Ampezzo, na Itália, são as sedes principais das disputas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315131700 -0300" stop="20260315144700 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sesc-RJ Flamengo x Sesi Bauru</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190790,8 +190790,15 @@
     </rating>
   </programme>
   <programme start="20260315180200 -0300" stop="20260315193200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Elite 16: João Pessoa - Disputa de Terceiro Lugar Masculina</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315190200 -0300" stop="20260315203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Elite 16: João Pessoa - Final Feminina</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190804,15 +190811,29 @@
     </rating>
   </programme>
   <programme start="20260315210200 -0300" stop="20260315223200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Suzano x JF Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260315050200 -0300" stop="20260315063200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260315233200 -0300" stop="20260316010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Goias x SESI Bauru: Goiás Vôlei x Sesi Bauru</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315020200 -0300" stop="20260315033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Suzano x JF Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315040200 -0300" stop="20260315053200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Praia Clube x Fluminense</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190957,6 +190978,76 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260313103200 -0300" stop="20260313120200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da China - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313114200 -0300" stop="20260313131200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Chongqing: Chen (CHN) x Szocs (ROU)</title>
+    <desc lang="pt">Fase oitavas de final do torneio individual feminino, em Chongqing, China.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313121700 -0300" stop="20260313134700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Chongqing, China - Calderano (BRA) x Pucar (CRO)</title>
+    <desc lang="pt">Pela fase de oitavas de final do torneio individual masculino, o croata Tomislav Pucar e o brasileiro Hugo Calderano se enfrentam em Chongqing, China.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313125200 -0300" stop="20260313142200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Chongqing: Takahashi (BRA) x Kuai (CHN)</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313132700 -0300" stop="20260313145700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Hugo Calderano (BRA) x Chen Yuanyu (CHN)</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313140200 -0300" stop="20260313153200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Jian Zeng (SGP) x Bruna Takahashi (BRA)</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313143700 -0300" stop="20260313160700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Pequim 2008</title>
+    <desc lang="pt">Quinze anos após os eventos, recorde os inesquecíveis momentos dos Jogo Olímpicos de Pequim. Diversos atletas fizeram história e tiveram suas vidas marcadas após a competição, lembrados para sempre no mundo do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313153200 -0300" stop="20260313170200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313163200 -0300" stop="20260313180200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313170200 -0300" stop="20260313183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da China - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260313180200 -0300" stop="20260313193200 -0300" channel="SporTV3 HD">
     <title lang="pt">GP da China - Classificação Sprint</title>
     <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
@@ -190964,9 +191055,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260313200200 -0300" stop="20260313213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Final Park Feminino</title>
-    <desc lang="pt">Grande final feminina do skate park. Do Parque Cândido Portinari, em São Paulo, SP.</desc>
+  <programme start="20260313190200 -0300" stop="20260313203200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Os pilotos aceleram para a etapa de abertura da temporada, no Circuito de Albert Park, em Melbourne, Austrália. A Ferrari é a equipe que mais ganhou a prova australiana, com 14 triunfos: um a mais do que a McLaren, vencedora em 2025 com Lando Norris.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313210200 -0300" stop="20260313223200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Bolívar U20 x Flamengo</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313231700 -0300" stop="20260314004700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313234700 -0300" stop="20260314011700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Flamengo x Independiente Medellín U20</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190974,6 +191086,13 @@
   <programme start="20260313020200 -0300" stop="20260313033200 -0300" channel="SporTV3 HD">
     <title lang="pt">Aquecimento SporTV</title>
     <desc lang="pt">Abertura da transmissão do GP da China, segunda corrida da temporada 2026 da Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260313030200 -0300" stop="20260313043200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP do China - Sprint</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
