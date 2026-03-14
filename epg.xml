@@ -98557,30 +98557,205 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314020200 -0300" stop="20260314033200 -0300" channel="Mega TV (Brazil)">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+  <programme start="20260314060200 -0300" stop="20260314073200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Jornal da EBC</title>
+    <desc lang="pt">Notícias, matérias e acontecimentos transmitidos pelo Jornal da EBC.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314080100 -0300" stop="20260314093100 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">A Última Porta</title>
+    <desc lang="pt">O programa leva mensagens de esperança a pessoas com problemas que parecem não ter solução.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314083000 -0300" stop="20260314100000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Saindo da Crise</title>
+    <desc lang="pt">Acompanhe as mais novas notícias de economia e dicas para driblar a crise financeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314090200 -0300" stop="20260314103200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314100200 -0300" stop="20260314113200 -0300" channel="Mega TV (Brazil)">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314103000 -0300" stop="20260314120000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314110200 -0300" stop="20260314123200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314113000 -0300" stop="20260314130000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314120300 -0300" stop="20260314133300 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314123200 -0300" stop="20260314140200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Ensino da Fé</title>
+    <desc lang="pt">O Bispo Macedo e sua esposa Ester Bezerra falam sobre os planos de Deus para a vida de cada pessoa e, por meio de ensinamentos práticos, explicam como alcançar a plenitude do Espírito Santo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314133200 -0300" stop="20260314150200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314140200 -0300" stop="20260314153200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314143000 -0300" stop="20260314160000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314150200 -0300" stop="20260314163200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314160200 -0300" stop="20260314173200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314170200 -0300" stop="20260314183200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314173000 -0300" stop="20260314190000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314180200 -0300" stop="20260314193200 -0300" channel="Mega TV (Brazil)">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314183000 -0300" stop="20260314200000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Vigília da Alma</title>
+    <desc lang="pt">Um encontro marcado por uma verdadeira renovação espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314190200 -0300" stop="20260314203200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314193000 -0300" stop="20260314210000 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314200200 -0300" stop="20260314213200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Ensino da Fé</title>
+    <desc lang="pt">O Bispo Macedo e sua esposa Ester Bezerra falam sobre os planos de Deus para a vida de cada pessoa e, por meio de ensinamentos práticos, explicam como alcançar a plenitude do Espírito Santo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314210200 -0300" stop="20260314223200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Vigília da Alma</title>
+    <desc lang="pt">Um encontro marcado por uma verdadeira renovação espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314220200 -0300" stop="20260314233200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314230200 -0300" stop="20260315003200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314000200 -0300" stop="20260314013200 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">The Love School - Escola do Amor</title>
+    <desc lang="pt">O casal Cris e Renato Cardoso dá conselhos eficazes para ajudar pessoas solteiras e comprometidas a alcançarem ou manterem relacionamentos felizes e driblarem as adversidades do cotidiano. A aula é divertida e traz assuntos variados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314010500 -0300" stop="20260314023500 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314013300 -0300" stop="20260314030300 -0300" channel="Mega TV (Brazil)">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314020200 -0300" stop="20260314033200 -0300" channel="Mega TV (Brazil)">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -99495,30 +99670,205 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314020200 -0300" stop="20260314033200 -0300" channel="MEGA TVHD">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+  <programme start="20260314060200 -0300" stop="20260314073200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Jornal da EBC</title>
+    <desc lang="pt">Notícias, matérias e acontecimentos transmitidos pelo Jornal da EBC.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314080100 -0300" stop="20260314093100 -0300" channel="MEGA TVHD">
+    <title lang="pt">A Última Porta</title>
+    <desc lang="pt">O programa leva mensagens de esperança a pessoas com problemas que parecem não ter solução.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314083000 -0300" stop="20260314100000 -0300" channel="MEGA TVHD">
+    <title lang="pt">Saindo da Crise</title>
+    <desc lang="pt">Acompanhe as mais novas notícias de economia e dicas para driblar a crise financeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314090200 -0300" stop="20260314103200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314100200 -0300" stop="20260314113200 -0300" channel="MEGA TVHD">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314103000 -0300" stop="20260314120000 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314110200 -0300" stop="20260314123200 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314113000 -0300" stop="20260314130000 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314120300 -0300" stop="20260314133300 -0300" channel="MEGA TVHD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314123200 -0300" stop="20260314140200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Ensino da Fé</title>
+    <desc lang="pt">O Bispo Macedo e sua esposa Ester Bezerra falam sobre os planos de Deus para a vida de cada pessoa e, por meio de ensinamentos práticos, explicam como alcançar a plenitude do Espírito Santo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314133200 -0300" stop="20260314150200 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314140200 -0300" stop="20260314153200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314143000 -0300" stop="20260314160000 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314150200 -0300" stop="20260314163200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314160200 -0300" stop="20260314173200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314170200 -0300" stop="20260314183200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314173000 -0300" stop="20260314190000 -0300" channel="MEGA TVHD">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314180200 -0300" stop="20260314193200 -0300" channel="MEGA TVHD">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314183000 -0300" stop="20260314200000 -0300" channel="MEGA TVHD">
+    <title lang="pt">Vigília da Alma</title>
+    <desc lang="pt">Um encontro marcado por uma verdadeira renovação espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314190200 -0300" stop="20260314203200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314193000 -0300" stop="20260314210000 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314200200 -0300" stop="20260314213200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Ensino da Fé</title>
+    <desc lang="pt">O Bispo Macedo e sua esposa Ester Bezerra falam sobre os planos de Deus para a vida de cada pessoa e, por meio de ensinamentos práticos, explicam como alcançar a plenitude do Espírito Santo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314210200 -0300" stop="20260314223200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Vigília da Alma</title>
+    <desc lang="pt">Um encontro marcado por uma verdadeira renovação espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314220200 -0300" stop="20260314233200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314230200 -0300" stop="20260315003200 -0300" channel="MEGA TVHD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314000200 -0300" stop="20260314013200 -0300" channel="MEGA TVHD">
+    <title lang="pt">The Love School - Escola do Amor</title>
+    <desc lang="pt">O casal Cris e Renato Cardoso dá conselhos eficazes para ajudar pessoas solteiras e comprometidas a alcançarem ou manterem relacionamentos felizes e driblarem as adversidades do cotidiano. A aula é divertida e traz assuntos variados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314010500 -0300" stop="20260314023500 -0300" channel="MEGA TVHD">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314013300 -0300" stop="20260314030300 -0300" channel="MEGA TVHD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314020200 -0300" stop="20260314033200 -0300" channel="MEGA TVHD">
-    <title lang="pt">Fogo e Poder</title>
-    <desc lang="pt">O evento exalta as manifestações de Deus por meio do fogo, como quando Ele fez a aliança com Abraão. As lições são divididas com fiéis, que buscam também a libertação e o encontro com as dádivas de Deus.</desc>
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -193548,15 +193898,36 @@
     </rating>
   </programme>
   <programme start="20260315060200 -0300" stop="20260315073200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Palmeiras x Corinthians</title>
+    <desc lang="pt">Clássico paulista pela terceira rodada da primeira fase. Da Arena Crefisa Barueri, em Barueri, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260315100200 -0300" stop="20260315113200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260315070200 -0300" stop="20260315083200 -0300" channel="SporTV HD">
+    <title lang="pt">Botafogo-RJ x Flamengo</title>
+    <desc lang="pt">Terceira rodada da primeira fase do Brasileirão. Do estádio Nilton Santos, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315080200 -0300" stop="20260315093200 -0300" channel="SporTV HD">
+    <title lang="pt">Vila Nova x Operário-MS</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315090200 -0300" stop="20260315103200 -0300" channel="SporTV HD">
+    <title lang="pt">Vitória x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315093200 -0300" stop="20260315110200 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">O dia a dia do esporte e as principais notícias pelo país.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -193576,8 +193947,8 @@
     </rating>
   </programme>
   <programme start="20260315130200 -0300" stop="20260315143200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Elite 16: João Pessoa - Semifinal Masculina</title>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -193590,15 +193961,57 @@
     </rating>
   </programme>
   <programme start="20260315150200 -0300" stop="20260315163200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315153200 -0300" stop="20260315170200 -0300" channel="SporTV HD">
+    <title lang="pt">Grêmio x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315160200 -0300" stop="20260315173200 -0300" channel="SporTV HD">
+    <title lang="pt">Vitória x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315163200 -0300" stop="20260315180200 -0300" channel="SporTV HD">
+    <title lang="pt">Remo x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315170200 -0300" stop="20260315183200 -0300" channel="SporTV HD">
+    <title lang="pt">SporTV News</title>
+    <desc lang="pt">Acompanhe as últimas notícias esportivas do Brasil e do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260315190200 -0300" stop="20260315203200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">São Paulo x Chapecoense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315193200 -0300" stop="20260315210200 -0300" channel="SporTV HD">
+    <title lang="pt">Botafogo-RJ x Flamengo</title>
+    <desc lang="pt">Terceira rodada da primeira fase do Brasileirão. Do estádio Nilton Santos, no Rio de Janeiro, RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315204700 -0300" stop="20260315221700 -0300" channel="SporTV HD">
+    <title lang="pt">Aquecimento SporTV</title>
+    <desc lang="pt">Abertura da transmissão do GP da China, segunda corrida da temporada 2026 da Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -193611,15 +194024,64 @@
     </rating>
   </programme>
   <programme start="20260315233200 -0300" stop="20260316010200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Palmeiras x Corinthians</title>
+    <desc lang="pt">Clássico paulista pela terceira rodada da primeira fase. Da Arena Crefisa Barueri, em Barueri, SP.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315003200 -0300" stop="20260315020200 -0300" channel="SporTV HD">
+    <title lang="pt">Remo x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315010200 -0300" stop="20260315023200 -0300" channel="SporTV HD">
+    <title lang="pt">Vitória x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315013200 -0300" stop="20260315030200 -0300" channel="SporTV HD">
+    <title lang="pt">Fechamento Sportv</title>
+    <desc lang="pt">Uma análise aprofundada dos acontecimentos mais marcantes de cada rodada do Campeonato Brasileiro, com informação e muita irreverência.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260315033200 -0300" stop="20260315050200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Palmeiras x Mirassol</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315040200 -0300" stop="20260315053200 -0300" channel="SporTV HD">
+    <title lang="pt">Bragantino x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315043200 -0300" stop="20260315060200 -0300" channel="SporTV HD">
+    <title lang="pt">Santos x Corinthians</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315050200 -0300" stop="20260315063200 -0300" channel="SporTV HD">
+    <title lang="pt">Fluminense x Athletico-PR</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260315053200 -0300" stop="20260315070200 -0300" channel="SporTV HD">
+    <title lang="pt">Palmeiras x Corinthians</title>
+    <desc lang="pt">Clássico paulista pela terceira rodada da primeira fase. Da Arena Crefisa Barueri, em Barueri, SP.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
