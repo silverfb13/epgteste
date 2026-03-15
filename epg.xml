@@ -94512,15 +94512,15 @@
     </rating>
   </programme>
   <programme start="20260314060200 -0300" stop="20260314073200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Total Combat</title>
-    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <title lang="pt">Heroines</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260314063200 -0300" stop="20260314080200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Heroines</title>
-    <desc lang="pt">Sem descrição</desc>
+    <title lang="pt">The Inside Line</title>
+    <desc lang="pt">Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -94533,29 +94533,99 @@
     </rating>
   </programme>
   <programme start="20260314081700 -0300" stop="20260314094700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Atlântico Erechim x Carlos Barbosa</title>
+    <desc lang="pt">Pela final Atlântico e Carlos Barbosa se enfrentam no Ginásio Perinão, em Gramado, RS.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314100200 -0300" stop="20260314113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Baú dos Campeões</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314103200 -0300" stop="20260314120200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bundesliga Clubs</title>
+    <desc lang="pt">A história dos clubes que fazem parte da primeira divisão do futebol da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314104700 -0300" stop="20260314121700 -0300" channel="Ideal TV HD">
     <title lang="pt">Washington Spirit x Portland Thorns</title>
     <desc lang="pt">Acompanhe as emoções da Liga Americana de Futebol Feminino.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314090200 -0300" stop="20260314103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260314123200 -0300" stop="20260314140200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Flamengo x Independiente Medellín U20</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314170200 -0300" stop="20260314183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260314142200 -0300" stop="20260314155200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bayer Leverkusen x Bayern de Munique</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260314010200 -0300" stop="20260314023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260314163200 -0300" stop="20260314180200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314172200 -0300" stop="20260314185200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Chelsea x Newcastle United</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314193200 -0300" stop="20260314210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Borussia Dortmund x Augsburg</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314211700 -0300" stop="20260314224700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Palmeiras x Sporting Cristal U20</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314233200 -0300" stop="20260315010200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Gil Vicente x Alverca</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314002200 -0300" stop="20260314015200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Universidad Católica U20 x Club Olimpia U20</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314023200 -0300" stop="20260314040200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Real Madrid x Elche CF</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260314041700 -0300" stop="20260314054700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Gil Vicente x Alverca</title>
+    <desc lang="pt">Todas as emoções da principal competição de futebol masculino entre clubes de Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
