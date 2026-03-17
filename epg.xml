@@ -200689,7 +200689,7 @@
   </programme>
   <programme start="20260318093200 -0300" stop="20260318110200 -0300" channel="SporTV2 HD">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Momentos e personagens que entraram para a história. Jogos marcantes, lendas do esporte, o reencontro de antigos rivais, resgate de ídolos esquecidos e muito mais.</desc>
+    <desc lang="pt">Mário Jorge Lobo Zagallo é considerado a maior lenda do futebol brasileiro quando se fala em Seleção Brasileira, seja como jogador, técnico ou auxiliar.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -201388,36 +201388,99 @@
     </rating>
   </programme>
   <programme start="20260318100200 -0300" stop="20260318113200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">O dia a dia do esporte e as principais notícias pelo país.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260318140200 -0300" stop="20260318153200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260318113200 -0300" stop="20260318130200 -0300" channel="SporTV HD">
+    <title lang="pt">SporTV News</title>
+    <desc lang="pt">Acompanhe as últimas notícias esportivas do Brasil e do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260318180200 -0300" stop="20260318193200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260318130200 -0300" stop="20260318143200 -0300" channel="SporTV HD">
+    <title lang="pt">Redação SporTV</title>
+    <desc lang="pt">Um programa de debate sobre as notícias esportivas com alguns dos principais cronistas do esporte brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318151700 -0300" stop="20260318164700 -0300" channel="SporTV HD">
+    <title lang="pt">Tá On</title>
+    <desc lang="pt">As novidades do mundo esportivo com uma pegada descontraída e de olho nas redes sociais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318160200 -0300" stop="20260318173200 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção Sportv</title>
+    <desc lang="pt">O programa analisa, logo depois dos jogos de futebol do dia, todos os lances e as imagens das melhores jogadas, além de trazer notícias envolvendo os bastidores dos clubes e entrevistas com atletas e treinadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318183200 -0300" stop="20260318200200 -0300" channel="SporTV HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318191700 -0300" stop="20260318204700 -0300" channel="SporTV HD">
+    <title lang="pt">Tá na Área</title>
+    <desc lang="pt">Os principais assuntos esportivos com uma dose de entretenimento e bom humor. As notícias mais quentes do dia são informadas com leveza e dividem espaço com esquetes, entrevistas, imitações e muita risada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318210200 -0300" stop="20260318223200 -0300" channel="SporTV HD">
+    <title lang="pt">Aquecimento SporTV</title>
+    <desc lang="pt">Abertura da transmissão do duelo válido pela sétima rodada do Brasileirão 2026.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260318220200 -0300" stop="20260318233200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Palmeiras x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260318020200 -0300" stop="20260318033200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260318000200 -0300" stop="20260318013200 -0300" channel="SporTV HD">
+    <title lang="pt">CRB x Figueirense</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318023200 -0300" stop="20260318040200 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">O dia a dia do esporte e as principais notícias pelo país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318040200 -0300" stop="20260318053200 -0300" channel="SporTV HD">
+    <title lang="pt">Palmeiras x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318043200 -0300" stop="20260318060200 -0300" channel="SporTV HD">
+    <title lang="pt">CRB x Figueirense</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318053200 -0300" stop="20260318070200 -0300" channel="SporTV HD">
+    <title lang="pt">Bahia x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
