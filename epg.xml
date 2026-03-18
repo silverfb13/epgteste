@@ -201857,22 +201857,99 @@
     </rating>
   </programme>
   <programme start="20260319100200 -0300" stop="20260319113200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cine Marcial</title>
+    <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260319180200 -0300" stop="20260319193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260319103200 -0300" stop="20260319120200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319114200 -0300" stop="20260319131200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319124200 -0300" stop="20260319141200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319134200 -0300" stop="20260319151200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Os pilotos aceleram para a etapa de abertura da temporada, no Circuito de Albert Park, em Melbourne, Austrália. A Ferrari é a equipe que mais ganhou a prova australiana, com 14 triunfos: um a mais do que a McLaren, vencedora em 2025 com Lando Norris.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319154700 -0300" stop="20260319171700 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da China</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319175200 -0300" stop="20260319192200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Especial Pequim 2008</title>
+    <desc lang="pt">Quinze anos após os eventos, recorde os inesquecíveis momentos dos Jogo Olímpicos de Pequim. Diversos atletas fizeram história e tiveram suas vidas marcadas após a competição, lembrados para sempre no mundo do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319185200 -0300" stop="20260319202200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Chongqing, China - Final Feminina</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319195700 -0300" stop="20260319212700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Chongqing, China - Final Masculina</title>
+    <desc lang="pt">Circuito que reúne os 32 melhores mesa-tenistas do mundo em seis torneios pela Ásia e Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319204700 -0300" stop="20260319221700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Flamengo x Pinheiros</title>
+    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319230200 -0300" stop="20260320003200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Semifinal 2: Palmeiras x Santiago Wanderers U20</title>
+    <desc lang="pt">Todas as emoções da principal competição sub-20 de futebol masculino entre clubes da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319013200 -0300" stop="20260319030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Experiência de Mestre</title>
+    <desc lang="pt">Demian Maia recebe o ator Duda Nagle para uma aula em que mostra como aperfeiçoou um conjunto de movimentos do jiu-jítsu esportivo para serem eficazes no MMA.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260319020200 -0300" stop="20260319033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">FMS Fight Night 10</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260319050200 -0300" stop="20260319063200 -0300" channel="SporTV3 HD">
+    <title lang="pt">ONE Fight Night 41</title>
+    <desc lang="pt">Edição número 41 do evento de mma, muay thai e kickboxing. Do Estádio Lumpinee, em Bangkok.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
