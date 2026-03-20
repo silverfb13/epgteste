@@ -121413,6 +121413,13 @@
     </rating>
   </programme>
   <programme start="20260318000200 -0300" stop="20260318013200 -0300" channel="Premiere 7 HD">
+    <title lang="pt">Programação Premiere 7</title>
+    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260318002700 -0300" stop="20260318015700 -0300" channel="Premiere 7 HD">
     <title lang="pt">Jacuipense x Novorizontino</title>
     <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
     <rating system="Brazil">
@@ -198609,22 +198616,57 @@
     </rating>
   </programme>
   <programme start="20260320130200 -0300" stop="20260320143200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Sorocaba x Sesc-RJ Flamengo</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260320150200 -0300" stop="20260320163200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Mackenzie x Maringá Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260320170200 -0300" stop="20260320183200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Dia 1 - Sessão da Noite</title>
+    <desc lang="pt">Primeiro dia de disputas da Arena Torún, na região da Cuávia,Pomerânia,Polônia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260320210200 -0300" stop="20260320223200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Fluminense x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260320050200 -0300" stop="20260320063200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260320233200 -0300" stop="20260321010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Osasco x Praia Clube</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260320020200 -0300" stop="20260320033200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hello LA</title>
+    <desc lang="pt">Os principais acontecimentos do ciclo das modalidades olímpicas até os Jogos de Los Angeles, em 2028. Entrevistas, atualidades, termômetro de competições e informações de diversos esportes, com participação de atletas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260320030200 -0300" stop="20260320043200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260320040200 -0300" stop="20260320053200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Fluminense x Tijuca</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199525,9 +199567,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260321043200 -0300" stop="20260321060200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260321060200 -0300" stop="20260321073200 -0300" channel="SporTV HD">
+    <title lang="pt">Bahia x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260321063200 -0300" stop="20260321080200 -0300" channel="SporTV HD">
+    <title lang="pt">Palmeiras x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199575,13 +199624,6 @@
     </rating>
   </programme>
   <programme start="20260321010200 -0300" stop="20260321023200 -0300" channel="SporTV HD">
-    <title lang="pt">Programação SporTV</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260321050200 -0300" stop="20260321063200 -0300" channel="SporTV HD">
     <title lang="pt">Programação SporTV</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
