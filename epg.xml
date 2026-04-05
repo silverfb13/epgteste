@@ -284666,6 +284666,118 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260404060200 -0300" stop="20260404073200 -0300" channel="TV Vitória">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404070200 -0300" stop="20260404083200 -0300" channel="TV Vitória">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programas da Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404090200 -0300" stop="20260404103200 -0300" channel="TV Vitória">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programas da Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404100200 -0300" stop="20260404113200 -0300" channel="TV Vitória">
+    <title lang="pt">Brasil Caminhoneiro</title>
+    <desc lang="pt">Reportagens, prestação de serviço e entretenimento aos profissionais da estrada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404103700 -0300" stop="20260404120700 -0300" channel="TV Vitória">
+    <title lang="pt">Fala Brasil - Edição de Sábado</title>
+    <desc lang="pt">Confira as principais notícias da semana, antecipando os fatos que podem mobilizar os brasileiros.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404150200 -0300" stop="20260404163200 -0300" channel="TV Vitória">
+    <title lang="pt">Balanço Geral - Edição de Sábado</title>
+    <desc lang="pt">O programa apresenta reportagens especiais, matérias policiais, denúncias e prestação de serviços, além de uma retrospectiva das grandes notícias da semana. Todos os tópicos são abordados com respeito e bom-humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404170200 -0300" stop="20260404183200 -0300" channel="TV Vitória">
+    <title lang="pt">Fala ES</title>
+    <desc lang="pt">Fique por dentro dos principais assuntos do Espírito Santo e do Brasil. Cultura, entretenimento, saúde e comportamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404180200 -0300" stop="20260404193200 -0300" channel="TV Vitória">
+    <title lang="pt">Transcendence - A Revolução</title>
+    <desc lang="pt">Dr. Will Caster, a maior autoridade do mundo em inteligência artificial, está conduzindo experimentos altamente controversos, na intenção de criar um robô com grande variedade de emoções humanas. Quando extremistas antitecnologia tentam matá-lo, Caster convence sua esposa, Evelyn, e seu melhor amigo, Max Waters, a testar seu novo invento nele mesmo. Só que a grande questão não é se eles podem fazer isto, mas se eles devem dar este passo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404200200 -0300" stop="20260404213200 -0300" channel="TV Vitória">
+    <title lang="pt">Cidade Alerta - Edição de Sábado</title>
+    <desc lang="pt">Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404220200 -0300" stop="20260404233200 -0300" channel="TV Vitória">
+    <title lang="pt">Jornal da Record - Edição de Sábado</title>
+    <desc lang="pt">Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404230200 -0300" stop="20260405003200 -0300" channel="TV Vitória">
+    <title lang="pt">Aquecimento Futebol</title>
+    <desc lang="pt">Os últimos preparativos para as principais partidas do futebol brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404232200 -0300" stop="20260405005200 -0300" channel="TV Vitória">
+    <title lang="pt">Coritiba x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404013200 -0300" stop="20260404030200 -0300" channel="TV Vitória">
+    <title lang="pt">Até o Último Homem</title>
+    <desc lang="pt">Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404033200 -0300" stop="20260404050200 -0300" channel="TV Vitória">
+    <title lang="pt">Série</title>
+    <desc lang="pt">Faixa com as melhores séries da Record.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404041700 -0300" stop="20260404054700 -0300" channel="TV Vitória">
+    <title lang="pt">Fala que Eu te Escuto</title>
+    <desc lang="pt">Pastores e bispos da Igreja Universal do Reino de Deus debatem diariamente os temas mais relevantes da atualidade a partir de uma perspectiva cristã. Os telespectadores participam do programa dando testemunhos impressionantes do poder da fé.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260404050200 -0300" stop="20260404063200 -0300" channel="TV Vitória">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260405060200 -0300" stop="20260405073200 -0300" channel="TV Vitória">
     <title lang="pt">Programação IURD</title>
     <desc lang="pt">Programas da Igreja Universal do Reino de Deus.</desc>
@@ -285766,6 +285878,34 @@
     </rating>
   </programme>
   <programme start="20260406010200 -0300" stop="20260406023200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260407010200 -0300" stop="20260407023200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260407090200 -0300" stop="20260407103200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260407170200 -0300" stop="20260407183200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260407010200 -0300" stop="20260407023200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
     <title lang="pt">Programação TVCI</title>
     <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
     <rating system="Brazil">
