@@ -196186,14 +196186,35 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260410024200 -0300" stop="20260410041200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260410045700 -0300" stop="20260410062700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Championship Tour: Etapa de Bells Beach - Dia 8</title>
+    <desc lang="pt">Oitavo dia de nova etapa do Circuito Mundial de Surfe. De Bells Beach, na Austrália.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260410104200 -0300" stop="20260410121200 -0300" channel="SporTV3 HD">
+  <programme start="20260410070200 -0300" stop="20260410083200 -0300" channel="SporTV3 HD">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Seu nascimento é atribuído às Ilhas da Polinésia, onde competindo entre si, famílias e tribos disputavam fama, riqueza e prestígio. Porém, por conta da proibição do esporte durante a colonização britânica, o surfe levou quase um século para ser reconhecido pela sociedade como uma modalidade séria. Felizmente, tudo isso mudou, até que em 2021, o esporte viveu um de seus momentos mais especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260410073200 -0300" stop="20260410090200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Shredding Monsters - Mavericks</title>
+    <desc lang="pt">O lendário Garrett McNamara e os surfistas Jamie Mitchell e Aaron Gold, entre outros, enfrentam uma das ondas gigantes mais traiçoeiras do mundo: as Mavericks, no litoral da Califórnia, Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260410080200 -0300" stop="20260410093200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da China</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260410100200 -0300" stop="20260410113200 -0300" channel="SporTV3 HD">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
