@@ -199659,8 +199659,43 @@
     </rating>
   </programme>
   <programme start="20260409100200 -0300" stop="20260409113200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Na Turquia, o técnico José Roberto Guimarães treina três atletas da Seleção; com hérnia, Macris luta contra o tempo; no Fenerbahçe, Ana Cristina segue em recuperação; a Liga das Nações começa no Rio de Janeiro, tendo como palco o Maracanãzinho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409103200 -0300" stop="20260409120200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Sem Bloqueio</title>
+    <desc lang="pt">Sem Bloqueio viaja para Macau com a Seleção e mostra os bastidores da segunda etapa da VNL. É a hora do Brasil enfrentar o Japão e a Itália e tentar manter sua invencibilidade. Na folga, atletas se divertem em um mundo lúdico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409110200 -0300" stop="20260409123200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hall da Fama do COB 2026</title>
+    <desc lang="pt">Evento homenageia ícones do esporte brasileiro. Do Hotel Copacabana Palace, no Rio de Janeiro?RJ.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409123200 -0300" stop="20260409140200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final, Jogo 3: Praia Clube x Sesi Bauru</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409143200 -0300" stop="20260409160200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasil vs. Dunga - Futebol em Pé de Guerra</title>
+    <desc lang="pt">A trajetória do ex-volante Dunga, capitão da Seleção Brasileira campeã da Copa do Mundo de 1994, um personagem marcado por críticas e momentos controversos fora dos gramados, mas que possuía habilidades raras dentro de campo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409150200 -0300" stop="20260409163200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Brasil vs. Dunga - Futebol em Pé de Guerra</title>
+    <desc lang="pt">A trajetória do ex-volante Dunga, capitão da Seleção Brasileira campeã da Copa do Mundo de 1994, um personagem marcado por críticas e momentos controversos fora dos gramados, mas que possuía habilidades raras dentro de campo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199673,22 +199708,64 @@
     </rating>
   </programme>
   <programme start="20260409180200 -0300" stop="20260409193200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Relembre a incrível carreira do pugilista, duas vezes campeão do mundo, Éder Jofre.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409183200 -0300" stop="20260409200200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Lendas Olímpicas</title>
+    <desc lang="pt">Um perfil do jogador francês de handebol aposentado, que atualmente administra a seleção francesa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409190200 -0300" stop="20260409203200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final, Jogo 1: Minas x Suzano</title>
+    <desc lang="pt">Pelo primeiro duelo das quartas em melhor de três, o Minas recebe o Suzano na Arena UniBH, em Belo Horizonte?MG. As atuais campeãs venceram 16 de 22 jogos na fase de classificação, enquanto a equipe paulista somou dez triunfos e 12 derrotas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409211200 -0300" stop="20260409224200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Masculina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260409233200 -0300" stop="20260410010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Masculina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260409020200 -0300" stop="20260409033200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Superliga Masculina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260410020200 -0300" stop="20260410033200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260409040200 -0300" stop="20260409053200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Superliga Masculina de Vôlei</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260410060200 -0300" stop="20260410073200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final, Jogo 1: Minas x Suzano</title>
+    <desc lang="pt">Pelo primeiro duelo das quartas em melhor de três, o Minas recebe o Suzano na Arena UniBH, em Belo Horizonte?MG. As atuais campeãs venceram 16 de 22 jogos na fase de classificação, enquanto a equipe paulista somou dez triunfos e 12 derrotas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260410080200 -0300" stop="20260410093200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Quartas de Final, Jogo 1: Praia Clube/Uberlândia x Guarulhos</title>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
