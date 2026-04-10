@@ -121748,16 +121748,93 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260412234200 -0300" stop="20260413011200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260412060200 -0300" stop="20260412073200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">São Paulo x Cruzeiro</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260412074200 -0300" stop="20260412091200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260412063200 -0300" stop="20260412080200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412073200 -0300" stop="20260412090200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412080200 -0300" stop="20260412093200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412083200 -0300" stop="20260412100200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vitória x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412090200 -0300" stop="20260412103200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Palmeiras</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412093200 -0300" stop="20260412110200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412100200 -0300" stop="20260412113200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412103200 -0300" stop="20260412120200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412110200 -0300" stop="20260412123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Atlético-MG no Estádio da Vila Belmiro, em Santos?SP. Tanto o Peixe como o Galo buscam a primeira vitória na atual campanha: os donos da casa têm apenas um ponto até o momento, enquanto os visitantes somam dois.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412113200 -0300" stop="20260412130200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412123200 -0300" stop="20260412140200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412130200 -0300" stop="20260412143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Atlético-MG no Estádio da Vila Belmiro, em Santos?SP. Tanto o Peixe como o Galo buscam a primeira vitória na atual campanha: os donos da casa têm apenas um ponto até o momento, enquanto os visitantes somam dois.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -121770,15 +121847,50 @@
     </rating>
   </programme>
   <programme start="20260412161200 -0300" stop="20260412174200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Remo x Vasco</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260412184200 -0300" stop="20260412201200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">São Bernardo FC x Fortaleza</title>
-    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+  <programme start="20260412164200 -0300" stop="20260412181200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vitória x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412171200 -0300" stop="20260412184200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412174200 -0300" stop="20260412191200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412181200 -0300" stop="20260412194200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412190200 -0300" stop="20260412203200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Partidas históricas na íntegra, destaques e resumos da principal competição de futebol masculino do Brasil: o Campeonato Brasileiro - Série A.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412200200 -0300" stop="20260412213200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Partidas históricas na íntegra, destaques e resumos da principal competição de futebol masculino do Brasil: o Campeonato Brasileiro - Série A.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -121790,9 +121902,86 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260412021700 -0300" stop="20260412034700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260412234200 -0300" stop="20260413011200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412001200 -0300" stop="20260412014200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Botafogo x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412004200 -0300" stop="20260412021200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412011200 -0300" stop="20260412024200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Atlético-MG no Estádio da Vila Belmiro, em Santos?SP. Tanto o Peixe como o Galo buscam a primeira vitória na atual campanha: os donos da casa têm apenas um ponto até o momento, enquanto os visitantes somam dois.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412014200 -0300" stop="20260412031200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Corinthians x Palmeiras</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412021200 -0300" stop="20260412034200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412024200 -0300" stop="20260412041200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412033200 -0300" stop="20260412050200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vitória x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412040200 -0300" stop="20260412053200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Atlético-MG no Estádio da Vila Belmiro, em Santos?SP. Tanto o Peixe como o Galo buscam a primeira vitória na atual campanha: os donos da casa têm apenas um ponto até o momento, enquanto os visitantes somam dois.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412043200 -0300" stop="20260412060200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Fluminense x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412050200 -0300" stop="20260412063200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260412053200 -0300" stop="20260412070200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
