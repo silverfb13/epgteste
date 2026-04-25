@@ -288565,6 +288565,559 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260424030200 -0300" stop="20260424043200 -0300" channel="WooHoo HD">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424070200 -0300" stop="20260424083200 -0300" channel="WooHoo HD">
+    <title lang="pt">Do Alto</title>
+    <desc lang="pt">As mais belas paisagens do Brasil e do mundo são exibidas por outro ângulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424071200 -0300" stop="20260424084200 -0300" channel="WooHoo HD">
+    <title lang="pt">Giro GG</title>
+    <desc lang="pt">Os melhores momentos das jogadas da semana competitiva da Liga GG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424072200 -0300" stop="20260424085200 -0300" channel="WooHoo HD">
+    <title lang="pt">Short Facts</title>
+    <desc lang="pt">O programa apresenta de maneira rápida os fatos mais curiosos sobre temas variados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424073200 -0300" stop="20260424090200 -0300" channel="WooHoo HD">
+    <title lang="pt">Games Trailer</title>
+    <desc lang="pt">Divulgação dos lançamentos de games por meio de trailers.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424074200 -0300" stop="20260424091200 -0300" channel="WooHoo HD">
+    <title lang="pt">Modo História</title>
+    <desc lang="pt">Uma aventura pelos fascinantes segredos e curiosidades do icônico jogo Minecraft. A história por trás do mundo pixelado de cubos, lendas como a do aterrorizante Herobrine e os mistérios do Nether e The End.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424075200 -0300" stop="20260424092200 -0300" channel="WooHoo HD">
+    <title lang="pt">Game de A a Z</title>
+    <desc lang="pt">Todas as informações e novidades do mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424080200 -0300" stop="20260424093200 -0300" channel="WooHoo HD">
+    <title lang="pt">Correndo com Woohoo</title>
+    <desc lang="pt">Programa mostra a força da comunidade de corrida do Woohoo. Com cortes de vídeos pessoais de seguidoras, é retratado como a corrida muda para melhor a vida das pessoas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424081200 -0300" stop="20260424094200 -0300" channel="WooHoo HD">
+    <title lang="pt">X1 Improváveis</title>
+    <desc lang="pt">Programa debate duelos hipotéticos entre ícones da cultura pop, como Mario vs. Pikachu e Pernalonga vs. Pica-Pau.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424082200 -0300" stop="20260424095200 -0300" channel="WooHoo HD">
+    <title lang="pt">Shorts do Tio Clinas</title>
+    <desc lang="pt">Tio Clinas comenta os games do momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424083200 -0300" stop="20260424100200 -0300" channel="WooHoo HD">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424084200 -0300" stop="20260424101200 -0300" channel="WooHoo HD">
+    <title lang="pt">TBT</title>
+    <desc lang="pt">Relembre momentos memoráveis de eventos esportivos por meio de vídeos e fotos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424085200 -0300" stop="20260424102200 -0300" channel="WooHoo HD">
+    <title lang="pt">Projeto Califa</title>
+    <desc lang="pt">Boletim sobre os melhores picos de surfe da Califórnia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424090200 -0300" stop="20260424103200 -0300" channel="WooHoo HD">
+    <title lang="pt">Papo Reto</title>
+    <desc lang="pt">Estrelas da música, dos esportes de ação e das artes jovens abrem a cabeça e soltam o verbo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424093200 -0300" stop="20260424110200 -0300" channel="WooHoo HD">
+    <title lang="pt">Olho de Peixe</title>
+    <desc lang="pt">Passando por grandes cidades como Los Angeles e Nova Iorque, o evento da Adidas agora ocupa a cidade de São Paulo com skate, arte e música.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424094700 -0300" stop="20260424111700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Games</title>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424100200 -0300" stop="20260424113200 -0300" channel="WooHoo HD">
+    <title lang="pt">Eu Mega Recomendo</title>
+    <desc lang="pt">Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424103200 -0300" stop="20260424120200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424104700 -0300" stop="20260424121700 -0300" channel="WooHoo HD">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424105100 -0300" stop="20260424122100 -0300" channel="WooHoo HD">
+    <title lang="pt">Reloaded</title>
+    <desc lang="pt">Análise de jogos revolucionários que transformaram a indústria de videogames. Cada episódio explora títulos inovadores que estabeleceram novos padrões tecnológicos e criativos, contextualizando impacto histórico de clássicos que definiram gerações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424105300 -0300" stop="20260424122300 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424105600 -0300" stop="20260424122600 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424105800 -0300" stop="20260424122800 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424110000 -0300" stop="20260424123000 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424110200 -0300" stop="20260424123200 -0300" channel="WooHoo HD">
+    <title lang="pt">Caminhos da Sol</title>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, viaja pelo norte do Peru.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424111700 -0300" stop="20260424124700 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424114700 -0300" stop="20260424131700 -0300" channel="WooHoo HD">
+    <title lang="pt">Olho de Peixe</title>
+    <desc lang="pt">Rafael Gomes, Pedro Biagio e Roberto Junior fazem parte da Retta Skateshop no Paraná. Confira um passeio pela cidades de Maringá, Campo Mourão e Londrina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424120200 -0300" stop="20260424133200 -0300" channel="WooHoo HD">
+    <title lang="pt">Check Point</title>
+    <desc lang="pt">O programa apresenta as novidades do mundo dos games e e-sports, como lançamentos e campeonatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424121700 -0300" stop="20260424134700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Games</title>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424123200 -0300" stop="20260424140200 -0300" channel="WooHoo HD">
+    <title lang="pt">Woohoo Music</title>
+    <desc lang="pt">Produções independentes, resultados excelentes. Adeptos do faça você mesmo com acabamento de superprodução, a cena alternativa brasileira tem um lugar cativo no Woohoo Music.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424124700 -0300" stop="20260424141700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424130200 -0300" stop="20260424143200 -0300" channel="WooHoo HD">
+    <title lang="pt">Hootalks</title>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424133200 -0300" stop="20260424150200 -0300" channel="WooHoo HD">
+    <title lang="pt">Resenha Woohoo</title>
+    <desc lang="pt">Tudo sobre o mundo do surfe com análises, entrevistas e as polêmicas do esporte radical.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424140200 -0300" stop="20260424153200 -0300" channel="WooHoo HD">
+    <title lang="pt">Streamerland</title>
+    <desc lang="pt">Streamers trazem muita gameplay de Counter-Strike, League of Legends, Free Fire, Fortnite e muitos outros jogos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424150200 -0300" stop="20260424163200 -0300" channel="WooHoo HD">
+    <title lang="pt">Esse Jogo Não Tem Pause</title>
+    <desc lang="pt">Série aborda a relação entre gamers e suas famílias, mostrando como os jogos eletrônicos transformaram a forma de diferentes gerações se conectarem. Um mergulho nas histórias de quem vive nesse universo, com entrevistas, análises e dados do setor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424153200 -0300" stop="20260424170200 -0300" channel="WooHoo HD">
+    <title lang="pt">Som na Lata</title>
+    <desc lang="pt">Acústicos com novos talentos da cena musical nacional. Um ponto de encontro essencial para artistas que buscam visibilidade e para aqueles ávidos não apenas para a música, mas para a diversidade e inovação no cenário artístico contemporâneo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424160200 -0300" stop="20260424173200 -0300" channel="WooHoo HD">
+    <title lang="pt">Luara e o Mar</title>
+    <desc lang="pt">A rotina, as viagens e competições da surfista da nova geração Luara Mandelli. Nascida em Matinhos, no Paraná, ela é uma das promessas do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424161700 -0300" stop="20260424174700 -0300" channel="WooHoo HD">
+    <title lang="pt">Caminhos da Sol</title>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, viaja pelo norte do Peru.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424163200 -0300" stop="20260424180200 -0300" channel="WooHoo HD">
+    <title lang="pt">Custom</title>
+    <desc lang="pt">Um olhar sobre a medalhista olímpica brasileira, uma das maiores estrelas do skate mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424164700 -0300" stop="20260424181700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424170200 -0300" stop="20260424183200 -0300" channel="WooHoo HD">
+    <title lang="pt">Top Ranking</title>
+    <desc lang="pt">Ranking dos 10 maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424171700 -0300" stop="20260424184700 -0300" channel="WooHoo HD">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424172100 -0300" stop="20260424185100 -0300" channel="WooHoo HD">
+    <title lang="pt">Reloaded</title>
+    <desc lang="pt">Análise de jogos revolucionários que transformaram a indústria de videogames. Cada episódio explora títulos inovadores que estabeleceram novos padrões tecnológicos e criativos, contextualizando impacto histórico de clássicos que definiram gerações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424172300 -0300" stop="20260424185300 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424172600 -0300" stop="20260424185600 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424172800 -0300" stop="20260424185800 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424173000 -0300" stop="20260424190000 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424173200 -0300" stop="20260424190200 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424174700 -0300" stop="20260424191700 -0300" channel="WooHoo HD">
+    <title lang="pt">Bit a Bit</title>
+    <desc lang="pt">O programa apresenta de forma dinâmica e acessível as histórias, personagens e fenômenos que transformaram os games e os e-esportes em uma das indústrias mais influentes do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424180200 -0300" stop="20260424193200 -0300" channel="WooHoo HD">
+    <title lang="pt">Resenha Woohoo</title>
+    <desc lang="pt">Tudo sobre o mundo do surfe com análises, entrevistas e as polêmicas do esporte radical.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424183200 -0300" stop="20260424200200 -0300" channel="WooHoo HD">
+    <title lang="pt">Woohoo Music</title>
+    <desc lang="pt">Produções independentes, resultados excelentes. Adeptos do faça você mesmo com acabamento de superprodução, a cena alternativa brasileira tem um lugar cativo no Woohoo Music.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424184700 -0300" stop="20260424201700 -0300" channel="WooHoo HD">
+    <title lang="pt">Onboarding Tribos</title>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424190200 -0300" stop="20260424203200 -0300" channel="WooHoo HD">
+    <title lang="pt">Pipoca no Set</title>
+    <desc lang="pt">As melhores dicas quando o assunto é entretenimento, reunindo curiosidades e histórias das produções mais aclamadas, além da trajetória de grandes atores e atrizes. Feito para quem adora maratonar em frente à TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424191700 -0300" stop="20260424204700 -0300" channel="WooHoo HD">
+    <title lang="pt">Surf Kidz</title>
+    <desc lang="pt">Viajar e surfar é ótimo, e quando junta a família fica ainda melhor. Os irmãos Maria Clara, João Victor e João Lucas preenchem a tela com muita fofura, energia e disposição para surfar as melhores ondas do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424192100 -0300" stop="20260424205100 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424192500 -0300" stop="20260424205500 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424192700 -0300" stop="20260424205700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424192900 -0300" stop="20260424205900 -0300" channel="WooHoo HD">
+    <title lang="pt">Gibigice</title>
+    <desc lang="pt">Um passeio sobre o universo dos quadrinhos e das HQs.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424193200 -0300" stop="20260424210200 -0300" channel="WooHoo HD">
+    <title lang="pt">Hootalks</title>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424200200 -0300" stop="20260424213200 -0300" channel="WooHoo HD">
+    <title lang="pt">Streamerland</title>
+    <desc lang="pt">Streamers trazem muita gameplay de Counter-Strike, League of Legends, Free Fire, Fortnite e muitos outros jogos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424210200 -0300" stop="20260424223200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Games</title>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424211700 -0300" stop="20260424224700 -0300" channel="WooHoo HD">
+    <title lang="pt">Olho de Peixe</title>
+    <desc lang="pt">Passando por grandes cidades como Los Angeles e Nova Iorque, o evento da Adidas agora ocupa a cidade de São Paulo com skate, arte e música.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424213200 -0300" stop="20260424230200 -0300" channel="WooHoo HD">
+    <title lang="pt">Viajando pelo Brasil</title>
+    <desc lang="pt">Para os viajantes que buscam uma vivência transformadora, as belezas naturais e a história do Brasil, acompanhe um programa repleto de dicas para experiências completas em cada destino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424220200 -0300" stop="20260424233200 -0300" channel="WooHoo HD">
+    <title lang="pt">Pipoca no Set</title>
+    <desc lang="pt">As melhores dicas quando o assunto é entretenimento, reunindo curiosidades e histórias das produções mais aclamadas, além da trajetória de grandes atores e atrizes. Feito para quem adora maratonar em frente à TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424221700 -0300" stop="20260424234700 -0300" channel="WooHoo HD">
+    <title lang="pt">Top Ranking</title>
+    <desc lang="pt">Ranking dos 10 maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424223200 -0300" stop="20260425000200 -0300" channel="WooHoo HD">
+    <title lang="pt">EnTourNo</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424230200 -0300" stop="20260425003200 -0300" channel="WooHoo HD">
+    <title lang="pt">Luara e o Mar</title>
+    <desc lang="pt">A rotina, as viagens e competições da surfista da nova geração Luara Mandelli. Nascida em Matinhos, no Paraná, ela é uma das promessas do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424231700 -0300" stop="20260425004700 -0300" channel="WooHoo HD">
+    <title lang="pt">Vanlife</title>
+    <desc lang="pt">Vander Amaral sai com sua van motorhome pelo Candá e Estados Unidos, em busca de esportes radicais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424233200 -0300" stop="20260425010200 -0300" channel="WooHoo HD">
+    <title lang="pt">Onboarding Tribos</title>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424234700 -0300" stop="20260425011700 -0300" channel="WooHoo HD">
+    <title lang="pt">Custom</title>
+    <desc lang="pt">Um olhar sobre a medalhista olímpica brasileira, uma das maiores estrelas do skate mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424000200 -0300" stop="20260424013200 -0300" channel="WooHoo HD">
+    <title lang="pt">Free&apos;das</title>
+    <desc lang="pt">O programa de comportamento que, sob a ótica feminina, debate diversos assuntos pertinentes ao mundo contemporâneo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424003200 -0300" stop="20260424020200 -0300" channel="WooHoo HD">
+    <title lang="pt">Papo Reto</title>
+    <desc lang="pt">Estrelas da música, dos esportes de ação e das artes jovens abrem a cabeça e soltam o verbo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424010200 -0300" stop="20260424023200 -0300" channel="WooHoo HD">
+    <title lang="pt">Bit a Bit</title>
+    <desc lang="pt">O programa apresenta de forma dinâmica e acessível as histórias, personagens e fenômenos que transformaram os games e os e-esportes em uma das indústrias mais influentes do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424011700 -0300" stop="20260424024700 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424013200 -0300" stop="20260424030200 -0300" channel="WooHoo HD">
+    <title lang="pt">Eu Mega Recomendo</title>
+    <desc lang="pt">Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424020200 -0300" stop="20260424033200 -0300" channel="WooHoo HD">
+    <title lang="pt">Dose Dupla</title>
+    <desc lang="pt">Tudo sobre o mercado dos games, com resenhas detalhadas, gameplays eletrizantes e análises descontraídas de lançamentos, clássicos e tendências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424021700 -0300" stop="20260424034700 -0300" channel="WooHoo HD">
+    <title lang="pt">Check Point</title>
+    <desc lang="pt">O programa apresenta as novidades do mundo dos games e e-sports, como lançamentos e campeonatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424023200 -0300" stop="20260424040200 -0300" channel="WooHoo HD">
+    <title lang="pt">Tio Clinas Joga!</title>
+    <desc lang="pt">Tio Clinas mergulha na história dos videogames, atualmente a segunda indústria mais lucrativa do mundo. Uma jornada emocionante pelos jogos que fizeram história e também suas influências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260424030200 -0300" stop="20260424043200 -0300" channel="WooHoo HD">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260425030200 -0300" stop="20260425043200 -0300" channel="WooHoo HD">
     <title lang="pt">1001 Noites</title>
     <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
