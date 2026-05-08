@@ -90801,16 +90801,135 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509152200 -0300" stop="20260509165200 -0300" channel="HBO Signature">
-    <title lang="pt">Tempestade de Metanfetamina</title>
-    <desc lang="pt">Os impactos dramáticos do negócio de metanfetamina no ponto de vista de agentes, traficantes e consumidores, revelando uma visão ampla em uma área rural dos EUA, devastada pelo tráfico de drogas e a falta de oportunidade.</desc>
+  <programme start="20260509090200 -0300" stop="20260509103200 -0300" channel="HBO Signature">
+    <title lang="pt">Muito Ralph - Vida e Obra de Ralph Lauren</title>
+    <desc lang="pt">Veja entrevistas com personalidades, familiares e amigos. O documentário traz um perfil do icônico estilista Ralph Lauren, que ao longo de uma carreira de mais de cinco décadas tornou-se símbolo do estilo americano no mundo todo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509232200 -0300" stop="20260510005200 -0300" channel="HBO Signature">
-    <title lang="pt">Tempestade de Metanfetamina</title>
-    <desc lang="pt">Os impactos dramáticos do negócio de metanfetamina no ponto de vista de agentes, traficantes e consumidores, revelando uma visão ampla em uma área rural dos EUA, devastada pelo tráfico de drogas e a falta de oportunidade.</desc>
+  <programme start="20260509105700 -0300" stop="20260509122700 -0300" channel="HBO Signature">
+    <title lang="pt">O Pântano</title>
+    <desc lang="pt">Os congressistas republicanos Matt Gaetz, Thomas Massie e Ken Buck demonstram domínio de um sistema que recompensa a captação de recursos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509125700 -0300" stop="20260509142700 -0300" channel="HBO Signature">
+    <title lang="pt">Grey Gardens - Do Luxo à Decadência</title>
+    <desc lang="pt">A verdadeira história da vida da tia e da prima de Jacqueline Kennedy, ambas chamadas Edith Bouvier Beale, e como elas viveram reclusas em uma mansão em estado precário, localizada em East Hampton. O mundo descobre que as duas moram nessa casa decadente entre pulgas e pequenos animais e por conta das precárias condições de higiene, as duas mulheres foram obrigadas a deixar o lugar, sendo salvas por Jackie.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509144700 -0300" stop="20260509161700 -0300" channel="HBO Signature">
+    <title lang="pt">Daniel</title>
+    <desc lang="pt">A aventura de maioridade de um menino colide com uma antiga maldição maia, agora a busca por respostas se torna uma jornada para devolver as coisas ao seu lugar antes que o tempo acabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160100 -0300" stop="20260509173100 -0300" channel="HBO Signature">
+    <title lang="pt">Bill Maher - #Adultando</title>
+    <desc lang="pt">Diretamente do Teatro Fillmore em Miami, Bill Maher retorna para uma hora de comentários mordazes sobre tópicos quentes, trazendo seu ponto de vista sobre a cultura do cancelamento, quarentena, QAnon e tudo mais entre esses assuntos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509171100 -0300" stop="20260509184100 -0300" channel="HBO Signature">
+    <title lang="pt">Fuga de Cabul</title>
+    <desc lang="pt">Acompanhe a análise de 18 dias em agosto de 2021, desde a retirada das tropas dos EUA do Afeganistão até a subsequente evacuação de dezenas de milhares de cidadãos afegãos do aeroporto de Cabul depois que o Talibã tomou a cidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509183600 -0300" stop="20260509200600 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Em Monterey, na Califórnia, um assassinato durante um evento da escola local expõe a rivalidade existente entre as mães de alguns alunos. Ao que parece, a chegada de uma jovem e seu filho ao grupo provocou algumas rusgas e causou problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509192900 -0300" stop="20260509205900 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Ziggy pergunta à mãe o motivo da mudança para Monterey; Madeline recebe uma má notícia sobre a produção de teatro que está organizando; Celeste e Perry avaliam a possibilidade de buscar ajuda profissional; Nathan e Ed se encontram.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509202600 -0300" stop="20260509215600 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Para provocar Renata, Madeline organiza uma viagem no mesmo dia e horário da festa de aniversário de Amabella. Depois de outra discussão, Celeste cede aos encantos de Perry. Jane desabafa em relação ao seu passado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509212000 -0300" stop="20260509225000 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Nathan convida Madeline e Ed para um jantar, onde conversam sobre os filhos; Celeste e Perry têm novo desentendimento; Jane encontra-se com a professora de Ziggy, e recebe um conselho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509221300 -0300" stop="20260509234300 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Madeline recebe boas notícias do diretor da peça, Joseph Bachman; Jane ouve as conclusões sobre o caso de Ziggy e Amabella; o terapeuta tenta descobrir a essência do relacionamento entre Celeste e Perry.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509230700 -0300" stop="20260510003700 -0300" channel="HBO Signature">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Jane confronta Renata sobre uma petição sobre Ziggy; Celeste recebe um conselho do terapeuta; Bonnie conta a Nathan sobre um projeto secreto de Abigail; Ed e Madeline têm uma conversa franca sobre a falta de paixão em seu casamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509000100 -0300" stop="20260509013100 -0300" channel="HBO Signature">
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Rue recebe uma proposta arriscada; Nate enfrenta a câmara municipal; Maddy dá a Cassie uma missão que pode impulsionar sua nova carreira; Lexi recruta Jules para criar uma pintura original para o LA Nights.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509010300 -0300" stop="20260509023300 -0300" channel="HBO Signature">
+    <title lang="pt">Pela Metade</title>
+    <desc lang="pt">Após se formar como o melhor aluno da turma, Niall espera se mudar para a Inglaterra para se afastar de Ruben. Mas quando Lori e Maura o pressionam a mentir a favor de Ruben no tribunal, Niall enfrenta uma decisão difícil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020100 -0300" stop="20260509033100 -0300" channel="HBO Signature">
+    <title lang="pt">Rooster</title>
+    <desc lang="pt">Greg motiva o time de hóquei antes de um jogo crucial; Katie foca em garantir sua titularidade; Archie recebe feedback sobre o seu livro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509023200 -0300" stop="20260509040200 -0300" channel="HBO Signature">
+    <title lang="pt">The Comeback</title>
+    <desc lang="pt">Valerie tenta reparar os danos causados pela imprensa negativa sobre inteligência artificial e salvar o emprego de Mark no reality show fazendo uma aparição em um programa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509030300 -0300" stop="20260509043300 -0300" channel="HBO Signature">
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Rue recebe uma proposta arriscada; Nate enfrenta a câmara municipal; Maddy dá a Cassie uma missão que pode impulsionar sua nova carreira; Lexi recruta Jules para criar uma pintura original para o LA Nights.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509040400 -0300" stop="20260509053400 -0300" channel="HBO Signature">
+    <title lang="pt">Pela Metade</title>
+    <desc lang="pt">Após se formar como o melhor aluno da turma, Niall espera se mudar para a Inglaterra para se afastar de Ruben. Mas quando Lori e Maura o pressionam a mentir a favor de Ruben no tribunal, Niall enfrenta uma decisão difícil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509050200 -0300" stop="20260509063200 -0300" channel="HBO Signature">
+    <title lang="pt">Cuidado com o Slenderman</title>
+    <desc lang="pt">Um olhar sobre o assustador caso de duas garotas de doze anos em Wisconsin, nos EUA, que esfaquearam 19 vezes uma colega como homenagem a Slenderman, um monstro fictício da internet. Uma análise sobre como o isolamento adolescente, a saúde mental e a natureza conflituosa da internet criaram um perigoso mandato para duas jovens com consequências ao longo da vida para todos os envolvidos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -93546,13 +93665,20 @@
     </rating>
   </programme>
   <programme start="20260509053200 -0300" stop="20260509070200 -0300" channel="Ideal TV HD">
-    <title lang="pt">?algiris Kaunas x Fenerbahçe</title>
-    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.</desc>
+    <title lang="pt">Dendele FC x DesimpaiN</title>
+    <desc lang="pt">Dez equipes disputam competição de futebol 7 em formato que mescla esporte e entretenimento.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509071700 -0300" stop="20260509084700 -0300" channel="Ideal TV HD">
+  <programme start="20260509063200 -0300" stop="20260509080200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Total Combat</title>
+    <desc lang="pt">O programa traz os principais assuntos do momento no mundo das artes marciais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509070200 -0300" stop="20260509083200 -0300" channel="Ideal TV HD">
     <title lang="pt">Mundo em Foco</title>
     <desc lang="pt">Matérias da agência de notícias AFP sobre acontecimentos relevantes no Brasil e do mundo.</desc>
     <rating system="Brazil">
@@ -93560,28 +93686,98 @@
     </rating>
   </programme>
   <programme start="20260509081700 -0300" stop="20260509094700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Volta Redonda x Novorizontino</title>
+    <desc lang="pt">Torneio de futebol brasileiro que engloba equipes da região Sul e Sudeste do país. A competição é disputada em fase de grupo e mata-mata, com as semifinais e finais realizadas em duelos de ida e volta, pelo grande título.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509100200 -0300" stop="20260509113200 -0300" channel="Ideal TV HD">
     <title lang="pt">Borussia Dortmund x Eintracht Frankfurt</title>
     <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509090200 -0300" stop="20260509103200 -0300" channel="Ideal TV HD">
+  <programme start="20260509112200 -0300" stop="20260509125200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Middlesbrough x Southampton</title>
+    <desc lang="pt">Do Estádio Riverside, em Middlesbrough, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509133200 -0300" stop="20260509150200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509135200 -0300" stop="20260509152200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Sunderland x Manchester United</title>
+    <desc lang="pt">Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160200 -0300" stop="20260509173200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509162200 -0300" stop="20260509175200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Wolfsburg x Bayern de Munique</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509183200 -0300" stop="20260509200200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509185200 -0300" stop="20260509202200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Real Sociedad x Betis</title>
+    <desc lang="pt">Acompanhe as partidas da primeira divisão de futebol masculino da Espanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509210200 -0300" stop="20260509223200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509215200 -0300" stop="20260509232200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Ceará x Atlético-GO</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509000200 -0300" stop="20260509013200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Juventude x Criciúma</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509021700 -0300" stop="20260509034700 -0300" channel="Ideal TV HD">
     <title lang="pt">Programação Xsports</title>
     <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509170200 -0300" stop="20260509183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509010200 -0300" stop="20260509023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
+  <programme start="20260509040200 -0300" stop="20260509053200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Semana 7 - Dia 1</title>
     <desc lang="pt">Sem descrição</desc>
     <rating system="Brazil">
       <value>[14]</value>
