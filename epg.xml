@@ -16447,6 +16447,188 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260509060200 -0300" stop="20260509073200 -0300" channel="Band Natal HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509070200 -0300" stop="20260509083200 -0300" channel="Band Natal HD">
+    <title lang="pt">Os Incompatíveis</title>
+    <desc lang="pt">Dois policiais de mundos diferentes investigam o assassinato da mulher do influente Jean-Eric Chaligny, primeiro patrono da França.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509083200 -0300" stop="20260509100200 -0300" channel="Band Natal HD">
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">A família Nakamura, composta por Nelson Nakamura e seus dois filhos, Renan e Vitor, é conhecida pelo desempenho dos arremessos na pesca esportiva. Acompanhe as aventuras dos pescadores, considerados especialistas na área.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509090200 -0300" stop="20260509103200 -0300" channel="Band Natal HD">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Horário destinado à exibição de conteúdo regional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509100200 -0300" stop="20260509113200 -0300" channel="Band Natal HD">
+    <title lang="pt">Fiern - A Indústria para as Pessoas</title>
+    <desc lang="pt">Celebração dos 70 anos da entidade que representa a classe industrial potiguar, a Fiern, por meio de matérias e reportagens que tratam de temas de interesse do empresariado, da economia potiguar e da atuação da Fiern.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509103200 -0300" stop="20260509120200 -0300" channel="Band Natal HD">
+    <title lang="pt">Band Kids</title>
+    <desc lang="pt">Desenhos, animações e séries para o público infantil e adolescente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509113200 -0300" stop="20260509130200 -0300" channel="Band Natal HD">
+    <title lang="pt">O Melhor do Dia</title>
+    <desc lang="pt">Programa de variedades com dicas sobre saúde, beleza e dia a dia da mulher.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509120200 -0300" stop="20260509133200 -0300" channel="Band Natal HD">
+    <title lang="pt">Band Kids</title>
+    <desc lang="pt">Desenhos, animações e séries para o público infantil e adolescente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509123200 -0300" stop="20260509140200 -0300" channel="Band Natal HD">
+    <title lang="pt">Programa Hdplan</title>
+    <desc lang="pt">Espaço destinado à comercialização de produtos e serviços.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509130200 -0300" stop="20260509143200 -0300" channel="Band Natal HD">
+    <title lang="pt">#Informei</title>
+    <desc lang="pt">Confira boletins diários sobre política, comportamento, esporte, cultura e as principais notícias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509133200 -0300" stop="20260509150200 -0300" channel="Band Natal HD">
+    <title lang="pt">Cooperativismo em Pauta</title>
+    <desc lang="pt">Últimas notícias e as ações relacionadas às cooperativas brasileiras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509134700 -0300" stop="20260509151700 -0300" channel="Band Natal HD">
+    <title lang="pt">Band Entrevista</title>
+    <desc lang="pt">Assista a entrevistas com convidados de representatividade local, estadual e também nacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509143200 -0300" stop="20260509160200 -0300" channel="Band Natal HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509150200 -0300" stop="20260509163200 -0300" channel="Band Natal HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509153200 -0300" stop="20260509170200 -0300" channel="Band Natal HD">
+    <title lang="pt">Mundo dos Negócios</title>
+    <desc lang="pt">Entrevistas desvendam os mistérios do mundo dos negócios e das relações de consumo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160200 -0300" stop="20260509173200 -0300" channel="Band Natal HD">
+    <title lang="pt">Igreja Maranata</title>
+    <desc lang="pt">Transmissão de três mensagens bíblicas sobre &quot;O Momento Profético que Vivemos&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509163200 -0300" stop="20260509180200 -0300" channel="Band Natal HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509190200 -0300" stop="20260509203200 -0300" channel="Band Natal HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509200200 -0300" stop="20260509213200 -0300" channel="Band Natal HD">
+    <title lang="pt">C na Band</title>
+    <desc lang="pt">Todas as emoções de partidas válidas pelo Campeonato Brasileiro - Série C de futebol masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509222200 -0300" stop="20260509235200 -0300" channel="Band Natal HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509233200 -0300" stop="20260510010200 -0300" channel="Band Natal HD">
+    <title lang="pt">Sabadão de Todos</title>
+    <desc lang="pt">Programa busca entreter e realizar sonhos com sorteios, emoção e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509013200 -0300" stop="20260509030200 -0300" channel="Band Natal HD">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Assista a reportagens especiais produzidas pela equipe de jornalismo da TV Bandeirantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020200 -0300" stop="20260509033200 -0300" channel="Band Natal HD">
+    <title lang="pt">Fórmula Indy</title>
+    <desc lang="pt">A Fórmula Indy é considerada a categoria mais veloz do planeta. As provas são disputadas em circuitos ovais longos e curtos, circuitos mistos tradicionais e circuitos de rua, cheios de ondulações e trechos extremos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509023200 -0300" stop="20260509040200 -0300" channel="Band Natal HD">
+    <title lang="pt">SFT</title>
+    <desc lang="pt">Todas as emoções das lutas de artes marciais mistas promovidas pela organização brasileira SFT.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509040200 -0300" stop="20260509053200 -0300" channel="Band Natal HD">
+    <title lang="pt">BWF</title>
+    <desc lang="pt">Todas as emoções dos eventos de luta livre promovidos pela Brazilian Wrestling Federation.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509050200 -0300" stop="20260509063200 -0300" channel="Band Natal HD">
+    <title lang="pt">Invasão Virtual</title>
+    <desc lang="pt">Buscando desvendar o mistério por trás de pesadelos recorrentes, quatro universitários fazem experiências uns com os outros, monitorando e tentando manipular seus sonhos. Um deles é perturbado por uma figura que provoca sonhos eróticos vívidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260510050200 -0300" stop="20260510063200 -0300" channel="Band Natal HD">
     <title lang="pt">Invasão Virtual</title>
     <desc lang="pt">Buscando desvendar o mistério por trás de pesadelos recorrentes, quatro universitários fazem experiências uns com os outros, monitorando e tentando manipular seus sonhos. Um deles é perturbado por uma figura que provoca sonhos eróticos vívidos.</desc>
@@ -119263,7 +119445,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509183200 -0300" stop="20260509200200 -0300" channel="Premiere 2">
+  <programme start="20260509180200 -0300" stop="20260509193200 -0300" channel="Premiere 2">
     <title lang="pt">Coritiba x Internacional</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
@@ -119278,20 +119460,13 @@
     </rating>
   </programme>
   <programme start="20260509230200 -0300" stop="20260510003200 -0300" channel="Premiere 2">
-    <title lang="pt">Aquecimento SporTV</title>
-    <desc lang="pt">As últimas informações e os preparativos para os principais eventos esportivos no Brasil e no mundo.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509000200 -0300" stop="20260509013200 -0300" channel="Premiere 2">
     <title lang="pt">Bahia x Cruzeiro</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509030200 -0300" stop="20260509043200 -0300" channel="Premiere 2">
+  <programme start="20260509023200 -0300" stop="20260509040200 -0300" channel="Premiere 2">
     <title lang="pt">Premiere 2</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
     <rating system="Brazil">
@@ -119406,20 +119581,6 @@
   <programme start="20260509170200 -0300" stop="20260509183200 -0300" channel="Premiere 3">
     <title lang="pt">Premiere 3</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509183200 -0300" stop="20260509200200 -0300" channel="Premiere 3">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509210200 -0300" stop="20260509223200 -0300" channel="Premiere 3">
-    <title lang="pt">Santos x Bragantino</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -119560,20 +119721,6 @@
   <programme start="20260509170200 -0300" stop="20260509183200 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Premiere 3</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509183200 -0300" stop="20260509200200 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Remo x Palmeiras</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509210200 -0300" stop="20260509223200 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Santos x Bragantino</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -119746,16 +119893,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260510184200 -0300" stop="20260510201200 -0300" channel="Premiere 4">
+  <programme start="20260510180200 -0300" stop="20260510193200 -0300" channel="Premiere 4">
     <title lang="pt">Náutico x América-MG</title>
     <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260510210200 -0300" stop="20260510223200 -0300" channel="Premiere 4">
+  <programme start="20260510211200 -0300" stop="20260510224200 -0300" channel="Premiere 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510212200 -0300" stop="20260510225200 -0300" channel="Premiere 4">
     <title lang="pt">Mirassol x Chapecoense</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510000200 -0300" stop="20260510013200 -0300" channel="Premiere 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -122504,7 +122665,7 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509183200 -0300" stop="20260509200200 -0300" channel="PREMIERE HD 2">
+  <programme start="20260509180200 -0300" stop="20260509193200 -0300" channel="PREMIERE HD 2">
     <title lang="pt">Coritiba x Internacional</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
@@ -122519,20 +122680,13 @@
     </rating>
   </programme>
   <programme start="20260509230200 -0300" stop="20260510003200 -0300" channel="PREMIERE HD 2">
-    <title lang="pt">Aquecimento SporTV</title>
-    <desc lang="pt">As últimas informações e os preparativos para os principais eventos esportivos no Brasil e no mundo.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260509000200 -0300" stop="20260509013200 -0300" channel="PREMIERE HD 2">
     <title lang="pt">Bahia x Cruzeiro</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260509030200 -0300" stop="20260509043200 -0300" channel="PREMIERE HD 2">
+  <programme start="20260509023200 -0300" stop="20260509040200 -0300" channel="PREMIERE HD 2">
     <title lang="pt">Premiere 2</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
     <rating system="Brazil">
@@ -122679,16 +122833,30 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260510184200 -0300" stop="20260510201200 -0300" channel="Premiere HD 4">
+  <programme start="20260510180200 -0300" stop="20260510193200 -0300" channel="Premiere HD 4">
     <title lang="pt">Náutico x América-MG</title>
     <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260510210200 -0300" stop="20260510223200 -0300" channel="Premiere HD 4">
+  <programme start="20260510211200 -0300" stop="20260510224200 -0300" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510212200 -0300" stop="20260510225200 -0300" channel="Premiere HD 4">
     <title lang="pt">Mirassol x Chapecoense</title>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510000200 -0300" stop="20260510013200 -0300" channel="Premiere HD 4">
+    <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -150358,8 +150526,8 @@
     </rating>
   </programme>
   <programme start="20260510013200 -0300" stop="20260510030200 -0300" channel="RedeTV! Pampa">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">O melhor do que foi exibido na programação da TV Pampa e da RedeTV!. Acompanhe reprises de &quot;TV Fama&quot;, &quot;Manhã Maior&quot;, &quot;A Tarde É Sua&quot;, &quot;Superpop&quot; e &quot;Programa Amaury Jr.&quot;, além de reportagens locais.</desc>
+    <title lang="pt">Atualidades Pampa</title>
+    <desc lang="pt">Confira debate descontraído sobre fatos que marcaram o dia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -151359,8 +151527,8 @@
     </rating>
   </programme>
   <programme start="20260510013200 -0300" stop="20260510030200 -0300" channel="RedeTV! Sul">
-    <title lang="pt">Pampa Show</title>
-    <desc lang="pt">O melhor do que foi exibido na programação da TV Pampa e da RedeTV!. Acompanhe reprises de &quot;TV Fama&quot;, &quot;Manhã Maior&quot;, &quot;A Tarde É Sua&quot;, &quot;Superpop&quot; e &quot;Programa Amaury Jr.&quot;, além de reportagens locais.</desc>
+    <title lang="pt">Atualidades Pampa</title>
+    <desc lang="pt">Confira debate descontraído sobre fatos que marcaram o dia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -259844,6 +260012,146 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260510060200 -0300" stop="20260510073200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Igreja da Graça no Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510080200 -0300" stop="20260510093200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510090200 -0300" stop="20260510103200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510100200 -0300" stop="20260510113200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Santuário de São Judas Tadeu</title>
+    <desc lang="pt">Acompanhe as missas e eventos do Santuário de São Judas Tadeu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510110200 -0300" stop="20260510123200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510113200 -0300" stop="20260510130200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Mundo Empresarial</title>
+    <desc lang="pt">Conheça histórias de empresas e empreendedores que, independente dos seus segmentos, são referências no mercado de negócios, com prioridade à imagem e ao diferencial que esses empresários mostram em seus empreendimentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510120200 -0300" stop="20260510133200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Estrelas da Saúde</title>
+    <desc lang="pt">Reconhecimento de profissionais de destaque na área médica e suas trajetórias de excelência.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510130200 -0300" stop="20260510143200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510144700 -0300" stop="20260510161700 -0300" channel="TV Manaira HD">
+    <title lang="pt">Educação na TV - Apeoesp</title>
+    <desc lang="pt">Espaço para discutir assuntos relacionados ao ensino e reivindicações da Sindicato dos Profissionais da Rede Oficial de Ensino de São Paulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510145700 -0300" stop="20260510162700 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510150200 -0300" stop="20260510163200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Colônia x Heidenheim</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510173200 -0300" stop="20260510190200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Show da Saúde Pillowmed</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510183200 -0300" stop="20260510200200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Hipercap Brasil</title>
+    <desc lang="pt">Sorteios de diversos títulos de créditos de empresas de capitalização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510193200 -0300" stop="20260510210200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510210200 -0300" stop="20260510223200 -0300" channel="TV Manaira HD">
+    <title lang="pt">American Zone</title>
+    <desc lang="pt">Um passaporte para o coração dos esportes americanos, com histórias inspiradoras de lendas do futebol americano, basquete, beisebol e hóquei. Com uma dose de bom humor e descontração, o programa desvenda as regras e as táticas de cada modalidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510220200 -0300" stop="20260510233200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510223200 -0300" stop="20260511000200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Para Aqui!</title>
+    <desc lang="pt">Programa traz entretenimento, humor, além do suspense característico do apresentador João Kléber. A atração também conta com show de talentos e um elenco de humoristas que fazem a diferença.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510013200 -0300" stop="20260510030200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510023200 -0300" stop="20260510040200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Mega Sonho</title>
+    <desc lang="pt">Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória. O finalista das três fases compete para tentar ganhar até um milhão de reais em um game de adivinhação de palavras por meio da mímica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510033200 -0300" stop="20260510050200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260511060200 -0300" stop="20260511073200 -0300" channel="TV Manaira HD">
     <title lang="pt">Igreja da Graça no Seu Lar</title>
     <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
@@ -269406,6 +269714,118 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260509060200 -0300" stop="20260509073200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509063200 -0300" stop="20260509080200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programas da Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509090200 -0300" stop="20260509103200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programas da Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509100200 -0300" stop="20260509113200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Brasil Caminhoneiro</title>
+    <desc lang="pt">Reportagens, prestação de serviço e entretenimento aos profissionais da estrada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509103700 -0300" stop="20260509120700 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Fala Brasil - Edição de Sábado</title>
+    <desc lang="pt">Confira as principais notícias da semana, antecipando os fatos que podem mobilizar os brasileiros.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509150200 -0300" stop="20260509163200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Fique Alerta</title>
+    <desc lang="pt">Veja as principais notícias do dia em Alagoas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160200 -0300" stop="20260509173200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Sempre com Você</title>
+    <desc lang="pt">Veja bate-papos sobre temas diversos e dicas sobre gastronomia e tendências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509170200 -0300" stop="20260509183200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Balanço Geral - Edição de Sábado</title>
+    <desc lang="pt">O programa apresenta reportagens especiais, matérias policiais, denúncias e prestação de serviços, além de uma retrospectiva das grandes notícias da semana. Todos os tópicos são abordados com respeito e bom-humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509180200 -0300" stop="20260509193200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">As Apimentadas - Desafio Mundial</title>
+    <desc lang="pt">Destiny, a capitã da equipe de líderes de torcida três vezes vencedora do campeonato mundial, é desafiada em uma batalha global. Para isso, ela deve treinar uma nova e rebelde equipe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509200200 -0300" stop="20260509213200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Cidade Alerta - Edição de Sábado</title>
+    <desc lang="pt">Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509224700 -0300" stop="20260510001700 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Jornal da Record - Edição de Sábado</title>
+    <desc lang="pt">Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509000200 -0300" stop="20260509013200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Cidade Alerta - Edição de Sábado</title>
+    <desc lang="pt">Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509013200 -0300" stop="20260509030200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Casa do Patrão</title>
+    <desc lang="pt">Prova define o Patrão da semana, que conquista luxos, imunidade e o poder de indicar um participante, exceto o vencedor do Tô Fora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509021700 -0300" stop="20260509034700 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Horas de Desespero</title>
+    <desc lang="pt">Uma família norte-americana se muda para o sudeste asiático em meio a um golpe de estado que poderá custar suas vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509040200 -0300" stop="20260509053200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Fala que Eu te Escuto</title>
+    <desc lang="pt">Pastores e bispos da Igreja Universal do Reino de Deus debatem diariamente os temas mais relevantes da atualidade a partir de uma perspectiva cristã. Os telespectadores participam do programa dando testemunhos impressionantes do poder da fé.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509050200 -0300" stop="20260509063200 -0300" channel="TV Pajuçara HD">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260510060200 -0300" stop="20260510073200 -0300" channel="TV Pajuçara HD">
     <title lang="pt">Programação IURD</title>
     <desc lang="pt">Programas da Igreja Universal do Reino de Deus.</desc>
@@ -277162,6 +277582,139 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260508060200 -0300" stop="20260508073200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja da Graça no Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508080200 -0300" stop="20260508093200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508113200 -0300" stop="20260508130200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508123200 -0300" stop="20260508140200 -0300" channel="TV São Luis HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508130200 -0300" stop="20260508143200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O programa traz os principais assuntos esportivos, campeonatos internacionais e torneios nacionais, mostrando os melhores momentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508140200 -0300" stop="20260508153200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Fica com a Gente</title>
+    <desc lang="pt">Chef Edu Guedes prepara receitas práticas para entreter e ensinar os telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508150200 -0300" stop="20260508163200 -0300" channel="TV São Luis HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508160200 -0300" stop="20260508173200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508180200 -0300" stop="20260508193200 -0300" channel="TV São Luis HD">
+    <title lang="pt">A Tarde É Sua</title>
+    <desc lang="pt">As novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508200200 -0300" stop="20260508213200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508210200 -0300" stop="20260508223200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508213200 -0300" stop="20260508230200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Brasil do Povo</title>
+    <desc lang="pt">Uma ampla cobertura dos principais acontecimentos tanto no Brasil quanto no cenário internacional. Destaca-se por suas pautas voltadas à segurança pública, prestação de serviços e outros temas que impactam diretamente o cotidiano da população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508224700 -0300" stop="20260509001700 -0300" channel="TV São Luis HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508233200 -0300" stop="20260509010200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508003200 -0300" stop="20260508020200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Rapidinhas da Fama</title>
+    <desc lang="pt">As últimas novidades do mundo dos famosos de maneira rápida e dinâmica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508004200 -0300" stop="20260508021200 -0300" channel="TV São Luis HD">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Tudo o que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ricos e famosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508014700 -0300" stop="20260508031700 -0300" channel="TV São Luis HD">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">Bastidores de tudo que acontece nas operações das polícias militar, civil e técnica do estado de São Paulo. Do princípio do crime até sua resolução, tudo é mostrado em tempo quase real.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508033200 -0300" stop="20260508050200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508040200 -0300" stop="20260508053200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260509060200 -0300" stop="20260509073200 -0300" channel="TV São Luis HD">
     <title lang="pt">Igreja da Graça no Seu Lar</title>
     <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
@@ -282132,6 +282685,118 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260511040200 -0300" stop="20260511053200 -0300" channel="TV Tropical HD">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511090200 -0300" stop="20260511103200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511113200 -0300" stop="20260511130200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511154700 -0300" stop="20260511171700 -0300" channel="TV Tropical HD">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Como Chiquinha não pode ter um cachorrinho de verdade, ela resolve brincar disso com o Chaves. Ele vira o cãozinho dela e faz tudo o que a menina manda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511164700 -0300" stop="20260511181700 -0300" channel="TV Tropical HD">
+    <title lang="pt">Meu Coração É Teu</title>
+    <desc lang="pt">Ana Leal é uma mulher alegre e otimista que sonha em ser uma atriz famosa e ter uma linda família. Ela trabalha como bailarina de pole dance em um bar, mas consegue o emprego de babá na mansão da família Lascurain.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511183200 -0300" stop="20260511200200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511200200 -0300" stop="20260511213200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Sortilégio</title>
+    <desc lang="pt">Uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511213200 -0300" stop="20260511230200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">As últimas notícias policiais, políticas e internacionais do dia de forma descontraída e dinâmica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511224700 -0300" stop="20260512001700 -0300" channel="TV Tropical HD">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511234700 -0300" stop="20260512011700 -0300" channel="TV Tropical HD">
+    <title lang="pt">Domênica Montero</title>
+    <desc lang="pt">Domênica Montero é uma empresária reconhecida e considerada uma das noivas mais cobiçadas do país, mas no dia de seu casamento é abandonada no altar. Humilhada, Domênica parte para se refugiar na antiga fazenda de seus pais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511004700 -0300" stop="20260511021700 -0300" channel="TV Tropical HD">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o &quot;Jornal Racional&quot;, &quot;Gol Show&quot; e &quot;Dez ou Mil&quot;, entre outros.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511014700 -0300" stop="20260511031700 -0300" channel="TV Tropical HD">
+    <title lang="pt">Galvão FC</title>
+    <desc lang="pt">Galvão Bueno comanda programa que reúne informação, análise e leveza para debater os principais assuntos do futebol, conectando o público ao universo do esporte com uma linguagem moderna e envolvente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511030200 -0300" stop="20260511043200 -0300" channel="TV Tropical HD">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511040200 -0300" stop="20260511053200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511043200 -0300" stop="20260511060200 -0300" channel="TV Tropical HD">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt">Acompanhe uma série de vídeos curiosos da internet que aconteceram no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511051700 -0300" stop="20260511064700 -0300" channel="TV Tropical HD">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260508053200 -0300" stop="20260508070200 -0300" channel="TV Tropical HD">
     <title lang="pt">Palavra Amiga</title>
     <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
@@ -284599,6 +285264,146 @@
   <programme start="20260511050200 -0300" stop="20260511063200 -0300" channel="TV União HD">
     <title lang="pt">Matina</title>
     <desc lang="pt">Ao vivo, o programa leva para você muita prestação de serviço, informação e entretenimento. As notícias do início da manhã, dicas de emprego, economia doméstica, artesanato, direito do consumidor. Apresentação: Leonardo Marques.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508030200 -0300" stop="20260508043200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">SIGN OFF</title>
+    <desc lang="pt">Fin de emisión.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508090200 -0300" stop="20260508103200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Erudito</title>
+    <desc lang="pt">Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508100200 -0300" stop="20260508113200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Documenta</title>
+    <desc lang="pt">Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país, ou exterior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508110200 -0300" stop="20260508123200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Divulgação Científica</title>
+    <desc lang="pt">Divulgação de projetos de pesquisa da UFRGS e a discussão de temas de relevância social, política e científica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508113200 -0300" stop="20260508130200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Documenta</title>
+    <desc lang="pt">Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país, ou exterior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508160200 -0300" stop="20260508173200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Divulgação Científica</title>
+    <desc lang="pt">Divulgação de projetos de pesquisa da UFRGS e a discussão de temas de relevância social, política e científica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508163200 -0300" stop="20260508180200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Erudito</title>
+    <desc lang="pt">Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508170200 -0300" stop="20260508183200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Sessão Livre</title>
+    <desc lang="pt">Apresentação de clássicos da cinematografia mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508190200 -0300" stop="20260508203200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Documenta</title>
+    <desc lang="pt">Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país, ou exterior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508213200 -0300" stop="20260508230200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Caderno 2 - UFRGS</title>
+    <desc lang="pt">Programa jornalístico realizado pelos alunos do Curso de Comunicação da UFRGS, voltado para a cobertura de eventos culturais, arte e entretenimento na cidade de Porto Alegre.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508220200 -0300" stop="20260508233200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Entrevistas &amp; Debates</title>
+    <desc lang="pt">Os assuntos que despertam o interesse da sociedade. A pluralidade de informações e de opiniões estimulando a reflexão do telespectador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508230200 -0300" stop="20260509003200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Especiais Cultura</title>
+    <desc lang="pt">Produzido pela UFRGS TV, apresenta shows, concertos e entrevistas ligadas à arte e à cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508233200 -0300" stop="20260509010200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Documenta</title>
+    <desc lang="pt">Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país, ou exterior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508000200 -0300" stop="20260508013200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Diário do Campus - PUCRS</title>
+    <desc lang="pt">Notícias e informações sobre os acontecimentos da Pontifícia Universidade Católica do Rio Grande do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508003200 -0300" stop="20260508020200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Documenta</title>
+    <desc lang="pt">Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país, ou exterior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508010200 -0300" stop="20260508023200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Caderno 2 - UFRGS</title>
+    <desc lang="pt">Programa jornalístico realizado pelos alunos do Curso de Comunicação da UFRGS, voltado para a cobertura de eventos culturais, arte e entretenimento na cidade de Porto Alegre.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508013200 -0300" stop="20260508030200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Unitv Documenta</title>
+    <desc lang="pt">Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país, ou exterior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508020200 -0300" stop="20260508033200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Especiais Cultura</title>
+    <desc lang="pt">Produzido pela UFRGS TV, apresenta shows, concertos e entrevistas ligadas à arte e à cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508023200 -0300" stop="20260508040200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">Erudito</title>
+    <desc lang="pt">Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260508030200 -0300" stop="20260508043200 -0300" channel="TV Universidade de Porto Alegre">
+    <title lang="pt">SIGN OFF</title>
+    <desc lang="pt">Fin de emisión.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -287420,6 +288225,209 @@
   <programme start="20260510053200 -0300" stop="20260510070200 -0300" channel="Universal HD">
     <title lang="pt">Law &amp; Order: Organized Crime</title>
     <desc lang="pt">O Departamento de Polícia de Nova York sofre um atentado mortal com explosivos, do qual há vários suspeitos. Enquanto isso, Nova faz uma grande descoberta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511053200 -0300" stop="20260511070200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+    <desc lang="pt">O Departamento de Polícia de Nova York sofre um atentado mortal com explosivos, do qual há vários suspeitos. Enquanto isso, Nova faz uma grande descoberta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511062200 -0300" stop="20260511075200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+    <desc lang="pt">Eli desaparece e Stabler pede a Benson e à força-tarefa que o ajudem a encontrar seu filho; Wheatley revê as suas expectativas para o futuro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511071200 -0300" stop="20260511084200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+    <desc lang="pt">Um notório cibercriminoso escapa de uma prisão de alta segurança; Stabler deve se unir a um informante improvável; Kilbride coloca Nova sob sua proteção.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511080700 -0300" stop="20260511093700 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Acusação de estupro em universidade leva os detetives da SUV a uma investigação na qual têm de lidar com membros de fraternidade ricos e mimados, que bebem demais e acobertam segredos uns dos outros e com a rígida direção da universidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511090200 -0300" stop="20260511103200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Perry Gilbert, Mia Harris e Zoe se aventuram pela floresta, porém uma série de eventos violentos ocorrem. Enquanto os detetives Rollins e Carisi procuram o suspeito, Benson tenta distinguir a realidade da fantasia no caso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511100200 -0300" stop="20260511113200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">O caos do Halloween toma conta da Emergência. Hannah ajuda uma grávida com um filho autista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511110200 -0300" stop="20260511123200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Equipe intensifica a segurança de Goodwin após ela ser ameaçada on-line por um ex-funcionário; Archer e Frost tratam vítimas durante um deslizamento de pedras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511115700 -0300" stop="20260511132700 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Severide e Herrmann brigam por espaço; Boden considera tornar Pelham permanente; a mágoa de Gallo por Pelham vem à tona; Violet é forçada a confrontar o que sente por Gallo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511125200 -0300" stop="20260511142200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Gallo, Violet e Ritter estreiam sua microcervejaria no Winterfest; Brett se prepara para apresentar seu programa de paramedicina; a Brigada 51 entra no espírito de festas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511134200 -0300" stop="20260511151200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Stella Kidd volta à Brigada 51; a equipe trabalha em conjunto para apagar um incêndio em um túnel; após isso, Ritter se preocupa com um jovem policial que testemunhou uma morte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511143200 -0300" stop="20260511160200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Ruzek e Atwater têm a tarefa de prender alguém após um tiroteio. A situação se complica quando fica claro que uma pessoa não quer que eles voltem para a delegacia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511152200 -0300" stop="20260511165200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Um empresário é morto a tiros em sua loja e Atwater leva para o lado pessoal, pois patrulhava o bairro quando era um jovem policial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511161200 -0300" stop="20260511174200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Ripley e Frost descobrem informações alarmantes sobre a doença de sua paciente; Hannah promove um reencontro inesperado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511170200 -0300" stop="20260511183200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Os problemas da Goodwin continuam; Charles se desentende com uma antiga residente sobre uma paciente com depressão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511175200 -0300" stop="20260511192200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Em uma ligação com a Estação 37, uma bombeira é atingida por um fio elétrico; Scott e Amelia visitam Brett; Violet recebe um envelope surpresa; o resto da 51 entra em um concurso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511184200 -0300" stop="20260511201200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Boden, Kidd e Severide trabalham juntos para proteger um dos seus; na Academia de Bombeiros, Herrmann conhece um jovem inspirador; a conversa sobre a Gala anual domina o quartel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511193200 -0300" stop="20260511210200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Severide e Seager se unem para investigar um incêndio na casa de uma jovem problemática; Pelham se muda para o suposto escritório amaldiçoado da Brigada 51.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511202200 -0300" stop="20260511215200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Os detetives da SVU investigam estupro coletivo em show de rock, cuja testemunha principal é o segurança que, devido à síndrome de estresse pós-traumático adquirida enquanto era soldado no Iraque, não consegue se lembrar claramente do que aconteceu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511211200 -0300" stop="20260511224200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Ataques de um franco-atirador em plena Nova York podem estar ligados ao passado do detetive Tutuola, quando era investigador da divisão de narcóticos, e ele procura seu ex-parceiro para pedir ajuda; detetive Eames ajuda em uma investigação da SVU.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511220200 -0300" stop="20260511233200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Os detetives Benson e Amaro investigam uma mulher inconsciente encontrada num rio perto da casa do prefeito. Ao desvendarem o lado selvagem da aparente normal mãe e esposa, o caso conclui de forma perturbadora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511225200 -0300" stop="20260512002200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">O pai de Ruzek, Bob, desaparece e a equipe corre para encontrá-lo antes que seja tarde demais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511234200 -0300" stop="20260512011200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">A detetive Upton percebe algo suspeito em uma de suas visitas sociais a uma família. Ela decide investigar a fundo a dinâmica do grupo e acaba esbarrando em traumas do passado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511003200 -0300" stop="20260511020200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Os médicos de Gaffney são lançados em uma corrida contra o tempo enquanto tentam desvendar um misterioso caso médico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511012200 -0300" stop="20260511025200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Severide fica em alerta máximo para rastrear um motorista imprudente que coloca um dos seus em perigo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511021200 -0300" stop="20260511034200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago P.D.</title>
+    <desc lang="pt">Burgess orienta uma policial novata enquanto a equipe investiga um caso volátil envolvendo drogas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511030200 -0300" stop="20260511043200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Os detetives da SVU investigam estupro coletivo em show de rock, cuja testemunha principal é o segurança que, devido à síndrome de estresse pós-traumático adquirida enquanto era soldado no Iraque, não consegue se lembrar claramente do que aconteceu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511035200 -0300" stop="20260511052200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Ataques de um franco-atirador em plena Nova York podem estar ligados ao passado do detetive Tutuola, quando era investigador da divisão de narcóticos, e ele procura seu ex-parceiro para pedir ajuda; detetive Eames ajuda em uma investigação da SVU.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511044200 -0300" stop="20260511061200 -0300" channel="Universal HD">
+    <title lang="pt">Law &amp; Order: Special Victims Unit</title>
+    <desc lang="pt">Os detetives Benson e Amaro investigam uma mulher inconsciente encontrada num rio perto da casa do prefeito. Ao desvendarem o lado selvagem da aparente normal mãe e esposa, o caso conclui de forma perturbadora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511053200 -0300" stop="20260511070200 -0300" channel="Universal HD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">Ripley e Frost descobrem informações alarmantes sobre a doença de sua paciente; Hannah promove um reencontro inesperado.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -294147,6 +295155,1413 @@
   <programme start="20260508055500 -0300" stop="20260508072500 -0300" channel="ZooMoo Kids HD">
     <title lang="pt">Flash, o Aventureiro</title>
     <desc lang="pt">Flash tenta descobrir qual é o pequeno animal que parece muito esperto e está sempre atento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509060200 -0300" stop="20260509073200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal solitário, noturno e dono de um rugido assustador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509060900 -0300" stop="20260509073900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">O cãozinho Flash procura alguém interessante para fotografar - o destaque é o tubarão mangona.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509061600 -0300" stop="20260509074600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash, o cãozinho fotógrafo, e sua amiga Maria mostram como os ursos polares vivem e o que comem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509062300 -0300" stop="20260509075300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir por que as carpas douradas são douradas; Flutter aprende sobre os filhotes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509063000 -0300" stop="20260509080000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash, o cãozinho fotógrafo, e sua amiga Maria mostram como vive o leão, o &quot;rei da selva&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509063700 -0300" stop="20260509080700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Boa Noite, Dumdum</title>
+    <desc lang="pt">Histórias e músicas suaves, que cultivam valores como respeito, amizade, companheirismo, vida saudável e consciência ecológica. Um momento de calma e aprendizado para sonhar com um mundo melhor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509075100 -0300" stop="20260509092100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Boa Noite, Dumdum</title>
+    <desc lang="pt">Histórias e músicas suaves, que cultivam valores como respeito, amizade, companheirismo, vida saudável e consciência ecológica. Um momento de calma e aprendizado para sonhar com um mundo melhor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509090200 -0300" stop="20260509103200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal gosta de ficar de olhos bem abertos e troca o dia pela noite.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509090900 -0300" stop="20260509103900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir mais a respeito de uma ave muito grande, mas que não voa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509091600 -0300" stop="20260509104600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que está sempre bem-vestido e elegante.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509092200 -0300" stop="20260509105200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que parece que está sempre se esparramando dentro d&apos;água.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509093100 -0300" stop="20260509110100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o pequeno animal que parece muito esperto e está sempre atento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509093800 -0300" stop="20260509110800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">O cãozinho Flash procura alguém interessante para fotografar - o destaque é o tubarão mangona.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509094500 -0300" stop="20260509111500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir por que as carpas douradas são douradas; Flutter aprende sobre os filhotes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509095200 -0300" stop="20260509112200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Gorila Ninja se torna criativo; dance com a música do DJ Monito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509100200 -0300" stop="20260509113200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH explica como acontece o tratamento da água, desde quando cai a chuva até a estação de tratamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509101000 -0300" stop="20260509114000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH Explica sobre a teoria da viagem no tempo e como seria incrível se isso acontecesse.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509102000 -0300" stop="20260509115000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH explica que os chapéus não são para simples proteção da cabeça, eles representam muito mais, com destaque especial para os bonés.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509103200 -0300" stop="20260509120200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Brincando com Caetano e Vicente</title>
+    <desc lang="pt">Como é divertido um lugar bem grande e cheio de brinquedos. Em um belo dia de sol, Caetano e Vicente se acabam em escorregadores, balanços e trepa-trepa, com direto até uma aventura em um labirinto e passeio de trenzinho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509104400 -0300" stop="20260509121400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Brincando com Caetano e Vicente</title>
+    <desc lang="pt">Caetano e Vicente partem para uma praia perfeita com brincadeiras e a visita de vários amigos. Antes, eles encaram uma trilha linda, com pássaros cantando e o som que só a floresta tem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509105900 -0300" stop="20260509122900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Gato Galáctico</title>
+    <desc lang="pt">Luna e seus amigos se juntam para ajudar pequenos animais em uma enorme campanha na Vila Láctea.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509111200 -0300" stop="20260509124200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Gato Galáctico</title>
+    <desc lang="pt">Luna e seus amigos se juntam para ajudar pequenos animais em uma enorme campanha na Vila Láctea.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509113200 -0300" stop="20260509130200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509114400 -0300" stop="20260509131400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">Um programa encantado onde cada episódio é uma nova porta para o mundo da imaginação. Em &quot;Ciranda de Histórias&quot;, as crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509115400 -0300" stop="20260509132400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509120300 -0300" stop="20260509133300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Barken, o Barqueiro</title>
+    <desc lang="pt">Os amigos descobrem um dos maiores mistérios da natureza: como algo tão pequeno quanto uma semente pode transformar o mundo ao nosso redor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509121700 -0300" stop="20260509134700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Mundo de Kaboo</title>
+    <desc lang="pt">Aprenda mais e divirta-se com os números romanos com o Kaboo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509123200 -0300" stop="20260509140200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">TV Pi-Ki-Pin</title>
+    <desc lang="pt">Paulinho surpreende muito com a receita: pipoca de micro-ondas sem óleo, um lanchinho saudável e rápido de fazer; nosso amigo Bernardo traz o conto do &quot;Corvo e o Jarro&quot; ensinando que às vezes precisamos pensar fora da caixinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509124800 -0300" stop="20260509141800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">TV Pi-Ki-Pin</title>
+    <desc lang="pt">As crianças brincam com a &quot;Fila de Bolinhas&quot;, uma brincadeira criativa que usa objetos que se tem em casa. Macê ensina a fazer um &quot;Tapete de Pompom&quot;, artesanato colorido e super confortável.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509130200 -0300" stop="20260509143200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Gabu, o Panda Azul</title>
+    <desc lang="pt">Você trouxe os biscoitos favoritos de Gabu e ele vai ficar muito eufórico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509130500 -0300" stop="20260509143500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Gabu, o Panda Azul</title>
+    <desc lang="pt">Gabu, Coy e Titi cantam e brincam de adivinhar desenhos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509131100 -0300" stop="20260509144100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Auts</title>
+    <desc lang="pt">Ana leva Auts para uma loja de roupas para escolher uma bem bonita para ele.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509131300 -0300" stop="20260509144300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Auts</title>
+    <desc lang="pt">Auts é um menino de seis anos que se encontra no espectro autista. Apesar de não interagir muito, ele procura aprender com os amigos Ana e Davi sobre as coisas e o mundo em que vive.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509131700 -0300" stop="20260509144700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Min e as Mãozinhas</title>
+    <desc lang="pt">A Min e o Esquilo passam a tarde se divertindo na casa da árvore.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509132700 -0300" stop="20260509145700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Educadinho</title>
+    <desc lang="pt">Apresentação do mais novo personagem da turma, o cachorrinho Fiel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509132900 -0300" stop="20260509145900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Educadinho</title>
+    <desc lang="pt">Apresentação do mais novo personagem da turma, o cachorrinho Fiel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509133200 -0300" stop="20260509150200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal é um tanto engraçado e ainda tem um nome diferente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509133900 -0300" stop="20260509150900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash descobre por que os porcos gostam tanto de sujeira; jogos de adivinhação com Hanna e amigos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509134600 -0300" stop="20260509151600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">O Flash tem a missão de fotografar um animal de cor brilhante.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509135300 -0300" stop="20260509152300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal muito conhecido de todos que vive no deserto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509140300 -0300" stop="20260509153300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH conta como Charles Miller trouxe o futebol, esporte mundial, para o Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509141000 -0300" stop="20260509154000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH explica que os alimentos não chegam prontos à nossa casa. Eles são produzidos e passam por um longo processo até chegarem aos mercados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509141800 -0300" stop="20260509154800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH Explica que a comunicação existe desde o princípio da humanidade e como evoluímos com o passar dos anos, das pinturas nas paredes, ao celular.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509142900 -0300" stop="20260509155900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Patati Patatá</title>
+    <desc lang="pt">Visite o mundo fantástico do Patati Patatá com o poder da imaginação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509143000 -0300" stop="20260509160000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Patati Patatá</title>
+    <desc lang="pt">Visite o mundo fantástico do Patati Patatá com o poder da imaginação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509143200 -0300" stop="20260509160200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Patati Patatá - O Melhor da Pré-Escola</title>
+    <desc lang="pt">A madrinha da borboletinha vem visitá-la e ela resolveu fazer um chocolate para ela. Mas está fazendo a maior bagunça na cozinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509143500 -0300" stop="20260509160500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Patati Patatá - O Melhor da Pré-Escola</title>
+    <desc lang="pt">A madrinha da borboletinha vem visitá-la e ela resolveu fazer um chocolate para ela. Mas está fazendo a maior bagunça na cozinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509143700 -0300" stop="20260509160700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Patati Patatá - Coletâneas de Sucesso</title>
+    <desc lang="pt">Os melhores amigos, que sempre revelam o lado positivo da vida, são celebrados em uma canção especial do Patati Patatá. Uma homenagem musical que expressa gratidão por aqueles que trazem alegria e apoio em todos os momentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509144100 -0300" stop="20260509161100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Patati Patatá - O Melhor da Pré Escola 2</title>
+    <desc lang="pt">A dupla de palhaços mais amada do Brasil canta clássicos que marcaram a infância de todos, como a Dona Baratinha que fala que tem sete saias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509144700 -0300" stop="20260509161700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509144900 -0300" stop="20260509161900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O Chef Luca e sua mãe ensinam a preparar pão de queijo de tapioca.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509145100 -0300" stop="20260509162100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509145400 -0300" stop="20260509162400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O Chef Luca e sua mãe ensinam o preparo de um bolo de banana saudável.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509145700 -0300" stop="20260509162700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509150200 -0300" stop="20260509163200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Gato Galáctico</title>
+    <desc lang="pt">Luna e seus amigos se juntam para ajudar pequenos animais em uma enorme campanha na Vila Láctea.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509151500 -0300" stop="20260509164500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Gato Galáctico</title>
+    <desc lang="pt">Luna e seus amigos se juntam para ajudar pequenos animais em uma enorme campanha na Vila Láctea.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509153300 -0300" stop="20260509170300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Nino Dino - Na Terra dos Dinossauros</title>
+    <desc lang="pt">Nino Dino conhece o mais famoso dos dinossauros, o grande Tiranossauro rex.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509153600 -0300" stop="20260509170600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Nino Dino - Na Terra dos Dinossauros</title>
+    <desc lang="pt">Acompanhe um videoclipe musical em que Nino Dino apresenta o T-Rex.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509154100 -0300" stop="20260509171100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Nino Dino - Na Terra dos Dinossauros</title>
+    <desc lang="pt">Nino Dino conhece o Alossauro, um dinossauro carnívoro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509154500 -0300" stop="20260509171500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Nino Dino - Na Terra dos Dinossauros</title>
+    <desc lang="pt">Videoclipe musical de Dino Nino conhecendo o Alossauro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509154800 -0300" stop="20260509171800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Malu na Cidade das Emoções</title>
+    <desc lang="pt">Malu está entediada e vai até a cidade das emoções conhecer o tédio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509155200 -0300" stop="20260509172200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Malu na Cidade das Emoções</title>
+    <desc lang="pt">Música de Malu conhecendo o tédio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509155500 -0300" stop="20260509172500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Malu na Cidade das Emoções</title>
+    <desc lang="pt">Malu está muito ansiosa e vai até a Cidade das Emoções conhecer a Ansiedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509155900 -0300" stop="20260509172900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Malu na Cidade das Emoções</title>
+    <desc lang="pt">Malu canta uma canção sobre a aflição que a ansiedade causa e como superá-la.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160200 -0300" stop="20260509173200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Um Mundo Animal</title>
+    <desc lang="pt">Théo e Nico vão viajar pelo mundo animal para conhecer o canguru e seu país, a Austrália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160600 -0300" stop="20260509173600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Um Mundo Animal</title>
+    <desc lang="pt">Théo e Nico viajam até a Austrália para conhecer os Cangurus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509161000 -0300" stop="20260509174000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Um Mundo Animal</title>
+    <desc lang="pt">Théo e Nico vão viajar pelo mundo animal para conhecer o dromedário e seu país, o Egito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509161400 -0300" stop="20260509174400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Um Mundo Animal</title>
+    <desc lang="pt">Neste videoclipe, Théo e Nico vão conhecer o dromedário e o Egito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509161700 -0300" stop="20260509174700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH explica que os chapéus não são para simples proteção da cabeça, eles representam muito mais, com destaque especial para os bonés.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509162500 -0300" stop="20260509175500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH Explica como funciona o Museu da Imaginação, descomplicando e informando muitas curiosidades das exposições que estão por lá.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509163300 -0300" stop="20260509180300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Barken, o Barqueiro</title>
+    <desc lang="pt">Os amigos descobrem um dos maiores mistérios da natureza: como algo tão pequeno quanto uma semente pode transformar o mundo ao nosso redor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509164600 -0300" stop="20260509181600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Mundo de Kaboo</title>
+    <desc lang="pt">Kaboo e Batatinha fazem uma competição para ver quem constrói a maior torre de copos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509170200 -0300" stop="20260509183200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina o motivo dos sonhos existirem e como os pesadelos funcionam.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509170500 -0300" stop="20260509183500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina os motivos que fazem o sol mudar de cor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509170700 -0300" stop="20260509183700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina o porquê da nuvem ser branca.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509171200 -0300" stop="20260509184200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina o motivo das pessoas terem pele de cores diferentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509171500 -0300" stop="20260509184500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina a forma que as formigas fazem para se comunicarem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509171900 -0300" stop="20260509184900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o pequeno Gael falam sobre a compreensão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509172100 -0300" stop="20260509185100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o pequeno Gael falam sobre a generosidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509172300 -0300" stop="20260509185300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o Pequeno Gael falam sobre a amizade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509172400 -0300" stop="20260509185400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o Pequeno Gael Falam sobre perdão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509172600 -0300" stop="20260509185600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o pequeno Gael falam sobre honestidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509172800 -0300" stop="20260509185800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o pequeno Gael falam sobre o otimismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509173000 -0300" stop="20260509190000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Falar Sobre Valores</title>
+    <desc lang="pt">Vovô Nino e o pequeno Gael falam sobre a perseverança.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509173200 -0300" stop="20260509190200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">TV Pi-Ki-Pin</title>
+    <desc lang="pt">Paulinho conta tudo sobre os pôneis e como eles são animais incríveis. Em seguida, a história de Zeus e a Serpente ensina a valorizar a coragem de saber em quem podemos ou não confiar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509174700 -0300" stop="20260509191700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Incluir</title>
+    <desc lang="pt">A pequena Aninha brinca e aprende com Víctor, seu amigo com deficiência visual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509175000 -0300" stop="20260509192000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Incluir</title>
+    <desc lang="pt">Muita cantoria e brincadeiras com o videoclipe de Víctor, um amigo com deficiência visual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509175600 -0300" stop="20260509192600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Incluir</title>
+    <desc lang="pt">A escola Vamos Incluir é um lugar de muita inclusão e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509175900 -0300" stop="20260509192900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Vamos Incluir</title>
+    <desc lang="pt">Muita cantoria e brincadeira com o videoclipe da escola Vamos Incluir, lugar de inclusão e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509180300 -0300" stop="20260509193300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Gabu, o Panda Azul</title>
+    <desc lang="pt">Neste videoclipe, Vovô traz biscoitos para Gabu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509180600 -0300" stop="20260509193600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Gabu, o Panda Azul</title>
+    <desc lang="pt">Gabu, Coy e Titi cantam e brincam de adivinhar desenhos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509181100 -0300" stop="20260509194100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Auts</title>
+    <desc lang="pt">Ana leva Auts para uma loja de roupas para escolher uma bem bonita para ele.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509181200 -0300" stop="20260509194200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Auts</title>
+    <desc lang="pt">Auts é um menino de seis anos que se encontra no espectro autista. Apesar de não interagir muito, ele procura aprender com os amigos Ana e Davi sobre as coisas e o mundo em que vive.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509181600 -0300" stop="20260509194600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Min e as Mãozinhas</title>
+    <desc lang="pt">Yasmin é uma menina surda mais conhecida como Min. Ela sempre está em busca de aventuras e se comunica com os seus animais usando a linguagem de sinais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509182700 -0300" stop="20260509195700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Educadinho</title>
+    <desc lang="pt">Apresentação do mais novo personagem da turma, o cachorrinho Fiel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509182900 -0300" stop="20260509195900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Educadinho</title>
+    <desc lang="pt">Apresentação do mais novo personagem da turma, o cachorrinho Fiel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509183200 -0300" stop="20260509200200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Brincando com Caetano e Vicente</title>
+    <desc lang="pt">Apaixonados por futebol, Caetano e Vicente vão meter bola na rede. Golaços com direito a comemoração especial e algumas pisadas na bola também. E depois do futebol, um pega-pega com o papai para fechar o dia de atividade física.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509184500 -0300" stop="20260509201500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Brincando com Caetano e Vicente</title>
+    <desc lang="pt">Caetano e Vicente brincam misturando as cores para ver o que acontece - é azul que vira roxo, amarelo que fica marrom e cor nova para todo lado e, claro, com muito estímulo à criatividade e à curiosidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509185900 -0300" stop="20260509202900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509190800 -0300" stop="20260509203800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">Um programa encantado onde cada episódio é uma nova porta para o mundo da imaginação! Em Ciranda de Histórias, as crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas!</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509191800 -0300" stop="20260509204800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">Um programa encantado onde cada episódio é uma nova porta para o mundo da imaginação. Em &quot;Ciranda de Histórias&quot;, as crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509193000 -0300" stop="20260509210000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika entra brava em seu quarto e conta a seus amigos que não a deixaram brincar de carrinho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509193900 -0300" stop="20260509210900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika fica preocupada com as árvores, pois todas estão ficando carecas. Com a ajuda de Puquê, Mika tenta descobrir por que isso está acontecendo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509194700 -0300" stop="20260509211700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Admirável Corpo Humano</title>
+    <desc lang="pt">Hema viaja pelo admirável corpo humano para conhecer os rins e suas funções.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509195000 -0300" stop="20260509212000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Admirável Corpo Humano</title>
+    <desc lang="pt">Hema viaja pelo admirável corpo humano para conhecer os rins e suas funções.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509195300 -0300" stop="20260509212300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Admirável Corpo Humano</title>
+    <desc lang="pt">Hema viaja pelo admirável corpo humano para conhecer os rins e suas funções.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509195700 -0300" stop="20260509212700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Admirável Corpo Humano</title>
+    <desc lang="pt">Hema viaja pelo admirável corpo humano para conhecer os rins e suas funções.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509200200 -0300" stop="20260509213200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Incrível Mundo da Imaginação</title>
+    <desc lang="pt">A pequena Mila viaja até o Mundo da Imaginação para conhecer um bosque de cogumelos mágicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509200600 -0300" stop="20260509213600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Incrível Mundo da Imaginação</title>
+    <desc lang="pt">Clipe de &quot;Mila e o Bosque de Cogumelos Mágicos&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509201100 -0300" stop="20260509214100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Incrível Mundo da Imaginação</title>
+    <desc lang="pt">A pequena Mila viaja até o Mundo da Imaginação para conhecer um campo de maçãs doces como mel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509201500 -0300" stop="20260509214500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">O Incrível Mundo da Imaginação</title>
+    <desc lang="pt">Clipe de &quot;Mila e o Campo de Maçãs&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509201900 -0300" stop="20260509214900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Herói do Bairro</title>
+    <desc lang="pt">Chico, o herói do bairro, resolve o mistério do patinho de borracha de Lara que sumiu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509202200 -0300" stop="20260509215200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Herói do Bairro</title>
+    <desc lang="pt">Videoclipe da missão das maçãs desaparecidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509202700 -0300" stop="20260509215700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Herói do Bairro</title>
+    <desc lang="pt">Acompanhe o videoclipe de Chico resolvendo o mistério do patinho de borracha de Lara que sumiu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509203000 -0300" stop="20260509220000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Herói do Bairro</title>
+    <desc lang="pt">Videoclipe da missão do mistério do jardim da livraria que foi destruído.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509203400 -0300" stop="20260509220400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Os Sonhos de Tito</title>
+    <desc lang="pt">Em mais uma noite de sono, Tito e Pingo sonham e aprendem o que faz um veterinário.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509203700 -0300" stop="20260509220700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Os Sonhos de Tito</title>
+    <desc lang="pt">Tito e Pingo aprendem a música do veterinário.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509204000 -0300" stop="20260509221000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Os Sonhos de Tito</title>
+    <desc lang="pt">Em mais uma noite de sono, Tito e Pingo sonham e aprendem o que faz um piloto de avião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509204300 -0300" stop="20260509221300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Os Sonhos de Tito</title>
+    <desc lang="pt">Tito e Pingo aprendem a música do piloto de avião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509204700 -0300" stop="20260509221700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O Chef Luca e sua mãe ensinam como fazer bolinho de arroz.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509204900 -0300" stop="20260509221900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O chef Luca e sua mãe ensinam como preparar a iogurte caseiro de morango.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509205200 -0300" stop="20260509222200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O Chef Luca e sua mãe ensinam a preparar crepioca.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509205400 -0300" stop="20260509222400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509205700 -0300" stop="20260509222700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O Chef Luca e sua mãe ensinam a preparar um gelado de amora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509210200 -0300" stop="20260509223200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Astrobaldo</title>
+    <desc lang="pt">Astrobaldo discute com Gê, uma colega. Sem saber do desentendimento, Tami a convida para a brincadeira do dia. Gê aceita o convite, mas não sabe que o encontro será na casa de Astrobaldo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509211700 -0300" stop="20260509224700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Otto e seus amigos conhecem a galinha Tcha Tcha Tcha quando decidem brincar na floresta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509212000 -0300" stop="20260509225000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">A turma de Capinópolis voa nas costas de um pássaro, explora tesouros de navios no fundo do mar e salva princesas de dragões no alto do castelo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509212200 -0300" stop="20260509225200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Mexer o corpo, brincar, dançar, praticar esportes, tudo isso faz as pessoas ficarem mais fortes, saudáveis e, claro, suar. Isso não é problema para Otto e seus amigos que fizeram um rock para mostrar que são bons de dança e de bola.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509212700 -0300" stop="20260509225700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Acompanhe as aventuras da turma de Caninópolis, com Otto e seus amigos Ralf, Mel, Luka e Flip, em clipes musicais divertidos e educativos. As músicas incentivam a prática de esporte, aprendizado de cores, alfabeto e animais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509213000 -0300" stop="20260509230000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Acompanhe as aventuras da turma de Caninópolis, com Otto e seus amigos Ralf, Mel, Luka e Flip, em clipes musicais divertidos e educativos. As músicas incentivam a prática de esporte, aprendizado de cores, alfabeto e animais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509213300 -0300" stop="20260509230300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tubarão Martelo e os Habitantes do Fundo do Mar</title>
+    <desc lang="pt">De maneira lúdica, divertida e educativa, ensina mais um pouco sobre as tartarugas marinhas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509213600 -0300" stop="20260509230600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tubarão Martelo e os Habitantes do Fundo do Mar</title>
+    <desc lang="pt">De maneira lúdica, divertida e educativa, o programa ensina tudo sobre o Tubarão-Baleia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509213900 -0300" stop="20260509230900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tubarão Martelo e os Habitantes do Fundo do Mar</title>
+    <desc lang="pt">De maneira lúdica, divertida e educativa, o episódio ensina tudo sobre os cavalos-marinhos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509214200 -0300" stop="20260509231200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tubarão Martelo e os Habitantes do Fundo do Mar</title>
+    <desc lang="pt">De maneira lúdica, divertida e educativa, episódio ensina tudo sobre a moreia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509214700 -0300" stop="20260509231700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Peixonauta</title>
+    <desc lang="pt">As obras de instalação de um telescópio no parque não deixam uma coruja dormir direito. Marina, Zico e Peixonauta precisam fazer alguma coisa para mudar essa situação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509220200 -0300" stop="20260509233200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Folclore</title>
+    <desc lang="pt">O Bicho Papão é muito guloso e devora tudo o que encontra no seu caminho. Devido ao seu grande apetite, ele acaba se metendo em muitas confusões.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509220500 -0300" stop="20260509233500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Folclore</title>
+    <desc lang="pt">Cante a música do Bicho Papão e conheça um pouco mais da sua história.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509220800 -0300" stop="20260509233800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Folclore</title>
+    <desc lang="pt">A Comadre Fulozinha é uma grande guerreira que protege a floresta dos ataques dos malfeitores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509221200 -0300" stop="20260509234200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Folclore</title>
+    <desc lang="pt">Cante a música da guerreira Comadre Fulozinha e conheça um pouco mais da sua história.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509221700 -0300" stop="20260509234700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Muralzinho</title>
+    <desc lang="pt">Curupira chama todo mundo para jantar em sua casa-folha, mas quando todos chegam lá, não tem nada para comer. Curupira esperava que todos levassem comida e todos esperavam que tivesse jantar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509222200 -0300" stop="20260509235200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Muralzinho</title>
+    <desc lang="pt">Curupira chama todo mundo para jantar em sua casa-folha, mas quando todos chegam lá, não tem nada para comer. Curupira esperava que todos levassem comida e todos esperavam que tivesse jantar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509223000 -0300" stop="20260510000000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina o motivo dos sonhos existirem e como os pesadelos funcionam.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509223300 -0300" stop="20260510000300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina os motivos que fazem o sol mudar de cor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509223500 -0300" stop="20260510000500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina o porquê da nuvem ser branca.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509224000 -0300" stop="20260510001000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina o motivo das pessoas terem pele de cores diferentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509224400 -0300" stop="20260510001400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Tina Curiosa</title>
+    <desc lang="pt">O Professor Caco explica para Tina a forma que as formigas fazem para se comunicarem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509224700 -0300" stop="20260510001700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Rancho Colorido</title>
+    <desc lang="pt">No Rancho Colorido vive um animal que não enxerga.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509225000 -0300" stop="20260510002000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Rancho Colorido</title>
+    <desc lang="pt">Um videoclipe da Cabra Cega, um animal do Rancho que não enxerga.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509225300 -0300" stop="20260510002300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Rancho Colorido</title>
+    <desc lang="pt">No Rancho Colorido vive um animal que é bem baixinho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509225700 -0300" stop="20260510002700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Rancho Colorido</title>
+    <desc lang="pt">Um videoclipe do Pintinho Pequenino, o menor animal do Rancho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509230200 -0300" stop="20260510003200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Escola de Pais com Dra. Thaís Faria Coelho</title>
+    <desc lang="pt">A parceria entre família e escola é fundamental. A Dra. Thaís Faria Coelho discute diversos temas, trazendo informações, tirando dúvidas e expondo reflexões para fortalecermos este vínculo e auxiliar os pais na condução do aprendizado infantil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509231800 -0300" stop="20260510004800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Escola de Pais com Dra. Thaís Faria Coelho</title>
+    <desc lang="pt">A parceria entre família e escola é fundamental. A Dra. Thaís Faria Coelho discute diversos temas, trazendo informações, tirando dúvidas e expondo reflexões para fortalecermos este vínculo e auxiliar os pais na condução do aprendizado infantil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509233200 -0300" stop="20260510010200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">Como era o Planeta Terra em um período bem longínquo e diferente, a época dos Dinossauros.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509234000 -0300" stop="20260510011000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">PH Explica</title>
+    <desc lang="pt">PH revela como o exercício físico atua em diferentes partes do corpo e sua importância.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509234700 -0300" stop="20260510011700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">TV Pi-Ki-Pin</title>
+    <desc lang="pt">Paulinho surpreende muito com a receita: pipoca de micro-ondas sem óleo, um lanchinho saudável e rápido de fazer; nosso amigo Bernardo traz o conto do &quot;Corvo e o Jarro&quot; ensinando que às vezes precisamos pensar fora da caixinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509000200 -0300" stop="20260509013200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Turma do Gato Galáctico</title>
+    <desc lang="pt">Luna e seus amigos se juntam para ajudar pequenos animais em uma enorme campanha na Vila Láctea.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509002000 -0300" stop="20260509015000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir mais a respeito de uma ave muito grande, mas que não voa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509002700 -0300" stop="20260509015700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que parece que está sempre se esparramando dentro d&apos;água.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509003400 -0300" stop="20260509020400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o pequeno animal que parece muito esperto e está sempre atento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509004100 -0300" stop="20260509021100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">O cãozinho Flash procura alguém interessante para fotografar - o destaque é o tubarão mangona.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509004900 -0300" stop="20260509021900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que está sempre bem-vestido e elegante.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509005600 -0300" stop="20260509022600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é um dos maiores mamíferos da Terra, capazes de abrir trilhas no mato.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509010300 -0300" stop="20260509023300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal solitário, noturno e dono de um rugido assustador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509011000 -0300" stop="20260509024000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash, o cãozinho fotógrafo, e sua amiga Maria mostram como os ursos polares vivem e o que comem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509011700 -0300" stop="20260509024700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Hora do Jacarelvis e Amigos</title>
+    <desc lang="pt">Jacarelvis canta músicas divertidas; os amigos se divertem com o teatrinho do Béim, Béim e soltam a imaginação ao desenharem a mãe e a Manu; eles se encantam com a lâmpada que muda de cor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509013200 -0300" stop="20260509030200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Brincando com Caetano e Vicente</title>
+    <desc lang="pt">Caetano e Vicente ensinam como fazer neve de mentirinha - mas muito divertida. Ela parece de verdade, embora seja um pouco melequenta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509014600 -0300" stop="20260509031600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Brincando com Caetano e Vicente</title>
+    <desc lang="pt">Uma grande aventura começa com os personagens mais corajosos do pedaço. Caetano e Vicente não medem esforços para encontrar os ovos perdidos das mamães dinossauro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020000 -0300" stop="20260509033000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020300 -0300" stop="20260509033300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O Chef Luca e sua mãe ensinam como preparar um picolé de frutas vermelhas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020500 -0300" stop="20260509033500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">O chef Luca e sua mãe ensinam a preparar iogurte caseiro de morango.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020700 -0300" stop="20260509033700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509021000 -0300" stop="20260509034000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">A Cozinha do Chef Luca</title>
+    <desc lang="pt">Chef Luca traz receitas divertidas, saudáveis e fáceis de fazer para agradar o paladar das crianças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509021700 -0300" stop="20260509034700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Mundo de Kaboo</title>
+    <desc lang="pt">Aprenda a brincar de pedra, papel e tesoura e também como fazer um desafio divertido.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509023300 -0300" stop="20260509040300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509024200 -0300" stop="20260509041200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509025300 -0300" stop="20260509042300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">Um programa encantado onde cada episódio é uma nova porta para o mundo da imaginação. Em &quot;Ciranda de Histórias&quot;, as crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509030200 -0300" stop="20260509043200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509030900 -0300" stop="20260509043900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">Um programa encantado onde cada episódio é uma nova porta para o mundo da imaginação! Em Ciranda de Histórias, as crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas!</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509031900 -0300" stop="20260509044900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Ciranda de Histórias</title>
+    <desc lang="pt">As crianças embarcam em aventuras literárias, descobrindo personagens mágicos, contos divertidos e histórias que despertam a curiosidade, a criatividade e o amor pelos livros. Aqui, ler é brincar e cada página vira cenário para sonhos e descobertas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509032800 -0300" stop="20260509045800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é um dos únicos animais que possui galhadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509033500 -0300" stop="20260509050500 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal gosta de ficar de olhos bem abertos e troca o dia pela noite.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509034200 -0300" stop="20260509051200 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que tem tromba e também é muito grande.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509034900 -0300" stop="20260509051900 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir mais a respeito de uma ave muito grande, mas que não voa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509035600 -0300" stop="20260509052600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir mais a respeito de uma ave pernalta e rosada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509040300 -0300" stop="20260509053300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que está sempre bem-vestido e elegante.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509041000 -0300" stop="20260509054000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal que parece que está sempre se esparramando dentro d&apos;água.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509041700 -0300" stop="20260509054700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é um dos maiores mamíferos da Terra, capazes de abrir trilhas no mato.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509042600 -0300" stop="20260509055600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o pequeno animal que parece muito esperto e está sempre atento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509043300 -0300" stop="20260509060300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual é o animal solitário, noturno e dono de um rugido assustador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509044000 -0300" stop="20260509061000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">O cãozinho Flash procura alguém interessante para fotografar - o destaque é o tubarão mangona.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509044600 -0300" stop="20260509061600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash, o cãozinho fotógrafo, e sua amiga Maria mostram como os ursos polares vivem e o que comem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509045300 -0300" stop="20260509062300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir por que as carpas douradas são douradas; Flutter aprende sobre os filhotes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509050000 -0300" stop="20260509063000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash, o cãozinho fotógrafo, e sua amiga Maria mostram como vive o leão, o &quot;rei da selva&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509050700 -0300" stop="20260509063700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Gorila Ninja se torna criativo; dance com a música do DJ Monito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509051600 -0300" stop="20260509064600 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">O querido fotografo se une a Maria, uma amiga que entende tudo de bichos. Juntos ensinam várias curiosidades sobre os morcegos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509052300 -0300" stop="20260509065300 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal vive no polo norte ou polo sul e não sente frio por conta de sua gordura corporal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509053000 -0300" stop="20260509070000 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal tem um pescoço enorme e a pele malhada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509053700 -0300" stop="20260509070700 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal é peso pesado e tem uma boca grande.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509054400 -0300" stop="20260509071400 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal tem um bocão, rasteja e vive na água.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509055100 -0300" stop="20260509072100 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash descobriu de que país certos animais vêm; Cerdita resolve um problema relacionado aos macacos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509055800 -0300" stop="20260509072800 -0300" channel="ZooMoo Kids HD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">Flash tenta descobrir qual animal é um tanto engraçado e ainda tem um nome diferente.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
