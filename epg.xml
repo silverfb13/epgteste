@@ -15663,6 +15663,146 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260511043200 -0300" stop="20260511060200 -0300" channel="Band Minas HD">
+    <title lang="pt">Band Esporte</title>
+    <desc lang="pt">Reportagens especiais sobre diferentes acontecimentos e personagens do mundo dos esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511070200 -0300" stop="20260511083200 -0300" channel="Band Minas HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511110200 -0300" stop="20260511123200 -0300" channel="Band Minas HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511113200 -0300" stop="20260511130200 -0300" channel="Band Minas HD">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511120200 -0300" stop="20260511133200 -0300" channel="Band Minas HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511140200 -0300" stop="20260511153200 -0300" channel="Band Minas HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511150200 -0300" stop="20260511163200 -0300" channel="Band Minas HD">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511160200 -0300" stop="20260511173200 -0300" channel="Band Minas HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511172200 -0300" stop="20260511185200 -0300" channel="Band Minas HD">
+    <title lang="pt">Empreendedorismo</title>
+    <desc lang="pt">Dicas para poder se sobressair em qualquer oportunidade profissional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511173200 -0300" stop="20260511190200 -0300" channel="Band Minas HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511190200 -0300" stop="20260511203200 -0300" channel="Band Minas HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511203200 -0300" stop="20260511220200 -0300" channel="Band Minas HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511214200 -0300" stop="20260511231200 -0300" channel="Band Minas HD">
+    <title lang="pt">Jornal Band Minas</title>
+    <desc lang="pt">Jornal apresenta as principais notícias do estado de Minas Gerais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511222200 -0300" stop="20260511235200 -0300" channel="Band Minas HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511233200 -0300" stop="20260512010200 -0300" channel="Band Minas HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511002700 -0300" stop="20260511015700 -0300" channel="Band Minas HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511012200 -0300" stop="20260511025200 -0300" channel="Band Minas HD">
+    <title lang="pt">Apito Final</title>
+    <desc lang="pt">Acompanhe um giro esportivo para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511030200 -0300" stop="20260511043200 -0300" channel="Band Minas HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511040200 -0300" stop="20260511053200 -0300" channel="Band Minas HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511050200 -0300" stop="20260511063200 -0300" channel="Band Minas HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260512050200 -0300" stop="20260512063200 -0300" channel="Band Minas HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -17518,6 +17658,146 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260512050200 -0300" stop="20260512063200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512070200 -0300" stop="20260512083200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512110200 -0300" stop="20260512123200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512112200 -0300" stop="20260512125200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512113200 -0300" stop="20260512130200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512120200 -0300" stop="20260512133200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512140200 -0300" stop="20260512153200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512150200 -0300" stop="20260512163200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512160200 -0300" stop="20260512173200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Boa Tarde RS</title>
+    <desc lang="pt">Acompanhe as principais notícias e informações do dia com muita qualidade para o público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512173200 -0300" stop="20260512190200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512190200 -0300" stop="20260512203200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512215200 -0300" stop="20260512232200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512222200 -0300" stop="20260512235200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512233200 -0300" stop="20260513010200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512002700 -0300" stop="20260512015700 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512012200 -0300" stop="20260512025200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">A Prévia - Pesadelo na Cozinha</title>
+    <desc lang="pt">Especial mostra como aconteceu a escolha dos restaurantes que farão parte da nova temporada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512013200 -0300" stop="20260512030200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Pesadelo na Cozinha</title>
+    <desc lang="pt">O exigente chef Erick Jacquin dá consultoria a restaurantes que estão à beira da falência. Com orientação ou broncas, o chef mostra as alterações necessárias para evitar que mais restaurantes fechem as portas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512030200 -0300" stop="20260512043200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512040200 -0300" stop="20260512053200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260512050200 -0300" stop="20260512063200 -0300" channel="Band Porto Alegre">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260509060200 -0300" stop="20260509073200 -0300" channel="Band Rio">
     <title lang="pt">Jornal da Band</title>
     <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
@@ -18438,6 +18718,139 @@
   <programme start="20260510043200 -0300" stop="20260510060200 -0300" channel="Band Rio Grande do Sul HD">
     <title lang="pt">Band Esporte</title>
     <desc lang="pt">Reportagens especiais sobre diferentes acontecimentos e personagens do mundo dos esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511043200 -0300" stop="20260511060200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Band Esporte</title>
+    <desc lang="pt">Reportagens especiais sobre diferentes acontecimentos e personagens do mundo dos esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511070200 -0300" stop="20260511083200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511110200 -0300" stop="20260511123200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511112200 -0300" stop="20260511125200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511113200 -0300" stop="20260511130200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511120200 -0300" stop="20260511133200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511140200 -0300" stop="20260511153200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511150200 -0300" stop="20260511163200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511160200 -0300" stop="20260511173200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Boa Tarde RS</title>
+    <desc lang="pt">Acompanhe as principais notícias e informações do dia com muita qualidade para o público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511173200 -0300" stop="20260511190200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511190200 -0300" stop="20260511203200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511215200 -0300" stop="20260511232200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511222200 -0300" stop="20260511235200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511233200 -0300" stop="20260512010200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511002700 -0300" stop="20260511015700 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511012200 -0300" stop="20260511025200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Apito Final</title>
+    <desc lang="pt">Acompanhe um giro esportivo para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511030200 -0300" stop="20260511043200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511040200 -0300" stop="20260511053200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260511050200 -0300" stop="20260511063200 -0300" channel="Band Rio Grande do Sul HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -38259,6 +38672,265 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260510060200 -0300" stop="20260510073200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Junte-se à reza do Terço da Misericórdia com Maria do Rosário e envie seu pedido de oração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510063200 -0300" stop="20260510080200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Estúdio Canção Nova</title>
+    <desc lang="pt">Acompanhe uma experiência de fé a partir de videoclipes de cantores que fazem parte da história da música católica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510070200 -0300" stop="20260510083200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Catequese</title>
+    <desc lang="pt">Conheça os desafios enfrentados pelos cristãos no dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510080200 -0300" stop="20260510093200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Igreja de São José - Terra Santa</title>
+    <desc lang="pt">Acompanhe as missas e eventos da Igreja de São José em Nazaré.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510090200 -0300" stop="20260510103200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Terço Mariano</title>
+    <desc lang="pt">Acompanhe o tradicional e solene Terço Mariano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510093200 -0300" stop="20260510110200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Igreja a Caminho</title>
+    <desc lang="pt">O cardeal Orani João Tempesta, arcebispo metropolitano do Rio de Janeiro, apresenta reflexões.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510093900 -0300" stop="20260510110900 -0300" channel="Canção Nova HD">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">Padre Roger Luís incentiva fiéis a se aprofundarem na palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510095600 -0300" stop="20260510112600 -0300" channel="Canção Nova HD">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Dom Aberto Taveira, arcebispo de Belém do Pará, leva fiéis a experimentarem a graça da palavra de Deus, que renova vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510100200 -0300" stop="20260510113200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Acompanhe a celebração da santa missa em João Pessoa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510110200 -0300" stop="20260510123200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Canção Nova Agro</title>
+    <desc lang="pt">Todas as informações, notícias e conteúdos voltados para o homem do campo e o agronegócio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510112200 -0300" stop="20260510125200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Nossa Missão É Evangelizar</title>
+    <desc lang="pt">Acompanhe pregações baseadas na palavra de Deus, realizadas em encontros de espiritualidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510123200 -0300" stop="20260510140200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Santas Mães - O Amor Divino em Forma de Maternidade</title>
+    <desc lang="pt">Especial de Dia das Mães fala sobre as bençãos que o amor de mãe trazem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510130200 -0300" stop="20260510143200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Vitrine CN</title>
+    <desc lang="pt">Este programa visa mostrar os produtos como CDs, livros, que contêm conteúdo de evangelização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510131700 -0300" stop="20260510144700 -0300" channel="Canção Nova HD">
+    <title lang="pt">Minuto Deus Proverá</title>
+    <desc lang="pt">Os trabalhos de desenvolvimento social da Canção Nova são mostrados aos telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510133200 -0300" stop="20260510150200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Nossa Missão É Evangelizar</title>
+    <desc lang="pt">Acompanhe pregações baseadas na palavra de Deus, realizadas em encontros de espiritualidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510143200 -0300" stop="20260510160200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Shows Canção Nova</title>
+    <desc lang="pt">Momento de louvor, oração e animação com canções ministradas por músicos católicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510153200 -0300" stop="20260510170200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Acompanhe a celebração da santa missa em João Pessoa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510154700 -0300" stop="20260510171700 -0300" channel="Canção Nova HD">
+    <title lang="pt">Discípulos e Missionários</title>
+    <desc lang="pt">O arcebispo de São Paulo, cardeal Dom Odilo Scherer, conversa com o padre Wagner Ferreira sobre temas atuais referentes à Igreja Católica, ao Papa Francisco e à Arquidiocese paulistana, catequizando e informando o público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510160200 -0300" stop="20260510173200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Circulando</title>
+    <desc lang="pt">Cobertura de eventos, feiras, lançamentos e inaugurações, entre outras comemorações, além de matérias com novidades circulando por diferentes áreas como moda, saúde, beleza, arte, música, negócios viagens e gastronomia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510163200 -0300" stop="20260510180200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Preservação Ambiental</title>
+    <desc lang="pt">Com uma abordagem séria e comprometida, Marcelo Chaves promove a educação ambiental e a divulgação da fauna e flora brasileira, além do ecoturismo e da proteção da natureza.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510170200 -0300" stop="20260510183200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Santa Rita de Cássia</title>
+    <desc lang="pt">Ao olhar para uma rosa, Margherita Lotti se recorda de seu passado e de toda a sua trajetória, relembrando de forma poética cada momento de sua vida, desde a juventude até se tornar Santa Rita de Cássia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510180200 -0300" stop="20260510193200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Nossa Missão É Evangelizar</title>
+    <desc lang="pt">Acompanhe pregações baseadas na palavra de Deus, realizadas em encontros de espiritualidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510183200 -0300" stop="20260510200200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Revolução Jesus</title>
+    <desc lang="pt">Abordagem atual, criativa e interativa dos principais dilemas, sonhos, vivência e comportamento da juventude, para conduzi-la ao protagonismo de uma revolução de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510193200 -0300" stop="20260510210200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Shows Canção Nova</title>
+    <desc lang="pt">Momento de louvor, oração e animação com canções ministradas por músicos católicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510200200 -0300" stop="20260510213200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Canção Nova Sertaneja</title>
+    <desc lang="pt">O encontro une a rica cultura sertaneja ao carisma da Comunidade Canção Nova, com louvor, testemunhos, pregações, shows e celebração da Santa Missa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510210200 -0300" stop="20260510223200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Terço Mariano</title>
+    <desc lang="pt">Acompanhe o tradicional e solene Terço Mariano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510213200 -0300" stop="20260510230200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Sob o Manto de Maria</title>
+    <desc lang="pt">Desperte a devoção a Nossa Senhora, entenda os apelos dela em suas aparições e busque tê-la como mãe e guia na caminhada rumo à santidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510220200 -0300" stop="20260510233200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Minha Família É Assim</title>
+    <desc lang="pt">Acompanhe debates sobre assuntos relacionados à família, desde a educação dos filhos até questões atuais. Tudo com base nos ensinamentos e orientações da Igreja, e permeado por valores cristãos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510230200 -0300" stop="20260511003200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Repórter Canção Nova</title>
+    <desc lang="pt">Fique por dentro dos acontecimentos cotidianos sob uma nova visão, além de acompanhar reportagens especiais e uma retrospectiva das principais notícias da semana no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510000200 -0300" stop="20260510013200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Luz para os Meus Passos</title>
+    <desc lang="pt">Baseada na &quot;Lectio Divina&quot;, obra apresenta lições que devem ser feitas a cada dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510010200 -0300" stop="20260510023200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Pra Ser Feliz</title>
+    <desc lang="pt">O padre Adriano Zandoná apresenta testemunhos e reflexões que ajudam a encontrar elementos simples do cotidiano, como o amor e a gratidão, que podem levar à felicidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510020200 -0300" stop="20260510033200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Celebrando Pentecostes</title>
+    <desc lang="pt">Junte-se a um momento de profunda experiência com Deus pela efusão do Espírito Santo, característica viva e marcante da Renovação Carismática Católica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510023200 -0300" stop="20260510040200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Direção Espiritual</title>
+    <desc lang="pt">Veja orientações espirituais, orações e reflexões com base na sabedoria cristã.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510030200 -0300" stop="20260510043200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Nossa Missão É Evangelizar</title>
+    <desc lang="pt">Acompanhe pregações baseadas na palavra de Deus, realizadas em encontros de espiritualidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510040200 -0300" stop="20260510053200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Além da Notícia</title>
+    <desc lang="pt">Acompanhe noticiário cuja linha editorial é voltada para a prestação de serviço à população por meio da informação. Saúde, educação, religião, política, entre outros, são algumas temáticas abordadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510053200 -0300" stop="20260510070200 -0300" channel="Canção Nova HD">
+    <title lang="pt">Palavra de Deus</title>
+    <desc lang="pt">Dom Walmor faz uma reflexão por meio da leitura do versículo do Evangelho do Dia. Um momento de oração dedicado a Nossa Senhora encerra o programa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260510054700 -0300" stop="20260510071700 -0300" channel="Canção Nova HD">
+    <title lang="pt">Boa Semente</title>
+    <desc lang="pt">Eto, o co-fundador da Comunidade Canção Nova, compartilha sua experiência e a Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260511060200 -0300" stop="20260511073200 -0300" channel="Canção Nova HD">
     <title lang="pt">Terço da Misericórdia</title>
     <desc lang="pt">Junte-se à reza do Terço da Misericórdia com Maria do Rosário e envie seu pedido de oração.</desc>
@@ -48083,6 +48755,293 @@
   <programme start="20260512053200 -0300" stop="20260512070200 -0300" channel="CNT Bahía HD">
     <title lang="pt">Nosso Tempo</title>
     <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509060200 -0300" stop="20260509073200 -0300" channel="CNT HD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509063200 -0300" stop="20260509080200 -0300" channel="CNT HD">
+    <title lang="pt">IURD - Corrente dos 70</title>
+    <desc lang="pt">Reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509070200 -0300" stop="20260509083200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509073200 -0300" stop="20260509090200 -0300" channel="CNT HD">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509080200 -0300" stop="20260509093200 -0300" channel="CNT HD">
+    <title lang="pt">Batalha Espiritual</title>
+    <desc lang="pt">Programa da Igreja Universal transmitido pelo canal CNT.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509083200 -0300" stop="20260509100200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509090200 -0300" stop="20260509103200 -0300" channel="CNT HD">
+    <title lang="pt">Mensagem do Bispo Macedo - Templo</title>
+    <desc lang="pt">Veja a mensagem do Bispo Macedo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509100300 -0300" stop="20260509113300 -0300" channel="CNT HD">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509103200 -0300" stop="20260509120200 -0300" channel="CNT HD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509110200 -0300" stop="20260509123200 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509113200 -0300" stop="20260509130200 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509120200 -0300" stop="20260509133200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509123200 -0300" stop="20260509140200 -0300" channel="CNT HD">
+    <title lang="pt">Ensino da Fé</title>
+    <desc lang="pt">O Bispo Macedo e sua esposa Ester Bezerra falam sobre os planos de Deus para a vida de cada pessoa e, por meio de ensinamentos práticos, explicam como alcançar a plenitude do Espírito Santo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509133300 -0300" stop="20260509150300 -0300" channel="CNT HD">
+    <title lang="pt">Vigília pela Sua Alma</title>
+    <desc lang="pt">Receba o Espírito Santo e renovação espiritual com as palavras de fé do Bispo Edir Macedo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509140200 -0300" stop="20260509153200 -0300" channel="CNT HD">
+    <title lang="pt">Problemas e Soluções</title>
+    <desc lang="pt">Conheça histórias de desafios superados por meio da espiritualidade e da fé.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509143200 -0300" stop="20260509160200 -0300" channel="CNT HD">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509150200 -0300" stop="20260509163200 -0300" channel="CNT HD">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509160200 -0300" stop="20260509173200 -0300" channel="CNT HD">
+    <title lang="pt">Problemas e Soluções</title>
+    <desc lang="pt">Conheça histórias de desafios superados por meio da espiritualidade e da fé.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509163200 -0300" stop="20260509180200 -0300" channel="CNT HD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509170200 -0300" stop="20260509183200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509173200 -0300" stop="20260509190200 -0300" channel="CNT HD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509180200 -0300" stop="20260509193200 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509190300 -0300" stop="20260509203300 -0300" channel="CNT HD">
+    <title lang="pt">Saindo da Crise</title>
+    <desc lang="pt">Acompanhe as mais novas notícias de economia e dicas para driblar a crise financeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509193200 -0300" stop="20260509210200 -0300" channel="CNT HD">
+    <title lang="pt">IURD - Corrente dos 70</title>
+    <desc lang="pt">Reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509200200 -0300" stop="20260509213200 -0300" channel="CNT HD">
+    <title lang="pt">Ensino da Fé</title>
+    <desc lang="pt">O Bispo Macedo e sua esposa Ester Bezerra falam sobre os planos de Deus para a vida de cada pessoa e, por meio de ensinamentos práticos, explicam como alcançar a plenitude do Espírito Santo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509210300 -0300" stop="20260509223300 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509213200 -0300" stop="20260509230200 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509220300 -0300" stop="20260509233300 -0300" channel="CNT HD">
+    <title lang="pt">Vigília pela Sua Alma</title>
+    <desc lang="pt">Receba o Espírito Santo e renovação espiritual com as palavras de fé do Bispo Edir Macedo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509230200 -0300" stop="20260510003200 -0300" channel="CNT HD">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509233200 -0300" stop="20260510010200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509000200 -0300" stop="20260509013200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509003200 -0300" stop="20260509020200 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509010200 -0300" stop="20260509023200 -0300" channel="CNT HD">
+    <title lang="pt">Programa Marco Brasil</title>
+    <desc lang="pt">O programa reúne músicos e cantores da chamada música de raiz e juntos cantam preciosidades do nosso cancioneiro popular.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509013200 -0300" stop="20260509030200 -0300" channel="CNT HD">
+    <title lang="pt">Família Zoreia</title>
+    <desc lang="pt">Resgatando o humor tradicional com simplicidade e bom gosto, o programa tem o objetivo de fazer rir com naturalidade e simplicidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509020200 -0300" stop="20260509033200 -0300" channel="CNT HD">
+    <title lang="pt">CNT Variedades</title>
+    <desc lang="pt">Faixa de programação com programas de 5 minutos sobre diversos temas: animais, culinária, moda, economia, dança e humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509030200 -0300" stop="20260509043200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509033200 -0300" stop="20260509050200 -0300" channel="CNT HD">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509040200 -0300" stop="20260509053200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509043200 -0300" stop="20260509060200 -0300" channel="CNT HD">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509050200 -0300" stop="20260509063200 -0300" channel="CNT HD">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260509053200 -0300" stop="20260509070200 -0300" channel="CNT HD">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
