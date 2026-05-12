@@ -120481,30 +120481,121 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513141700 -0300" stop="20260513154700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260513110200 -0300" stop="20260513123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Atlético-MG x Ceará</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513181700 -0300" stop="20260513194700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260513120200 -0300" stop="20260513133200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Vitória</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513221700 -0300" stop="20260513234700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260513130200 -0300" stop="20260513143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Paysandu x Vasco</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260513021700 -0300" stop="20260513034700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260513140200 -0300" stop="20260513153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Goiás x Cruzeiro</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513150200 -0300" stop="20260513163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Vitória</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513160200 -0300" stop="20260513173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Atlético-MG x Ceará</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513170200 -0300" stop="20260513183200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Remo</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513180200 -0300" stop="20260513193200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Goiás x Cruzeiro</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513190200 -0300" stop="20260513203200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Goiás</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513200200 -0300" stop="20260513213200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">Tudo o que aconteceu na primeira rodada do Campeonato Brasileiro de 2012.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513210200 -0300" stop="20260513223200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Aquecimento SporTV</title>
+    <desc lang="pt">As últimas informações e os preparativos para os principais eventos esportivos no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513220200 -0300" stop="20260513233200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Juventude x São Paulo</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513000200 -0300" stop="20260513013200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Ceará x Atlético-MG</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513024200 -0300" stop="20260513041200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Paysandu</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513034200 -0300" stop="20260513051200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Juventude x São Paulo</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513044200 -0300" stop="20260513061200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Ceará x Atlético-MG</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513054200 -0300" stop="20260513071200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Remo x Bahia</title>
+    <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -198056,8 +198147,15 @@
     </rating>
   </programme>
   <programme start="20260513103700 -0300" stop="20260513120700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">GP da Austrália</title>
+    <desc lang="pt">Os pilotos aceleram para a etapa de abertura da temporada, no Circuito de Albert Park, em Melbourne, Austrália. A Ferrari é a equipe que mais ganhou a prova australiana, com 14 triunfos: um a mais do que a McLaren, vencedora em 2025 com Lando Norris.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513123700 -0300" stop="20260513140700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -198070,8 +198168,29 @@
     </rating>
   </programme>
   <programme start="20260513160700 -0300" stop="20260513173700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Experiência de Mestre</title>
+    <desc lang="pt">O chef de cozinha e empresário Alex Atala vem para uma aula sobre controle, transição e finalização, fundamentos importantes do jiu-jítsu brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513163700 -0300" stop="20260513180700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Experiência de Mestre</title>
+    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513170700 -0300" stop="20260513183700 -0300" channel="SporTV3 HD">
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513190200 -0300" stop="20260513203200 -0300" channel="SporTV3 HD">
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -198084,8 +198203,36 @@
     </rating>
   </programme>
   <programme start="20260513230200 -0300" stop="20260514003200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Galeria SporTV</title>
+    <desc lang="pt">Reveja grandes momentos do esporte brasileiro e mundial, conheça a história de atletas históricos de diversas modalidades e acompanhe matérias jornalísticas sobre os principais assuntos envolvendo o mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513231700 -0300" stop="20260514004700 -0300" channel="SporTV3 HD">
+    <title lang="pt">NBB</title>
+    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513013200 -0300" stop="20260513030200 -0300" channel="SporTV3 HD">
+    <title lang="pt">The Golden Generation</title>
+    <desc lang="pt">Veja como um time argentino de uma geração, liderado por Manu Ginobili, derrubou o &quot;Dream Team&quot; e conquistou o ouro nos Jogos Olímpicos de 2004.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513024700 -0300" stop="20260513041700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Heróis do Futuro</title>
+    <desc lang="pt">Carol &quot;Naka&quot; Almeida, uma verdadeira heroína do boxe que superou obstáculos para ser campeã, conhece Rebeca e Alicia, jovens que se preparam para seguir os passos da atleta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260513030200 -0300" stop="20260513043200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Dushanbe, Tajiquistão - Finais</title>
+    <desc lang="pt">Todas as emoções da tradicional competição de judô que vale pontos no ranking mundial e conta com a participação de alguns dos melhores judocas do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
