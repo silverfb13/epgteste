@@ -199260,8 +199260,43 @@
     </rating>
   </programme>
   <programme start="20260520103200 -0300" stop="20260520120200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">The Z Team</title>
+    <desc lang="pt">Jackie Silva tenta transformar um time de vôlei no Rio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520113200 -0300" stop="20260520130200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Semifinal, Jogo 1: Franca x Flamengo</title>
+    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520133200 -0300" stop="20260520150200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Hortência &amp; Paula</title>
+    <desc lang="pt">Em meio à febre do basquete feminino, guerras de torcida marcam os campeonatos em SP. Na Seleção, a rivalidade vira parceria rumo à final.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520140200 -0300" stop="20260520153200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final: Minas x Praia Clube</title>
+    <desc lang="pt">Pela grande decisão, em jogo único, Minas e Praia Clube duelam no Ginásio Geraldão, no Recife?PE. É a quinta final em sequência da Superliga entre os rivais estaduais, com o Minas tendo conquistado o título em três das quatro ocasiões anteriores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520154200 -0300" stop="20260520171200 -0300" channel="SporTV2 HD">
+    <title lang="pt">The Z Team</title>
+    <desc lang="pt">Jackie Silva tenta transformar um time de vôlei no Rio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520163700 -0300" stop="20260520180700 -0300" channel="SporTV2 HD">
+    <title lang="pt">The Z Team</title>
+    <desc lang="pt">Jackie Silva tenta transformar um time de vôlei no Rio.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199274,15 +199309,64 @@
     </rating>
   </programme>
   <programme start="20260520200200 -0300" stop="20260520213200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Acompanhe um especial dos 25 anos da conquista do tetracampeonato na Copa do Mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260520040200 -0300" stop="20260520053200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260520203200 -0300" stop="20260520220200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Maria Lenk, de Braços Abertos</title>
+    <desc lang="pt">A jovem Maria, de 17 anos, supera crises financeiras e políticas, vai aos Jogos de Los Angeles 1932 e torna-se a primeira mulher brasileira e sul-americana a participar das Olimpíadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520210200 -0300" stop="20260520223200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Finais - Rio de Janeiro</title>
+    <desc lang="pt">Acompanhe as emoções de um dos principais eventos da natação brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520223200 -0300" stop="20260521000200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Maria Lenk, de Braços Abertos</title>
+    <desc lang="pt">Maria inova o estilo peito com braçada de borboleta e participa das Olimpíadas de Berlim 1936. No auge, bate dois recordes mundiais, mas tem seu terceiro sonho olímpico cancelado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520230200 -0300" stop="20260521003200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Maria Lenk, de Braços Abertos</title>
+    <desc lang="pt">A frustração de não ir a uma Olimpíada no auge da forma física dá lugar a um dos momentos mais vitoriosos da natação brasileira: o estrondoso resultado nos Jogos de Viña del Mar, no Chile, em 1941.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520233200 -0300" stop="20260521010200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Primeira Etapa - Xangai, China</title>
+    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520013200 -0300" stop="20260520030200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Minas Tênis Clube x Praia Clube: Minas x Praia Clube</title>
+    <desc lang="pt">O Minas recebe o Praia Clube na Arena Dentil, em Uberlândia, Minas Gerais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520033200 -0300" stop="20260520050200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final: Praia Clube x Minas</title>
+    <desc lang="pt">Pela grande decisão, o Praia Clube enfrenta o Minas na Arena Sabiazinho, em Uberlândia?MG. Na final pelo quinto ano seguido, o Praia busca seu segundo título da Superliga; já o Minas, atual tricampeão consecutivo, quer levar a taça pela sexta vez.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520052200 -0300" stop="20260520065200 -0300" channel="SporTV2 HD">
+    <title lang="pt">Final: Minas x Praia Clube</title>
+    <desc lang="pt">Pela grande decisão, em jogo único, Minas e Praia Clube duelam no Ginásio Geraldão, no Recife?PE. É a quinta final em sequência da Superliga entre os rivais estaduais, com o Minas tendo conquistado o título em três das quatro ocasiões anteriores.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199540,92 +199624,99 @@
     </rating>
   </programme>
   <programme start="20260520093700 -0300" stop="20260520110700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Copa do Mundo de Ginástica Rítmica</title>
-    <desc lang="pt">Acompanhe as emoções da competição de ginástica rítmica, tanto feminina quanto masculina.</desc>
+    <title lang="pt">Ginástica Rítmica: Portimão, Portugal - Finais</title>
+    <desc lang="pt">Da Portimão Arena, em Portimão, Portugal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260520153700 -0300" stop="20260520170700 -0300" channel="SporTV3 HD">
+  <programme start="20260520134200 -0300" stop="20260520151200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP de Miami</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260520154200 -0300" stop="20260520171200 -0300" channel="SporTV3 HD">
     <title lang="pt">Na Ponta dos Dedos</title>
     <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260520165700 -0300" stop="20260520182700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260520170200 -0300" stop="20260520183200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <desc lang="pt">Especialistas em esportes a motor analisam os principais destaques da Fórmula 1 e demais categorias do automobilismo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260520175700 -0300" stop="20260520192700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 6</title>
-    <desc lang="pt">Sexto dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260520015700 -0300" stop="20260520032700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 6</title>
-    <desc lang="pt">Sexto dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260521015700 -0300" stop="20260521032700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 6</title>
-    <desc lang="pt">Sexto dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260521103200 -0300" stop="20260521120200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Hebert Conceição x Johan Gonzalez</title>
-    <desc lang="pt">Pugilistas se encaram em ringues por todo o planeta nos principais combates da &quot;nobre arte&quot;.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260521131200 -0300" stop="20260521144200 -0300" channel="SporTV3 HD">
-    <title lang="pt">Dushanbe, Tajiquistão - Finais</title>
-    <desc lang="pt">Todas as emoções da tradicional competição de judô que vale pontos no ranking mundial e conta com a participação de alguns dos melhores judocas do mundo.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260521152200 -0300" stop="20260521165200 -0300" channel="SporTV3 HD">
+  <programme start="20260520180200 -0300" stop="20260520193200 -0300" channel="SporTV3 HD">
     <title lang="pt">A Onda</title>
     <desc lang="pt">A série documental busca traçar a evolução do surfe. Do surgimento ao reconhecimento olímpico, revela a jornada de heróis que moldaram o esporte, sua cultura e a globalização.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260521155200 -0300" stop="20260521172200 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
+  <programme start="20260520183700 -0300" stop="20260520200700 -0300" channel="SporTV3 HD">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A série documental busca traçar a evolução do surfe. Do surgimento ao reconhecimento olímpico, revela a jornada de heróis que moldaram o esporte, sua cultura e a globalização.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260521175700 -0300" stop="20260521192700 -0300" channel="SporTV3 HD">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
+  <programme start="20260520190700 -0300" stop="20260520203700 -0300" channel="SporTV3 HD">
+    <title lang="pt">WSL Replay</title>
+    <desc lang="pt">Reprises e destaques das etapas da WSL, principal circuito de surfe profissional do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260521195700 -0300" stop="20260521212700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 7</title>
-    <desc lang="pt">Sétimo dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
+  <programme start="20260520195700 -0300" stop="20260520212700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 6</title>
+    <desc lang="pt">Sexto dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260521035700 -0300" stop="20260521052700 -0300" channel="SporTV3 HD">
-    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 7</title>
-    <desc lang="pt">Sétimo dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
+  <programme start="20260520035700 -0300" stop="20260520052700 -0300" channel="SporTV3 HD">
+    <title lang="pt">Championship Tour: Etapa da Nova Zelândia - Dia 6</title>
+    <desc lang="pt">Sexto dia de baterias para a competição de surfe, realizada em Raglan, na Nova Zelândia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260521060200 -0300" stop="20260521073200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Hype Brazil 2</title>
+    <desc lang="pt">Edição especial do Hype FC, com card de MMA e grappling disputado no Komplexo Tempo, em São Paulo. Jean Silva, do UFC, e Marlon Vera colidem no combate principal da noite, em uma luta de apenas submissões.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260521081200 -0300" stop="20260521094200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Power Slap 19</title>
+    <desc lang="pt">Décima nona edição do maior torneio de power slap do mundo. Do The Cosmopolitan, em Las Vegas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260521103200 -0300" stop="20260521120200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260521183200 -0300" stop="20260521200200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260521023200 -0300" stop="20260521040200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
