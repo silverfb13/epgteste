@@ -265647,6 +265647,139 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260525040200 -0300" stop="20260525053200 -0300" channel="TV Jornal HD">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525090200 -0300" stop="20260525103200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525100200 -0300" stop="20260525113200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Primeiro Impacto PE</title>
+    <desc lang="pt">O jornal traz a notícia de forma rápida e ágil, com repórteres ao vivo espalhados pelos principais pontos da cidade, mostrando ao telespectador um resumo do dia anterior e os fatos mais marcantes do início da manhã.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525113200 -0300" stop="20260525130200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525134700 -0300" stop="20260525151700 -0300" channel="TV Jornal HD">
+    <title lang="pt">TV Jornal Meio-Dia</title>
+    <desc lang="pt">As principais notícias de Pernambuco. Os fatos do dia, as denúncias dos problemas e a cobrança das soluções. Um telejornal feito com personalidade e seriedade para dar vez e voz ao telespectador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525160200 -0300" stop="20260525173200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Turma do Barra</title>
+    <desc lang="pt">Flávio Barra, Adeildo B, Jota Júnior e Jurema Fox aprontam muitas confusões em um programa que mistura humor e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525164200 -0300" stop="20260525181200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Receita da Boa com Juju</title>
+    <desc lang="pt">Receitas fáceis, rápidas e saborosas, com um toque de humor e irreverência.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525164700 -0300" stop="20260525181700 -0300" channel="TV Jornal HD">
+    <title lang="pt">Meu Coração É Teu</title>
+    <desc lang="pt">Ana Leal é uma mulher alegre e otimista que sonha em ser uma atriz famosa e ter uma linda família. Ela trabalha como bailarina de pole dance em um bar, mas consegue o emprego de babá na mansão da família Lascurain.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525183200 -0300" stop="20260525200200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525200200 -0300" stop="20260525213200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Sortilégio</title>
+    <desc lang="pt">Uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525213200 -0300" stop="20260525230200 -0300" channel="TV Jornal HD">
+    <title lang="pt">O Povo na TV</title>
+    <desc lang="pt">O programa é voltado para cobertura policial, apelos, anúncio de empregos, aniversariantes, desaparecidos, etc.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525221200 -0300" stop="20260525234200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Escrete na Rede</title>
+    <desc lang="pt">Debates sobre o futebol pernambucano com informação, opinião e interação com o torcedor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525224700 -0300" stop="20260526001700 -0300" channel="TV Jornal HD">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525234700 -0300" stop="20260526011700 -0300" channel="TV Jornal HD">
+    <title lang="pt">Domênica Montero</title>
+    <desc lang="pt">Domênica Montero é uma empresária reconhecida e considerada uma das noivas mais cobiçadas do país, mas no dia de seu casamento é abandonada no altar. Humilhada, Domênica parte para se refugiar na antiga fazenda de seus pais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525004700 -0300" stop="20260525021700 -0300" channel="TV Jornal HD">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o &quot;Jornal Racional&quot;, &quot;Gol Show&quot; e &quot;Dez ou Mil&quot;, entre outros.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525014700 -0300" stop="20260525031700 -0300" channel="TV Jornal HD">
+    <title lang="pt">Galvão FC</title>
+    <desc lang="pt">Galvão Bueno comanda programa que reúne informação, análise e leveza para debater os principais assuntos do futebol, conectando o público ao universo do esporte com uma linguagem moderna e envolvente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525030200 -0300" stop="20260525043200 -0300" channel="TV Jornal HD">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525040200 -0300" stop="20260525053200 -0300" channel="TV Jornal HD">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525043200 -0300" stop="20260525060200 -0300" channel="TV Jornal HD">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260526043200 -0300" stop="20260526060200 -0300" channel="TV Jornal HD">
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
@@ -267754,6 +267887,139 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260528050200 -0300" stop="20260528063200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528070200 -0300" stop="20260528083200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528110200 -0300" stop="20260528123200 -0300" channel="TV Macapá HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528113200 -0300" stop="20260528130200 -0300" channel="TV Macapá HD">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528120200 -0300" stop="20260528133200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528140200 -0300" stop="20260528153200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528150200 -0300" stop="20260528163200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Bora Amapá</title>
+    <desc lang="pt">As principais notícias, debates e reportagens que fazem a diferença no dia a dia do amapaense.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528163200 -0300" stop="20260528180200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528173200 -0300" stop="20260528190200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528190200 -0300" stop="20260528203200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528203200 -0300" stop="20260528220200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528222200 -0300" stop="20260528235200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528233200 -0300" stop="20260529010200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528002700 -0300" stop="20260528015700 -0300" channel="TV Macapá HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528012200 -0300" stop="20260528025200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">Acompanhe a rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando contra incêndios, combatendo crimes e salvando vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528021700 -0300" stop="20260528034700 -0300" channel="TV Macapá HD">
+    <title lang="pt">Dona Beja</title>
+    <desc lang="pt">Beja revive lembranças dolorosas de violência entre seu avô e sua mãe; Antônio encontra, entre as roupas do pai, um segredo sobre Sampaio e decide agir procurando Beja para conhecer a filha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528030200 -0300" stop="20260528043200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528040200 -0300" stop="20260528053200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528050200 -0300" stop="20260528063200 -0300" channel="TV Macapá HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260525060200 -0300" stop="20260525073200 -0300" channel="TV Manaíra">
     <title lang="pt">Igreja da Graça no Seu Lar</title>
     <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
@@ -268728,6 +268994,146 @@
     </rating>
   </programme>
   <programme start="20260527033200 -0300" stop="20260527050200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528060200 -0300" stop="20260528073200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Igreja da Graça no Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528080200 -0300" stop="20260528093200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528113200 -0300" stop="20260528130200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528123200 -0300" stop="20260528140200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528130200 -0300" stop="20260528143200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O programa traz os principais assuntos esportivos, campeonatos internacionais e torneios nacionais, mostrando os melhores momentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528140200 -0300" stop="20260528153200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Fica com a Gente</title>
+    <desc lang="pt">Chef Edu Guedes prepara receitas práticas para entreter e ensinar os telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528150200 -0300" stop="20260528163200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528153200 -0300" stop="20260528170200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Além do Poder</title>
+    <desc lang="pt">Abre a possibilidade de levar ao estúdio autoridades, empresários, personalidades relevantes que não necessariamente militem na política partidária.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528160200 -0300" stop="20260528173200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Melhor pra Você</title>
+    <desc lang="pt">O programa traz três grandes apresentadores e amigos para oferecer para toda a família o que eles sabem fazer de melhor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528180200 -0300" stop="20260528193200 -0300" channel="TV Manaira HD">
+    <title lang="pt">A Tarde É Sua</title>
+    <desc lang="pt">As novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528200200 -0300" stop="20260528213200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528210200 -0300" stop="20260528223200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528213200 -0300" stop="20260528230200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Brasil do Povo</title>
+    <desc lang="pt">Uma ampla cobertura dos principais acontecimentos tanto no Brasil quanto no cenário internacional. Destaca-se por suas pautas voltadas à segurança pública, prestação de serviços e outros temas que impactam diretamente o cotidiano da população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528224700 -0300" stop="20260529001700 -0300" channel="TV Manaira HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528233200 -0300" stop="20260529010200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Hora H com Heron Cid</title>
+    <desc lang="pt">Com convidados, o programa debate o cenário político-econômico do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528003200 -0300" stop="20260528020200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Hipercap Brasil</title>
+    <desc lang="pt">Sorteios de diversos títulos de créditos de empresas de capitalização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528013200 -0300" stop="20260528030200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Rapidinhas da Fama</title>
+    <desc lang="pt">As últimas novidades do mundo dos famosos de maneira rápida e dinâmica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528014700 -0300" stop="20260528031700 -0300" channel="TV Manaira HD">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">Bastidores de tudo que acontece nas operações das polícias militar, civil e técnica do estado de São Paulo. Do princípio do crime até sua resolução, tudo é mostrado em tempo quase real.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528030200 -0300" stop="20260528043200 -0300" channel="TV Manaira HD">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528033200 -0300" stop="20260528050200 -0300" channel="TV Manaira HD">
     <title lang="pt">Madrugada Animada</title>
     <desc lang="pt">João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
     <rating system="Brazil">
@@ -270379,6 +270785,132 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260528050200 -0300" stop="20260528063200 -0300" channel="TV Meridional">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528070200 -0300" stop="20260528083200 -0300" channel="TV Meridional">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528110200 -0300" stop="20260528123200 -0300" channel="TV Meridional">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528112200 -0300" stop="20260528125200 -0300" channel="TV Meridional">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Horário destinado à exibição de conteúdo regional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528120200 -0300" stop="20260528133200 -0300" channel="TV Meridional">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528140200 -0300" stop="20260528153200 -0300" channel="TV Meridional">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528150200 -0300" stop="20260528163200 -0300" channel="TV Meridional">
+    <title lang="pt">Bora Rondônia</title>
+    <desc lang="pt">Reportagens exclusivas, informação, atualidades e interação com o público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528173200 -0300" stop="20260528190200 -0300" channel="TV Meridional">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528190200 -0300" stop="20260528203200 -0300" channel="TV Meridional">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528203200 -0300" stop="20260528220200 -0300" channel="TV Meridional">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Horário destinado à exibição de conteúdo regional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528222200 -0300" stop="20260528235200 -0300" channel="TV Meridional">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528233200 -0300" stop="20260529010200 -0300" channel="TV Meridional">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528002700 -0300" stop="20260528015700 -0300" channel="TV Meridional">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528012200 -0300" stop="20260528025200 -0300" channel="TV Meridional">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">Acompanhe a rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando contra incêndios, combatendo crimes e salvando vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528021700 -0300" stop="20260528034700 -0300" channel="TV Meridional">
+    <title lang="pt">Dona Beja</title>
+    <desc lang="pt">Beja revive lembranças dolorosas de violência entre seu avô e sua mãe; Antônio encontra, entre as roupas do pai, um segredo sobre Sampaio e decide agir procurando Beja para conhecer a filha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528030200 -0300" stop="20260528043200 -0300" channel="TV Meridional">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528040200 -0300" stop="20260528053200 -0300" channel="TV Meridional">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528050200 -0300" stop="20260528063200 -0300" channel="TV Meridional">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260525050200 -0300" stop="20260525063200 -0300" channel="TV Meridional HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -271516,6 +272048,160 @@
   <programme start="20260528051700 -0300" stop="20260528064700 -0300" channel="TV Mirante São Luís">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525053700 -0300" stop="20260525070700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Sob Pressão</title>
+    <desc lang="pt">Um médico e sua equipe têm que realizar três cirurgias muito complicadas - de um traficante, de um policial militar e de uma criança. Os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525070200 -0300" stop="20260525083200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Hora 1</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525090200 -0300" stop="20260525103200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Bom Dia Mirante</title>
+    <desc lang="pt">Tenha as primeiras notícias da manhã em um jornal dinâmico, leve, que presta serviço e traz reportagens especiais sobre saúde, direitos do consumidor, esporte, além de entrevistas diárias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525113200 -0300" stop="20260525130200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525123200 -0300" stop="20260525140200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525133700 -0300" stop="20260525150700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525144700 -0300" stop="20260525161700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">JM1</title>
+    <desc lang="pt">Notícias, reportagens e tudo que acontece no Maranhão. 1ª edição.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525160200 -0300" stop="20260525173200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525162700 -0300" stop="20260525175700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525174700 -0300" stop="20260525191700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525183200 -0300" stop="20260525200200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">A Proposta</title>
+    <desc lang="pt">Margaret Tate é uma poderosa editora de livros que corre o risco de ser deportada para o Canadá, seu país natal. Para poder permanecer em Nova York, ela diz estar noiva de Andrew, seu assistente. O jovem aceita ajudá-la, mas impõe algumas condições, entre elas ir para o Alasca e conhecer sua família excêntrica. Com um oficial da imigração sempre à espreita, Margaret e Andrew têm que seguir o plano de casamento apesar de diversos problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525201200 -0300" stop="20260525214200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Avenida Brasil</title>
+    <desc lang="pt">Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525212200 -0300" stop="20260525225200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Robert diz a Jendal que deseja fazer uma reportagem sobre Batanga. Kênia se preocupa com as intenções de Robert. Tonho se une a Casemiro e Onildo para confrontar Bartô em nome da população de Barro Preto, e Alika sente orgulho do amado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525220700 -0300" stop="20260525233700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">JM2</title>
+    <desc lang="pt">Notícias, reportagens e tudo que acontece no Maranhão. 2ª edição.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525223700 -0300" stop="20260526000700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Janete recebe uma carta anônima e descobre que Agrado cedeu às chantagens de Naiane para protegê-la, e Zuzu aconselha a amiga a conversar com a filha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525233200 -0300" stop="20260526010200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525002200 -0300" stop="20260525015200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Arthur fica livre das acusações de Pilar sobre sua autonomia durante audiência e Ulisses surpreende a família com suas decisões em relação ao dinheiro que ganhou de Arthur.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525012700 -0300" stop="20260525025700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Guerreiros do Sol</title>
+    <desc lang="pt">Josué e seu bando procuram Rosa pelo Sertão; Arduíno é interrogado pelo delegado Heliodoro e pelo Procurador Dr. Marinho quando recebe a notícia de que foi nomeado Prefeito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525021700 -0300" stop="20260525034700 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Nomadland</title>
+    <desc lang="pt">Uma mulher na casa dos 60 anos que, depois de perder tudo na Grande Recessão, embarca em uma viagem pelo Oeste americano, vivendo como uma nômade moderna.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525034200 -0300" stop="20260525051200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525043200 -0300" stop="20260525060200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Robert diz a Jendal que deseja fazer uma reportagem sobre Batanga. Kênia se preocupa com as intenções de Robert. Tonho se une a Casemiro e Onildo para confrontar Bartô em nome da população de Barro Preto, e Alika sente orgulho do amado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525051200 -0300" stop="20260525064200 -0300" channel="TV Mirante São Luis HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Janete recebe uma carta anônima e descobre que Agrado cedeu às chantagens de Naiane para protegê-la, e Zuzu aconselha a amiga a conversar com a filha.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -279206,6 +279892,139 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260525060200 -0300" stop="20260525073200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Programação RedeTV!</title>
+    <desc lang="pt">Acompanhe a programação dos canais da RedeTV!</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525080200 -0300" stop="20260525093200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Programação RedeTV!</title>
+    <desc lang="pt">Acompanhe a programação dos canais da RedeTV!</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525113200 -0300" stop="20260525130200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Nossa República</title>
+    <desc lang="pt">O jornalista Mauro Camargo apresenta as mais relevantes notícias sobre o Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525123200 -0300" stop="20260525140200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525130200 -0300" stop="20260525143200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O programa traz os principais assuntos esportivos, campeonatos internacionais e torneios nacionais, mostrando os melhores momentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525140200 -0300" stop="20260525153200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Fica com a Gente</title>
+    <desc lang="pt">Chef Edu Guedes prepara receitas práticas para entreter e ensinar os telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525153200 -0300" stop="20260525170200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Pantanal nos Esportes</title>
+    <desc lang="pt">Tudo sobre esportes com formato dinâmico, comentaristas, debate, opinião e informação sem enrolação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525163200 -0300" stop="20260525180200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Programação RedeTV!</title>
+    <desc lang="pt">Acompanhe a programação dos canais da RedeTV!</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525180200 -0300" stop="20260525193200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">A Tarde É Sua</title>
+    <desc lang="pt">As novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525200200 -0300" stop="20260525213200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Programação RedeTV!</title>
+    <desc lang="pt">Acompanhe a programação dos canais da RedeTV!</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525210200 -0300" stop="20260525223200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525213200 -0300" stop="20260525230200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Brasil do Povo</title>
+    <desc lang="pt">Uma ampla cobertura dos principais acontecimentos tanto no Brasil quanto no cenário internacional. Destaca-se por suas pautas voltadas à segurança pública, prestação de serviços e outros temas que impactam diretamente o cotidiano da população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525224700 -0300" stop="20260526001700 -0300" channel="TV Pantanal HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525233200 -0300" stop="20260526010200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Opinião</title>
+    <desc lang="pt">Os principais fatos da política e do cotidiano da região de Cuiabá, em debates onde se discute temas polêmicos com a participação do público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525003200 -0300" stop="20260525020200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Rapidinhas da Fama</title>
+    <desc lang="pt">As últimas novidades do mundo dos famosos de maneira rápida e dinâmica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525004200 -0300" stop="20260525021200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Tudo o que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ricos e famosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525014700 -0300" stop="20260525031700 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Sensacional</title>
+    <desc lang="pt">As curiosidades do mundo e da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea, com muita música, dança e quadros irreverentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525030200 -0300" stop="20260525043200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525033200 -0300" stop="20260525050200 -0300" channel="TV Pantanal HD">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260526060200 -0300" stop="20260526073200 -0300" channel="TV Pantanal HD">
     <title lang="pt">Programação RedeTV!</title>
     <desc lang="pt">Acompanhe a programação dos canais da RedeTV!</desc>
@@ -286136,6 +286955,139 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260525060200 -0300" stop="20260525073200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja da Graça no Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525080200 -0300" stop="20260525093200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525113200 -0300" stop="20260525130200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525123200 -0300" stop="20260525140200 -0300" channel="TV São Luis HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525130200 -0300" stop="20260525143200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O programa traz os principais assuntos esportivos, campeonatos internacionais e torneios nacionais, mostrando os melhores momentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525140200 -0300" stop="20260525153200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Fica com a Gente</title>
+    <desc lang="pt">Chef Edu Guedes prepara receitas práticas para entreter e ensinar os telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525150200 -0300" stop="20260525163200 -0300" channel="TV São Luis HD">
+    <title lang="pt">A Hora do Zap</title>
+    <desc lang="pt">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525160200 -0300" stop="20260525173200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525180200 -0300" stop="20260525193200 -0300" channel="TV São Luis HD">
+    <title lang="pt">A Tarde É Sua</title>
+    <desc lang="pt">As novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525200200 -0300" stop="20260525213200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525210200 -0300" stop="20260525223200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525213200 -0300" stop="20260525230200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Brasil do Povo</title>
+    <desc lang="pt">Uma ampla cobertura dos principais acontecimentos tanto no Brasil quanto no cenário internacional. Destaca-se por suas pautas voltadas à segurança pública, prestação de serviços e outros temas que impactam diretamente o cotidiano da população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525224700 -0300" stop="20260526001700 -0300" channel="TV São Luis HD">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525233200 -0300" stop="20260526010200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525003200 -0300" stop="20260525020200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Rapidinhas da Fama</title>
+    <desc lang="pt">As últimas novidades do mundo dos famosos de maneira rápida e dinâmica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525004200 -0300" stop="20260525021200 -0300" channel="TV São Luis HD">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Tudo o que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ricos e famosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525014700 -0300" stop="20260525031700 -0300" channel="TV São Luis HD">
+    <title lang="pt">Sensacional</title>
+    <desc lang="pt">As curiosidades do mundo e da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea, com muita música, dança e quadros irreverentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525030200 -0300" stop="20260525043200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525033200 -0300" stop="20260525050200 -0300" channel="TV São Luis HD">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260526060200 -0300" stop="20260526073200 -0300" channel="TV São Luis HD">
     <title lang="pt">Igreja da Graça no Seu Lar</title>
     <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
@@ -288586,6 +289538,146 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260528050200 -0300" stop="20260528063200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528070200 -0300" stop="20260528083200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528110200 -0300" stop="20260528123200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528112200 -0300" stop="20260528125200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Tribuna Manhã</title>
+    <desc lang="pt">O programa jornalístico traz a cobertura do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528120200 -0300" stop="20260528133200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528140200 -0300" stop="20260528153200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528150200 -0300" stop="20260528163200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Tribuna Notícias - 1ª Edição</title>
+    <desc lang="pt">Telejornal com prestação de serviço, forte perfil comunitário e factual. Da pauta à edição, todos estão envolvidos em um único objetivo: oferecer o melhor produto ao público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528170200 -0300" stop="20260528183200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Ponto de Vista</title>
+    <desc lang="pt">Convidados especiais discutem a respeito de temas relevantes da história mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528173200 -0300" stop="20260528190200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528190200 -0300" stop="20260528203200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528203200 -0300" stop="20260528220200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Brasil Urgente - ES</title>
+    <desc lang="pt">Notícias do Brasil e da região, com foco em assuntos do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528215200 -0300" stop="20260528232200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Tribuna Notícias - 2ª Edição</title>
+    <desc lang="pt">Telejornal com prestação de serviço, forte perfil comunitário e factual. Da pauta à edição, todos estão envolvidos em um único objetivo: oferecer o melhor produto ao público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528222200 -0300" stop="20260528235200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528233200 -0300" stop="20260529010200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528002700 -0300" stop="20260528015700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528012200 -0300" stop="20260528025200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">Acompanhe a rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando contra incêndios, combatendo crimes e salvando vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528021700 -0300" stop="20260528034700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Dona Beja</title>
+    <desc lang="pt">Beja revive lembranças dolorosas de violência entre seu avô e sua mãe; Antônio encontra, entre as roupas do pai, um segredo sobre Sampaio e decide agir procurando Beja para conhecer a filha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528030200 -0300" stop="20260528043200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528040200 -0300" stop="20260528053200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260528050200 -0300" stop="20260528063200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260525050200 -0300" stop="20260525063200 -0300" channel="TV Tribuna HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -288881,6 +289973,153 @@
     </rating>
   </programme>
   <programme start="20260526050200 -0300" stop="20260526063200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527050200 -0300" stop="20260527063200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527070200 -0300" stop="20260527083200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527110200 -0300" stop="20260527123200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527111700 -0300" stop="20260527124700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527113700 -0300" stop="20260527130700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Bem Você</title>
+    <desc lang="pt">Revista eletrônica dinâmica, focada nas tendências do momento, com entrevistas e quadros especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527120200 -0300" stop="20260527133200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527140200 -0300" stop="20260527153200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527150200 -0300" stop="20260527163200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Tribuna - 1ª Edição</title>
+    <desc lang="pt">Apresenta o resumo diário dos fatos mais importantes de Pernambuco.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527161200 -0300" stop="20260527174200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jogo Aberto Pernambuco</title>
+    <desc lang="pt">O programa de notícias e debates é dedicado principalmente ao futebol e tem discussões acaloradas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527170200 -0300" stop="20260527183200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Hora da Treta com Pablo Marques</title>
+    <desc lang="pt">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527173200 -0300" stop="20260527190200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527190200 -0300" stop="20260527203200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527203200 -0300" stop="20260527220200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527215200 -0300" stop="20260527232200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Tribuna - 2ª Edição</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527222200 -0300" stop="20260527235200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527233200 -0300" stop="20260528010200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527002700 -0300" stop="20260527015700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527012200 -0300" stop="20260527025200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527030200 -0300" stop="20260527043200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527040200 -0300" stop="20260527053200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527050200 -0300" stop="20260527063200 -0300" channel="TV Tribuna HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <rating system="Brazil">
@@ -292513,6 +293752,223 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260527054700 -0300" stop="20260527071700 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527090200 -0300" stop="20260527103200 -0300" channel="TV UFSC HD">
+    <title lang="pt">A Ciência na Pandemia</title>
+    <desc lang="pt">A série de vídeos elaborados por professores da UFSC traz explicações científicas de forma acessível sobre os aspectos fundamentais da pandemia de COVID-19.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527093200 -0300" stop="20260527110200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Conexão Saúde</title>
+    <desc lang="pt">Tire suas dúvidas sobre saúde a cada programa, com um especialista das mais diversas áreas da medicina falando sobre um tema diferente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527100200 -0300" stop="20260527113200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Fragmentos Filosóficos</title>
+    <desc lang="pt">Convidados explicam, a cada vez, um tema da filosofia, relacionado com a vida e o cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527101200 -0300" stop="20260527114200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Estação Verão</title>
+    <desc lang="pt">Conheça lugares e atrações que fazem de Florianópolis um ótimo destino turístico do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527103200 -0300" stop="20260527120200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527110200 -0300" stop="20260527123200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527111700 -0300" stop="20260527124700 -0300" channel="TV UFSC HD">
+    <title lang="pt">Guia de Cursos</title>
+    <desc lang="pt">Saiba como é o dia a dia de um curso de graduação na UFSC, quais são as matérias e os laboratórios.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527114700 -0300" stop="20260527131700 -0300" channel="TV UFSC HD">
+    <title lang="pt">UFSC Entrevista</title>
+    <desc lang="pt">Conversa aprofundada sobre ciência, educação e cultura. Toda semana um professor, servidor técnico-administrativo, aluno ou convidado especial é entrevistado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527121700 -0300" stop="20260527134700 -0300" channel="TV UFSC HD">
+    <title lang="pt">Sessão Animada</title>
+    <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527143200 -0300" stop="20260527160200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Estação Verão</title>
+    <desc lang="pt">Conheça lugares e atrações que fazem de Florianópolis um ótimo destino turístico do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527144700 -0300" stop="20260527161700 -0300" channel="TV UFSC HD">
+    <title lang="pt">Especial</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527151700 -0300" stop="20260527164700 -0300" channel="TV UFSC HD">
+    <title lang="pt">Repórter Brasil</title>
+    <desc lang="pt">Noticiário isento que mostra o que foi notícia no Brasil e no mundo, com destaque para reportagens voltadas ao cidadão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527160200 -0300" stop="20260527173200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Cinema Catarinense</title>
+    <desc lang="pt">Programa que valoriza produções catarinenses ou que tratem do estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527170200 -0300" stop="20260527183200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527190200 -0300" stop="20260527203200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527193200 -0300" stop="20260527210200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527203200 -0300" stop="20260527220200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Especial</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527210200 -0300" stop="20260527223200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Mulheres de Luta</title>
+    <desc lang="pt">Documentários jogam luz à luta e à militância feminista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527213200 -0300" stop="20260527230200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Câmara Clara</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527220200 -0300" stop="20260527233200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Repórter Brasil</title>
+    <desc lang="pt">Noticiário isento que mostra o que foi notícia no Brasil e no mundo, com destaque para reportagens voltadas ao cidadão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527224200 -0300" stop="20260528001200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Stadium</title>
+    <desc lang="pt">Acompanhe o programa de debates e entrevistas com participação ao vivo de repórteres, atletas, técnicos e comentaristas. Na pauta, esportes de todas as modalidades, dos radicais aos de aventura, passando pelos olímpicos e paralímpicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527230200 -0300" stop="20260528003200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Escrava Isaura</title>
+    <desc lang="pt">Isaura é uma escrava branca que enfrenta preconceitos e luta pela liberdade e pelo seu grande amor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527000200 -0300" stop="20260527013200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Outros Tempos</title>
+    <desc lang="pt">Documentários, reportagens ou vídeos produzidos pelos alunos da UFSC até meados dos anos 90.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527003200 -0300" stop="20260527020200 -0300" channel="TV UFSC HD">
+    <title lang="pt">Floripa Instrumental</title>
+    <desc lang="pt">Acompanhe evento de música instrumental que reúne artistas novos e aclamados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527013200 -0300" stop="20260527030200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527024700 -0300" stop="20260527041700 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527031700 -0300" stop="20260527044700 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527043200 -0300" stop="20260527060200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527050200 -0300" stop="20260527063200 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527054700 -0300" stop="20260527071700 -0300" channel="TV UFSC HD">
+    <title lang="pt">TV Brasil</title>
+    <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260528054700 -0300" stop="20260528071700 -0300" channel="TV UFSC HD">
     <title lang="pt">TV Brasil</title>
     <desc lang="pt">Acompanhe a programação da TV Brasil.</desc>
@@ -295929,6 +297385,34 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260526010200 -0300" stop="20260526023200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526090200 -0300" stop="20260526103200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526170200 -0300" stop="20260526183200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526010200 -0300" stop="20260526023200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
+    <title lang="pt">Programação TVCI</title>
+    <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260527010200 -0300" stop="20260527023200 -0300" channel="TVCI-TV COMUNICACOES INTERATIVAS LTDA">
     <title lang="pt">Programação TVCI</title>
     <desc lang="pt">Acompanhe a programação da TV Comunicações Interativas.</desc>
@@ -297343,6 +298827,55 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260526030200 -0300" stop="20260526043200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526070200 -0300" stop="20260526083200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526110200 -0300" stop="20260526123200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526150200 -0300" stop="20260526163200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526190200 -0300" stop="20260526203200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526230200 -0300" stop="20260527003200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260526030200 -0300" stop="20260526043200 -0300" channel="VH1 HD">
+    <title lang="pt">Canal Não Disponível</title>
+    <desc lang="pt">O canal não está mais disponível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260527030200 -0300" stop="20260527043200 -0300" channel="VH1 HD">
     <title lang="pt">Canal Não Disponível</title>
     <desc lang="pt">O canal não está mais disponível.</desc>
@@ -297605,6 +299138,216 @@
   <programme start="20260528020200 -0300" stop="20260528033200 -0300" channel="VH1 Megahits">
     <title lang="pt">Canal no disponible</title>
     <desc lang="pt">Este canal ya no está disponible.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525055600 -0300" stop="20260525072600 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525064000 -0300" stop="20260525081000 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525072400 -0300" stop="20260525085400 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525080300 -0300" stop="20260525093300 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525084600 -0300" stop="20260525101600 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525093100 -0300" stop="20260525110100 -0300" channel="Viva HD">
+    <title lang="pt">Amor à Vida</title>
+    <desc lang="pt">César propõe grandes vantagens para Edith voltar para a mansão; Aline tenta descobrir o segredo que existe entre César e Edith; Ordália convence Bruno a aceitar que Paloma continue se encontrando com Paulinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525103700 -0300" stop="20260525120700 -0300" channel="Viva HD">
+    <title lang="pt">Salve Jorge</title>
+    <desc lang="pt">Morena se esconde e Théo conhece Jéssica sem saber que a menina é sua filha; Riva pensa em se hospedar no mesmo hotel que Wanda; Lívia fala para Wanda que vai à Turquia no voo de Théo; Mustafa avisa a Berna que afastará Wanda de Aisha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525113100 -0300" stop="20260525130100 -0300" channel="Viva HD">
+    <title lang="pt">Paraíso</title>
+    <desc lang="pt">Zeca volta para sua cidade natal de Paraíso à procura de seu pai e lá conhece o grande amor de sua vida, Maria Rita. Ele sofre um acidente e ela promete afastar-se dele em troca de sua cura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525121200 -0300" stop="20260525134200 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525130100 -0300" stop="20260525143100 -0300" channel="Viva HD">
+    <title lang="pt">Penso em Ti</title>
+    <desc lang="pt">Sergio diz a Mayte que Federico não é tão bom quanto eles imaginavam, que ele certamente esteve envolvido em situações estranhas na empresa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525134400 -0300" stop="20260525151400 -0300" channel="Viva HD">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Sebnem se revolta ao saber que um cúmplice foi solto; Melisa cobra Onur por seu silêncio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525143100 -0300" stop="20260525160100 -0300" channel="Viva HD">
+    <title lang="pt">O Rei do Gado</title>
+    <desc lang="pt">Mezenga tenta ensinar Marcos a tocar o berrante; um incêndio criminoso destrói o acampamento dos sem-terra; Geremias pede que Rafaela lhe conte o que sabe sobre Luana.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525151500 -0300" stop="20260525164500 -0300" channel="Viva HD">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Paula sai furiosa ao ver o colar; Elisinha conta para Stela que Nice ficará na casa de enteados de Clô; a empregada de Lígia conta a Rodrigo que Paula não está grávida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525173000 -0300" channel="Viva HD">
+    <title lang="pt">Salve Jorge</title>
+    <desc lang="pt">Morena se esconde e Théo conhece Jéssica sem saber que a menina é sua filha; Riva pensa em se hospedar no mesmo hotel que Wanda; Lívia fala para Wanda que vai à Turquia no voo de Théo; Mustafa avisa a Berna que afastará Wanda de Aisha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525165400 -0300" stop="20260525182400 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525174100 -0300" stop="20260525191100 -0300" channel="Viva HD">
+    <title lang="pt">Paraíso</title>
+    <desc lang="pt">Zeca volta para sua cidade natal de Paraíso à procura de seu pai e lá conhece o grande amor de sua vida, Maria Rita. Ele sofre um acidente e ela promete afastar-se dele em troca de sua cura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525182600 -0300" stop="20260525195600 -0300" channel="Viva HD">
+    <title lang="pt">Cordel Encantado</title>
+    <desc lang="pt">Acompanhe as emoções finais da novela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525191800 -0300" stop="20260525204800 -0300" channel="Viva HD">
+    <title lang="pt">Amor à Vida</title>
+    <desc lang="pt">César propõe grandes vantagens para Edith voltar para a mansão; Aline tenta descobrir o segredo que existe entre César e Edith; Ordália convence Bruno a aceitar que Paloma continue se encontrando com Paulinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525202400 -0300" stop="20260525215400 -0300" channel="Viva HD">
+    <title lang="pt">Penso em Ti</title>
+    <desc lang="pt">Sergio diz a Mayte que Federico não é tão bom quanto eles imaginavam, que ele certamente esteve envolvido em situações estranhas na empresa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525211100 -0300" stop="20260525224100 -0300" channel="Viva HD">
+    <title lang="pt">Loucos por Novela</title>
+    <desc lang="pt">Programa premia as grandes cenas de casamento. Marisa Orth recebe o autor Vincent Villari, o diretor Luís Antônio Pilar e o ator Marcos Frota para debaterem o tema.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525214200 -0300" stop="20260525231200 -0300" channel="Viva HD">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Paula sai furiosa ao ver o colar; Elisinha conta para Stela que Nice ficará na casa de enteados de Clô; a empregada de Lígia conta a Rodrigo que Paula não está grávida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525222700 -0300" stop="20260525235700 -0300" channel="Viva HD">
+    <title lang="pt">O Rei do Gado</title>
+    <desc lang="pt">Mezenga tenta ensinar Marcos a tocar o berrante; um incêndio criminoso destrói o acampamento dos sem-terra; Geremias pede que Rafaela lhe conte o que sabe sobre Luana.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525231100 -0300" stop="20260526004100 -0300" channel="Viva HD">
+    <title lang="pt">Cordel Encantado</title>
+    <desc lang="pt">Acompanhe as emoções finais da novela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525000600 -0300" stop="20260525013600 -0300" channel="Viva HD">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Melisa seduz Onur e conta tudo a Aysel; Sebnem fica internada, e Onur descobre que ela sabe de tudo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525005500 -0300" stop="20260525022500 -0300" channel="Viva HD">
+    <title lang="pt">Penso em Ti</title>
+    <desc lang="pt">Sergio recebe os resultados do teste de DNA e fica desconcertado; Loreta percebe seu incômodo; Federico aconselha que Emilia mantenha uma relação profissional com Ángel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525014200 -0300" stop="20260525031200 -0300" channel="Viva HD">
+    <title lang="pt">Amor à Vida</title>
+    <desc lang="pt">César propõe grandes vantagens para Edith voltar para a mansão; Aline tenta descobrir o segredo que existe entre César e Edith; Ordália convence Bruno a aceitar que Paloma continue se encontrando com Paulinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525024800 -0300" stop="20260525041800 -0300" channel="Viva HD">
+    <title lang="pt">Salve Jorge</title>
+    <desc lang="pt">Morena se esconde e Théo conhece Jéssica sem saber que a menina é sua filha; Riva pensa em se hospedar no mesmo hotel que Wanda; Lívia fala para Wanda que vai à Turquia no voo de Théo; Mustafa avisa a Berna que afastará Wanda de Aisha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525034700 -0300" stop="20260525051700 -0300" channel="Viva HD">
+    <title lang="pt">Paraíso</title>
+    <desc lang="pt">Zeca volta para sua cidade natal de Paraíso à procura de seu pai e lá conhece o grande amor de sua vida, Maria Rita. Ele sofre um acidente e ela promete afastar-se dele em troca de sua cura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525043200 -0300" stop="20260525060200 -0300" channel="Viva HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Cecília sofre acidente e morre; Marco Aurélio se recusa a doar a pousada para Laís; Marco Aurélio descobre que a irmã deixou documento de doação da pousada e pede para Fátima roubá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260525051900 -0300" stop="20260525064900 -0300" channel="Viva HD">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Melisa seduz Onur e conta tudo a Aysel; Sebnem fica internada, e Onur descobre que ela sabe de tudo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -300200,6 +301943,629 @@
     </rating>
   </programme>
   <programme start="20260526030200 -0300" stop="20260526043200 -0300" channel="WooHoo HD">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527030200 -0300" stop="20260527043200 -0300" channel="WooHoo HD">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527070200 -0300" stop="20260527083200 -0300" channel="WooHoo HD">
+    <title lang="pt">Do Alto</title>
+    <desc lang="pt">As mais belas paisagens do Brasil e do mundo são exibidas por outro ângulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527071200 -0300" stop="20260527084200 -0300" channel="WooHoo HD">
+    <title lang="pt">Giro GG</title>
+    <desc lang="pt">Os melhores momentos das jogadas da semana competitiva da Liga GG.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527072200 -0300" stop="20260527085200 -0300" channel="WooHoo HD">
+    <title lang="pt">Short Facts</title>
+    <desc lang="pt">O programa apresenta de maneira rápida os fatos mais curiosos sobre temas variados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527073200 -0300" stop="20260527090200 -0300" channel="WooHoo HD">
+    <title lang="pt">Games Trailer</title>
+    <desc lang="pt">Divulgação dos lançamentos de games por meio de trailers.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527074200 -0300" stop="20260527091200 -0300" channel="WooHoo HD">
+    <title lang="pt">Modo História</title>
+    <desc lang="pt">Uma aventura pelos fascinantes segredos e curiosidades do icônico jogo Minecraft. A história por trás do mundo pixelado de cubos, lendas como a do aterrorizante Herobrine e os mistérios do Nether e The End.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527075200 -0300" stop="20260527092200 -0300" channel="WooHoo HD">
+    <title lang="pt">Game de A a Z</title>
+    <desc lang="pt">Todas as informações e novidades do mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527080200 -0300" stop="20260527093200 -0300" channel="WooHoo HD">
+    <title lang="pt">Correndo com Woohoo</title>
+    <desc lang="pt">Programa mostra a força da comunidade de corrida do Woohoo. Com cortes de vídeos pessoais de seguidoras, é retratado como a corrida muda para melhor a vida das pessoas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527081200 -0300" stop="20260527094200 -0300" channel="WooHoo HD">
+    <title lang="pt">X1 Improváveis</title>
+    <desc lang="pt">Programa debate duelos hipotéticos entre ícones da cultura pop, como Mario vs. Pikachu e Pernalonga vs. Pica-Pau.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527082200 -0300" stop="20260527095200 -0300" channel="WooHoo HD">
+    <title lang="pt">Shorts do Tio Clinas</title>
+    <desc lang="pt">Tio Clinas comenta os games do momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527083200 -0300" stop="20260527100200 -0300" channel="WooHoo HD">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527084200 -0300" stop="20260527101200 -0300" channel="WooHoo HD">
+    <title lang="pt">TBT</title>
+    <desc lang="pt">Relembre momentos memoráveis de eventos esportivos por meio de vídeos e fotos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527085200 -0300" stop="20260527102200 -0300" channel="WooHoo HD">
+    <title lang="pt">Projeto Califa</title>
+    <desc lang="pt">Boletim sobre os melhores picos de surfe da Califórnia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527090200 -0300" stop="20260527103200 -0300" channel="WooHoo HD">
+    <title lang="pt">Luara e o Mar</title>
+    <desc lang="pt">A rotina, as viagens e competições da surfista da nova geração Luara Mandelli. Nascida em Matinhos, no Paraná, ela é uma das promessas do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527090800 -0300" stop="20260527103800 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527091100 -0300" stop="20260527104100 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527091300 -0300" stop="20260527104300 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527091500 -0300" stop="20260527104500 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527091700 -0300" stop="20260527104700 -0300" channel="WooHoo HD">
+    <title lang="pt">Check Point</title>
+    <desc lang="pt">O programa apresenta as novidades do mundo dos games e e-sports, como lançamentos e campeonatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527093200 -0300" stop="20260527110200 -0300" channel="WooHoo HD">
+    <title lang="pt">Custom</title>
+    <desc lang="pt">Os principais destaques de todos os eventos esportivos de ação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527094700 -0300" stop="20260527111700 -0300" channel="WooHoo HD">
+    <title lang="pt">Pipoca no Set</title>
+    <desc lang="pt">As melhores dicas quando o assunto é entretenimento, reunindo curiosidades e histórias das produções mais aclamadas, além da trajetória de grandes atores e atrizes. Feito para quem adora maratonar em frente à TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527100200 -0300" stop="20260527113200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527101700 -0300" stop="20260527114700 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527103200 -0300" stop="20260527120200 -0300" channel="WooHoo HD">
+    <title lang="pt">Hootalks</title>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527110200 -0300" stop="20260527123200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Games</title>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527111700 -0300" stop="20260527124700 -0300" channel="WooHoo HD">
+    <title lang="pt">Esse Jogo Não Tem Pause</title>
+    <desc lang="pt">Série aborda a relação entre gamers e suas famílias, mostrando como os jogos eletrônicos transformaram a forma de diferentes gerações se conectarem. Um mergulho nas histórias de quem vive nesse universo, com entrevistas, análises e dados do setor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527113200 -0300" stop="20260527130200 -0300" channel="WooHoo HD">
+    <title lang="pt">Custom</title>
+    <desc lang="pt">Os principais destaques de todos os eventos esportivos de ação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527114700 -0300" stop="20260527131700 -0300" channel="WooHoo HD">
+    <title lang="pt">Som na Lata</title>
+    <desc lang="pt">Acústicos com novos talentos da cena musical nacional. Um ponto de encontro essencial para artistas que buscam visibilidade e para aqueles ávidos não apenas para a música, mas para a diversidade e inovação no cenário artístico contemporâneo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527120200 -0300" stop="20260527133200 -0300" channel="WooHoo HD">
+    <title lang="pt">Olho de Peixe</title>
+    <desc lang="pt">O programa viaja pelos quatro cantos do mundo sob o olhar do skatista Marco Savino e percebe que o skate é muito mais do que um esporte, mas um estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527121700 -0300" stop="20260527134700 -0300" channel="WooHoo HD">
+    <title lang="pt">Caminhos da Sol</title>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, conhece paisagens incríveis em suas viagens. Uma experiência enriquecedora e de muitas descobertas, explorando novas culturas e paisagens, recheada de muito surfe e natureza.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527123200 -0300" stop="20260527140200 -0300" channel="WooHoo HD">
+    <title lang="pt">Resenha Woohoo</title>
+    <desc lang="pt">Tudo sobre o mundo do surfe com análises, entrevistas e as polêmicas do esporte radical.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527124700 -0300" stop="20260527141700 -0300" channel="WooHoo HD">
+    <title lang="pt">Luara e o Mar</title>
+    <desc lang="pt">A rotina, as viagens e competições da surfista da nova geração Luara Mandelli. Nascida em Matinhos, no Paraná, ela é uma das promessas do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527130200 -0300" stop="20260527143200 -0300" channel="WooHoo HD">
+    <title lang="pt">Free&apos;das</title>
+    <desc lang="pt">O programa de comportamento que, sob a ótica feminina, debate diversos assuntos pertinentes ao mundo contemporâneo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527131700 -0300" stop="20260527144700 -0300" channel="WooHoo HD">
+    <title lang="pt">Caminhos da Sol</title>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, conhece paisagens incríveis em suas viagens. Uma experiência enriquecedora e de muitas descobertas, explorando novas culturas e paisagens, recheada de muito surfe e natureza.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527133200 -0300" stop="20260527150200 -0300" channel="WooHoo HD">
+    <title lang="pt">Olho de Peixe</title>
+    <desc lang="pt">O programa viaja pelos quatro cantos do mundo sob o olhar do skatista Marco Savino e percebe que o skate é muito mais do que um esporte, mas um estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527134700 -0300" stop="20260527151700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527140200 -0300" stop="20260527153200 -0300" channel="WooHoo HD">
+    <title lang="pt">Streamerland</title>
+    <desc lang="pt">Streamers trazem muita gameplay de Counter-Strike, League of Legends, Free Fire, Fortnite e muitos outros jogos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527150200 -0300" stop="20260527163200 -0300" channel="WooHoo HD">
+    <title lang="pt">Top Ranking</title>
+    <desc lang="pt">Ranking dos 10 maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527151700 -0300" stop="20260527164700 -0300" channel="WooHoo HD">
+    <title lang="pt">Pipoca no Set</title>
+    <desc lang="pt">As melhores dicas quando o assunto é entretenimento, reunindo curiosidades e histórias das produções mais aclamadas, além da trajetória de grandes atores e atrizes. Feito para quem adora maratonar em frente à TV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527153200 -0300" stop="20260527170200 -0300" channel="WooHoo HD">
+    <title lang="pt">Eu Mega Recomendo</title>
+    <desc lang="pt">Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527154700 -0300" stop="20260527171700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Games</title>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527160200 -0300" stop="20260527173200 -0300" channel="WooHoo HD">
+    <title lang="pt">Hootalks</title>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527161700 -0300" stop="20260527174700 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527163200 -0300" stop="20260527180200 -0300" channel="WooHoo HD">
+    <title lang="pt">Papo Reto</title>
+    <desc lang="pt">Estrelas da música, dos esportes de ação e das artes jovens abrem a cabeça e soltam o verbo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527164700 -0300" stop="20260527181700 -0300" channel="WooHoo HD">
+    <title lang="pt">Eu Mega Recomendo</title>
+    <desc lang="pt">Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527170200 -0300" stop="20260527183200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Games</title>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527171700 -0300" stop="20260527184700 -0300" channel="WooHoo HD">
+    <title lang="pt">Onboarding Tribos</title>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527173200 -0300" stop="20260527190200 -0300" channel="WooHoo HD">
+    <title lang="pt">Caminhos da Sol</title>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, conhece paisagens incríveis em suas viagens. Uma experiência enriquecedora e de muitas descobertas, explorando novas culturas e paisagens, recheada de muito surfe e natureza.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527174700 -0300" stop="20260527191700 -0300" channel="WooHoo HD">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527175100 -0300" stop="20260527192100 -0300" channel="WooHoo HD">
+    <title lang="pt">Reloaded</title>
+    <desc lang="pt">Análise de jogos revolucionários que transformaram a indústria de videogames. Cada episódio explora títulos inovadores que estabeleceram novos padrões tecnológicos e criativos, contextualizando impacto histórico de clássicos que definiram gerações.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527175300 -0300" stop="20260527192300 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527175600 -0300" stop="20260527192600 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527175800 -0300" stop="20260527192800 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527180000 -0300" stop="20260527193000 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527180200 -0300" stop="20260527193200 -0300" channel="WooHoo HD">
+    <title lang="pt">Resenha Woohoo</title>
+    <desc lang="pt">Tudo sobre o mundo do surfe com análises, entrevistas e as polêmicas do esporte radical.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527181700 -0300" stop="20260527194700 -0300" channel="WooHoo HD">
+    <title lang="pt">Bit a Bit</title>
+    <desc lang="pt">O programa apresenta de forma dinâmica e acessível as histórias, personagens e fenômenos que transformaram os games e os e-esportes em uma das indústrias mais influentes do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527183200 -0300" stop="20260527200200 -0300" channel="WooHoo HD">
+    <title lang="pt">Vanlife</title>
+    <desc lang="pt">Vander Amaral sai com sua van motorhome pelo Candá e Estados Unidos, em busca de esportes radicais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527184700 -0300" stop="20260527201700 -0300" channel="WooHoo HD">
+    <title lang="pt">Moovies</title>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527190200 -0300" stop="20260527203200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527191700 -0300" stop="20260527204700 -0300" channel="WooHoo HD">
+    <title lang="pt">Surf Kidz</title>
+    <desc lang="pt">Viajar e surfar é ótimo, e quando junta a família fica ainda melhor. Os irmãos Maria Clara, João Victor e João Lucas preenchem a tela com muita fofura, energia e disposição para surfar as melhores ondas do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527192100 -0300" stop="20260527205100 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527192500 -0300" stop="20260527205500 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527192700 -0300" stop="20260527205700 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527192900 -0300" stop="20260527205900 -0300" channel="WooHoo HD">
+    <title lang="pt">Gibigice</title>
+    <desc lang="pt">Um passeio sobre o universo dos quadrinhos e das HQs.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527193200 -0300" stop="20260527210200 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527200200 -0300" stop="20260527213200 -0300" channel="WooHoo HD">
+    <title lang="pt">Streamerland</title>
+    <desc lang="pt">Streamers trazem muita gameplay de Counter-Strike, League of Legends, Free Fire, Fortnite e muitos outros jogos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527210200 -0300" stop="20260527223200 -0300" channel="WooHoo HD">
+    <title lang="pt">Dose Dupla</title>
+    <desc lang="pt">Tudo sobre o mercado dos games, com resenhas detalhadas, gameplays eletrizantes e análises descontraídas de lançamentos, clássicos e tendências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527211700 -0300" stop="20260527224700 -0300" channel="WooHoo HD">
+    <title lang="pt">Top Ranking</title>
+    <desc lang="pt">Ranking dos 10 maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527213200 -0300" stop="20260527230200 -0300" channel="WooHoo HD">
+    <title lang="pt">Check Point</title>
+    <desc lang="pt">O programa apresenta as novidades do mundo dos games e e-sports, como lançamentos e campeonatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527214700 -0300" stop="20260527231700 -0300" channel="WooHoo HD">
+    <title lang="pt">Locals</title>
+    <desc lang="pt">Atletas de esportes de ação abrem as portas de sua casa para falarem mais sobre suas vidas. Desde a rotina que levam, lugares favoritos que gostam de visitar, além das mais diversas culinárias e paladares preferidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527220200 -0300" stop="20260527233200 -0300" channel="WooHoo HD">
+    <title lang="pt">Saindo na Trip</title>
+    <desc lang="pt">Explora restaurantes, bares, lojas e eventos imperdíveis nas melhores cidades do mundo. Um convite para descobrir culturas fascinantes, curiosidades inusitadas e destinos únicos de forma imersiva e autêntica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527223200 -0300" stop="20260528000200 -0300" channel="WooHoo HD">
+    <title lang="pt">Papo Reto</title>
+    <desc lang="pt">Estrelas da música, dos esportes de ação e das artes jovens abrem a cabeça e soltam o verbo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527224700 -0300" stop="20260528001700 -0300" channel="WooHoo HD">
+    <title lang="pt">Caminhos da Sol</title>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, conhece paisagens incríveis em suas viagens. Uma experiência enriquecedora e de muitas descobertas, explorando novas culturas e paisagens, recheada de muito surfe e natureza.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527230200 -0300" stop="20260528003200 -0300" channel="WooHoo HD">
+    <title lang="pt">Woo Tech</title>
+    <desc lang="pt">De forma bem humorada, as novidades e curiosidades do mundo da tecnologia, games e inovação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527231700 -0300" stop="20260528004700 -0300" channel="WooHoo HD">
+    <title lang="pt">Top Ranking</title>
+    <desc lang="pt">Ranking dos 10 maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527233200 -0300" stop="20260528010200 -0300" channel="WooHoo HD">
+    <title lang="pt">Viajando pelo Brasil</title>
+    <desc lang="pt">Para os viajantes que buscam uma vivência transformadora, as belezas naturais e a história do Brasil, acompanhe um programa repleto de dicas para experiências completas em cada destino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527234700 -0300" stop="20260528011700 -0300" channel="WooHoo HD">
+    <title lang="pt">Hootalks</title>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527000200 -0300" stop="20260527013200 -0300" channel="WooHoo HD">
+    <title lang="pt">Tio Clinas Joga!</title>
+    <desc lang="pt">Tio Clinas mergulha na história dos videogames, atualmente a segunda indústria mais lucrativa do mundo. Uma jornada emocionante pelos jogos que fizeram história e também suas influências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527001700 -0300" stop="20260527014700 -0300" channel="WooHoo HD">
+    <title lang="pt">Eu Mega Recomendo</title>
+    <desc lang="pt">Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527003200 -0300" stop="20260527020200 -0300" channel="WooHoo HD">
+    <title lang="pt">Queue</title>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527004700 -0300" stop="20260527021700 -0300" channel="WooHoo HD">
+    <title lang="pt">Custom</title>
+    <desc lang="pt">Os principais destaques de todos os eventos esportivos de ação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527010200 -0300" stop="20260527023200 -0300" channel="WooHoo HD">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527013200 -0300" stop="20260527030200 -0300" channel="WooHoo HD">
+    <title lang="pt">Onboarding Tribos</title>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527014700 -0300" stop="20260527031700 -0300" channel="WooHoo HD">
+    <title lang="pt">Bit a Bit</title>
+    <desc lang="pt">O programa apresenta de forma dinâmica e acessível as histórias, personagens e fenômenos que transformaram os games e os e-esportes em uma das indústrias mais influentes do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527020200 -0300" stop="20260527033200 -0300" channel="WooHoo HD">
+    <title lang="pt">Woohoo Music</title>
+    <desc lang="pt">Produções independentes, resultados excelentes. Adeptos do faça você mesmo com acabamento de superprodução, a cena alternativa brasileira tem um lugar cativo no Woohoo Music.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527021700 -0300" stop="20260527034700 -0300" channel="WooHoo HD">
+    <title lang="pt">D.N.A.</title>
+    <desc lang="pt">Histórias incríveis de grandes personagens, sejam eles do cinema, do esporte ou da arte, por meio de suas próprias narrativas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527023200 -0300" stop="20260527040200 -0300" channel="WooHoo HD">
+    <title lang="pt">Saindo na Trip</title>
+    <desc lang="pt">Explora restaurantes, bares, lojas e eventos imperdíveis nas melhores cidades do mundo. Um convite para descobrir culturas fascinantes, curiosidades inusitadas e destinos únicos de forma imersiva e autêntica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527024700 -0300" stop="20260527041700 -0300" channel="WooHoo HD">
+    <title lang="pt">Luara e o Mar</title>
+    <desc lang="pt">A rotina, as viagens e competições da surfista da nova geração Luara Mandelli. Nascida em Matinhos, no Paraná, ela é uma das promessas do surfe brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260527030200 -0300" stop="20260527043200 -0300" channel="WooHoo HD">
     <title lang="pt">1001 Noites</title>
     <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
     <rating system="Brazil">
