@@ -93713,23 +93713,114 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260627090200 -0300" stop="20260627103200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260627100200 -0300" stop="20260627113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Etapa de Barcelona: Finais - Dia 2</title>
+    <desc lang="pt">Alguns dos principais nomes da natação mundial se reúnem para a disputa do circuito Mare Nostrum, realizado em três etapas nas proximidades do Mar Mediterrâneo ao longo do verão europeu.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260627170200 -0300" stop="20260627183200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260627120200 -0300" stop="20260627133200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Central Xsports</title>
+    <desc lang="pt">Dose diária de informação esportiva do Brasil e do mundo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260627010200 -0300" stop="20260627023200 -0300" channel="Ideal TV HD">
-    <title lang="pt">Programação Xsports</title>
-    <desc lang="pt">Sem descrição</desc>
+  <programme start="20260627125200 -0300" stop="20260627142200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Plantão Xsports</title>
+    <desc lang="pt">Boletim exclusivo com destaques do Mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627125700 -0300" stop="20260627142700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Israel x Países Baixos</title>
+    <desc lang="pt">Disputa do maior torneio de vôlei masculino entre seleções da Europa, promovido pela CEV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627150200 -0300" stop="20260627163200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Hexa Brasil</title>
+    <desc lang="pt">Cobertura completa do dia a dia da Seleção Brasileira na trajetória rumo ao Hexa na Copa do Mundo de 2026.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627155200 -0300" stop="20260627172200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Hungria x Suécia</title>
+    <desc lang="pt">Disputa do maior torneio de vôlei feminino entre seleções da Europa, promovido pela CEV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627180200 -0300" stop="20260627193200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Plantão Xsports</title>
+    <desc lang="pt">Boletim exclusivo com destaques do Mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627180700 -0300" stop="20260627193700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Central Xsports</title>
+    <desc lang="pt">Dose diária de informação esportiva do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627193200 -0300" stop="20260627210200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Joinville x Atlântico</title>
+    <desc lang="pt">Todas as emoções da LNF, a principal competição masculina de futsal entre clubes do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627214700 -0300" stop="20260627231700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Plantão Xsports</title>
+    <desc lang="pt">Boletim exclusivo com destaques do Mundial.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627215200 -0300" stop="20260627232200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Hungria x Suécia</title>
+    <desc lang="pt">Disputa do maior torneio de vôlei feminino entre seleções da Europa, promovido pela CEV.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627224200 -0300" stop="20260628001200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Corinthians x Tubarão</title>
+    <desc lang="pt">Todas as emoções da LNF, a principal competição masculina de futsal entre clubes do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627004700 -0300" stop="20260627021700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Novorizontino x Vila Nova</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627013700 -0300" stop="20260627030700 -0300" channel="Ideal TV HD">
+    <title lang="pt">O Dia no Mundial</title>
+    <desc lang="pt">Cobertura detalhada e técnica de tudo o que acontece no Mundial, com informações da rodada em um só lugar, oferecendo ao público uma análise informativa e opiniões de confiança para encerrar o dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627033200 -0300" stop="20260627050200 -0300" channel="Ideal TV HD">
+    <title lang="pt">T100 Triathlon World Tour</title>
+    <desc lang="pt">As emoções do circuito mundial de triatlo, com provas em percursos de 100 km espalhadas pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627053200 -0300" stop="20260627070200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Final, Jogo 1: Franca x Pinheiros</title>
+    <desc lang="pt">Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -95330,16 +95421,86 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260626145200 -0300" stop="20260626162200 -0300" channel="HBO Mundi">
-    <title lang="pt">Quase Famosos</title>
-    <desc lang="pt">Na década de 1970, William Miller, um adolescente de 15 anos, tem a chance de realizar seu sonho acompanhando a turnê da banda Stillwater como jornalista. A sua mãe superprotetora acredita que o mundo do rock é dominado por drogas e sexo, mas as matérias do garoto chamam a atenção da revista &quot;Rolling Stone&quot;, que o convida a viajar com o grupo. Ignorando os conselhos, William faz amizade com os músicos, seus fãs e uma garota em especial.</desc>
+  <programme start="20260626090200 -0300" stop="20260626103200 -0300" channel="HBO Mundi">
+    <title lang="pt">Eclipse Total</title>
+    <desc lang="pt">Após ter sido absolvida do assassinato do marido, uma mulher é acusada de matar seu chefe. Uma jornalista volta à cidade com sua filha para cobrir o caso e se vê obrigada a enfrentar seu passado e confrontar sua mãe.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260626225200 -0300" stop="20260627002200 -0300" channel="HBO Mundi">
-    <title lang="pt">Quase Famosos</title>
-    <desc lang="pt">Na década de 1970, William Miller, um adolescente de 15 anos, tem a chance de realizar seu sonho acompanhando a turnê da banda Stillwater como jornalista. A sua mãe superprotetora acredita que o mundo do rock é dominado por drogas e sexo, mas as matérias do garoto chamam a atenção da revista &quot;Rolling Stone&quot;, que o convida a viajar com o grupo. Ignorando os conselhos, William faz amizade com os músicos, seus fãs e uma garota em especial.</desc>
+  <programme start="20260626112200 -0300" stop="20260626125200 -0300" channel="HBO Mundi">
+    <title lang="pt">O Juiz</title>
+    <desc lang="pt">Hank Palmer, um advogado bem-sucedido e arrogante, retorna à sua pequena cidade natal para o velório da mãe. Ele descobre que seu pai, o respeitado juiz local Joseph Palmer, está sendo acusado de ter assassinado um antigo réu, que acabou de sair da prisão após cumprir 20 anos na cadeia. Apesar de toda a frieza que há entre eles, Hank assume o caso e passa a defender o pai. Os dois precisam curar certas feridas e aceitar a dependência que Joseph, portador de Alzheimer, tem do filho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626135200 -0300" stop="20260626152200 -0300" channel="HBO Mundi">
+    <title lang="pt">Uno - Entre o Ouro e a Morte</title>
+    <desc lang="pt">Esmeralda está determinada a descobrir a verdade por trás da tragédia que destruiu sua família. Com a ajuda de Joaquim, ela segue os últimos rastros de seu falecido marido, um executivo de alto escalão em uma multinacional de mineração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626152700 -0300" stop="20260626165700 -0300" channel="HBO Mundi">
+    <title lang="pt">Magnólia</title>
+    <desc lang="pt">Um dia em San Fernando Valley, na Califórnia, nos arredores da rua Magnólia, as vidas de nove personagens são interligadas por meio de um programa de televisão onde um grupo de três crianças desafia três adultos. O filme acompanha um pai à beira da morte, uma jovem esposa, um enfermeiro, um filho perdido, um policial apaixonado, um menino gênio, um ex-gênio, o apresentador do programa e uma filha afastada, cujas histórias se cruzam por coincidências do destino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626184200 -0300" stop="20260626201200 -0300" channel="HBO Mundi">
+    <title lang="pt">Questão de Honra</title>
+    <desc lang="pt">Um jovem advogado tenta descobrir a verdade sobre a morte de um soldado em uma base militar. A suspeita é de que ele tenha sido vítima de um alerta vermelho, uma punição extraoficial ordenada por um oficial superior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626210700 -0300" stop="20260626223700 -0300" channel="HBO Mundi">
+    <title lang="pt">Funk.doc</title>
+    <desc lang="pt">Desde um MC que chegou a passar fome e tem uma carreira de sucesso até um menino que sonhava em dirigir clipes e criou um dos maiores canais do YouTube no mundo, saiba como o funk paulista muda realidades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626214700 -0300" stop="20260626231700 -0300" channel="HBO Mundi">
+    <title lang="pt">Funk.doc</title>
+    <desc lang="pt">O funk não pertence mais só à favela, ao Rio de Janeiro ou ao Brasil: ele é um patrimônio mundial. Assim como tantos gêneros que superaram o seu lugar de origem, o funk é celebrado em todo o mundo por grandes nomes da música internacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626222600 -0300" stop="20260626235600 -0300" channel="HBO Mundi">
+    <title lang="pt">Xamã - O Exorcista Pagão</title>
+    <desc lang="pt">A fé de uma pregadora é posta à prova quando seu filho é possuído por um ente demoníaco durante uma missão em uma área rural do Equador. Nesta luta para salvar o filho, ela enfrenta um espírito mais antigo que sua própria religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626001400 -0300" stop="20260626014400 -0300" channel="HBO Mundi">
+    <title lang="pt">Orgulho</title>
+    <desc lang="pt">Embora cuidar de Tosia se torne cada vez mais difícil e comece a afetar uma de suas relações mais próximas, Filip reforça sua intenção de adotá-la, mas se depara com uma realidade que complica sua decisão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626010000 -0300" stop="20260626023000 -0300" channel="HBO Mundi">
+    <title lang="pt">Apostas &amp; Segredos</title>
+    <desc lang="pt">Muriel e o marido Lee estão prestes a começarem uma nova vida, mas são surpreendidos pela chegada do irmão de Lee. Muriel passa a viver uma vida secreta, apostando em cavalos de corrida e descobrindo um amor que ela nunca imaginou ser possível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626030700 -0300" stop="20260626043700 -0300" channel="HBO Mundi">
+    <title lang="pt">Saneamento Básico, o Filme</title>
+    <desc lang="pt">Uma pequena comunidade de descendentes de imigrantes italianos do interior do estado do Rio Grande do Sul recorre a um vídeo caseiro para tentar resolver os problemas básicos de saneamento que afetam seu povo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260626050700 -0300" stop="20260626063700 -0300" channel="HBO Mundi">
+    <title lang="pt">O Corpo</title>
+    <desc lang="pt">Um vigia noturno foge do necrotério onde trabalha e é atropelado. O inspetor chamado para investigar descobre que o corpo de uma mulher falecida recentemente desapareceu e o viúvo se torna suspeito.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -121357,22 +121518,134 @@
     </rating>
   </programme>
   <programme start="20260627113200 -0300" stop="20260627130200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+    <title lang="pt">Cruzeiro x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260627193200 -0300" stop="20260627210200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260627123200 -0300" stop="20260627140200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Remo x Mirassol</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260627033200 -0300" stop="20260627050200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260627133200 -0300" stop="20260627150200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627140200 -0300" stop="20260627153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">São Paulo x Grêmio</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627150200 -0300" stop="20260627163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Cruzeiro</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627160200 -0300" stop="20260627173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Bahia</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627170200 -0300" stop="20260627183200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Atlético-MG x Remo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627180200 -0300" stop="20260627193200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Chapecoense x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627190200 -0300" stop="20260627203200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627200200 -0300" stop="20260627213200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Grêmio recebe o Atlético-MG na Arena do Grêmio, em Porto Alegre?RS. O Imortal Tricolor soma uma vitória e duas derrotas no Brasileirão até o momento, enquanto o Galo empatou duas e perdeu uma das três partidas que disputou.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627210200 -0300" stop="20260627223200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Pela quarta rodada, o Bragantino enfrenta o Athletico-PR no Estádio Cícero Marques de Souza, em Bragança Paulista?SP. Ambas as equipes somam duas vitórias e uma derrota no Brasileirão até o momento, com o Furacão levando vantagem no saldo de gols.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627220200 -0300" stop="20260627233200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Pela quarta rodada, o Palmeiras enfrenta o Fluminense na Arena Crefisa Barueri, em Barueri?SP. Ambas as equipes somam duas vitórias e um empate no Brasileirão até o momento, com o Verdão levando vantagem sobre o Tricolor Carioca no saldo de gols.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627230200 -0300" stop="20260628003200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Vasco no Estádio da Vila Belmiro, em Santos?SP. Com apenas um ponto somado após três partidas disputadas, tanto o Peixe quanto o Cruzmaltino buscam a vitória para deixar a zona de rebaixamento do Brasileirão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627000200 -0300" stop="20260627013200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Pela quarta rodada, o Cruzeiro enfrenta o Corinthians no Estádio Mineirão, em Belo Horizonte?MG. Com só um ponto somado, a Raposa amarga a lanterna do Brasileirão; já o Timão soma duas vitórias consecutivas na competição após estrear com derrota.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627010200 -0300" stop="20260627023200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Atlético-MG</title>
+    <desc lang="pt">Pela quarta rodada, o Grêmio recebe o Atlético-MG na Arena do Grêmio, em Porto Alegre?RS. O Imortal Tricolor soma uma vitória e duas derrotas no Brasileirão até o momento, enquanto o Galo empatou duas e perdeu uma das três partidas que disputou.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627020200 -0300" stop="20260627033200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Athletico-PR</title>
+    <desc lang="pt">Pela quarta rodada, o Bragantino enfrenta o Athletico-PR no Estádio Cícero Marques de Souza, em Bragança Paulista?SP. Ambas as equipes somam duas vitórias e uma derrota no Brasileirão até o momento, com o Furacão levando vantagem no saldo de gols.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627030200 -0300" stop="20260627043200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Pela quarta rodada, o Palmeiras enfrenta o Fluminense na Arena Crefisa Barueri, em Barueri?SP. Ambas as equipes somam duas vitórias e um empate no Brasileirão até o momento, com o Verdão levando vantagem sobre o Tricolor Carioca no saldo de gols.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627040200 -0300" stop="20260627053200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Vasco</title>
+    <desc lang="pt">Pela quarta rodada, o Santos recebe o Vasco no Estádio da Vila Belmiro, em Santos?SP. Com apenas um ponto somado após três partidas disputadas, tanto o Peixe quanto o Cruzmaltino buscam a vitória para deixar a zona de rebaixamento do Brasileirão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260627050200 -0300" stop="20260627063200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Corinthians</title>
+    <desc lang="pt">Pela quarta rodada, o Cruzeiro enfrenta o Corinthians no Estádio Mineirão, em Belo Horizonte?MG. Com só um ponto somado, a Raposa amarga a lanterna do Brasileirão; já o Timão soma duas vitórias consecutivas na competição após estrear com derrota.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -150016,7 +150289,7 @@
   </programme>
   <programme start="20260628130200 -0300" stop="20260628143200 -0300" channel="RedeTV! Pampa">
     <title lang="pt">Trilegal</title>
-    <desc lang="pt">Confira os títulos sorteados em tempo real.</desc>
+    <desc lang="pt">Sorteio de títulos de capitalização em tempo real.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -150975,7 +151248,7 @@
   </programme>
   <programme start="20260628130200 -0300" stop="20260628143200 -0300" channel="RedeTV! Sul">
     <title lang="pt">Trilegal</title>
-    <desc lang="pt">Confira os títulos sorteados em tempo real.</desc>
+    <desc lang="pt">Sorteio de títulos de capitalização em tempo real.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
