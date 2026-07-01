@@ -121657,30 +121657,16 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703090200 -0300" stop="20260703103200 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Athletico-PR x Cruzeiro</title>
-    <desc lang="pt">Pela sétima rodada, o Athletico-PR recebe o Cruzeiro na Arena da Baixada, em Curitiba?PR. O Furacão tenta se reerguer na competição frente a um time que vive crise no nacional e que não vence há mais de cinco partidas.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260703101700 -0300" stop="20260703114700 -0300" channel="Premiere Clubes HD">
+  <programme start="20260703113200 -0300" stop="20260703130200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Programação Premiere Clubes</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703141700 -0300" stop="20260703154700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260703181700 -0300" stop="20260703194700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260703181200 -0300" stop="20260703194200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x River Plate</title>
+    <desc lang="pt">Todas as emoções de partidas amistosas de futebol disputadas entre equipes masculinas.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -199994,79 +199980,58 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703062700 -0300" stop="20260703075700 -0300" channel="SporTV3 HD">
+  <programme start="20260703062200 -0300" stop="20260703075200 -0300" channel="SporTV3 HD">
     <title lang="pt">Oktagon 88</title>
     <desc lang="pt">Disputa da edição número 88 do evento de artes marciais mistas. Da ZAG Arena, em Hannover.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703092200 -0300" stop="20260703105200 -0300" channel="SporTV3 HD">
+  <programme start="20260703091700 -0300" stop="20260703104700 -0300" channel="SporTV3 HD">
     <title lang="pt">Ippon - Os Bastidores do Judô</title>
-    <desc lang="pt">Os atletas brasileiros se preparam para a última etapa do Grand Slam de Judô em 2025, realizada no &quot;berço&quot; da modalidade: Tóquio, a capital do Japão.</desc>
+    <desc lang="pt">Os bastidores, personagens e desafios do judô brasileiro ao longo do ciclo olímpico rumo a Los Angeles 2028. Em uma jornada que vai além das competições, os principais nomes da modalidade no País encaram treinos intensos e desafios fora do tatame.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703120200 -0300" stop="20260703133200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260703100200 -0300" stop="20260703113200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260703140200 -0300" stop="20260703153200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">GP da Grã-Bretanha - Treino Livre 1</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703160200 -0300" stop="20260703173200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260703150200 -0300" stop="20260703163200 -0300" channel="SporTV3 HD">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703180200 -0300" stop="20260703193200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260703190200 -0300" stop="20260703203200 -0300" channel="SporTV3 HD">
+    <title lang="pt">GP da Grã-Bretanha - Corrida Sprint</title>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260703200200 -0300" stop="20260703213200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260703220200 -0300" stop="20260703233200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260703000200 -0300" stop="20260703013200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-    <rating system="Brazil">
-      <value>[14]</value>
-    </rating>
-  </programme>
-  <programme start="20260703020200 -0300" stop="20260703033200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260703040200 -0300" stop="20260703053200 -0300" channel="SporTV3 HD">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
