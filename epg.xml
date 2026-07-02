@@ -121237,7 +121237,119 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703113200 -0300" stop="20260703130200 -0300" channel="Premiere Clubes HD">
+  <programme start="20260703090200 -0300" stop="20260703103200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Athletico-PR x Cruzeiro</title>
+    <desc lang="pt">Pela sétima rodada, o Athletico-PR recebe o Cruzeiro na Arena da Baixada, em Curitiba?PR. O Furacão tenta se reerguer na competição frente a um time que vive crise no nacional e que não vence há mais de cinco partidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703093200 -0300" stop="20260703110200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703100200 -0300" stop="20260703113200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Vasco</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703103200 -0300" stop="20260703120200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Chapecoense x Grêmio</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703110200 -0300" stop="20260703123200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703120200 -0300" stop="20260703133200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Bragantino</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703123200 -0300" stop="20260703140200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703130200 -0300" stop="20260703143200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Athletico-PR x Cruzeiro</title>
+    <desc lang="pt">Pela sétima rodada, o Athletico-PR recebe o Cruzeiro na Arena da Baixada, em Curitiba?PR. O Furacão tenta se reerguer na competição frente a um time que vive crise no nacional e que não vence há mais de cinco partidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703133200 -0300" stop="20260703150200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Mirassol x Coritiba</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703140200 -0300" stop="20260703153200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Internacional</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703143200 -0300" stop="20260703160200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Internacional</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703150200 -0300" stop="20260703163200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Vasco x Fluminense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703153200 -0300" stop="20260703170200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Grêmio x Vitória</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703160200 -0300" stop="20260703173200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Flamengo x Remo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703163200 -0300" stop="20260703180200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703173200 -0300" stop="20260703190200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Botafogo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703180200 -0300" stop="20260703193200 -0300" channel="Premiere Clubes HD">
     <title lang="pt">Programação Premiere Clubes</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
     <rating system="Brazil">
@@ -121251,16 +121363,121 @@
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703221700 -0300" stop="20260703234700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260703204200 -0300" stop="20260703221200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260703021700 -0300" stop="20260703034700 -0300" channel="Premiere Clubes HD">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260703211200 -0300" stop="20260703224200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Internacional x Chapecoense</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703214200 -0300" stop="20260703231200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Santos</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703221200 -0300" stop="20260703234200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Corinthians x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703224200 -0300" stop="20260704001200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">São Paulo x Palmeiras</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703231200 -0300" stop="20260704004200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703000200 -0300" stop="20260703013200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Botafogo x Mirassol</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703003200 -0300" stop="20260703020200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Internacional x São Paulo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703010200 -0300" stop="20260703023200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Cruzeiro x Vitória</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703013200 -0300" stop="20260703030200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bahia x Athletico-PR</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703020200 -0300" stop="20260703033200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Coritiba x Vasco</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703023200 -0300" stop="20260703040200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Santos x Remo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703030200 -0300" stop="20260703043200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Chapecoense x Atlético-MG</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703033200 -0300" stop="20260703050200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Palmeiras x Grêmio</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703040200 -0300" stop="20260703053200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Bragantino x Flamengo</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703043200 -0300" stop="20260703060200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260703053200 -0300" stop="20260703070200 -0300" channel="Premiere Clubes HD">
+    <title lang="pt">São Paulo x Cruzeiro</title>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
