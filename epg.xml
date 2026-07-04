@@ -71202,15 +71202,29 @@
     </rating>
   </programme>
   <programme start="20260706160200 -0300" stop="20260706173200 -0300" channel="Gazeta HD">
-    <title lang="pt">Você Bonita</title>
-    <desc lang="pt">Matérias sobre saúde e nutrição, dicas para uma alimentação equilibrada e receitas leves, além das principais novidades nos tratamentos estéticos.</desc>
+    <title lang="pt">Gazeta News</title>
+    <desc lang="pt">O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260706173200 -0300" stop="20260706190200 -0300" channel="Gazeta HD">
+  <programme start="20260706170200 -0300" stop="20260706183200 -0300" channel="Gazeta HD">
+    <title lang="pt">Fofoca Aí</title>
+    <desc lang="pt">O programa aborda assuntos sobre celebridades e bastidores da TV, com uma linguagem descontraída e bem-humorada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260706183200 -0300" stop="20260706200200 -0300" channel="Gazeta HD">
     <title lang="pt">Mulheres</title>
     <desc lang="pt">O programa traz especialistas nas áreas de culinária, moda, beleza, atualidades, lazer e direito do consumidor, entre outros assuntos de grande interesse da mulher.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260706204700 -0300" stop="20260706221700 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta News</title>
+    <desc lang="pt">O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -71237,8 +71251,8 @@
     </rating>
   </programme>
   <programme start="20260706050200 -0300" stop="20260706063200 -0300" channel="Gazeta HD">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <title lang="pt">Fofoca Aí</title>
+    <desc lang="pt">O programa aborda assuntos sobre celebridades e bastidores da TV, com uma linguagem descontraída e bem-humorada.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -87519,15 +87533,15 @@
     </rating>
   </programme>
   <programme start="20260704220200 -0300" stop="20260704233200 -0300" channel="Golf Channel">
-    <title lang="pt">Golfe</title>
-    <desc lang="pt">Todas as emoções de grandes torneios e duelos eletrizantes de golfe pelo mundo.</desc>
+    <title lang="pt">Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa do torneio de golfe, realizado no Tralee Golf Club, em Tralee, Irlanda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260704010200 -0300" stop="20260704023200 -0300" channel="Golf Channel">
-    <title lang="pt">Golfe</title>
-    <desc lang="pt">Todas as emoções de grandes torneios e duelos eletrizantes de golfe pelo mundo.</desc>
+    <title lang="pt">Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa do torneio de golfe, realizado no Tralee Golf Club, em Tralee, Irlanda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -87582,8 +87596,8 @@
     </rating>
   </programme>
   <programme start="20260705220200 -0300" stop="20260705233200 -0300" channel="Golf Channel">
-    <title lang="pt">Golfe</title>
-    <desc lang="pt">Todas as emoções de grandes torneios e duelos eletrizantes de golfe pelo mundo.</desc>
+    <title lang="pt">Dia 3</title>
+    <desc lang="pt">Terceiro dia de disputa do torneio de golfe, realizado no Tralee Golf Club, em Tralee, Irlanda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -87820,15 +87834,15 @@
     </rating>
   </programme>
   <programme start="20260704220200 -0300" stop="20260704233200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Golfe</title>
-    <desc lang="pt">Todas as emoções de grandes torneios e duelos eletrizantes de golfe pelo mundo.</desc>
+    <title lang="pt">Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa do torneio de golfe, realizado no Tralee Golf Club, em Tralee, Irlanda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
   <programme start="20260704010200 -0300" stop="20260704023200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Golfe</title>
-    <desc lang="pt">Todas as emoções de grandes torneios e duelos eletrizantes de golfe pelo mundo.</desc>
+    <title lang="pt">Dia 2</title>
+    <desc lang="pt">Segundo dia de disputa do torneio de golfe, realizado no Tralee Golf Club, em Tralee, Irlanda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -87883,8 +87897,8 @@
     </rating>
   </programme>
   <programme start="20260705220200 -0300" stop="20260705233200 -0300" channel="Golf Channel HD">
-    <title lang="pt">Golfe</title>
-    <desc lang="pt">Todas as emoções de grandes torneios e duelos eletrizantes de golfe pelo mundo.</desc>
+    <title lang="pt">Dia 3</title>
+    <desc lang="pt">Terceiro dia de disputa do torneio de golfe, realizado no Tralee Golf Club, em Tralee, Irlanda.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
