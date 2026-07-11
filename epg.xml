@@ -75983,29 +75983,155 @@
     </rating>
   </programme>
   <programme start="20260710090200 -0300" stop="20260710103200 -0300" channel="Globo TV Tribuna">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+    <title lang="pt">Bom Dia SP</title>
+    <desc lang="pt">As primeiras notícias do estado nas manhãs com informações sobre os fatos mais importantes do dia, entrevistas, acontecimentos, previsão do tempo, situação do trânsito na capital e nas principais rodovias.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710134200 -0300" stop="20260710151200 -0300" channel="Globo TV Tribuna">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710104700 -0300" stop="20260710121700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Bom Dia Região</title>
+    <desc lang="pt">As principais notícias, a previsão do tempo, o trânsito, os lances do futebol e eventos na Baixada Santista e no Vale do Ribeira.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710214200 -0300" stop="20260710231200 -0300" channel="Globo TV Tribuna">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710113200 -0300" stop="20260710130200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710054200 -0300" stop="20260710071200 -0300" channel="Globo TV Tribuna">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710123200 -0300" stop="20260710140200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710133700 -0300" stop="20260710150700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710144700 -0300" stop="20260710161700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">JT1</title>
+    <desc lang="pt">Informação e prestação de serviço com os repórteres nas cidades da Baixada Santista cobrando providências das autoridades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710160200 -0300" stop="20260710173200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710162700 -0300" stop="20260710175700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710175200 -0300" stop="20260710192200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710183700 -0300" stop="20260710200700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Quartas de Final: Espanha x Bélgica</title>
+    <desc lang="pt">Bélgica e Espanha jogam nas quartas de final, no Estádio de Los Angeles, Estados Unidos. A Fúria bateu Portugal por 1 a 0, na reta final da partida, com gol de Mikel Merino. Já os belgas golearam os EUA pelo placar de 4 a 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710211200 -0300" stop="20260710224200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710220200 -0300" stop="20260710233200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">JT2</title>
+    <desc lang="pt">Fique por dentro de assuntos como economia, política e esporte, além de prestação de serviço e informações do porto na região da Baixada Santista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710224200 -0300" stop="20260711001200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710233200 -0300" stop="20260711010200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710002200 -0300" stop="20260710015200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710012700 -0300" stop="20260710025700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710021700 -0300" stop="20260710034700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Central da Copa</title>
+    <desc lang="pt">Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710023200 -0300" stop="20260710040200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Justiça 2</title>
+    <desc lang="pt">Em um momento de desespero, Milena rouba um carro. E acaba presa por um crime que não cometeu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710032700 -0300" stop="20260710045700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710041700 -0300" stop="20260710054700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710050200 -0300" stop="20260710063200 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710054700 -0300" stop="20260710071700 -0300" channel="Globo TV Tribuna">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -190573,7 +190699,7 @@
     </rating>
   </programme>
   <programme start="20260711090200 -0300" stop="20260711103200 -0300" channel="SporTV2 HD">
-    <title lang="pt">Copa do Mundo de High Diving</title>
+    <title lang="pt">Etapa de Porto Flavia, Itália - Dia 1</title>
     <desc lang="pt">Campeonato mundial de modalidade derivada dos saltos ornamentais, disputado em etapas pelo planeta.</desc>
     <rating system="Brazil">
       <value>[14]</value>
@@ -246146,29 +246272,148 @@
     </rating>
   </programme>
   <programme start="20260710090200 -0300" stop="20260710103200 -0300" channel="TV Gazeta HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+    <title lang="pt">Bom Dia PE</title>
+    <desc lang="pt">Telejornal que apresenta uma cobertura detalhada dos acontecimentos da região nordeste, por meio de um jornalismo dinâmico, com prestação de serviços, entrevistas e entradas ao vivo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710134200 -0300" stop="20260710151200 -0300" channel="TV Gazeta HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710113200 -0300" stop="20260710130200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710214200 -0300" stop="20260710231200 -0300" channel="TV Gazeta HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710123200 -0300" stop="20260710140200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710054200 -0300" stop="20260710071200 -0300" channel="TV Gazeta HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710133700 -0300" stop="20260710150700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710144700 -0300" stop="20260710161700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">AB1</title>
+    <desc lang="pt">Seja nas principais cidades de Alagoas ou nas comunidades, o jornal conta as histórias que impactam o dia a dia dos alagoanos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710160200 -0300" stop="20260710173200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710162700 -0300" stop="20260710175700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710175200 -0300" stop="20260710192200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710183700 -0300" stop="20260710200700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Quartas de Final: Espanha x Bélgica</title>
+    <desc lang="pt">Bélgica e Espanha jogam nas quartas de final, no Estádio de Los Angeles, Estados Unidos. A Fúria bateu Portugal por 1 a 0, na reta final da partida, com gol de Mikel Merino. Já os belgas golearam os EUA pelo placar de 4 a 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710211200 -0300" stop="20260710224200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710220200 -0300" stop="20260710233200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">AB2</title>
+    <desc lang="pt">Os principais fatos que acontecem no estado de Alagoas, prestação de serviço, campanhas comunitárias e tudo o que move a vida dos alagoanos. Histórias que emocionam, informam e inspiram, do litoral ao sertão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710224200 -0300" stop="20260711001200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710233200 -0300" stop="20260711010200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710002200 -0300" stop="20260710015200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710012700 -0300" stop="20260710025700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710021700 -0300" stop="20260710034700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Central da Copa</title>
+    <desc lang="pt">Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710023200 -0300" stop="20260710040200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Justiça 2</title>
+    <desc lang="pt">Em um momento de desespero, Milena rouba um carro. E acaba presa por um crime que não cometeu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710032700 -0300" stop="20260710045700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710041700 -0300" stop="20260710054700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710050200 -0300" stop="20260710063200 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710054700 -0300" stop="20260710071700 -0300" channel="TV Gazeta HD">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -246622,29 +246867,148 @@
     </rating>
   </programme>
   <programme start="20260710090200 -0300" stop="20260710103200 -0300" channel="TV Gazeta">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+    <title lang="pt">Bom Dia PE</title>
+    <desc lang="pt">Telejornal que apresenta uma cobertura detalhada dos acontecimentos da região nordeste, por meio de um jornalismo dinâmico, com prestação de serviços, entrevistas e entradas ao vivo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710134200 -0300" stop="20260710151200 -0300" channel="TV Gazeta">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710113200 -0300" stop="20260710130200 -0300" channel="TV Gazeta">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710214200 -0300" stop="20260710231200 -0300" channel="TV Gazeta">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710123200 -0300" stop="20260710140200 -0300" channel="TV Gazeta">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710054200 -0300" stop="20260710071200 -0300" channel="TV Gazeta">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710133700 -0300" stop="20260710150700 -0300" channel="TV Gazeta">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710144700 -0300" stop="20260710161700 -0300" channel="TV Gazeta">
+    <title lang="pt">AB1</title>
+    <desc lang="pt">Seja nas principais cidades de Alagoas ou nas comunidades, o jornal conta as histórias que impactam o dia a dia dos alagoanos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710160200 -0300" stop="20260710173200 -0300" channel="TV Gazeta">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710162700 -0300" stop="20260710175700 -0300" channel="TV Gazeta">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710175200 -0300" stop="20260710192200 -0300" channel="TV Gazeta">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710183700 -0300" stop="20260710200700 -0300" channel="TV Gazeta">
+    <title lang="pt">Quartas de Final: Espanha x Bélgica</title>
+    <desc lang="pt">Bélgica e Espanha jogam nas quartas de final, no Estádio de Los Angeles, Estados Unidos. A Fúria bateu Portugal por 1 a 0, na reta final da partida, com gol de Mikel Merino. Já os belgas golearam os EUA pelo placar de 4 a 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710211200 -0300" stop="20260710224200 -0300" channel="TV Gazeta">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710220200 -0300" stop="20260710233200 -0300" channel="TV Gazeta">
+    <title lang="pt">AB2</title>
+    <desc lang="pt">Os principais fatos que acontecem no estado de Alagoas, prestação de serviço, campanhas comunitárias e tudo o que move a vida dos alagoanos. Histórias que emocionam, informam e inspiram, do litoral ao sertão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710224200 -0300" stop="20260711001200 -0300" channel="TV Gazeta">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710233200 -0300" stop="20260711010200 -0300" channel="TV Gazeta">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710002200 -0300" stop="20260710015200 -0300" channel="TV Gazeta">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710012700 -0300" stop="20260710025700 -0300" channel="TV Gazeta">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710021700 -0300" stop="20260710034700 -0300" channel="TV Gazeta">
+    <title lang="pt">Central da Copa</title>
+    <desc lang="pt">Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710023200 -0300" stop="20260710040200 -0300" channel="TV Gazeta">
+    <title lang="pt">Justiça 2</title>
+    <desc lang="pt">Em um momento de desespero, Milena rouba um carro. E acaba presa por um crime que não cometeu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710032700 -0300" stop="20260710045700 -0300" channel="TV Gazeta">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710041700 -0300" stop="20260710054700 -0300" channel="TV Gazeta">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710050200 -0300" stop="20260710063200 -0300" channel="TV Gazeta">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710054700 -0300" stop="20260710071700 -0300" channel="TV Gazeta">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -276302,29 +276666,155 @@
     </rating>
   </programme>
   <programme start="20260710090200 -0300" stop="20260710103200 -0300" channel="TV Tribuna HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+    <title lang="pt">Bom Dia SP</title>
+    <desc lang="pt">As primeiras notícias do estado nas manhãs com informações sobre os fatos mais importantes do dia, entrevistas, acontecimentos, previsão do tempo, situação do trânsito na capital e nas principais rodovias.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710134200 -0300" stop="20260710151200 -0300" channel="TV Tribuna HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710104700 -0300" stop="20260710121700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Bom Dia Região</title>
+    <desc lang="pt">As principais notícias, a previsão do tempo, o trânsito, os lances do futebol e eventos na Baixada Santista e no Vale do Ribeira.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710214200 -0300" stop="20260710231200 -0300" channel="TV Tribuna HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710113200 -0300" stop="20260710130200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
   </programme>
-  <programme start="20260710054200 -0300" stop="20260710071200 -0300" channel="TV Tribuna HD">
-    <title lang="pt">O Pai da Rita</title>
-    <desc lang="pt">Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham um pequeno apartamento, décadas de amizade, o amor por sua escola de samba e uma dúvida sobre o que aconteceu com a passista Rita, paixão de ambos. No entanto, o surgimento de Ritinha, filha da grande paixão perdida, ameaça desmoronar a amizade deles.</desc>
+  <programme start="20260710123200 -0300" stop="20260710140200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710133700 -0300" stop="20260710150700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710144700 -0300" stop="20260710161700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">JT1</title>
+    <desc lang="pt">Informação e prestação de serviço com os repórteres nas cidades da Baixada Santista cobrando providências das autoridades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710160200 -0300" stop="20260710173200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710162700 -0300" stop="20260710175700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710175200 -0300" stop="20260710192200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710183700 -0300" stop="20260710200700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Quartas de Final: Espanha x Bélgica</title>
+    <desc lang="pt">Bélgica e Espanha jogam nas quartas de final, no Estádio de Los Angeles, Estados Unidos. A Fúria bateu Portugal por 1 a 0, na reta final da partida, com gol de Mikel Merino. Já os belgas golearam os EUA pelo placar de 4 a 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710211200 -0300" stop="20260710224200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710220200 -0300" stop="20260710233200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">JT2</title>
+    <desc lang="pt">Fique por dentro de assuntos como economia, política e esporte, além de prestação de serviço e informações do porto na região da Baixada Santista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710224200 -0300" stop="20260711001200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710233200 -0300" stop="20260711010200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710002200 -0300" stop="20260710015200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710012700 -0300" stop="20260710025700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710021700 -0300" stop="20260710034700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Central da Copa</title>
+    <desc lang="pt">Fique por dentro de tudo o que rola na Copa do Mundo. De forma bem-humorada, o programa faz a cobertura dos jogos do dia e mostra histórias curiosas, além de acompanhar de perto a festa das torcidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710023200 -0300" stop="20260710040200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Justiça 2</title>
+    <desc lang="pt">Em um momento de desespero, Milena rouba um carro. E acaba presa por um crime que não cometeu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710032700 -0300" stop="20260710045700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710041700 -0300" stop="20260710054700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa africana e um trabalhador de engenho do Nordeste.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710050200 -0300" stop="20260710063200 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a &quot;garota do seu passado&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260710054700 -0300" stop="20260710071700 -0300" channel="TV Tribuna HD">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
