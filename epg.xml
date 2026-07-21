@@ -3595,6 +3595,328 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260723060200 -0300" stop="20260723073200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Programa Nobre</title>
+    <desc lang="pt">Um programa focado no segmento de eventos sociais, moda, beleza, decoração e institucionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723063200 -0300" stop="20260723080200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Via Cruviana</title>
+    <desc lang="pt">Acompanhe uma revista eletrônica cultural que envolve música, teatro e dança e representa o estado de Roraima por meio de seus cenários naturais, revelando ao restante da Amazônia as personagens que são ícones da sociedade local.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723070200 -0300" stop="20260723083200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Na Festa</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723080200 -0300" stop="20260723093200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Documentos da Amazônia</title>
+    <desc lang="pt">Faça uma viagem pelo patrimônio histórico, cultural e social da Amazônia, num programa que abre uma janela no tempo e mostra tudo o que foi construído e preservado no patrimônio histórico da região Amazônica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723090200 -0300" stop="20260723103200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazônia Mulher</title>
+    <desc lang="pt">Saiba tudo sobre moda, comportamento e vida profissional da mulher amazônida que faz a diferença e se destaca na sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723093200 -0300" stop="20260723110200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Santa Missa da Fazenda Esperança</title>
+    <desc lang="pt">Na missa, os jovens internos da fazenda que preparam a liturgia e as músicas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723100200 -0300" stop="20260723113200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Hino Nacional</title>
+    <desc lang="pt">O Hino Nacional brasileiro não é apenas a música que embala nosso espírito cívico e patriótico. É também uma obra que promove a união de um músico e um poeta que nunca se encontraram fisicamente. Francisco Manuel da Silva, o músico, nasceu em 1795 e morreu em 1865. Já o poeta Joaquim Osório Duque-Estrada nasceu em 1870 e morreu em 1927.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723100500 -0300" stop="20260723113500 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723100700 -0300" stop="20260723113700 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazon Sat Educação</title>
+    <desc lang="pt">Acompanhe o programa produzido pelo Núcleo de Educação do canal Amazon Sat.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723103200 -0300" stop="20260723120200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Família Hoje e Sempre</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723110200 -0300" stop="20260723123200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Negócios da Amazônia</title>
+    <desc lang="pt">Veja as empresas no setor econômico divulgando suas ações e o desenvolvimento na geração de emprego e renda na região amazônica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723113200 -0300" stop="20260723130200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazon Sat Social</title>
+    <desc lang="pt">Um espaço dedicado à divulgação de atividades e ações socialmente responsáveis de empresas, comunidades e ONGs na Amazônia, com o compromisso de mostrar práticas de sustentabilidade, direitos e deveres do amazônida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723120200 -0300" stop="20260723133200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazônia News</title>
+    <desc lang="pt">Acompanhe o telejornal matinal com os fatos notícia em todos os estados da Amazônia em destaque a cada edição.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723125200 -0300" stop="20260723142200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazônia Mulher</title>
+    <desc lang="pt">Saiba tudo sobre moda, comportamento e vida profissional da mulher amazônida que faz a diferença e se destaca na sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723132200 -0300" stop="20260723145200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Estilo de Vida</title>
+    <desc lang="pt">A saúde física e mental e o bem-estar do corpo são os destaques do programa que reúne nutricionistas, psicólogos e médicos profissionais de diferentes áreas para orientar e incentivar a população a ter uma melhor qualidade de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723145200 -0300" stop="20260723162200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <desc lang="pt">Um programa que aborda o desenvolvimento e o fortalecimento de micro e pequenas empresas, assim como o fomento do empreendedorismo, possibilitando a autossustentabilidade econômica do negócio próprio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723152200 -0300" stop="20260723165200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Esporte Amazônia</title>
+    <desc lang="pt">Os principais fatos esportivos, os mais importantes torneios e campeonatos locais e regionais são apresentados num programa que conta também com análises, reportagens e entrevistas sobre tudo o que acontece no esporte da Amazônia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723163200 -0300" stop="20260723180200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Estação Turismo</title>
+    <desc lang="pt">Conheça os caminhos do turismo na Amazônia, suas belezas, deslumbrantes paisagens e a cultura do povo da Região Norte num programa que também aborda o turismo enquanto negócio, destacando hotéis, restaurantes e eventos para o turista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723170200 -0300" stop="20260723183200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazônia Agora</title>
+    <desc lang="pt">Fique por dentro dos fatos destaque na Amazônia numa revista eletrônica que trata sobre entretenimento, saúde, curiosidades e traz as notícias dos estados da região amazônica, com entradas ao vivo das capitais amazônicas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723180200 -0300" stop="20260723193200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <desc lang="pt">Os animais da fauna amazônica são apresentados para as crianças de forma divertida e educacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723180700 -0300" stop="20260723193700 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Tribos do Sat</title>
+    <desc lang="pt">Um programa onde todos os estilos musicais se encontram para exaltar a música regional da Amazônia, além de divulgar e descobrir talentos regionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723183200 -0300" stop="20260723200200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Boletim Amapá</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723184200 -0300" stop="20260723201200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Homem da Floresta</title>
+    <desc lang="pt">Acompanhe um programa que aborda o cotidiano do amazônida na melhor idade. Qualidade de vida, socialização, cidadania e as melhores formas de aproveitar essa fase da vida, num programa que evidencia as pessoas que vivem na região Norte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723191200 -0300" stop="20260723204200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Sabores da Amazônia</title>
+    <desc lang="pt">Conheça as peculiaridades da gastronomia da região norte e do povo amazônida, a busca pelos melhores ingredientes e o passo a passo da preparação de deliciosas receitas típicas da Amazônia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723194200 -0300" stop="20260723211200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Amazônia Mulher</title>
+    <desc lang="pt">Saiba tudo sobre moda, comportamento e vida profissional da mulher amazônida que faz a diferença e se destaca na sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723201200 -0300" stop="20260723214200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Boletim Rondônia</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723202200 -0300" stop="20260723215200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Cine Amazon Sat</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723205200 -0300" stop="20260723222200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Planeta Amazônia</title>
+    <desc lang="pt">Um programa que populariza a ciência e a tecnologia, o meio ambiente, a fauna e a flora da região amazônica por meio do jornalismo e divulga tecnologias presentes na região e criadas a partir da fusão do conhecimento tradicional e científico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723212200 -0300" stop="20260723225200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Vamos Casar!</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723213200 -0300" stop="20260723230200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Boletim Roraima</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723214200 -0300" stop="20260723231200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Estação Mamoré</title>
+    <desc lang="pt">Fique por dentro do que acontece no cenário cultural, musical e artístico do estado de Rondônia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723221200 -0300" stop="20260723234200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Boletim Jornal do Comércio</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723221700 -0300" stop="20260723234700 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Negócios da Amazônia</title>
+    <desc lang="pt">Veja as empresas no setor econômico divulgando suas ações e o desenvolvimento na geração de emprego e renda na região amazônica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723224700 -0300" stop="20260724001700 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Momento Viagens pela Amazônia</title>
+    <desc lang="pt">Um programa que apresenta documentários sobre as cidades da região Norte e dos países que compõem a Amazônia internacional, abordando a história, cultura, lendas, mitos, riquezas naturais e o dia a dia do caboclo amazônico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723225200 -0300" stop="20260724002200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Boletim Acre</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723230200 -0300" stop="20260724003200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Conhecer e Aprender</title>
+    <desc lang="pt">Um programa que visa informar e esclarecer à comunidade questões relacionadas ao contexto educacional e escolar e se dedica à divulgação de atividades, programas e ações educacionais desenvolvidas na Amazônia, atendendo a toda a sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723233200 -0300" stop="20260724010200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Propaganda Partidária</title>
+    <desc lang="pt">Espaço dedicado aos partidos para a divulgação de seus programas políticos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723234200 -0300" stop="20260724011200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Conexão Saúde</title>
+    <desc lang="pt">Tire suas dúvidas sobre saúde a cada programa, com um especialista das mais diversas áreas da medicina falando sobre um tema diferente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723010200 -0300" stop="20260723023200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Jornal da Amazônia</title>
+    <desc lang="pt">Um telejornal para informar com a credibilidade de quem sabe falar sobre a Amazônia. Economia, política, pesquisa, meio ambiente e a opinião de especialistas sobre a região.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723020200 -0300" stop="20260723033200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Justiça e Cidadania</title>
+    <desc lang="pt">O programa tem por objetivo informar as decisões e as atividades voltadas para a cidadania.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723023200 -0300" stop="20260723040200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Força Militar na Amazônia</title>
+    <desc lang="pt">As três forças: Exército, Marinha e Aeronáutica, mostram suas atividades e equipamentos usados no monitoramento e operações na região amazônica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723030200 -0300" stop="20260723043200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Vento Norte</title>
+    <desc lang="pt">Conheça melhor a cultura e história dos povos ribeirinhos da Amazônia por meio do registro das lendas, mitos e causos locais. Personagens que ajudam a construir a verdadeira identidade amazônica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723033200 -0300" stop="20260723050200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Estação Turismo</title>
+    <desc lang="pt">Conheça os caminhos do turismo na Amazônia, suas belezas, deslumbrantes paisagens e a cultura do povo da Região Norte num programa que também aborda o turismo enquanto negócio, destacando hotéis, restaurantes e eventos para o turista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723040200 -0300" stop="20260723053200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Conhecer e Aprender</title>
+    <desc lang="pt">Um programa que visa informar e esclarecer à comunidade questões relacionadas ao contexto educacional e escolar e se dedica à divulgação de atividades, programas e ações educacionais desenvolvidas na Amazônia, atendendo a toda a sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723043200 -0300" stop="20260723060200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Jornal da Amazônia</title>
+    <desc lang="pt">Um telejornal para informar com a credibilidade de quem sabe falar sobre a Amazônia. Economia, política, pesquisa, meio ambiente e a opinião de especialistas sobre a região.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723053200 -0300" stop="20260723070200 -0300" channel="Amazon Sat HD">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260720045200 -0300" stop="20260720062200 -0300" channel="AMC HD">
     <title lang="pt">Sex Tape - Perdido na Nuvem</title>
     <desc lang="pt">O romance intenso de um casal começa a esfriar depois de dez anos juntos. A dupla tenta esquentar o relacionamento e decide se gravar fazendo sexo. Parece uma grande ideia, até que eles descobrem que seus momentos mais íntimos tornaram-se públicos na internet. Em pânico, eles correm contra o tempo atrás da constrangedora gravação.</desc>
@@ -5635,6 +5957,251 @@
   <programme start="20260722051700 -0300" stop="20260722064700 -0300" channel="Arte 1 HD">
     <title lang="pt">Rubens Gerchman - Atemporal</title>
     <desc lang="pt">Desgostoso com os rumos do Brasil, Rubens Gerchman aproveita uma bolsa da Fundação Guggenheim e viaja pela América Latina. De volta ao ateliê, velhos temas são retomados em releituras e paletas coloridas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723051700 -0300" stop="20260723064700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Rubens Gerchman - Atemporal</title>
+    <desc lang="pt">Desgostoso com os rumos do Brasil, Rubens Gerchman aproveita uma bolsa da Fundação Guggenheim e viaja pela América Latina. De volta ao ateliê, velhos temas são retomados em releituras e paletas coloridas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723061700 -0300" stop="20260723074700 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Banda do Chico</title>
+    <desc lang="pt">Tocar na banda fez Jorge mudar radicalmente de planos. O contrabaixista recupera uma lembrança de Miúcha, conta casos do álbum Paratodos e detalha duas de suas composições. Tem coisa que nem Chico sabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723064700 -0300" stop="20260723081700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <desc lang="pt">A revista semanal apresenta as novidades e as tendências das artes no Brasil e no mundo: música, teatro, dança, literatura e artes plásticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723071700 -0300" stop="20260723084700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Museu do Ipiranga - USP 130 Anos</title>
+    <desc lang="pt">O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa e gestão de mais de 400 mil objetos, dos quais apenas 1% está exposto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723073200 -0300" stop="20260723090200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Insight</title>
+    <desc lang="pt">Fernando, Lourenço e Rodrigo fundaram a FGMF com o propósito de produzir uma arquitetura contemporânea e com o desafio de fazer do desenho um instrumento de inclusão e pluralidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723080200 -0300" stop="20260723093200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Anna Karenina</title>
+    <desc lang="pt">Sergei Karenin assume o comando de um hospital militar durante a Guerra Russo-Japonesa de 1904. Enquanto atende um coronel ferido, ele busca respostas sobre a morte repentina de sua mãe, Anna.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723090200 -0300" stop="20260723103200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Museu do Ipiranga - USP 130 Anos</title>
+    <desc lang="pt">O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa e gestão de mais de 400 mil objetos, dos quais apenas 1% está exposto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723091700 -0300" stop="20260723104700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Sem Palavras - A Arte de Ilustrar</title>
+    <desc lang="pt">Os livros de Mateus Rios são povoados por bichos de todo tipo. O artista cria personagens que combinam espécies de forma original, produzindo imagens que traduzem um sentimento de excepcionalidade e isolamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723094700 -0300" stop="20260723111700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Outras Vanguardas</title>
+    <desc lang="pt">O ator e diretor Pascoal da Conceição destaca-se pela interpretação de Mário de Andrade, tanto pela semelhança física, como por sua familiaridade com a biografia e a obra do poeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723104700 -0300" stop="20260723121700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Encontros</title>
+    <desc lang="pt">Um jovem viaja da Coreia do Sul até Berlim para visitar o pai, a mãe e a namorada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723120200 -0300" stop="20260723133200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Anna Karenina</title>
+    <desc lang="pt">Sergei continua a ouvir a história do Coronel Vronsky com sua mãe. Ele narra sua insistência em conquistar Anna, que reluta em trair a família até que a resistência se transforma em um romance arrebatador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723130200 -0300" stop="20260723143200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte1 na Flip</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723141700 -0300" stop="20260723154700 -0300" channel="Arte 1 HD">
+    <title lang="pt">João Bosco e Aldir Blanc - Parceria É Isso Aí</title>
+    <desc lang="pt">Em 2013, João Bosco vai até a casa do parceiro Aldir Blanc, na rua Garibaldi, Rio de Janeiro, para mostrar a mais nova composição dos dois, a canção &quot;Duro na Queda&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723143200 -0300" stop="20260723160200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Insight</title>
+    <desc lang="pt">Fernando, Lourenço e Rodrigo fundaram a FGMF com o propósito de produzir uma arquitetura contemporânea e com o desafio de fazer do desenho um instrumento de inclusão e pluralidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723150200 -0300" stop="20260723163200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte1 na Flip</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723161700 -0300" stop="20260723174700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Museu do Ipiranga - USP 130 Anos</title>
+    <desc lang="pt">O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa e gestão de mais de 400 mil objetos, dos quais apenas 1% está exposto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723163200 -0300" stop="20260723180200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Christian de Portzamparc</title>
+    <desc lang="pt">Christian de Portzamparc é um dos maiores arquitetos do mundo. Em 1994, ele foi o primeiro francês, e o mais jovem profissional de todos os tempos, a receber o prêmio Pritzker, o Nobel da arquitetura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723173200 -0300" stop="20260723190200 -0300" channel="Arte 1 HD">
+    <title lang="pt">A Banda do Chico</title>
+    <desc lang="pt">Tocar na banda fez Jorge mudar radicalmente de planos. O contrabaixista recupera uma lembrança de Miúcha, conta casos do álbum Paratodos e detalha duas de suas composições. Tem coisa que nem Chico sabe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723180200 -0300" stop="20260723193200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte1 na Flip</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723191700 -0300" stop="20260723204700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Poétika</title>
+    <desc lang="pt">Poetas contemporâneos apresentam seu trabalho e falam sobre sua relação com a poesia. Eles também mostram o local onde escrevem, seu método de trabalho e sua recente produção poética.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723193200 -0300" stop="20260723210200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Compondo Futuros</title>
+    <desc lang="pt">O percurso dos bolsistas da Fundação Osesp durante o mês do Festival de inverno.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723200200 -0300" stop="20260723213200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte1 na Flip</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723211700 -0300" stop="20260723224700 -0300" channel="Arte 1 HD">
+    <title lang="pt">João Bosco e Aldir Blanc - Parceria É Isso Aí</title>
+    <desc lang="pt">Em 2013, João Bosco vai até a casa do parceiro Aldir Blanc, na rua Garibaldi, Rio de Janeiro, para mostrar a mais nova composição dos dois, a canção &quot;Duro na Queda&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723213200 -0300" stop="20260723230200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Um.Artista</title>
+    <desc lang="pt">Artistas contemporâneos brasileiros e seus processos criativos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723220200 -0300" stop="20260723233200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte1 na Flip</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723231700 -0300" stop="20260724004700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Museu do Ipiranga - USP 130 Anos</title>
+    <desc lang="pt">O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa e gestão de mais de 400 mil objetos, dos quais apenas 1% está exposto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723233200 -0300" stop="20260724010200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Material Bruto - A Memória do Cinema Brasileiro</title>
+    <desc lang="pt">Ana Maria Magalhães atuou em filmes do Cinema Novo e conviveu com mestres como Nelson Pereira dos Santos e Glauber Rocha. Essa trajetória permitiu que ela se tornasse uma diretora de filmes marcantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723000200 -0300" stop="20260723013200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Material Bruto - A Memória do Cinema Brasileiro</title>
+    <desc lang="pt">A montadora Ana Carolina encara o cinema como um desafio. O seu fazer cinematográfico alia o olhar cinéfilo a uma abordagem feminina, como no filme &quot;Mar de Rosas&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723003200 -0300" stop="20260723020200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <desc lang="pt">A revista semanal apresenta as novidades e as tendências das artes no Brasil e no mundo: música, teatro, dança, literatura e artes plásticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723010200 -0300" stop="20260723023200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Um.Artista</title>
+    <desc lang="pt">Artistas contemporâneos brasileiros e seus processos criativos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723013200 -0300" stop="20260723030200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Sem Palavras - A Arte de Ilustrar</title>
+    <desc lang="pt">Os livros de Mateus Rios são povoados por bichos de todo tipo. O artista cria personagens que combinam espécies de forma original, produzindo imagens que traduzem um sentimento de excepcionalidade e isolamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723020200 -0300" stop="20260723033200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Música e Poesia</title>
+    <desc lang="pt">Elisa Lucinda vai ao mar e declama seus primeiros versos ao chegar no Rio de Janeiro. Fala do racismo enfrentado e da missão de popularizar a poesia. No estúdio, canta com alma um de seus poemas, musicado por Lan Lanh.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723030200 -0300" stop="20260723043200 -0300" channel="Arte 1 HD">
+    <title lang="pt">Arte1 na Flip</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723041700 -0300" stop="20260723054700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Anna Karenina</title>
+    <desc lang="pt">Sergei continua a ouvir a história do Coronel Vronsky com sua mãe. Ele narra sua insistência em conquistar Anna, que reluta em trair a família até que a resistência se transforma em um romance arrebatador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723051700 -0300" stop="20260723064700 -0300" channel="Arte 1 HD">
+    <title lang="pt">Abre a Coxia</title>
+    <desc lang="pt">Série documental faz um mergulho nos bastidores do teatro brasileiro. Grupos teatrais de diferentes regiões, seus processos criativos, trajetórias, linguagens e a centralidade do palco como espaço de expressão artística, política e cultural.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -15901,6 +16468,146 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260723050200 -0300" stop="20260723063200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723070200 -0300" stop="20260723083200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723110200 -0300" stop="20260723123200 -0300" channel="Band Piauí HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723112200 -0300" stop="20260723125200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Bora Brasil Parnaíba</title>
+    <desc lang="pt">Acompanhe as principais informações da região com leveza e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723120200 -0300" stop="20260723133200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723140200 -0300" stop="20260723153200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723150200 -0300" stop="20260723163200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Jogo Aberto - Piauí</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte no estado do Piauí e no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723153200 -0300" stop="20260723170200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Boa Tarde Piauí</title>
+    <desc lang="pt">Acompanhe o jornal da tarde com notícias e reportagens do cotidiano do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723165200 -0300" stop="20260723182200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Vem com a Gente</title>
+    <desc lang="pt">Programa leve, divertido e informativo para suas tardes com conteúdo recheado de boas histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723173200 -0300" stop="20260723190200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723190200 -0300" stop="20260723203200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723203200 -0300" stop="20260723220200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723215200 -0300" stop="20260723232200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723222200 -0300" stop="20260723235200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723233200 -0300" stop="20260724010200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723002700 -0300" stop="20260723015700 -0300" channel="Band Piauí HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723012200 -0300" stop="20260723025200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">A rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando contra incêndios, combatendo crimes e salvando vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723030200 -0300" stop="20260723043200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723040200 -0300" stop="20260723053200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723050200 -0300" stop="20260723063200 -0300" channel="Band Piauí HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260720043200 -0300" stop="20260720060200 -0300" channel="Band Porto Alegre">
     <title lang="pt">+ Info</title>
     <desc lang="pt">Reportagens especiais sobre assuntos variados do Brasil e do mundo.</desc>
@@ -25134,6 +25841,125 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260721060200 -0300" stop="20260721073200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg The Opening Trade</title>
+    <desc lang="pt">A abertura dos mercados na Europa com análises, histórias e convidados. Apresentado por Anna Edwards, Guy Johnson e Kriti Gupta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721080200 -0300" stop="20260721093200 -0300" channel="Bloomberg HD">
+    <title lang="pt">The Pulse with Francine Lacqua</title>
+    <desc lang="pt">Veja conversas com convidados de alto nível de negócios, economia, finanças e política globais. Com sede em Londres, Francine Lacqua vai atrás dos fatos onde quer que estejam, trazendo ao telespectador entrevistas exclusivas e furos marcantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721090200 -0300" stop="20260721103200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Brief</title>
+    <desc lang="pt">Confira as notícias, dados e análises que os espectadores precisam para definir suas agendas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721100200 -0300" stop="20260721113200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Surveillance</title>
+    <desc lang="pt">Tom Keene e Francine Lacqua trazem as últimas notícias do mundo dos negócios e mercado financeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721130200 -0300" stop="20260721143200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Open Interest</title>
+    <desc lang="pt">Matt Miller, Katie Greifeld e Sonali Basak comentam as notícias que movimentam o mercado nos EUA.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721150200 -0300" stop="20260721163200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Tech</title>
+    <desc lang="pt">Programa de tecnologia com foco em notícias de última hora, reportagens que movimentam o mercado e análises de empresas e histórias globais do setor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721160200 -0300" stop="20260721173200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Crypto</title>
+    <desc lang="pt">A Bloomberg Cripto abrange pessoas, transações e tecnologia que moldam o mundo das finanças descentralizadas. Alimentado pelo acesso e dados globais da Bloomberg, o programa é fonte semanal de notícias, análises e entrevistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721170200 -0300" stop="20260721183200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg: Balance of Power</title>
+    <desc lang="pt">O programa analisa as políticas moldadas pelo governo do presidente dos Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721180200 -0300" stop="20260721193200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Businessweek Daily</title>
+    <desc lang="pt">Carol Massar e Tim Stenovec trazem reportagens da revista que ajuda líderes globais a se manterem à frente, além de percepções sobre as pessoas, empresas e tendências que estão moldando a complexa economia de hoje.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721190200 -0300" stop="20260721203200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg: The Close</title>
+    <desc lang="pt">O programa dinâmico antecede os minutos finais do encerramento da Bolsa de Wall Street com as últimas notícias, dados e análises de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721210200 -0300" stop="20260721223200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg: Balance of Power</title>
+    <desc lang="pt">O programa analisa as políticas moldadas pelo governo do presidente dos Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721220200 -0300" stop="20260721233200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Investigates</title>
+    <desc lang="pt">Jornalistas de todo o mundo apresentam uma cobertura imersiva de notícias relevantes. Cada história é amplamente pesquisada e narrada por profissionais aclamados, bem como pelas pessoas que a vivem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721230200 -0300" stop="20260722003200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg The Asia Trade</title>
+    <desc lang="pt">De Tóquio e Sydney, Shery Ahn e Haidi Stroud-Watts apresentam percepções e análises de jornalistas e líderes do setor sobre as últimas novidades que moldam os mercados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721010200 -0300" stop="20260721023200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg: The China Show</title>
+    <desc lang="pt">Da política à tecnologia, Yvonne Man e David Ingles oferecem aos investidores globais uma visão única sobre a segunda maior economia do mundo, a China, com análises profundas e conversas com jornalistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721030200 -0300" stop="20260721043200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Insight With Haslinda Amin</title>
+    <desc lang="pt">Uma visão completa das notícias mais importantes do dia. Além de entrevistas sobre uma série de tópicos, incluindo finanças, diversidade, tecnologia, mudanças climáticas e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721040200 -0300" stop="20260721053200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Horizons Middle East &amp; Africa</title>
+    <desc lang="pt">Uma abordagem sobre o rápido crescimento e os grandes negócios que acontecem no Oriente Médio e na África. As informações vinculam os impulsionadores do mercado nos EUA e na Ásia, com análises profundas dos principais negócios.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721050200 -0300" stop="20260721063200 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Daybreak: Europe</title>
+    <desc lang="pt">Confira as manchetes e maiores notícias de negócios antes da abertura dos mercados europeus, direto de Londres.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260722060200 -0300" stop="20260722073200 -0300" channel="Bloomberg HD">
     <title lang="pt">Bloomberg The Opening Trade</title>
     <desc lang="pt">A abertura dos mercados na Europa com análises, histórias e convidados. Apresentado por Anna Edwards, Guy Johnson e Kriti Gupta.</desc>
@@ -33646,6 +34472,202 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260723054200 -0300" stop="20260723071200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Como É Boa Nossa Empregada</title>
+    <desc lang="pt">Comédia em três episódios, todas envolvendo taras com empregadas. Um adolescente conhece a nova copeira; um jovem desenvolve obsessão por domésticas; e um pai repressor se sente atraído pela jovem empregada da família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723071300 -0300" stop="20260723084300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">As Pragas</title>
+    <desc lang="pt">José Mojica Martins, o Zé do Caixão, roga suas famosas pragas sobre os mais diversos alvos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723071700 -0300" stop="20260723084700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Vai Trabalhar, Vagabundo!</title>
+    <desc lang="pt">Dino acabou de deixar a prisão e quer aproveitar a liberdade, revendo os velhos amigos e namoradas. Ele se recusa a trabalhar, preferindo viver na vadiagem. Quando descobre que o local onde jogava sinuca está em baixa, ele elabora um plano: reviver o maior confronto da história da malandragem carioca entre os sinuqueiros Babalu e Russo. Ele só não esperava que os dois jogadores estivessem com seus próprios problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723090200 -0300" stop="20260723103200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A Etnografia da Amizade</title>
+    <desc lang="pt">A vida e a obra do diretor Paulo Cezar Saraceni que, ao lado de Glauber Rocha e Nelson Pereira dos Santos, é considerado um dos precursores do Cinema Novo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723102900 -0300" stop="20260723115900 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Guard Dog &amp; Bill Plympton no Brasil</title>
+    <desc lang="pt">Um ansioso e neurótico cãozinho se desgarra de seu dono Plympton e parte rumo a pequenas aventuras ao chegar no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723103700 -0300" stop="20260723120700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Policarpo Quaresma, Herói do Brasil</title>
+    <desc lang="pt">Policarpo é um patriota chauvinista. Ele tenta encontrar soluções para os problemas brasileiros, utilizando apenas os recursos de seu próprio país. O seu temperamento visionário e idealista está por trás de suas ideias estranhas sobre como construir uma grande nação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723124300 -0300" stop="20260723141300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pílulas Espelho</title>
+    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723124700 -0300" stop="20260723141700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pra Frente Brasil</title>
+    <desc lang="pt">Em 1970, o Brasil vibra com a Seleção Brasileira na Copa do Mundo. Enquanto isso, militantes são torturados por agentes da repressão oficial. Jofre Godoi da Fonseca é um pacato trabalhador de classe média casado com Marta. Miguel, seu irmão, goza dos mesmos privilégios que ele, apesar de amar Mariana, uma guerrilheira de esquerda. Quando Jofre divide um táxi com um militante de esquerda, ele é considerado como subversivo pelos órgãos de repressão, preso e submetido a inúmeras sessões de tortura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723143500 -0300" stop="20260723160500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Guard Dog &amp; Bill Plympton no Brasil</title>
+    <desc lang="pt">Um ansioso e neurótico cãozinho se desgarra de seu dono Plympton e parte rumo a pequenas aventuras ao chegar no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723144200 -0300" stop="20260723161200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maria</title>
+    <desc lang="pt">Maria, quando mais jovem, almejava ser uma grande cantora, mas acabou virando segurança em um edifício público de Brasília. Quando sua filha Elza é selecionada para compor o elenco de um espetáculo musical, ela vê sua paixão pela música ganhar novo fôlego. Para seguir seu sonho, precisa enfrentar seus medos e inseguranças, além da resistência de Oswaldo, seu teimoso marido.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723153200 -0300" stop="20260723170200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+    <desc lang="pt">Confira a incrível saga de uma banda paulistana que gravou, segundo cálculos, cerca de 50 mil músicas em 30 anos de carreira, incluindo hits como Fuscão Preto, É o Amor, Feelings e Domingo Feliz.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723160200 -0300" stop="20260723173200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A História Secreta do Pop Brasileiro</title>
+    <desc lang="pt">Na década de 1970, as lojas de discos passaram a vender milhares de LPs de covers, a maioria sem créditos de músicos. Conheça as histórias por trás de alguns desses LPs.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723162900 -0300" stop="20260723175900 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pílulas Espelho</title>
+    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723163200 -0300" stop="20260723180200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Onça</title>
+    <desc lang="pt">Retrato afetivo de um reencontro familiar no interior do Maranhão. Após a morte da avó, a diretora retorna com a família a Itapecuru-Mirim na Páscoa, revivendo tradições e os laços que fortalecem as culturas locais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723165200 -0300" stop="20260723182200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Destino da Senhora Adelaide</title>
+    <desc lang="pt">Um café da manhã pode mudar toda a vida de Adelaide.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723170200 -0300" stop="20260723183200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <desc lang="pt">O cinema brasileiro em pauta com as novidades e os bastidores da produção nacional, entrevistas com atores e diretores e a cobertura completa de festivais importantes em todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723171700 -0300" stop="20260723184700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Esquinas - Pílulas</title>
+    <desc lang="pt">Reportagens documentais inspiradas na seção homônima da Revista Piauí. Personagens e eventos peculiares são colhidos pelos quatro cantos do país com uma abordagem inovadora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723172800 -0300" stop="20260723185800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Arte na Capa</title>
+    <desc lang="pt">Os bastidores da criação, histórias e curiosidades de capas de discos brasileiros clássicas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723173200 -0300" stop="20260723190200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Amazônia Groove</title>
+    <desc lang="pt">Cruzando a Amazônia Paraense, artistas e tradições musicais que pulsam são revelados em uma região pouco conhecida dos próprios brasileiros. As extraordinárias vidas dos protagonistas e a intangível força do lugar, fruto de antigas culturas, fazem emanar uma sonoridade única.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723190200 -0300" stop="20260723203200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Meu Nome É Bagdá</title>
+    <desc lang="pt">Bagdá é uma skatista de 17 anos, que vive na Freguesia do Ó, um bairro da periferia de São Paulo. Bagdá anda de skate com um grupo de meninos skatistas do bairro e passa boa parte de seu tempo com sua família e as amigas de sua mãe. Juntas, elas formam um grupo de mulheres pouco convencionais. Porém, Bagdá finalmente encontra um grupo de meninas skatistas, e a sua vida muda completamente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723203900 -0300" stop="20260723220900 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pílulas Espelho</title>
+    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723204200 -0300" stop="20260723221200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Amazônia, a Nova Minamata?</title>
+    <desc lang="pt">O povo Munduruku está com altos índices de contaminação por mercúrio, tradicionalmente associado à atividade garimpeira. Mas os médicos enfrentam resistência dos garimpeiros e até do governo brasileiro para poder apresentar os resultados a eles. A história se assemelha à da cidade de Minamata, no Japão, cuja população sofreu sequelas seríssimas no sistema nervoso central devido à contaminação por esse metal, levando muitos à morte e à geração de crianças com má formação congênita.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723220200 -0300" stop="20260723233200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Moacyr Luz, o Embaixador Dessa Cidade</title>
+    <desc lang="pt">Uma estendida conversa de botequim que se encerra em uma roda de samba sob Moacyr Luz.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723234200 -0300" stop="20260724011200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Chico e as Cidades</title>
+    <desc lang="pt">Além do show &quot;As Cidades&quot;, do álbum homônimo de Chico Buarque, o especial, filmado em película, traz cenas captadas no Rio de Janeiro e em Buenos Aires, nas quais o compositor dá depoimentos sobre sua vida e carreira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723010200 -0300" stop="20260723023200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Sonho de Verão</title>
+    <desc lang="pt">Após perder uma filha, casal dono de uma imensa e maravilhosa mansão decide passar um período na Europa. No táxi, a caminho do aeroporto, o motorista Léo resolve tirar partido da situação: ele se hospeda na mansão fingindo ser sobrinho dos velhinhos e ainda leva a namorada e um casal de amigos. Para completar a festa, um ônibus com um grupo de jovens chega ao local e também se instala na casa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723022700 -0300" stop="20260723035700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Os Primeiros Soldados</title>
+    <desc lang="pt">Em Vitória, na virada de 1983, um grupo de jovens LGBTQIA+ celebra o réveillon sem ideia do que se avizinha. O biólogo Suzano sabe que algo de muito terrível começa a transtornar seu corpo. O desespero diante da falta de informação e do futuro incerto aproxima Suzano da artista transexual Rose e do &quot;videomaker&quot; Humberto, igualmente doentes. Juntos, eles tentam sobreviver à primeira onda da epidemia de Aids.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723041400 -0300" stop="20260723054400 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pílulas Espelho</title>
+    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723041700 -0300" stop="20260723054700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Morto Não Fala</title>
+    <desc lang="pt">Stênio é plantonista noturno no necrotério de uma grande e violenta cidade. Em suas madrugadas de trabalho, ele nunca está só, já que possui um dom paranormal de comunicação com os mortos. Quando as confidências que ouve do além revelam segredos de sua própria vida, Stênio desencadeia uma maldição que traz perigo e morte para perto de si e de sua família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260720060200 -0300" stop="20260720073200 -0300" channel="Canal Universitário CNU">
     <title lang="pt">Conecta</title>
     <desc lang="pt">Veja matérias sobre diferentes temas da atualidade, especialmente na área de tecnologia.</desc>
@@ -36832,6 +37854,335 @@
     </rating>
   </programme>
   <programme start="20260722054700 -0300" stop="20260722071700 -0300" channel="$nameFromProvider">
+    <title lang="pt">Panorama 180º</title>
+    <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723054700 -0300" stop="20260723071700 -0300" channel="$nameFromProvider">
+    <title lang="pt">Panorama 180º</title>
+    <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723061500 -0300" stop="20260723074500 -0300" channel="$nameFromProvider">
+    <title lang="pt">Papo Saúde</title>
+    <desc lang="pt">Saúde como qualidade de vida é a proposta do programa que conta com a participação de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723063900 -0300" stop="20260723080900 -0300" channel="$nameFromProvider">
+    <title lang="pt">Pense Verde</title>
+    <desc lang="pt">O programa alerta o público e estimula as práticas ambientais exibindo matérias sobre sustentabilidade, política ambiental, economia verde, energia limpa e soluções ecológicas, com a opinião de quem entende do assunto de forma clara e objetiva.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723070900 -0300" stop="20260723083900 -0300" channel="$nameFromProvider">
+    <title lang="pt">Panorama 180º</title>
+    <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723075000 -0300" stop="20260723092000 -0300" channel="$nameFromProvider">
+    <title lang="pt">Cine Clube</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723081700 -0300" stop="20260723094700 -0300" channel="$nameFromProvider">
+    <title lang="pt">Rumos</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723083400 -0300" stop="20260723100400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723092900 -0300" stop="20260723105900 -0300" channel="$nameFromProvider">
+    <title lang="pt">ABTU</title>
+    <desc lang="pt">Acompanhe a programação da Associação Brasileira de Televisão Universitária.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723100200 -0300" stop="20260723113200 -0300" channel="$nameFromProvider">
+    <title lang="pt">Rumos</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723101900 -0300" stop="20260723114900 -0300" channel="$nameFromProvider">
+    <title lang="pt">Destino: Educação</title>
+    <desc lang="pt">A série mostra como os municípios estão investindo e transformando a educação básica por meio de diferentes experiências. Conheça escolas espalhadas pelo país que abrangem toda a diversidade cultural, geográfica e socioeconômica do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723113600 -0300" stop="20260723130600 -0300" channel="$nameFromProvider">
+    <title lang="pt">Perfil</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723122800 -0300" stop="20260723135800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Palavreado</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723125300 -0300" stop="20260723142300 -0300" channel="$nameFromProvider">
+    <title lang="pt">Papo Saúde</title>
+    <desc lang="pt">Saúde como qualidade de vida é a proposta do programa que conta com a participação de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723131500 -0300" stop="20260723144500 -0300" channel="$nameFromProvider">
+    <title lang="pt">Panorama 180º</title>
+    <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723135700 -0300" stop="20260723152700 -0300" channel="$nameFromProvider">
+    <title lang="pt">Pense Verde</title>
+    <desc lang="pt">O programa alerta o público e estimula as práticas ambientais exibindo matérias sobre sustentabilidade, política ambiental, economia verde, energia limpa e soluções ecológicas, com a opinião de quem entende do assunto de forma clara e objetiva.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723142400 -0300" stop="20260723155400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Canal Unifor</title>
+    <desc lang="pt">Tudo o que acontece de mais importante no campus da Unifor, com temas relacionados ao ensino, pesquisa e extensão, tornando de conhecimento público as ações da Instituição e sua vocação social.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723143800 -0300" stop="20260723160800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Mundos Possíveis</title>
+    <desc lang="pt">Um espaço de visibilidade às iniciativas de empreendedorismo no Ceará, que utilizam da arte e cultura como mecanismos de construção da cidadania, gerando renda e agregando valores regionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723145800 -0300" stop="20260723162800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Cine Clube</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723155400 -0300" stop="20260723172400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Destino: Educação</title>
+    <desc lang="pt">A série mostra como os municípios estão investindo e transformando a educação básica por meio de diferentes experiências. Conheça escolas espalhadas pelo país que abrangem toda a diversidade cultural, geográfica e socioeconômica do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723165600 -0300" stop="20260723182600 -0300" channel="$nameFromProvider">
+    <title lang="pt">Perfil</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723174800 -0300" stop="20260723191800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Palavreado</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723180300 -0300" stop="20260723193300 -0300" channel="$nameFromProvider">
+    <title lang="pt">Papo Saúde</title>
+    <desc lang="pt">Saúde como qualidade de vida é a proposta do programa que conta com a participação de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723191000 -0300" stop="20260723204000 -0300" channel="$nameFromProvider">
+    <title lang="pt">Pense Verde</title>
+    <desc lang="pt">O programa alerta o público e estimula as práticas ambientais exibindo matérias sobre sustentabilidade, política ambiental, economia verde, energia limpa e soluções ecológicas, com a opinião de quem entende do assunto de forma clara e objetiva.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723193200 -0300" stop="20260723210200 -0300" channel="$nameFromProvider">
+    <title lang="pt">Panorama 180º</title>
+    <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723194100 -0300" stop="20260723211100 -0300" channel="$nameFromProvider">
+    <title lang="pt">Canal Unifor</title>
+    <desc lang="pt">Tudo o que acontece de mais importante no campus da Unifor, com temas relacionados ao ensino, pesquisa e extensão, tornando de conhecimento público as ações da Instituição e sua vocação social.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723201400 -0300" stop="20260723214400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Mundos Possíveis</title>
+    <desc lang="pt">Um espaço de visibilidade às iniciativas de empreendedorismo no Ceará, que utilizam da arte e cultura como mecanismos de construção da cidadania, gerando renda e agregando valores regionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723203700 -0300" stop="20260723220700 -0300" channel="$nameFromProvider">
+    <title lang="pt">Cine Clube</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723210800 -0300" stop="20260723223800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Jornal</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723213600 -0300" stop="20260723230600 -0300" channel="$nameFromProvider">
+    <title lang="pt">Ficha Técnica</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723213800 -0300" stop="20260723230800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Logo</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723213900 -0300" stop="20260723230900 -0300" channel="$nameFromProvider">
+    <title lang="pt">Vídeo</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723214700 -0300" stop="20260723231700 -0300" channel="$nameFromProvider">
+    <title lang="pt">Destino: Educação</title>
+    <desc lang="pt">A série mostra como os municípios estão investindo e transformando a educação básica por meio de diferentes experiências. Conheça escolas espalhadas pelo país que abrangem toda a diversidade cultural, geográfica e socioeconômica do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723225000 -0300" stop="20260724002000 -0300" channel="$nameFromProvider">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723230800 -0300" stop="20260724003800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Perfil</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723000000 -0300" stop="20260723013000 -0300" channel="$nameFromProvider">
+    <title lang="pt">Palavreado</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723001500 -0300" stop="20260723014500 -0300" channel="$nameFromProvider">
+    <title lang="pt">Papo Saúde</title>
+    <desc lang="pt">Saúde como qualidade de vida é a proposta do programa que conta com a participação de especialistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723004400 -0300" stop="20260723021400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Panorama 180º</title>
+    <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723012200 -0300" stop="20260723025200 -0300" channel="$nameFromProvider">
+    <title lang="pt">Pense Verde</title>
+    <desc lang="pt">O programa alerta o público e estimula as práticas ambientais exibindo matérias sobre sustentabilidade, política ambiental, economia verde, energia limpa e soluções ecológicas, com a opinião de quem entende do assunto de forma clara e objetiva.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723015300 -0300" stop="20260723032300 -0300" channel="$nameFromProvider">
+    <title lang="pt">Canal Unifor</title>
+    <desc lang="pt">Tudo o que acontece de mais importante no campus da Unifor, com temas relacionados ao ensino, pesquisa e extensão, tornando de conhecimento público as ações da Instituição e sua vocação social.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723022600 -0300" stop="20260723035600 -0300" channel="$nameFromProvider">
+    <title lang="pt">Mundos Possíveis</title>
+    <desc lang="pt">Um espaço de visibilidade às iniciativas de empreendedorismo no Ceará, que utilizam da arte e cultura como mecanismos de construção da cidadania, gerando renda e agregando valores regionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723024800 -0300" stop="20260723041800 -0300" channel="$nameFromProvider">
+    <title lang="pt">Cine Clube</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723031400 -0300" stop="20260723044400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Rumos</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723034400 -0300" stop="20260723051400 -0300" channel="$nameFromProvider">
+    <title lang="pt">Palavreado</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723035600 -0300" stop="20260723052600 -0300" channel="$nameFromProvider">
+    <title lang="pt">ABTU</title>
+    <desc lang="pt">Acompanhe a programação da Associação Brasileira de Televisão Universitária.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723041100 -0300" stop="20260723054100 -0300" channel="$nameFromProvider">
+    <title lang="pt">Perfil</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723051300 -0300" stop="20260723064300 -0300" channel="$nameFromProvider">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723054700 -0300" stop="20260723071700 -0300" channel="$nameFromProvider">
     <title lang="pt">Panorama 180º</title>
     <desc lang="pt">Convidados discutem sobre os mais diversos assuntos da atualidade e de interesse público.</desc>
     <rating system="Brazil">
@@ -41655,6 +43006,174 @@
     </rating>
   </programme>
   <programme start="20260722040200 -0300" stop="20260722053200 -0300" channel="CNN">
+    <title lang="pt">The Story Is With Elex Michaelson</title>
+    <desc lang="pt">Elex Michaelson apresenta as últimas notícias e atualizações sobre questões políticas, apresentando entrevistas detalhadas com figuras políticas importantes e análises semanais de eventos atuais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723060200 -0300" stop="20260723073200 -0300" channel="CNN">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723070200 -0300" stop="20260723083200 -0300" channel="CNN">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723080200 -0300" stop="20260723093200 -0300" channel="CNN">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723090200 -0300" stop="20260723103200 -0300" channel="CNN">
+    <title lang="pt">CNN Headline Express</title>
+    <desc lang="pt">As principais manchetes e as notícias mais comentadas, com atualizações durante todo o dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723100200 -0300" stop="20260723113200 -0300" channel="CNN">
+    <title lang="pt">CNN This Morning</title>
+    <desc lang="pt">Acompanhe a repercussão dos principais acontecimentos notícia em todo o planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723110200 -0300" stop="20260723123200 -0300" channel="CNN">
+    <title lang="pt">CNN News Central</title>
+    <desc lang="pt">Acompanhe as últimas notícias de todo o mundo direto do centro de notícias imersivo da CNN.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723123200 -0300" stop="20260723140200 -0300" channel="CNN">
+    <title lang="pt">World Sport</title>
+    <desc lang="pt">Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os redatores e as estrelas do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723130200 -0300" stop="20260723143200 -0300" channel="CNN">
+    <title lang="pt">Connect the World</title>
+    <desc lang="pt">O programa leva o telespectador a uma jornada que atravessa continentes e vai além das manchetes, incluindo histórias que estão transformando o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723134700 -0300" stop="20260723151700 -0300" channel="CNN">
+    <title lang="pt">World Sport</title>
+    <desc lang="pt">Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os redatores e as estrelas do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723140200 -0300" stop="20260723153200 -0300" channel="CNN">
+    <title lang="pt">Connect the World</title>
+    <desc lang="pt">O programa leva o telespectador a uma jornada que atravessa continentes e vai além das manchetes, incluindo histórias que estão transformando o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723150200 -0300" stop="20260723163200 -0300" channel="CNN">
+    <title lang="pt">One World</title>
+    <desc lang="pt">Zain Asher e Bianna Golodryga trazem as principais questões globais e nacionais do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723160200 -0300" stop="20260723173200 -0300" channel="CNN">
+    <title lang="pt">One World</title>
+    <desc lang="pt">Zain Asher e Bianna Golodryga trazem as principais questões globais e nacionais do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723170200 -0300" stop="20260723183200 -0300" channel="CNN">
+    <title lang="pt">Amanpour</title>
+    <desc lang="pt">A premiada repórter Christiane Amanpour aborda tópicos relevantes para a sociedade e traz convidados especiais para entrevistas - de líderes globais a chefes de estado e ícones culturais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723180200 -0300" stop="20260723193200 -0300" channel="CNN">
+    <title lang="pt">Isa Soares Tonight</title>
+    <desc lang="pt">Isa Soares traz as últimas notícias do dia, selecionando as histórias que importam e explicando exatamente por que elas são importantes para serem discutidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723190200 -0300" stop="20260723203200 -0300" channel="CNN">
+    <title lang="pt">What We Know With Max Foster</title>
+    <desc lang="pt">Max Foster apresenta resumo definitivo das principais notícias do dia, oferecendo contexto essencial dos acontecimentos. O programa faz análise aprofundada das questões que provocam debates em todo o mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723200200 -0300" stop="20260723213200 -0300" channel="CNN">
+    <title lang="pt">Quest Means Business</title>
+    <desc lang="pt">Richard Quest e sua equipe de correspondentes apresentam uma cobertura sobre os últimos acontecimentos na área financeira com enfoque no comércio internacional e tendências do mercado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723213200 -0300" stop="20260723230200 -0300" channel="CNN">
+    <title lang="pt">World Sport</title>
+    <desc lang="pt">Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os redatores e as estrelas do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723220200 -0300" stop="20260723233200 -0300" channel="CNN">
+    <title lang="pt">The Brief With Jim Sciutto</title>
+    <desc lang="pt">O melhor da cobertura da CNN com correspondentes de todo o mundo, para guiar o público global através do ciclo de notícias acelerado com insights, análises e entrevistas impactantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723230200 -0300" stop="20260724003200 -0300" channel="CNN">
+    <title lang="pt">Erin Burnett OutFront</title>
+    <desc lang="pt">O programa cobre os acontecimentos mais importantes do dia. Imagens gravadas por equipes de correspondentes da CNN são apresentadas com discussões e comentários de especialistas convidados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723000200 -0300" stop="20260723013200 -0300" channel="CNN">
+    <title lang="pt">Anderson Cooper 360</title>
+    <desc lang="pt">O espirituoso e cativante apresentador traz sua perspectiva única e inteligente dos principais acontecimentos da atualidade. Alguns convidados do programa incluem analistas políticos e jurídicos, além de personalidades de destaque de diversas áreas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723010200 -0300" stop="20260723023200 -0300" channel="CNN">
+    <title lang="pt">The Source With Kaitlan Collins</title>
+    <desc lang="pt">Kaitlan Collins vai direto à fonte para obter as melhores reportagens do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723020200 -0300" stop="20260723033200 -0300" channel="CNN">
+    <title lang="pt">CNN NewsNight With Abby Phillip</title>
+    <desc lang="pt">Abby Phillip adota uma abordagem inteligente e perspicaz para as maiores histórias do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723030200 -0300" stop="20260723043200 -0300" channel="CNN">
+    <title lang="pt">Laura Coates Live</title>
+    <desc lang="pt">Laura Coates mergulha na história com uma busca implacável pelos fatos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723040200 -0300" stop="20260723053200 -0300" channel="CNN">
     <title lang="pt">The Story Is With Elex Michaelson</title>
     <desc lang="pt">Elex Michaelson apresenta as últimas notícias e atualizações sobre questões políticas, apresentando entrevistas detalhadas com figuras políticas importantes e análises semanais de eventos atuais.</desc>
     <rating system="Brazil">
@@ -50897,6 +52416,258 @@
   <programme start="20260721054000 -0300" stop="20260721071000 -0300" channel="Discovery HD">
     <title lang="pt">Construções no Alasca</title>
     <desc lang="pt">Os Hills se apressam para terminar a instalação do piso, o que provoca um acidente no local. Os Owens enfrentam dificuldades para instalar o piso antes da chegada de uma nevasca que pode soterrá-los.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722054000 -0300" stop="20260722071000 -0300" channel="Discovery HD">
+    <title lang="pt">Construções no Alasca</title>
+    <desc lang="pt">Os Hills se apressam para terminar a instalação do piso, o que provoca um acidente no local. Os Owens enfrentam dificuldades para instalar o piso antes da chegada de uma nevasca que pode soterrá-los.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722062200 -0300" stop="20260722075200 -0300" channel="Discovery HD">
+    <title lang="pt">Construções no Alasca</title>
+    <desc lang="pt">Os Hills trabalham na estrutura do primeiro andar, mas a obra é suspensa quando as ferramentas começam a congelar. Os Owens instalam os frontões do segundo andar. Jackie e sua equipe finalizam o vigamento do telhado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722070300 -0300" stop="20260722083300 -0300" channel="Discovery HD">
+    <title lang="pt">Construções no Alasca</title>
+    <desc lang="pt">Os Owens tentam finalizar o telhado, mas uma nevasca torna o trabalho perigoso. A equipe de Jackie tenta carregar um fogão de 113 quilos até a cabana. Os Hills encontram os materiais enterrados sob a neve.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722074300 -0300" stop="20260722091300 -0300" channel="Discovery HD">
+    <title lang="pt">Construções no Alasca</title>
+    <desc lang="pt">Bob termina a cabana antes de seus primeiros clientes pagantes chegarem. Móveis e outros itens são instalados de última hora. Ele trabalha 16 horas por dia e estoura o orçamento, mas conclui a cabana dos sonhos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722090200 -0300" stop="20260722103200 -0300" channel="Discovery HD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+    <desc lang="pt">Jon e Etta dão os toques finais na casa que construíram em Montana.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722092400 -0300" stop="20260722105400 -0300" channel="Discovery HD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+    <desc lang="pt">Em uma concessão de Montana, dois mineradores novatos contam com Freddy para explorarem antigos túneis e tentarem mudar a sorte da temporada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722100700 -0300" stop="20260722113700 -0300" channel="Discovery HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Tim e Shannon enfrentam exércitos de formigas-de-fogo e vulcões de lama borbulhante na ilha caribenha de Trinidad. Mesmo com as precárias condições locais, sua maior dificuldade é o relacionamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722105400 -0300" stop="20260722122400 -0300" channel="Discovery HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Uma mergulhadora e um fuzileiro naval estão perdidos no mar, ameaçados por ataques de tubarões e os efeitos nocivos de estarem constantemente expostos ao sol, vento e salinidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722114200 -0300" stop="20260722131200 -0300" channel="Discovery HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <desc lang="pt">Dois participantes de &quot;Largados e Pelados&quot;, EJ Snyder e Jeff Zausch, ficam presos no escaldante cerrado brasileiro. Eles precisam sobreviver a um ambiente árido, sem água e comida, e retornar à civilização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722123000 -0300" stop="20260722140000 -0300" channel="Discovery HD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+    <desc lang="pt">Tigre e Rene são abandonados na Amazônia colombiana, uma das florestas mais inacessíveis do planeta. Enfrentando animais peçonhentos, predadores e chuvas constantes, eles têm apenas os objetos encontrados e os recursos naturais para escapar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722132100 -0300" stop="20260722145100 -0300" channel="Discovery HD">
+    <title lang="pt">Ed Stafford - Aventura em Família</title>
+    <desc lang="pt">Ed Stafford, ex-capitão do exército britânico, testa pais e filhos com desafios difíceis em sua escola de sobrevivência extrema.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722140900 -0300" stop="20260722153900 -0300" channel="Discovery HD">
+    <title lang="pt">Ed Stafford - Aventura em Família</title>
+    <desc lang="pt">Ed acredita que a expedição está pronta para seguir os passos dos maias. Eles se embrenham na floresta e passam a noite nela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722145600 -0300" stop="20260722162600 -0300" channel="Discovery HD">
+    <title lang="pt">Vida Remota</title>
+    <desc lang="pt">Uma mãe solteira mora entre dois vulcões ativos. Os Raney procuram soluções contra chuva tóxica, reforçando a segurança, água e jardins na propriedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722163300 -0300" stop="20260722180300 -0300" channel="Discovery HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Tim e Shannon enfrentam exércitos de formigas-de-fogo e vulcões de lama borbulhante na ilha caribenha de Trinidad. Mesmo com as precárias condições locais, sua maior dificuldade é o relacionamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722172000 -0300" stop="20260722185000 -0300" channel="Discovery HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Uma mergulhadora e um fuzileiro naval estão perdidos no mar, ameaçados por ataques de tubarões e os efeitos nocivos de estarem constantemente expostos ao sol, vento e salinidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722180800 -0300" stop="20260722193800 -0300" channel="Discovery HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <desc lang="pt">Dois participantes de &quot;Largados e Pelados&quot;, EJ Snyder e Jeff Zausch, ficam presos no escaldante cerrado brasileiro. Eles precisam sobreviver a um ambiente árido, sem água e comida, e retornar à civilização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722185600 -0300" stop="20260722202600 -0300" channel="Discovery HD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+    <desc lang="pt">Tigre e Rene são abandonados na Amazônia colombiana, uma das florestas mais inacessíveis do planeta. Enfrentando animais peçonhentos, predadores e chuvas constantes, eles têm apenas os objetos encontrados e os recursos naturais para escapar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722194700 -0300" stop="20260722211700 -0300" channel="Discovery HD">
+    <title lang="pt">Ed Stafford - Aventura em Família</title>
+    <desc lang="pt">Ed Stafford, ex-capitão do exército britânico, testa pais e filhos com desafios difíceis em sua escola de sobrevivência extrema.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722203500 -0300" stop="20260722220500 -0300" channel="Discovery HD">
+    <title lang="pt">Ed Stafford - Aventura em Família</title>
+    <desc lang="pt">Ed acredita que a expedição está pronta para seguir os passos dos maias. Eles se embrenham na floresta e passam a noite nela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722212200 -0300" stop="20260722225200 -0300" channel="Discovery HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Chuvas torrenciais e ventos violentos testam os limites físicos de Riley e Kyle na selva hondurenha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722221000 -0300" stop="20260722234000 -0300" channel="Discovery HD">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Max e Bianca enfrentam jacarés agressivos, jiboias, aranhas e manguezais espinhosos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722225800 -0300" stop="20260723002800 -0300" channel="Discovery HD">
+    <title lang="pt">Operação Fronteira - Brasil</title>
+    <desc lang="pt">Jovens são perseguidos após furar barreira da PRF, entre a fronteira com a Argentina e o litoral catarinense; casal é detido na divisa com o Paraguai, acusado de roubar carro; boliviana é flagrada com cocaína escondida em saco de batatas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722232400 -0300" stop="20260723005400 -0300" channel="Discovery HD">
+    <title lang="pt">Operação Fronteira - Brasil</title>
+    <desc lang="pt">Na região da fronteira com o Paraguai, carro foge da PRF e atravessa zona urbana em alta velocidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722235200 -0300" stop="20260723012200 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Bagagem suspeita mobiliza os agentes da Receita Federal em abordagem no desembarque. Comissária é barrada com medicamentos irregulares. No raio-x do porão, mala com imagens suspeitas movimenta a Área Restrita.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722001800 -0300" stop="20260722014800 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Um pacote misterioso nos correios deixa os funcionários em alerta, enquanto um casal se une para tentar driblar as autoridades e agentes abordam passageiro com eletrônicos não declarados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722004500 -0300" stop="20260722021500 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita: Estados Unidos</title>
+    <desc lang="pt">Agentes investigam um acadêmico que retorna da República Dominicana com espécimes mortos. Os agentes recebem uma denúncia sobre um viajante que administra uma casa de massagens ligada ao tráfico sexual. Os agentes interceptam drogas avaliadas em 1 milhão de dólares.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722013000 -0300" stop="20260722030000 -0300" channel="Discovery HD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+    <desc lang="pt">A prisão de Picaleña, na Colômbia, é a quinta do país, com milhares de homens e mulheres presos. É um bunker de alta segurança do qual nenhum prisioneiro conseguiu escapar. Lá, regras estritas determinam a vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722021800 -0300" stop="20260722034800 -0300" channel="Discovery HD">
+    <title lang="pt">Operação Fronteira - Itália</title>
+    <desc lang="pt">Passageiros que não fazem parte da UE não podem trazer produtos lácteos no aeroporto de Veneza.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722030500 -0300" stop="20260722043500 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Polícia realiza operação para flagrar traficantes de drogas dentro do perímetro aeroportuário. O aeroporto de Guarulhos se prepara para receber o Antonov, o maior avião do mundo. A Receita Federal aborda um passageiro com pedras preciosas na mala.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722033100 -0300" stop="20260722050100 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Os agentes da Receita Federal correm contra o tempo para prender um traficante a bordo de um avião que tem como destino o Marrocos. Enquanto isso, a Polícia Federal lida com um caso de fraude de cartão de crédito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722035700 -0300" stop="20260722052700 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Policiais flagram funcionário do aeroporto que furtou protótipo de celular levantando a suspeita de espionagem industrial. Na fila de check-in, um homem é preso tentando embarcar com 3 kg de cocaína escondida no corpo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722042000 -0300" stop="20260722055000 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">De olho em voos que fazem parte da rota do tráfico, policial prende um traficante que poderia ter pena de morte caso fosse flagrado no seu país de destino. No desembarque, agentes da Receita abordam passageiros que tentam burlar a fiscalização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722044600 -0300" stop="20260722061600 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Agentes do Controle Migratório interrogam suspeitos de terrorismo e tráfico humano e descobrem um esquema de coiotes, enquanto a Receita Federal retém uma passageira que chegou com produtos falsificados para comércio ilegal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722051000 -0300" stop="20260722064000 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Agente da Polícia Federal entra em uma caçada frenética pelo seu alvo: uma policial sul-africana agitada que tenta sair do país com 6 kg de cocaína. A Receita Federal apreende centenas de relógios e smartphones não declarados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722053600 -0300" stop="20260722070600 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Agentes da Receita Federal apreendem cargas falsificadas e as enviam para destruição. Na Polícia Federal, alunos estrangeiros do InterCops acompanham uma aula prática de combate ao tráfico que apresenta ótimo resultado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260722060000 -0300" stop="20260722073000 -0300" channel="Discovery HD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+    <desc lang="pt">Receita e Polícia Federal lidam com um grande desafio: se comunicarem com uma passageira chinesa que tenta sair do país com milhares de dólares. A equipe de pista da Receita Federal fiscaliza vários voos nacionais.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -62006,6 +63777,132 @@
   <programme start="20260722030200 -0300" stop="20260722043200 -0300" channel="ESPN HD">
     <title lang="pt">Tour de France 2026</title>
     <desc lang="pt">Couverture en direct de toutes les étapes du Tour de France 2026. Cette année, le Tour part de Barcelone et se termine comme à l&apos;accoutumée sur les Champs-Élysées à Paris.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723060200 -0300" stop="20260723073200 -0300" channel="ESPN HD">
+    <title lang="pt">SportsCenter</title>
+    <desc lang="pt">Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723090200 -0300" stop="20260723103200 -0300" channel="ESPN HD">
+    <title lang="pt">SportsCenter</title>
+    <desc lang="pt">Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723100200 -0300" stop="20260723113200 -0300" channel="ESPN HD">
+    <title lang="pt">SportsCenter</title>
+    <desc lang="pt">Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723110200 -0300" stop="20260723123200 -0300" channel="ESPN HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">Ex-tenista profissional que passou a ocupar cargo executivo de relação com atletas após a aposentadoria, o brasileiro André Sá fala sobre os diferentes momentos da carreira, metas profissionais e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723120200 -0300" stop="20260723133200 -0300" channel="ESPN HD">
+    <title lang="pt">Argentina x Inglaterra</title>
+    <desc lang="pt">Do Estádio Único Madre de Ciudades, em Santiago del Estero, Argentina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723140200 -0300" stop="20260723153200 -0300" channel="ESPN HD">
+    <title lang="pt">Premier League World Beaters</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723143200 -0300" stop="20260723160200 -0300" channel="ESPN HD">
+    <title lang="pt">Goiás x Sport</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723163200 -0300" stop="20260723180200 -0300" channel="ESPN HD">
+    <title lang="pt">SportsCenter</title>
+    <desc lang="pt">Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723183200 -0300" stop="20260723200200 -0300" channel="ESPN HD">
+    <title lang="pt">Premier League World Beaters</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723190200 -0300" stop="20260723203200 -0300" channel="ESPN HD">
+    <title lang="pt">Toronto Blue Jays x Tampa Bay Rays</title>
+    <desc lang="pt">Do Rogers Centre, em Toronto, Canadá.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723220200 -0300" stop="20260723233200 -0300" channel="ESPN HD">
+    <title lang="pt">Premier League Stories</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723223200 -0300" stop="20260724000200 -0300" channel="ESPN HD">
+    <title lang="pt">Road to the Super Bowl</title>
+    <desc lang="pt">Uma retrospectiva anual das melhores imagens e sons da temporada de 2024 da NFL, abrangendo desde os campos de treinamento até os playoffs.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723230200 -0300" stop="20260724003200 -0300" channel="ESPN HD">
+    <title lang="pt">Gotham FC x Seattle Reign</title>
+    <desc lang="pt">Acompanhe as emoções da Liga Americana de Futebol Feminino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723010200 -0300" stop="20260723023200 -0300" channel="ESPN HD">
+    <title lang="pt">Riku Masuda x Daigo Higa</title>
+    <desc lang="pt">Pugilistas se encaram em ringues por todo o planeta nos principais combates da &quot;nobre arte&quot;.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723033200 -0300" stop="20260723050200 -0300" channel="ESPN HD">
+    <title lang="pt">Road to the Super Bowl</title>
+    <desc lang="pt">Uma retrospectiva anual das melhores imagens e sons da temporada de 2024 da NFL, abrangendo desde os campos de treinamento até os playoffs.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723040200 -0300" stop="20260723053200 -0300" channel="ESPN HD">
+    <title lang="pt">NFL Filmes</title>
+    <desc lang="pt">As melhores cenas do NFL Filmes da temporada de 2019 e os melhores jogadores e treinadores em ação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723043200 -0300" stop="20260723060200 -0300" channel="ESPN HD">
+    <title lang="pt">Premier League World Beaters</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260723050200 -0300" stop="20260723063200 -0300" channel="ESPN HD">
+    <title lang="pt">SportsCenter</title>
+    <desc lang="pt">Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -87654,6 +89551,104 @@
   <programme start="20260720043300 -0300" stop="20260720060300 -0300" channel="HBO Plus">
     <title lang="pt">Filme</title>
     <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721043300 -0300" stop="20260721060300 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721061500 -0300" stop="20260721074500 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721080500 -0300" stop="20260721093500 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721102200 -0300" stop="20260721115200 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721115000 -0300" stop="20260721132000 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721135500 -0300" stop="20260721152500 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721155400 -0300" stop="20260721172400 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721181400 -0300" stop="20260721194400 -0300" channel="HBO Plus">
+    <title lang="pt">Mike Tyson - Verdade Fora de Disputa</title>
+    <desc lang="pt">O ex-campeão de pesos pesados Mike Tyson apresenta um honesto e divertido espetáculo dirigido pelo lendário cineasta Spike Lee. Tyson fala sobre os altos e baixos de sua vida, sua juventude, carreira e sua época na prisão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721194200 -0300" stop="20260721211200 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721211100 -0300" stop="20260721224100 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721225700 -0300" stop="20260722002700 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721010200 -0300" stop="20260721023200 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721030000 -0300" stop="20260721043000 -0300" channel="HBO Plus">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260721052000 -0300" stop="20260721065000 -0300" channel="HBO Plus">
+    <title lang="pt">Mike Tyson - Verdade Fora de Disputa</title>
+    <desc lang="pt">O ex-campeão de pesos pesados Mike Tyson apresenta um honesto e divertido espetáculo dirigido pelo lendário cineasta Spike Lee. Tyson fala sobre os altos e baixos de sua vida, sua juventude, carreira e sua época na prisão.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
