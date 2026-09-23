@@ -10609,6 +10609,160 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260924050200 -0300" stop="20260924063200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924070200 -0300" stop="20260924083200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924110200 -0300" stop="20260924123200 -0300" channel="Band Brasília HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924113200 -0300" stop="20260924130200 -0300" channel="Band Brasília HD">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924120200 -0300" stop="20260924133200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924140200 -0300" stop="20260924153200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924150200 -0300" stop="20260924163200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Boa Tarde DF</title>
+    <desc lang="pt">Acompanhe as principais notícias, informações e prestação de serviço no Distrito Federal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924153200 -0300" stop="20260924170200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Análises, debates e as últimas informações do dia a dia do futebol brasileiro e internacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924160200 -0300" stop="20260924173200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924162700 -0300" stop="20260924175700 -0300" channel="Band Brasília HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924173200 -0300" stop="20260924190200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924190200 -0300" stop="20260924203200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924203200 -0300" stop="20260924220200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Brasil Urgente DF</title>
+    <desc lang="pt">Acompanhe as notícias e informações mais atuais do Distrito Federal e arredores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924215200 -0300" stop="20260924232200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924222200 -0300" stop="20260924235200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924233200 -0300" stop="20260925010200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924235700 -0300" stop="20260925012700 -0300" channel="Band Brasília HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924005200 -0300" stop="20260924022200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924014700 -0300" stop="20260924031700 -0300" channel="Band Brasília HD">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">A rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando contra incêndios, combatendo crimes e salvando vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924033200 -0300" stop="20260924050200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924043200 -0300" stop="20260924060200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924050200 -0300" stop="20260924063200 -0300" channel="Band Brasília HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260925050200 -0300" stop="20260925063200 -0300" channel="Band Brasília HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -12019,6 +12173,167 @@
   <programme start="20260925050200 -0300" stop="20260925063200 -0300" channel="Band HD">
     <title lang="pt">Fórmula Band</title>
     <desc lang="pt">Todas as informações e acontecimentos dos principais eventos de automobilismo de 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Band Maceió">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922070200 -0300" stop="20260922083200 -0300" channel="Band Maceió">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922110200 -0300" stop="20260922123200 -0300" channel="Band Maceió">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922112200 -0300" stop="20260922125200 -0300" channel="Band Maceió">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922120200 -0300" stop="20260922133200 -0300" channel="Band Maceió">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922140200 -0300" stop="20260922153200 -0300" channel="Band Maceió">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922150200 -0300" stop="20260922163200 -0300" channel="Band Maceió">
+    <title lang="pt">Jogo Aberto RN</title>
+    <desc lang="pt">As últimas notícias sobre os atletas e equipes do Rio Grande do Norte, do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922152200 -0300" stop="20260922165200 -0300" channel="Band Maceió">
+    <title lang="pt">Boa Tarde RN</title>
+    <desc lang="pt">O jornalístico traz as últimas notícias e informação em tempo real sobre Natal e região.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922160200 -0300" stop="20260922173200 -0300" channel="Band Maceió">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922162700 -0300" stop="20260922175700 -0300" channel="Band Maceió">
+    <title lang="pt">Band Mulher</title>
+    <desc lang="pt">Acompanhe entrevistas e bate-papos com especialistas sobre saúde, moda, beleza e bem-estar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922173200 -0300" stop="20260922190200 -0300" channel="Band Maceió">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922190200 -0300" stop="20260922203200 -0300" channel="Band Maceió">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922203200 -0300" stop="20260922220200 -0300" channel="Band Maceió">
+    <title lang="pt">Brasil Urgente RN</title>
+    <desc lang="pt">Acompanhe notícias do Brasil e da região, com foco em assuntos do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922214700 -0300" stop="20260922231700 -0300" channel="Band Maceió">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922222200 -0300" stop="20260922235200 -0300" channel="Band Maceió">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922233200 -0300" stop="20260923010200 -0300" channel="Band Maceió">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922235700 -0300" stop="20260923012700 -0300" channel="Band Maceió">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922005200 -0300" stop="20260922022200 -0300" channel="Band Maceió">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014200 -0300" stop="20260922031200 -0300" channel="Band Maceió">
+    <title lang="pt">A Prévia</title>
+    <desc lang="pt">Os preparativos, curiosidades e bastidores do MasterChef Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014700 -0300" stop="20260922031700 -0300" channel="Band Maceió">
+    <title lang="pt">MasterChef</title>
+    <desc lang="pt">O Top 5, formado por Carla, Jéssica, Jesuíno, Maria Eduarda e Rodrigo, enfrenta a icônica Caixa Misteriosa em um desafio que coloca em disputa uma vaga na grande final.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040200 -0300" stop="20260922053200 -0300" channel="Band Maceió">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922043200 -0300" stop="20260922060200 -0300" channel="Band Maceió">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Band Maceió">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -18911,6 +19226,174 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Band RJ HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922070200 -0300" stop="20260922083200 -0300" channel="Band RJ HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922110200 -0300" stop="20260922123200 -0300" channel="Band RJ HD">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922113200 -0300" stop="20260922130200 -0300" channel="Band RJ HD">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922120200 -0300" stop="20260922133200 -0300" channel="Band RJ HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922140200 -0300" stop="20260922153200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922150200 -0300" stop="20260922163200 -0300" channel="Band RJ HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922160200 -0300" stop="20260922173200 -0300" channel="Band RJ HD">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922162700 -0300" stop="20260922175700 -0300" channel="Band RJ HD">
+    <title lang="pt">Notícias da Redação</title>
+    <desc lang="pt">Notícias e informações de interesse público do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922163200 -0300" stop="20260922180200 -0300" channel="Band RJ HD">
+    <title lang="pt">Vem com a Gente</title>
+    <desc lang="pt">Programa leve, divertido e informativo para suas tardes com conteúdo recheado de boas histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922172700 -0300" stop="20260922185700 -0300" channel="Band RJ HD">
+    <title lang="pt">Notícias da Redação</title>
+    <desc lang="pt">Notícias e informações de interesse público do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922173200 -0300" stop="20260922190200 -0300" channel="Band RJ HD">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922190200 -0300" stop="20260922203200 -0300" channel="Band RJ HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922203200 -0300" stop="20260922220200 -0300" channel="Band RJ HD">
+    <title lang="pt">Brasil Urgente Rio</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no estado, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922214200 -0300" stop="20260922231200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jornal do Rio</title>
+    <desc lang="pt">O jornal apresenta os principais fatos do dia na capital fluminense e em todo o estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922222200 -0300" stop="20260922235200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922233200 -0300" stop="20260923010200 -0300" channel="Band RJ HD">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922235700 -0300" stop="20260923012700 -0300" channel="Band RJ HD">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922005200 -0300" stop="20260922022200 -0300" channel="Band RJ HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014200 -0300" stop="20260922031200 -0300" channel="Band RJ HD">
+    <title lang="pt">A Prévia</title>
+    <desc lang="pt">Os preparativos, curiosidades e bastidores do MasterChef Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014700 -0300" stop="20260922031700 -0300" channel="Band RJ HD">
+    <title lang="pt">MasterChef</title>
+    <desc lang="pt">O Top 5, formado por Carla, Jéssica, Jesuíno, Maria Eduarda e Rodrigo, enfrenta a icônica Caixa Misteriosa em um desafio que coloca em disputa uma vaga na grande final.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040200 -0300" stop="20260922053200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922043200 -0300" stop="20260922060200 -0300" channel="Band RJ HD">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Band RJ HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260923050200 -0300" stop="20260923063200 -0300" channel="Band RJ HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -19985,6 +20468,160 @@
   <programme start="20260925054700 -0300" stop="20260925071700 -0300" channel="Band Roraima HD">
     <title lang="pt">+ Info</title>
     <desc lang="pt">Reportagens especiais sobre assuntos variados do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922070200 -0300" stop="20260922083200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922110200 -0300" stop="20260922123200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia agrícola, turismo rural, e demais segmentos produtivos do setor rural.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922112200 -0300" stop="20260922125200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Vem com a Gente MA</title>
+    <desc lang="pt">Notícias, entrevistas e cobertura de eventos do estado do Maranhão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922120200 -0300" stop="20260922133200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922140200 -0300" stop="20260922153200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922150200 -0300" stop="20260922163200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Acompanhe as principais notícias do esporte no estado do Maranhão e no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922153200 -0300" stop="20260922170200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Boa Tarde Maranhão</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia, com foco na segurança, transporte, saúde, trabalho e comportamento da população brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922160200 -0300" stop="20260922173200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922173200 -0300" stop="20260922190200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922190200 -0300" stop="20260922203200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922203200 -0300" stop="20260922220200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">Acompanhe as notícias diárias mais importantes do estado do Piauí.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922213200 -0300" stop="20260922230200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Band Eleições - MA</title>
+    <desc lang="pt">Eleições nacionais e regionalizadas da cobertura das eleições de 2026.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922222200 -0300" stop="20260922235200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922233200 -0300" stop="20260923010200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922235700 -0300" stop="20260923012700 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922005200 -0300" stop="20260922022200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014200 -0300" stop="20260922031200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">A Prévia</title>
+    <desc lang="pt">Os preparativos, curiosidades e bastidores do MasterChef Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014700 -0300" stop="20260922031700 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">MasterChef</title>
+    <desc lang="pt">O Top 5, formado por Carla, Jéssica, Jesuíno, Maria Eduarda e Rodrigo, enfrenta a icônica Caixa Misteriosa em um desafio que coloca em disputa uma vaga na grande final.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040200 -0300" stop="20260922053200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922043200 -0300" stop="20260922060200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Band São Luís - TV Maranhão">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -26971,6 +27608,398 @@
   <programme start="20260925053200 -0300" stop="20260925070200 -0300" channel="Bloomberg HD">
     <title lang="pt">Bloomberg Investigates</title>
     <desc lang="pt">Jornalistas de todo o mundo apresentam uma cobertura imersiva de notícias relevantes. Cada história é amplamente pesquisada e narrada por profissionais aclamados, bem como pelas pessoas que a vivem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922060200 -0300" stop="20260922073200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922060700 -0300" stop="20260922073700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Vamos Falar com Deus</title>
+    <desc lang="pt">O programa conforta e eleva o ser humano por meio do ecumenismo. Educa sobre a importância da oração e a necessidade de buscar uma constante ligação com Deus, a fim de que se possa vencer os desafios cotidianos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922070200 -0300" stop="20260922083200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922070700 -0300" stop="20260922083700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Cruzada do Novo Mandamento de Jesus - Reunião da Comunhão com Deus</title>
+    <desc lang="pt">Momento de reflexão e oração para fortalecer seu espírito. Direto da Igreja Ecumênica da Religião de Deus, do Cristo e do Espírito Santo em São Paulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922080200 -0300" stop="20260922093200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922081200 -0300" stop="20260922094200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922083200 -0300" stop="20260922100200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem de Paiva Netto</title>
+    <desc lang="pt">O programa apresenta uma mensagem ecumênica de paz com o presidente da LBV, José de Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922085000 -0300" stop="20260922102000 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">O Assunto É Jesus!</title>
+    <desc lang="pt">O programa reúne a família e estuda temas atuais, com ênfase na contribuição de Jesus Cristo para as diversas áreas do saber espiritual-humano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922090200 -0300" stop="20260922103200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem da Ave, Maria!</title>
+    <desc lang="pt">O programa apresenta preces e súplicas para Maria, mãe de Jesus, com mensagens na voz do saudoso Alziro Zarur, fundador da LBV. Palavras de fé e esperança que promovem a Fraternidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922091200 -0300" stop="20260922104200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">O Assunto É Jesus!</title>
+    <desc lang="pt">O programa reúne a família e estuda temas atuais, com ênfase na contribuição de Jesus Cristo para as diversas áreas do saber espiritual-humano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922100200 -0300" stop="20260922113200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922101200 -0300" stop="20260922114200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">O Poder da Fé Realizante</title>
+    <desc lang="pt">O programa faz um estudo ecumênico do Evangelho-Apocalipse de Jesus à luz de seu Novo Mandamento e também traz reflexões sobre os desafios enfrentados pelas famílias e caminhos para uma vida vitoriosa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922110200 -0300" stop="20260922123200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922111200 -0300" stop="20260922124200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922113200 -0300" stop="20260922130200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem de Paiva Netto</title>
+    <desc lang="pt">O programa apresenta uma mensagem ecumênica de paz com o presidente da LBV, José de Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922113700 -0300" stop="20260922130700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Comando da Esperança</title>
+    <desc lang="pt">Acompanhe a transmissão do programa de rádio, cujo objetivo é ser companhia para toda família e levar uma mensagem de esperança e alto astral por meio de seus quadros, músicas legionárias e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922120200 -0300" stop="20260922133200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922120700 -0300" stop="20260922133700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Comando da Esperança</title>
+    <desc lang="pt">Acompanhe a transmissão do programa de rádio, cujo objetivo é ser companhia para toda família e levar uma mensagem de esperança e alto astral por meio de seus quadros, músicas legionárias e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922130200 -0300" stop="20260922143200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922130700 -0300" stop="20260922143700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Comando da Esperança</title>
+    <desc lang="pt">Acompanhe a transmissão do programa de rádio, cujo objetivo é ser companhia para toda família e levar uma mensagem de esperança e alto astral por meio de seus quadros, músicas legionárias e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922140200 -0300" stop="20260922153200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922140700 -0300" stop="20260922153700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Comando da Esperança</title>
+    <desc lang="pt">Acompanhe a transmissão do programa de rádio, cujo objetivo é ser companhia para toda família e levar uma mensagem de esperança e alto astral por meio de seus quadros, músicas legionárias e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922145000 -0300" stop="20260922162000 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">O Assunto É Jesus!</title>
+    <desc lang="pt">O programa reúne a família e estuda temas atuais, com ênfase na contribuição de Jesus Cristo para as diversas áreas do saber espiritual-humano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922150200 -0300" stop="20260922163200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem da Ave, Maria!</title>
+    <desc lang="pt">O programa apresenta preces e súplicas para Maria, mãe de Jesus, com mensagens na voz do saudoso Alziro Zarur, fundador da LBV. Palavras de fé e esperança que promovem a Fraternidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922151200 -0300" stop="20260922164200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">O Assunto É Jesus!</title>
+    <desc lang="pt">O programa reúne a família e estuda temas atuais, com ênfase na contribuição de Jesus Cristo para as diversas áreas do saber espiritual-humano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922160200 -0300" stop="20260922173200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922161200 -0300" stop="20260922174200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Esportivo</title>
+    <desc lang="pt">As principais notícias do esporte, com entrevistas com jogadores, equipe técnica e reportagens especiais sobre clubes e seleções.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922170200 -0300" stop="20260922183200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922171200 -0300" stop="20260922184200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922173700 -0300" stop="20260922190700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem de Paiva Netto</title>
+    <desc lang="pt">O programa apresenta uma mensagem ecumênica de paz com o presidente da LBV, José de Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922174200 -0300" stop="20260922191200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Boa Vontade Notícias</title>
+    <desc lang="pt">O programa oferece orientações de utilidade pública e também mostra os principais destaques do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922180200 -0300" stop="20260922193200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922180700 -0300" stop="20260922193700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Conexão Jesus</title>
+    <desc lang="pt">Acompanhe uma análise de desafios diários, buscando soluções a partir do Novo Mandamento de Jesus, &quot;o fio milagroso que une as partes anacronicamente separadas do organismo sociedade&quot;, como define Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922190200 -0300" stop="20260922203200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922200200 -0300" stop="20260922213200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922200700 -0300" stop="20260922213700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922205200 -0300" stop="20260922222200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem da Ave, Maria!</title>
+    <desc lang="pt">O programa apresenta preces e súplicas para Maria, mãe de Jesus, com mensagens na voz do saudoso Alziro Zarur, fundador da LBV. Palavras de fé e esperança que promovem a Fraternidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922211200 -0300" stop="20260922224200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922220200 -0300" stop="20260922233200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922221200 -0300" stop="20260922234200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Viver É Melhor</title>
+    <desc lang="pt">O programa reúne especialistas da área médica em prol da educação para a saúde.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922230200 -0300" stop="20260923003200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922231200 -0300" stop="20260923004200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">O Poder da Fé Realizante</title>
+    <desc lang="pt">O programa faz um estudo ecumênico do Evangelho-Apocalipse de Jesus à luz de seu Novo Mandamento e também traz reflexões sobre os desafios enfrentados pelas famílias e caminhos para uma vida vitoriosa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922235200 -0300" stop="20260923012200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem de Paiva Netto</title>
+    <desc lang="pt">O programa apresenta uma mensagem ecumênica de paz com o presidente da LBV, José de Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922000200 -0300" stop="20260922013200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922000700 -0300" stop="20260922013700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Cortando Estradas com Jesus</title>
+    <desc lang="pt">Programa com alto astral apresenta música legionária e conteúdo dedicado aos caminhoneiros e suas famílias. Mostra atividades das Igrejas Familiares da Religião de Divina e traz palavra ecumênica do Irmão Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922010200 -0300" stop="20260922023200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922010700 -0300" stop="20260922023700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Cortando Estradas com Jesus</title>
+    <desc lang="pt">Programa com alto astral apresenta música legionária e conteúdo dedicado aos caminhoneiros e suas famílias. Mostra atividades das Igrejas Familiares da Religião de Divina e traz palavra ecumênica do Irmão Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922020200 -0300" stop="20260922033200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922021200 -0300" stop="20260922034200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Conheça melhor as atividades fraternas da Legião da Boa Vontade, que trabalha por um Brasil melhor e por uma humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922023200 -0300" stop="20260922040200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Mensagem de Paiva Netto</title>
+    <desc lang="pt">O programa apresenta uma mensagem ecumênica de paz com o presidente da LBV, José de Paiva Netto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922023700 -0300" stop="20260922040700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Boa Vontade Notícias</title>
+    <desc lang="pt">O programa oferece orientações de utilidade pública e também mostra os principais destaques do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922030200 -0300" stop="20260922043200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Vamos Falar com Deus</title>
+    <desc lang="pt">O programa conforta e eleva o ser humano por meio do ecumenismo. Educa sobre a importância da oração e a necessidade de buscar uma constante ligação com Deus, a fim de que se possa vencer os desafios cotidianos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040200 -0300" stop="20260922053200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040700 -0300" stop="20260922053700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Vamos Falar com Deus</title>
+    <desc lang="pt">O programa conforta e eleva o ser humano por meio do ecumenismo. Educa sobre a importância da oração e a necessidade de buscar uma constante ligação com Deus, a fim de que se possa vencer os desafios cotidianos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050200 -0300" stop="20260922063200 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">Veja um momento ecumênico de oração que fortalece a alma para buscar soluções aos embates diários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922050700 -0300" stop="20260922063700 -0300" channel="Boa Vontade TV HD">
+    <title lang="pt">Vamos Falar com Deus</title>
+    <desc lang="pt">O programa conforta e eleva o ser humano por meio do ecumenismo. Educa sobre a importância da oração e a necessidade de buscar uma constante ligação com Deus, a fim de que se possa vencer os desafios cotidianos.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -41563,6 +42592,111 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260924044200 -0300" stop="20260924061200 -0300" channel="Cinemax">
+    <title lang="pt">Line Walker 2 - Espião Invisível</title>
+    <desc lang="pt">Um hacker revela corrupção policial que leva três oficiais de Hong Kong a uma perseguição internacional que os obriga a questionar a confiança entre si para descobrir quem é o verdadeiro inimigo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924061800 -0300" stop="20260924074800 -0300" channel="Cinemax">
+    <title lang="pt">Violentos e Furiosos</title>
+    <desc lang="pt">Procurando uma nova história interessante, o repórter do VJ Gukhyun está fascinado com o conto do ex-detetive Giman. Gukhyun o convence a levá-lo junto em sua jornada pela vingança em uma ilha desconhecida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924074800 -0300" stop="20260924091800 -0300" channel="Cinemax">
+    <title lang="pt">Hello Ladies - O Filme</title>
+    <desc lang="pt">Stuart Pritchard quer impressionar sua ex e seu novo marido. Seu plano é simples: apresentar sua namorada ao casal, uma modelo russa que ele mesmo contratou.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924090200 -0300" stop="20260924103200 -0300" channel="Cinemax">
+    <title lang="pt">Cinemax Movie</title>
+    <desc lang="pt">Acompanhe a programação de grandes sucessos do cinema nos canais Cinemax.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924094000 -0300" stop="20260924111000 -0300" channel="Cinemax">
+    <title lang="pt">Ciência Espacial</title>
+    <desc lang="pt">A vida do estudante Hal Hefner está muito confusa. Seus pais se separaram, seu irmão o incomoda sem parar e ele tem uma gagueira terrível. Hal não pode acreditar quando Ginny Ryerson, uma colega muito bonita, lhe convida para entrar no time de debate da escola. Ele topa, já que se apaixona por Ginny, e vai em busca de sua voz perdida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924112400 -0300" stop="20260924125400 -0300" channel="Cinemax">
+    <title lang="pt">T-34 - O Monstro de Metal</title>
+    <desc lang="pt">Durante a Segunda Guerra Mundial, um militar soviético e seus soldados são feitos prisioneiros em solo russo pelos nazistas. Com muita coragem e a bordo de um tanque semidestruído, eles tentam escapar dos invasores alemães.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924134500 -0300" stop="20260924151500 -0300" channel="Cinemax">
+    <title lang="pt">Fahrenheit 451</title>
+    <desc lang="pt">Em uma sociedade do futuro na qual livros são proibidos e queimados, um bombeiro começa a ler em segredo e descobre uma organização rebelde subterrânea engajada em proteger a literatura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924152800 -0300" stop="20260924165800 -0300" channel="Cinemax">
+    <title lang="pt">Código de Conduta</title>
+    <desc lang="pt">Um dos suspeitos do assassinato de sua mulher e filha é solto, e Clyde parte para a vingança decidindo fazer justiça com as próprias mãos. O homem é preso e, dentro da cadeia, organiza uma matança para desmascarar o sistema judicial corrupto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924171600 -0300" stop="20260924184600 -0300" channel="Cinemax">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924193100 -0300" stop="20260924210100 -0300" channel="Cinemax">
+    <title lang="pt">T-34 - O Monstro de Metal</title>
+    <desc lang="pt">Durante a Segunda Guerra Mundial, um militar soviético e seus soldados são feitos prisioneiros em solo russo pelos nazistas. Com muita coragem e a bordo de um tanque semidestruído, eles tentam escapar dos invasores alemães.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924215500 -0300" stop="20260924232500 -0300" channel="Cinemax">
+    <title lang="pt">Fahrenheit 451</title>
+    <desc lang="pt">Em uma sociedade do futuro na qual livros são proibidos e queimados, um bombeiro começa a ler em segredo e descobre uma organização rebelde subterrânea engajada em proteger a literatura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924234000 -0300" stop="20260925011000 -0300" channel="Cinemax">
+    <title lang="pt">Código de Conduta</title>
+    <desc lang="pt">Um dos suspeitos do assassinato de sua mulher e filha é solto, e Clyde parte para a vingança decidindo fazer justiça com as próprias mãos. O homem é preso e, dentro da cadeia, organiza uma matança para desmascarar o sistema judicial corrupto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924013200 -0300" stop="20260924030200 -0300" channel="Cinemax">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924034800 -0300" stop="20260924051800 -0300" channel="Cinemax">
+    <title lang="pt">Correr Riscos</title>
+    <desc lang="pt">Após a morte de um fuzileiro no Iraque, o tenente-coronel Michael Strobl se voluntaria para escoltar o corpo do cabo Chance Phelps ao Wyoming. Na viagem, Strobl conecta-se com uma nação em luto por Phelps e todos os heróis caídos em combate.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924050600 -0300" stop="20260924063600 -0300" channel="Cinemax">
+    <title lang="pt">O Golpe de Ouro</title>
+    <desc lang="pt">Ex-mercenários de Hong Kong se juntam para um golpe: roubar um carregamento de medicamentos a ser doado para um campo de refugiados africanos. Quando finalmente conseguem, descobrem que se trata de ouro: foram enganados por alguém e a missão agora acarreta outros riscos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260925050600 -0300" stop="20260925063600 -0300" channel="Cinemax">
     <title lang="pt">O Golpe de Ouro</title>
     <desc lang="pt">Ex-mercenários de Hong Kong se juntam para um golpe: roubar um carregamento de medicamentos a ser doado para um campo de refugiados africanos. Quando finalmente conseguem, descobrem que se trata de ouro: foram enganados por alguém e a missão agora acarreta outros riscos.</desc>
@@ -46382,6 +47516,314 @@
   <programme start="20260924053200 -0300" stop="20260924070200 -0300" channel="CNT Bahía">
     <title lang="pt">Nosso Tempo</title>
     <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925060200 -0300" stop="20260925073200 -0300" channel="CNT Bahía">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925063200 -0300" stop="20260925080200 -0300" channel="CNT Bahía">
+    <title lang="pt">IURD - Corrente dos 70</title>
+    <desc lang="pt">Reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925070200 -0300" stop="20260925083200 -0300" channel="CNT Bahía">
+    <title lang="pt">A Última Porta</title>
+    <desc lang="pt">O programa leva mensagens de esperança a pessoas com problemas que parecem não ter solução.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925073200 -0300" stop="20260925090200 -0300" channel="CNT Bahía">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925080200 -0300" stop="20260925093200 -0300" channel="CNT Bahía">
+    <title lang="pt">Batalha Espiritual</title>
+    <desc lang="pt">Culto de batalha espiritual apresentado pela Rede Gospel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925083200 -0300" stop="20260925100200 -0300" channel="CNT Bahía">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925090200 -0300" stop="20260925103200 -0300" channel="CNT Bahía">
+    <title lang="pt">Mensagem do Bispo Macedo - Templo</title>
+    <desc lang="pt">Veja a mensagem do Bispo Macedo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925100300 -0300" stop="20260925113300 -0300" channel="CNT Bahía">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925103200 -0300" stop="20260925120200 -0300" channel="CNT Bahía">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925110200 -0300" stop="20260925123200 -0300" channel="CNT Bahía">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925113200 -0300" stop="20260925130200 -0300" channel="CNT Bahía">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925120200 -0300" stop="20260925133200 -0300" channel="CNT Bahía">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925123200 -0300" stop="20260925140200 -0300" channel="CNT Bahía">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925130200 -0300" stop="20260925143200 -0300" channel="CNT Bahía">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925133200 -0300" stop="20260925150200 -0300" channel="CNT Bahía">
+    <title lang="pt">Em Busca do Amor</title>
+    <desc lang="pt">Assuntos da vida sentimental são tratados pelos apresentadores de forma descontraída e espontânea.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925140200 -0300" stop="20260925153200 -0300" channel="CNT Bahía">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Acompanhe depoimentos com casos verídicos de pessoas que superaram seus problemas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925143200 -0300" stop="20260925160200 -0300" channel="CNT Bahía">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925150200 -0300" stop="20260925163200 -0300" channel="CNT Bahía">
+    <title lang="pt">Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925160200 -0300" stop="20260925173200 -0300" channel="CNT Bahía">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925162700 -0300" stop="20260925175700 -0300" channel="CNT Bahía">
+    <title lang="pt">Saindo da Crise</title>
+    <desc lang="pt">Acompanhe as mais novas notícias de economia e dicas para driblar a crise financeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925170200 -0300" stop="20260925183200 -0300" channel="CNT Bahía">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925173200 -0300" stop="20260925190200 -0300" channel="CNT Bahía">
+    <title lang="pt">Vício Tem Cura</title>
+    <desc lang="pt">O programa aborda os vários vícios e busca mostrar caminhos para sair deles, via religião.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925180200 -0300" stop="20260925193200 -0300" channel="CNT Bahía">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925190300 -0300" stop="20260925203300 -0300" channel="CNT Bahía">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925193200 -0300" stop="20260925210200 -0300" channel="CNT Bahía">
+    <title lang="pt">IURD - Corrente dos 70</title>
+    <desc lang="pt">Reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925200200 -0300" stop="20260925213200 -0300" channel="CNT Bahía">
+    <title lang="pt">Saindo da Crise</title>
+    <desc lang="pt">Acompanhe as mais novas notícias de economia e dicas para driblar a crise financeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925203200 -0300" stop="20260925220200 -0300" channel="CNT Bahía">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925210200 -0300" stop="20260925223200 -0300" channel="CNT Bahía">
+    <title lang="pt">IURD - Corrente dos 70</title>
+    <desc lang="pt">Reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925213200 -0300" stop="20260925230200 -0300" channel="CNT Bahía">
+    <title lang="pt">Problemas e Soluções</title>
+    <desc lang="pt">Conheça histórias de desafios superados por meio da espiritualidade e da fé.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925220200 -0300" stop="20260925233200 -0300" channel="CNT Bahía">
+    <title lang="pt">IURD - Corrente dos 70</title>
+    <desc lang="pt">Reuniões inteiramente dedicadas à saúde, falando sobre doenças causadas e alimentadas por um espírito, o Espírito de Enfermidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925223200 -0300" stop="20260926000200 -0300" channel="CNT Bahía">
+    <title lang="pt">Saindo da Crise</title>
+    <desc lang="pt">Acompanhe as mais novas notícias de economia e dicas para driblar a crise financeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925230200 -0300" stop="20260926003200 -0300" channel="CNT Bahía">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">Moisés descobre a verdade sobre sua origem e foge do palácio em busca de Arão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925233200 -0300" stop="20260926010200 -0300" channel="CNT Bahía">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925235700 -0300" stop="20260926012700 -0300" channel="CNT Bahía">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">A saga de Moisés, desde seu nascimento até a chegada de seu povo à Terra Prometida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925002700 -0300" stop="20260925015700 -0300" channel="CNT Bahía">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925010200 -0300" stop="20260925023200 -0300" channel="CNT Bahía">
+    <title lang="pt">CNT Jornal</title>
+    <desc lang="pt">Confira as principais notícias do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925013200 -0300" stop="20260925030200 -0300" channel="CNT Bahía">
+    <title lang="pt">CNT Esporte</title>
+    <desc lang="pt">Acompanhe o bate-papo entre jogadores, técnicos e jornalistas relacionado ao mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925024200 -0300" stop="20260925041200 -0300" channel="CNT Bahía">
+    <title lang="pt">CNT Notícias</title>
+    <desc lang="pt">Acompanhe as notícias mais recentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925030200 -0300" stop="20260925043200 -0300" channel="CNT Bahía">
+    <title lang="pt">A Última Porta</title>
+    <desc lang="pt">O programa leva mensagens de esperança a pessoas com problemas que parecem não ter solução.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925033200 -0300" stop="20260925050200 -0300" channel="CNT Bahía">
+    <title lang="pt">Prosperidade com Deus</title>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925040200 -0300" stop="20260925053200 -0300" channel="CNT Bahía">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925043200 -0300" stop="20260925060200 -0300" channel="CNT Bahía">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas. Conheça histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925050200 -0300" stop="20260925063200 -0300" channel="CNT Bahía">
+    <title lang="pt">A Última Porta</title>
+    <desc lang="pt">O programa leva mensagens de esperança a pessoas com problemas que parecem não ter solução.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925053200 -0300" stop="20260925070200 -0300" channel="CNT Bahía">
+    <title lang="pt">Problemas e Soluções</title>
+    <desc lang="pt">Conheça histórias de desafios superados por meio da espiritualidade e da fé.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -52644,6 +54086,188 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260924054500 -0300" stop="20260924071500 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Pesadelo na Cozinha</title>
+    <desc lang="pt">O chef Erick Jacquin ajuda um casal de proprietários que tem dois restaurantes abertos, mas mal tem estrutura para manter um. As dívidas são muitas e eles já não conseguem pagar o aluguel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924072400 -0300" stop="20260924085400 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Quilos Mortais - Como Eles Estão Agora?</title>
+    <desc lang="pt">Erica precisa voltar à Califórnia para dar continuidade à sua jornada de perda de peso, mas traumas emocionais do passado ameaçam atrapalhar seu progresso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924090200 -0300" stop="20260924103200 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Reforma Total com Nate e Jeremiah</title>
+    <desc lang="pt">Albert prometeu a Anna que transformaria um imóvel no alto de uma colina na casa de seus sonhos, mas três anos depois, a reforma ainda não está concluída. Nate e Jeremiah tentam ajudar Albert a cumprir sua promessa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924094600 -0300" stop="20260924111600 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Julie e seu marido estão ansiosos para se mudar para um imóvel próprio com os dois filhos. Apesar de sua resistência, Drew e Jonathan os convencem a reformar uma casa que atende com perfeição às necessidades da família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924103700 -0300" stop="20260924120700 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">S.O.S. Restaurante</title>
+    <desc lang="pt">Em Ash Fork, Arizona, Robert Irvine ajuda Felicia a administrar um restaurante com problemas. Sem tempo para os filhos e dominada pela culpa, ela começou a negligenciar o negócio e precisa da ajuda de Irvine para recuperá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924112100 -0300" stop="20260924125100 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <desc lang="pt">Entre em um clima musical com quatro confeiteiros artesãos que vão reproduzir o clássico &quot;A Noviça Rebelde&quot; e disputar duas rodadas difíceis para conseguirem o direito de expor um bolo numa grande festa em comemoração ao 50.o aniversário do filme.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924121300 -0300" stop="20260924134300 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">90 Dias para Casar - Antes dos 90 Dias</title>
+    <desc lang="pt">Darcey decifra mensagens confusas de Tom; Ed embrulha presentes para sua rainha; Yolanda tem uma conversa confusa com Williams; Geoffrey inicia sua jornada até a Rússia; os amigos de Lisa se preocupam com sua segurança.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924140000 -0300" stop="20260924153000 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <desc lang="pt">Amy e Chris têm uma discussão séria sobre aumentar a família; Zach e Tori expõem problemas de relacionamento; apesar de não ter conversado com sua família, Matt mergulha em seu plano alternativo para a fazenda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924145500 -0300" stop="20260924162500 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <desc lang="pt">Começa a temporada de abóboras e Matt não sabe se as crianças vêm; Amy e Chris se juntam a Zach e sua família em uma viagem de trailer; Matt mostra a Amy e Chris a casa de fazenda reformada e faz um anúncio surpreendente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924154700 -0300" stop="20260924171700 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Irmãos à Obra - Lar Sempre Lar</title>
+    <desc lang="pt">Os melhores amigos de Drew e Jonathan na faculdade compraram uma casa com muito potencial, mas o estilo anos 1970 precisa de modernização; os irmãos transformam todo o andar principal e deixam o espaço lindo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924163900 -0300" stop="20260924180900 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Irmãos à Obra - Lar Sempre Lar</title>
+    <desc lang="pt">Um casal não tem intenção de sair de sua adorada casa com um belo jardim, mas os acabamentos ultrapassados e a distribuição ruim começam a incomodar. Eles pedem para que Drew e Jonathan equilibrem o layout e melhorem o fluxo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924173100 -0300" stop="20260924190100 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Do Velho ao Novo</title>
+    <desc lang="pt">Keith e Annabeth Morgan adotaram duas meninas recentemente e esperam encontrar uma casa onde sua família possa ter espaço para crescer. A família Gaines tem um design de quarto para criar um espaço especial para as crianças Morgan.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924182500 -0300" stop="20260924195500 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">90 Dias para Casar</title>
+    <desc lang="pt">Anfisa persegue o sonho de se tornar uma modelo famosa, para desgosto de Jorge. Nicole tenta acompanhar Azan durante um passeio romântico no deserto. Chantel revela seu noivado secreto à família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924191900 -0300" stop="20260924204900 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">90 Dias para Casar</title>
+    <desc lang="pt">Anfisa revela suas verdadeiras intenções a Jorge. A mãe de Matt frustra os sonhos de casamento de Alla. Nicole pede conselhos externos sobre Azan. Chantel pede perdão ao irmão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924201100 -0300" stop="20260924214100 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">A vida de Chay nunca foi fácil. Na infância, seus pais costumavam beber e descontar suas frustrações no garoto. Agora, já adulto, ele precisa ajudar a cuidar de sua avó debilitada, mas enfrenta dificuldades até mesmo para tomar banho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924210300 -0300" stop="20260924223300 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">Cindy só sai da cama algumas vezes por dia porque é extremamente doloroso se mexer. Um amigo a pressiona a procurar ajuda para melhorar sua saúde.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924224300 -0300" stop="20260925001300 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Dr. Pimple Popper: Breaking Out</title>
+    <desc lang="pt">A enorme protuberância na omoplata de Jon, que já dura 25 anos, está arruinando seus dias de praia em família e colocando sua saúde em risco; April quer o casamento dos seus sonhos, mas se sente horrível em vestidos de noiva por causa da protuberância na axila; a Dra. Zoe trata da protuberância no antebraço do recém-papai Rondel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924233300 -0300" stop="20260925010300 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Dr. Pimple Popper: Breaking Out</title>
+    <desc lang="pt">Tobi tem dificuldades para voltar ao mundo dos encontros amorosos por causa de protuberâncias em forma de nádegas ao redor da sua coluna; Tia é uma jovem bonita que vive isolada por causa de um enorme e brilhante crescimento no couro cabeludo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924002200 -0300" stop="20260924015200 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
+    <desc lang="pt">Cirurgiã dermatológica transforma vidas ao tratar pacientes com lesões de pele, que afetam não apenas a aparência, mas a autoestima e o bem-estar emocional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924004600 -0300" stop="20260924021600 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
+    <desc lang="pt">A Dra. Caroline assume o retorno com o vendedor Jorge: uma lesão gigantesca no pescoço requer uma grande cirurgia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924011000 -0300" stop="20260924024000 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
+    <desc lang="pt">Um médico precisa descobrir por que um estudante sente falta de ar; um homem cai de um telhado e é empalado por uma pá; um policial sofre um infarto que ameaça a equipe do hospital.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924020000 -0300" stop="20260924033000 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">A Grande Dose - A Revolução do Ozempic</title>
+    <desc lang="pt">Uma análise aprofundada de como um medicamento para diabetes reinventou a cultura da perda de peso e a forma como a obesidade é tratada nos EUA. Um mergulho profundo no mercado global de medicamentos antiobesidade, que explora riscos que as pessoas correm para obter esses medicamentos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924025100 -0300" stop="20260924042100 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Cirurgiões - No Limite da Vida</title>
+    <desc lang="pt">Em anos recentes, intervenções inovadoras têm sido feitas nos primeiros anos para aumentar a expectativa de vida de crianças. Contudo, os riscos são altos e os cirurgiões precisam lidar com a pressão de pais desesperados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924034100 -0300" stop="20260924051100 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">Com quase 300 quilos, Nikki sabe que sua carreira como estilista está ameaçada. Ela se submete a uma cirurgia bariátrica e confronta as causas emocionais de sua compulsão alimentar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924043100 -0300" stop="20260924060100 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">90 Dias para Casar - Sem Censura</title>
+    <desc lang="pt">Andrei faz acusações chocantes contra a cunhada de Elizabeth; Steven e Martine falam sobre conversas sensuais por vídeo; a veterana Paola estreia um novo visual.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924052000 -0300" stop="20260924065000 -0300" channel="Discovery Home & Health HD">
+    <title lang="pt">Pesadelo na Cozinha</title>
+    <desc lang="pt">Jacquin conhece um casal que transferiu uma hamburgueria do interior para a cidade de São Paulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260925052000 -0300" stop="20260925065000 -0300" channel="Discovery Home & Health HD">
     <title lang="pt">Pesadelo na Cozinha</title>
     <desc lang="pt">Jacquin conhece um casal que transferiu uma hamburgueria do interior para a cidade de São Paulo.</desc>
@@ -58174,6 +59798,237 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260924054200 -0300" stop="20260924071200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficinaço</title>
+    <desc lang="pt">Para um ex-profissional de luta livre, não existe maneira melhor para comemorar 50 anos do que restaurando seu clássico Ford Falcon 1965. Para isso, ele confia em Joe Martin e em sua equipe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924063200 -0300" stop="20260924080200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">American Chopper</title>
+    <desc lang="pt">Sênior assume a construção de um memorial do Vietnã, determinado a criar uma motocicleta digna de história; Júnior é contratado pela Martin Guitar para projetar um enorme triciclo reverso, um empreendimento que leva sua equipe ao limite.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924072200 -0300" stop="20260924085200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Um Chevrolet 1941 que passou por diversas oficinas chega a Kindig It Design para um conserto simples na tampa do porta-malas, mas a situação se complica. Apesar de estar cheia, a oficina recebe uma série de carros quebrados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924081200 -0300" stop="20260924094200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Cada centímetro do Mercedes Gul-Wing finalmente foi trabalhado e a saga do carro chega a uma conclusão épica; perguntas e desafios permanecem, incluindo qual cor será a correta e se as portas funcionarão ou não.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924090200 -0300" stop="20260924103200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike decide voltar aos anos 80 e implora por um desconto em um dos carros de seus sonhos. Mas será que ele conseguirá gastar apenas 1.600 dólares na reforma para lucrar?</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924095000 -0300" stop="20260924112000 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">American Chopper</title>
+    <desc lang="pt">A equipe fica sob pressão para terminar a moto em homenagem ao 11 de setembro; Cody quer se vingar de OCC; o relacionamento de Sênior e Júnior está melhor, mas eles discordam sobre a nova empresa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924103800 -0300" stop="20260924120800 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Depois que Richard Rawlings desiste de inscrever a Fired Up Garage numa exposição, a equipe precisa se apressar encontrar um comprador para o carro; uma série de peças incompatíveis causa problemas na oficina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924112600 -0300" stop="20260924125600 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Movidos a Diesel</title>
+    <desc lang="pt">Heavy D pretende transformar um antigo barco vietnamita no primeiro barco de surfe movido a diesel do mundo. Mais tarde, os rapazes viajam para a Califórnia em busca de um raro Ford Excursion.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924121400 -0300" stop="20260924134400 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Bad Chad - Fora do Padrão</title>
+    <desc lang="pt">Chad constrói um elegante carro de corrida da década de 1930 para um torneio de golfe beneficente. Usando um Hupmobile 1935, Chad monta o modelo do zero na esperança de conquistar novos clientes no torneio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924130200 -0300" stop="20260924143200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina RMD</title>
+    <desc lang="pt">Ralph moderniza um Chevy Impala 1958 para ser seu carro. Ao ser chamado para ajudar a apresentar um leilão, ele pede para sua equipe finalizar o veículo antes de ele voltar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924135200 -0300" stop="20260924152200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados - Bastidores</title>
+    <desc lang="pt">A equipe mostra a loucura em que se transforma a oficina da Kindig-it Design durante a construção de 16 veículos arrasadores para o importante evento AutoRama, em Detroit.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924144200 -0300" stop="20260924161200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficinaço</title>
+    <desc lang="pt">Para um ex-profissional de luta livre, não existe maneira melhor para comemorar 50 anos do que restaurando seu clássico Ford Falcon 1965. Para isso, ele confia em Joe Martin e em sua equipe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924153200 -0300" stop="20260924170200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">American Chopper</title>
+    <desc lang="pt">Sênior assume a construção de um memorial do Vietnã, determinado a criar uma motocicleta digna de história; Júnior é contratado pela Martin Guitar para projetar um enorme triciclo reverso, um empreendimento que leva sua equipe ao limite.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924162200 -0300" stop="20260924175200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Um Chevrolet 1941 que passou por diversas oficinas chega a Kindig It Design para um conserto simples na tampa do porta-malas, mas a situação se complica. Apesar de estar cheia, a oficina recebe uma série de carros quebrados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924171200 -0300" stop="20260924184200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Cada centímetro do Mercedes Gul-Wing finalmente foi trabalhado e a saga do carro chega a uma conclusão épica; perguntas e desafios permanecem, incluindo qual cor será a correta e se as portas funcionarão ou não.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924180200 -0300" stop="20260924193200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">O ferro-velho se prepara para sua exposição anual de veículos e Andy precisa terceirizar alguns projetos. Além de consertar seu velho jipe CJ-5 1980, ele ajuda o campeão de dragster Mo Hall a restaurar um Camaro 1969.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924185200 -0300" stop="20260924202200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">4x4 Sob Medida</title>
+    <desc lang="pt">Ian decide transformar um combalido Polaris XP 900 em um carro totalmente diferente. Ele decide alargar as laterais e instalar uma suspensão mais alta para viagens - e isso é só o começo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924191700 -0300" stop="20260924204700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">4x4 Sob Medida</title>
+    <desc lang="pt">Depois de concluir o sistema de transmissão e a suspensão do Polaris 900 XP, é hora de caprichar nos equipamentos de segurança. Ian instala uma gaiola, o banco do motorista e outros acessórios.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924194200 -0300" stop="20260924211200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Bill e a equipe customizam um F350 2017 com menos de 1.000 km rodados. Eles rebaixam a suspensão e instalam um reboque. O dono de um Porsche 911 2014 quer que o esportivo tenha um som à altura de seu design.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924203200 -0300" stop="20260924220200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Depois de uma reforma na década de 1990, uma picape Chevrolet 1955 precisa de uma modernização. A Ekstensive não decepciona e cria uma picape elegante com capô modificado, interior feito à mão e base do motor em madeira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924212200 -0300" stop="20260924225200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Vida Automotiva</title>
+    <desc lang="pt">Caroline Ganho conta a história de seu clássico esportivo brasileiro, o Gol GTS.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924214700 -0300" stop="20260924231700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Vida Automotiva</title>
+    <desc lang="pt">Conheça a história de Dudu Fritz e seu Passat VR6 1995. Fã da VW desde a infância, Dudu conta como conseguiu unir sua paixão pelos carros à sua profissão de soldador graças ao seu Passat com mais de 400 cv.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924221200 -0300" stop="20260924234200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <desc lang="pt">O dono de um Dodge Coronet clássico quer um motor melhorado, então os caras o convencem a usar um motor Toyota 2JZ e uma transmissão moderna da Nissan.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924223700 -0300" stop="20260925000700 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <desc lang="pt">O dono de um GTO não consegue dirigir o carro sem segurar a chave na posição ligada, então os rapazes querem encontrar o problema elétrico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924230200 -0300" stop="20260925003200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike sai à procura do que muitos acreditam ser o último grande Porsche, e encontra o 993 mais barato do país. Será que a dupla conseguirá deixá-lo em forma?</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924235200 -0300" stop="20260925012200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">American Chopper</title>
+    <desc lang="pt">Paul Sênior, Paul Júnior e Mikey doam a motocicleta TEUTUL; Paul Sênior faz uma última pegadinha; os três se lembram dos momentos mais engraçados e tumultuados do programa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924004200 -0300" stop="20260924021200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Thomas encontra um raro AMC AMX 1968 em excelente estado. Como só foram fabricados alguns milhares, a dificuldade de encontrar peças faz deste projeto um dos mais desafiadores até o momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924013200 -0300" stop="20260924030200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Movidos a Diesel</title>
+    <desc lang="pt">Heavy D está concentrado nas modificações feitas em seu barco a diesel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924022200 -0300" stop="20260924035200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Overhaulin&apos;: Os Supercarros</title>
+    <desc lang="pt">Uma veterana condecorada pela Marinha se sente menosprezada quando volta do exterior. Seu companheiro a ajuda a comprar um Mustang para provar seu valor, mas ele sabe que é menos do que ela merece.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924031200 -0300" stop="20260924044200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Carros Irados - A Disputa</title>
+    <desc lang="pt">Dave Kindig e KevDogg buscam os melhores prospectos na fabricação de metal e convidam 12 pessoas para competir por um emprego na oficina Kindig-It Design.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924040200 -0300" stop="20260924053200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike sai à procura do que muitos acreditam ser o último grande Porsche, e encontra o 993 mais barato do país. Será que a dupla conseguirá deixá-lo em forma?</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924045200 -0300" stop="20260924062200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">American Chopper</title>
+    <desc lang="pt">Paul Sênior, Paul Júnior e Mikey doam a motocicleta TEUTUL; Paul Sênior faz uma última pegadinha; os três se lembram dos momentos mais engraçados e tumultuados do programa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924054200 -0300" stop="20260924071200 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Thomas encontra um raro AMC AMX 1968 em excelente estado. Como só foram fabricados alguns milhares, a dificuldade de encontrar peças faz deste projeto um dos mais desafiadores até o momento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260925054200 -0300" stop="20260925071200 -0300" channel="Discovery Turbo HD">
     <title lang="pt">Oficina do Barulho</title>
     <desc lang="pt">Thomas encontra um raro AMC AMX 1968 em excelente estado. Como só foram fabricados alguns milhares, a dificuldade de encontrar peças faz deste projeto um dos mais desafiadores até o momento.</desc>
@@ -62132,6 +63987,139 @@
   <programme start="20260922053200 -0300" stop="20260922070200 -0300" channel="ESPN Extra">
     <title lang="pt">Goiás x Avaí</title>
     <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923053200 -0300" stop="20260923070200 -0300" channel="ESPN Extra">
+    <title lang="pt">Goiás x Avaí</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923073200 -0300" stop="20260923090200 -0300" channel="ESPN Extra">
+    <title lang="pt">San Lorenzo x Boca Juniors</title>
+    <desc lang="pt">Acompanhe as grandes partidas do torneio de elite do futebol argentino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923093200 -0300" stop="20260923110200 -0300" channel="ESPN Extra">
+    <title lang="pt">Show da Rodada do Inglês</title>
+    <desc lang="pt">O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923100200 -0300" stop="20260923113200 -0300" channel="ESPN Extra">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923110200 -0300" stop="20260923123200 -0300" channel="ESPN Extra">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923120200 -0300" stop="20260923133200 -0300" channel="ESPN Extra">
+    <title lang="pt">Milan x Lecce</title>
+    <desc lang="pt">Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923140200 -0300" stop="20260923153200 -0300" channel="ESPN Extra">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Acompanhe um bate-papo com o jogador brasileiro do Manchester City.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923150200 -0300" stop="20260923163200 -0300" channel="ESPN Extra">
+    <title lang="pt">Destaques da Conmebol Libertadores</title>
+    <desc lang="pt">Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a CONMEBOL Libertadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923153200 -0300" stop="20260923170200 -0300" channel="ESPN Extra">
+    <title lang="pt">Destaques da Conmebol Sulamericana</title>
+    <desc lang="pt">Os melhores lances, gols, acontecimentos e destaque na segunda competição mais importante do futebol masculino entre clubes da América do Sul.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923160200 -0300" stop="20260923173200 -0300" channel="ESPN Extra">
+    <title lang="pt">Goiás x Avaí</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923180200 -0300" stop="20260923193200 -0300" channel="ESPN Extra">
+    <title lang="pt">Criciúma x Operário-PR</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923200200 -0300" stop="20260923213200 -0300" channel="ESPN Extra">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Uma previsão sobre os próximos jogos do Campeonato Italiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923203200 -0300" stop="20260923220200 -0300" channel="ESPN Extra">
+    <title lang="pt">Millwall x West Ham</title>
+    <desc lang="pt">Do Estádio The Den, em Londres, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923223200 -0300" stop="20260924000200 -0300" channel="ESPN Extra">
+    <title lang="pt">Wolverhampton x West Bromwich Albion</title>
+    <desc lang="pt">Do Estádio Molineux, em Wolverhampton, Inglaterra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923003200 -0300" stop="20260923020200 -0300" channel="ESPN Extra">
+    <title lang="pt">Show da Rodada do Italiano</title>
+    <desc lang="pt">Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923010200 -0300" stop="20260923023200 -0300" channel="ESPN Extra">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923020200 -0300" stop="20260923033200 -0300" channel="ESPN Extra">
+    <title lang="pt">Las Vegas Aces x Los Angeles Sparks</title>
+    <desc lang="pt">Todas as emoções da principal liga de basquete feminino dos Estados Unidos e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923040200 -0300" stop="20260923053200 -0300" channel="ESPN Extra">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923050200 -0300" stop="20260923063200 -0300" channel="ESPN Extra">
+    <title lang="pt">Yaras - As Guerreiras do Brasil</title>
+    <desc lang="pt">A história completa da Seleção Brasileira de Rugby Feminino e a trajetória das atletas no esporte.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -72790,6 +74778,188 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260924054700 -0300" stop="20260924071700 -0300" channel="Globo Natal">
+    <title lang="pt">L.O.C.A.</title>
+    <desc lang="pt">Em uma das reuniões da L.O.C.A., Liga das Obsessivas Compulsivas por Amor, Manoela, Elena e Rebeca acabam se conhecendo melhor quase por acidente e percebem que possuem mais em comum do que esperavam: as três sofreram grandes decepções amorosas e resolvem se juntar para uma grande vingança.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924070200 -0300" stop="20260924083200 -0300" channel="Globo Natal">
+    <title lang="pt">Hora 1</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924090200 -0300" stop="20260924103200 -0300" channel="Globo Natal">
+    <title lang="pt">Bom Dia da Inter</title>
+    <desc lang="pt">Acompanhe as notícias mais importantes da região.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924113200 -0300" stop="20260924130200 -0300" channel="Globo Natal">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924123200 -0300" stop="20260924140200 -0300" channel="Globo Natal">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta mostra tudo o que rolou em sua estreia na Semana de Moda de Nova York. Roberta Miranda celebra 40 anos de carreira. Adolescente leva centenas de picadas de abelhas em frente à escola em Belo Horizonte. Farmacêutica dá dicas de onde guardar medicamentos sem prejudicar a eficácia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924133700 -0300" stop="20260924150700 -0300" channel="Globo Natal">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924144700 -0300" stop="20260924161700 -0300" channel="Globo Natal">
+    <title lang="pt">Inter 1</title>
+    <desc lang="pt">Jornal que aproxima a comunidade ao conectar fatos locais, serviços e temas de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924160200 -0300" stop="20260924173200 -0300" channel="Globo Natal">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924162700 -0300" stop="20260924175700 -0300" channel="Globo Natal">
+    <title lang="pt">Inter 1</title>
+    <desc lang="pt">Jornal que aproxima a comunidade ao conectar fatos locais, serviços e temas de interesse público.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924163700 -0300" stop="20260924180700 -0300" channel="Globo Natal">
+    <title lang="pt">Globo Esporte RN</title>
+    <desc lang="pt">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924165200 -0300" stop="20260924182200 -0300" channel="Globo Natal">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924180200 -0300" stop="20260924193200 -0300" channel="Globo Natal">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">Emília implora que Lívia se afaste de Vitória. Bento procura Bernardo. Alberto avisa a Emília que só deixará a cidade depois que se encontrar com Vitória. Bento devolve a chave para Rosa e fala que alugou uma casa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924183700 -0300" stop="20260924200700 -0300" channel="Globo Natal">
+    <title lang="pt">Gato de Botas 2 - O Último Pedido</title>
+    <desc lang="pt">O Gato de Botas descobre que sua paixão pela aventura cobra seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924201200 -0300" stop="20260924214200 -0300" channel="Globo Natal">
+    <title lang="pt">Vale a Pena Ver de Novo - Avenida Brasil</title>
+    <desc lang="pt">Max acha que Carminha está tentando colocar ele contra Nina; Jorginho e Nina tentam fazer as pazes e deixar tudo esclarecido; Jorginho não sabe que Tufão está gostando de Nina; Carminha pede o apoio de Nilo e diz que vai recompensá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924212200 -0300" stop="20260924225200 -0300" channel="Globo Natal">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924220700 -0300" stop="20260924233700 -0300" channel="Globo Natal">
+    <title lang="pt">Inter 2</title>
+    <desc lang="pt">Telejornal noturno que reforça a credibilidade da Inter TV, com análises, debates e reportagens sobre a comunidade e a política regional. Cada edição entrega um panorama preciso do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924223700 -0300" stop="20260925000700 -0300" channel="Globo Natal">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924233200 -0300" stop="20260925010200 -0300" channel="Globo Natal">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924235700 -0300" stop="20260925012700 -0300" channel="Globo Natal">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924004700 -0300" stop="20260924021700 -0300" channel="Globo Natal">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924015700 -0300" stop="20260924032700 -0300" channel="Globo Natal">
+    <title lang="pt">Estrelas da Casa</title>
+    <desc lang="pt">Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924025200 -0300" stop="20260924042200 -0300" channel="Globo Natal">
+    <title lang="pt">Que História É Essa, Porchat?</title>
+    <desc lang="pt">Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no centro da plateia, ele convida famosos e anônimos a compartilhar experiências, sejam elas inesquecíveis, engraçadas ou até assustadoras.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924033700 -0300" stop="20260924050700 -0300" channel="Globo Natal">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924042700 -0300" stop="20260924055700 -0300" channel="Globo Natal">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924050700 -0300" stop="20260924063700 -0300" channel="Globo Natal">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260924055200 -0300" stop="20260924072200 -0300" channel="Globo Natal">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260925055200 -0300" stop="20260925072200 -0300" channel="Globo Natal">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
@@ -73633,6 +75803,195 @@
   <programme start="20260922054700 -0300" stop="20260922071700 -0300" channel="Globo Recife">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923054700 -0300" stop="20260923071700 -0300" channel="Globo Recife">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923062700 -0300" stop="20260923075700 -0300" channel="Globo Recife">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923070200 -0300" stop="20260923083200 -0300" channel="Globo Recife">
+    <title lang="pt">Hora 1</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923090200 -0300" stop="20260923103200 -0300" channel="Globo Recife">
+    <title lang="pt">Bom Dia PE</title>
+    <desc lang="pt">Telejornal que apresenta uma cobertura detalhada dos acontecimentos da região nordeste, por meio de um jornalismo dinâmico, com prestação de serviços, entrevistas e entradas ao vivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923113200 -0300" stop="20260923130200 -0300" channel="Globo Recife">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923123200 -0300" stop="20260923140200 -0300" channel="Globo Recife">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta mostra tudo o que rolou em sua estreia na Semana de Moda de Nova York. Roberta Miranda celebra 40 anos de carreira. Adolescente leva centenas de picadas de abelhas em frente à escola em Belo Horizonte. Farmacêutica dá dicas de onde guardar medicamentos sem prejudicar a eficácia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923133700 -0300" stop="20260923150700 -0300" channel="Globo Recife">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923144700 -0300" stop="20260923161700 -0300" channel="Globo Recife">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">Acompanhe as últimas notícias de Pernambuco, além de informações de trânsito e a previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923160200 -0300" stop="20260923173200 -0300" channel="Globo Recife">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923162700 -0300" stop="20260923175700 -0300" channel="Globo Recife">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">Acompanhe as últimas notícias de Pernambuco, além de informações de trânsito e a previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923163700 -0300" stop="20260923180700 -0300" channel="Globo Recife">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As principais notícias esportivas do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923165200 -0300" stop="20260923182200 -0300" channel="Globo Recife">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923180200 -0300" stop="20260923193200 -0300" channel="Globo Recife">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">Emília implora que Lívia se afaste de Vitória. Bento procura Bernardo. Alberto avisa a Emília que só deixará a cidade depois que se encontrar com Vitória. Bento devolve a chave para Rosa e fala que alugou uma casa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923184200 -0300" stop="20260923201200 -0300" channel="Globo Recife">
+    <title lang="pt">Vidas Passadas</title>
+    <desc lang="pt">Um casal de amigos de infância profundamente conectados se separa após a família dela se mudar da Coreia do Sul. Duas décadas depois, a dupla se reencontra em Nova York e confronta noções de destino, amor e escolhas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923201700 -0300" stop="20260923214700 -0300" channel="Globo Recife">
+    <title lang="pt">Vale a Pena Ver de Novo - Avenida Brasil</title>
+    <desc lang="pt">Max acha que Carminha está tentando colocar ele contra Nina; Jorginho e Nina tentam fazer as pazes e deixar tudo esclarecido; Jorginho não sabe que Tufão está gostando de Nina; Carminha pede o apoio de Nilo e diz que vai recompensá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923212200 -0300" stop="20260923225200 -0300" channel="Globo Recife">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923220700 -0300" stop="20260923233700 -0300" channel="Globo Recife">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">As últimas notícias de Pernambuco, além de informações de trânsito e a previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923223700 -0300" stop="20260924000700 -0300" channel="Globo Recife">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923233200 -0300" stop="20260924010200 -0300" channel="Globo Recife">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923235700 -0300" stop="20260924012700 -0300" channel="Globo Recife">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923004700 -0300" stop="20260923021700 -0300" channel="Globo Recife">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923015700 -0300" stop="20260923032700 -0300" channel="Globo Recife">
+    <title lang="pt">Estrelas da Casa</title>
+    <desc lang="pt">Em busca de seus sonhos, artistas talentosos entram nesta casa para formar grupos musicais de sucesso. Cantores de diferentes estilos enfrentam diversas etapas em sua jornada nos palcos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923024200 -0300" stop="20260923041200 -0300" channel="Globo Recife">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923033200 -0300" stop="20260923050200 -0300" channel="Globo Recife">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923041200 -0300" stop="20260923054200 -0300" channel="Globo Recife">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923045700 -0300" stop="20260923062700 -0300" channel="Globo Recife">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923054700 -0300" stop="20260923071700 -0300" channel="Globo Recife">
+    <title lang="pt">L.O.C.A.</title>
+    <desc lang="pt">Em uma das reuniões da L.O.C.A., Liga das Obsessivas Compulsivas por Amor, Manoela, Elena e Rebeca acabam se conhecendo melhor quase por acidente e percebem que possuem mais em comum do que esperavam: as três sofreram grandes decepções amorosas e resolvem se juntar para uma grande vingança.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -92397,6 +94756,139 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260923044700 -0300" stop="20260923061700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Cuiabá x Náutico</title>
+    <desc lang="pt">Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923080200 -0300" stop="20260923093200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Nice x Lille</title>
+    <desc lang="pt">Todas as emoções da principal competição masculina de futebol entre clubes da França: a Ligue 1.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923091700 -0300" stop="20260923104700 -0300" channel="Ideal TV HD">
+    <title lang="pt">World&apos;s Strongest Man</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923100200 -0300" stop="20260923113200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Oitava Etapa - Paris, França</title>
+    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923120200 -0300" stop="20260923133200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Rodada Xsports</title>
+    <desc lang="pt">Análise, informação e bom humor com os principais destaques do futebol nacional. O ponto de encontro de quem respira esporte em um clima descontraído e dinâmico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923133200 -0300" stop="20260923150200 -0300" channel="Ideal TV HD">
+    <title lang="pt">O Melhor da Xsports</title>
+    <desc lang="pt">Os melhores momentos, lances e destaques das grandes transmissões esportivas reunidos diariamente com o que de mais emocionante acontece no mundo dos esportes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923160200 -0300" stop="20260923173200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923162700 -0300" stop="20260923175700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Stuttgart x Borussia Dortmund</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923171700 -0300" stop="20260923184700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Show da Rodada do Alemão</title>
+    <desc lang="pt">O programa traz todos os detalhes da rodada do campeonato alemão com as pontuações dos clubes, gols e lances mais bonitos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923181700 -0300" stop="20260923194700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Semifinal: Flamengo x Paraguai</title>
+    <desc lang="pt">Os principais clubes de futebol do mundo disputam no Canindé, em São Paulo, o torneio de base.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923203200 -0300" stop="20260923220200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Tapete Verde</title>
+    <desc lang="pt">A cobertura pré-jogo e os preparativos finais para grandes partidas de futebol pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923205200 -0300" stop="20260923222200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Semifinal: São Paulo x Real Madrid</title>
+    <desc lang="pt">Os principais clubes de futebol do mundo disputam no Canindé, em São Paulo, o torneio de base.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923230200 -0300" stop="20260924003200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bay FC x Racing Louisville</title>
+    <desc lang="pt">Acompanhe as emoções da Liga Americana de Futebol Feminino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923233200 -0300" stop="20260924010200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923235700 -0300" stop="20260924012700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Bayern de Munique x Union Berlin</title>
+    <desc lang="pt">Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923001700 -0300" stop="20260923014700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Rodada Xsports</title>
+    <desc lang="pt">Análise, informação e bom humor com os principais destaques do futebol nacional. O ponto de encontro de quem respira esporte em um clima descontraído e dinâmico.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923014700 -0300" stop="20260923031700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Ironman Brasil</title>
+    <desc lang="pt">Disputa do maior torneio triatlo do Brasil, dividido em etapas ao redor do país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923034700 -0300" stop="20260923051700 -0300" channel="Ideal TV HD">
+    <title lang="pt">Supercopa da Euroliga de Basquete</title>
+    <desc lang="pt">Ação dos principais times que disputam a maior liga de basquete profissional da Europa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260923053200 -0300" stop="20260923070200 -0300" channel="Ideal TV HD">
+    <title lang="pt">Show da Rodada do Alemão</title>
+    <desc lang="pt">O programa traz todos os detalhes da rodada do campeonato alemão com as pontuações dos clubes, gols e lances mais bonitos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260924053200 -0300" stop="20260924070200 -0300" channel="Ideal TV HD">
     <title lang="pt">Show da Rodada do Alemão</title>
     <desc lang="pt">O programa traz todos os detalhes da rodada do campeonato alemão com as pontuações dos clubes, gols e lances mais bonitos.</desc>
@@ -92631,6 +95123,265 @@
   <programme start="20260925044700 -0300" stop="20260925061700 -0300" channel="Ideal TV HD">
     <title lang="pt">Besiktas x Valencia</title>
     <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922055700 -0300" stop="20260922072700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">People Magazine - Além da Notícia</title>
+    <desc lang="pt">Em janeiro de 2020, uma menonita desaparece de uma comunidade religiosa. Quando o corpo é encontrado, as provas materiais não são conclusivas e os investigadores precisam usar a criatividade para encontrar o assassino.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922064600 -0300" stop="20260922081600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Assassinato de uma Sexta à Noite</title>
+    <desc lang="pt">A família de uma líder de torcida encontra seu corpo no quarto na noite seguinte a um baile de boas-vindas. A polícia conclui que ela conhecia o assassino e passa a investigar uma série de suspeitos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922072900 -0300" stop="20260922085900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Ainda um Mistério</title>
+    <desc lang="pt">Um jovem promissor consegue um emprego longe de casa e desaparece durante uma viagem misteriosa e perigosa com colegas. Depois que a mãe de quatro filhos desaparece, uma das pessoas que a procuram vira um suspeito.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922081800 -0300" stop="20260922094800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Câmera Crime</title>
+    <desc lang="pt">Admirado por seus amigos, Ryne Zahner é uma inspiração para seus alunos de matemática de um colégio no Arizona. Por isso, quando um homem encapuzado executa Zahner a sangue-frio, o crime abala fortemente a comunidade local.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922090200 -0300" stop="20260922103200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">DNA Criminoso</title>
+    <desc lang="pt">Kenneth e Kari Allen pareciam ser irmãos amorosos, até seus pais os separarem. Quando se reencontraram, anos depois, a dupla embarcou em uma onda de mortes e incesto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922094600 -0300" stop="20260922111600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Lobo em Pele de Cordeiro</title>
+    <desc lang="pt">O Dr. John Hamilton e sua esposa, Susan, são bem-sucedidos e respeitados, até serem assassinados em pleno Dia dos Namorados, em Oklahoma. Vídeos inéditos do casal ajudam a esclarecer um crime inesperado e brutal.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922103600 -0300" stop="20260922120600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vivendo com o Inimigo</title>
+    <desc lang="pt">Vickie nem se surpreendeu quando o filho avisou que a polícia poderia aparecer procurando por ele. Mas desta vez ela sentiu que seria diferente. Descubra se há limite para o amor de mãe quando o filho é acusado do mal maior.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922112600 -0300" stop="20260922125600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vidas Destruídas</title>
+    <desc lang="pt">Durante uma discussão de uma mulher com seu marido violento, a filha dela busca refúgio na casa do vizinho. Mas o lugar que ela considera seguro não é o que parece.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922121500 -0300" stop="20260922134500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Assassinatos em Família</title>
+    <desc lang="pt">Os contadores Ed e Maggie Locascio levam uma vida luxuosa em sua mansão em Coral Gables, Flórida. Mas a desconfiança e a infidelidade acabam levando a um trágico assassinato.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922130400 -0300" stop="20260922143400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vivendo com o Inimigo - Sombras da Morte</title>
+    <desc lang="pt">Lisa Reeves não procurava amor quando conheceu Randy Gwathney, mas encontrou derramamento de sangue.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922135400 -0300" stop="20260922152400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Irmãs Perversas</title>
+    <desc lang="pt">Uma disputa de custódia fica mortal quando irmãs gêmeas criam uma complexa conspiração para eliminar alguém em seu caminho, enquanto crianças testemunham o plano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922144400 -0300" stop="20260922161400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Falsidade.com</title>
+    <desc lang="pt">Ashley Pegram desaparece após conhecer um homem por um aplicativo. A investigação se concentra em encontrar o admirador secreto, mas a polícia descobre que ela caiu em uma armadilha planejada por um psicopata.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922153400 -0300" stop="20260922170400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Emboscada</title>
+    <desc lang="pt">Priscilla Strole, de 40 anos, tenta começar uma vida nova quando se muda com o filho adolescente, Kyle, para a pequena cidade de Fairfield, na Califórnia; ela não imagina que a mudança terminará com sua morte precoce.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922161800 -0300" stop="20260922174800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+    <desc lang="pt">Um amado policial é encontrado morto. O que primeiro parece ser o suicídio se transforma em uma investigação de assassinato e os detetives descobrem uma história de amor, luxúria e vingança.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922170800 -0300" stop="20260922183800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Amor Assassino</title>
+    <desc lang="pt">Entediada no casamento, a brilhante cientista Sheila Davalloo começa um caso com o colega de trabalho Nelson Sessler, mas quando ele se interessa por outra colega, o romance de escritório deixa de ser divertido e passa a ser mortalmente perigoso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922175800 -0300" stop="20260922192800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Pecados Mortais</title>
+    <desc lang="pt">Uma mãe monstruosa faz com que os filhos pequenos e seus amigos cometam um assassinato; uma adúltera comete um crime com a ajuda do irmão e da mãe, e todos ficam livres por 30 anos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922184800 -0300" stop="20260922201800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Paixões Perigosas</title>
+    <desc lang="pt">Um casal leva uma vida tranquila, até que o marido convida o amante de sua mulher para visitar o lar dos dois; uma jovem esposa chama a atenção de seu chefe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922193800 -0300" stop="20260922210800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Análise de um Crime</title>
+    <desc lang="pt">Quando o corpo de uma mulher assassinada é encontrado no Golfo do México, os detetives não conseguem identificar a vítima. Trinta anos depois, sua família a reconhece por fotos e clama por justiça.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922202700 -0300" stop="20260922215700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
+    <desc lang="pt">Investigadores de incêndios criminosos encontram o corpo de um homem em uma casa carbonizada no Kentucky. Quando uma segunda vítima é encontrada, o investigador Meroni precisa capturar o assassino antes que ataque novamente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922211600 -0300" stop="20260922224600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Olhos da Lei</title>
+    <desc lang="pt">Três pessoas em situações gravíssimas precisam da ajuda do COPOM.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922214100 -0300" stop="20260922231100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Olhos da Lei</title>
+    <desc lang="pt">Três casos mobilizam o Centro de Operações da Polícia Militar de São Paulo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922220500 -0300" stop="20260922233500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Bodycam - Registros Criminosos</title>
+    <desc lang="pt">Em Pueblo, um suspeito armado atira contra a polícia antes de dar início a uma perseguição perigosa. Em La Vista, um homem fica preso em sua garagem, mas quando a polícia tenta pegá-lo, o local pega fogo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922225500 -0300" stop="20260923002500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Crimes que Viralizaram</title>
+    <desc lang="pt">Um homem foge de seu colega de quarto que empunha um machado; piratas de varanda são flagrados por câmeras arruinando o dia das pessoas; um grupo de adolescentes caça dois ladrões de pacotes; a polícia recebe ajuda de um animal improvável.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922232000 -0300" stop="20260923005000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Crimes que Viralizaram</title>
+    <desc lang="pt">Um pai defende sua família de um grupo de agressores; um entregador de pizza se torna um herói improvável; um idoso armado chega ao limite; um homem Amish embriagado tem um infeliz encontro com a polícia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922234500 -0300" stop="20260923011500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+    <desc lang="pt">Série de documentários mostra o cotidiano de guardas e detentos nas prisões mais difíceis do mundo. Os guardas lutam pela supremacia e os detentos pela sobrevivência. Até mesmo chefes de gangues e assassinos aprendem o significado do medo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922002900 -0300" stop="20260922015900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Ronda Policial</title>
+    <desc lang="pt">Em Illinois, uma medida protetiva toma um rumo dramático quando um homem ameaça matar policiais; policiais da Flórida perseguem um espreitador; no Novo México, um motorista embriagado é preso, sob protestos da namorada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922005400 -0300" stop="20260922022400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Ronda Policial</title>
+    <desc lang="pt">A polícia é chamada para lidar com um vizinho intrometido; uma perseguição em um pântano termina com a confissão do criminoso dentro da viatura; uma mulher fica furiosa quando o namorado é preso pela polícia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922011800 -0300" stop="20260922024800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Confissões de um Crime</title>
+    <desc lang="pt">Em Ohio, Judy e Jaden socorrem Michael depois que ele se machuca; na Louisiana, Tina e Darnell prendem Mick; na Carolina do Norte, o fugitivo de John e Kay, James, insiste que batom é feito de sangue de galinha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922014100 -0300" stop="20260922031100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Confissões de um Crime</title>
+    <desc lang="pt">John e Kay prendem Brandon, que insiste em sua inocência; em Minnesota, Reggie e Garrett prendem Ashley, que culpa o sistema; em Memphis, Tony e Harvey descobrem que o fugitivo deles, Demarcus, é um ex-jogador de beisebol.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922020400 -0300" stop="20260922033400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Policial Bom, Policial Mau</title>
+    <desc lang="pt">A polícia de Jacksonville, Flórida, encontra o corpo de Sami Safar, mas ainda não imagina a magnitude do crime organizado que está por trás. O assassinato do trabalhador imigrante sírio revela uma rede de roubos e crimes que se estende por anos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922025300 -0300" stop="20260922042300 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Fúria no Trânsito</title>
+    <desc lang="pt">Um homem furioso persegue outro motorista; um idoso faz a viagem mais insana de sua vida em uma rodovia; um casal aponta uma pistola para outro motorista.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922031800 -0300" stop="20260922044800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Fúria no Trânsito</title>
+    <desc lang="pt">Um motorista furioso persegue outro carro; um vizinho irritado se descontrola; um atirador furioso ameaça outro motorista; um motociclista passa por uma situação arriscada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922034200 -0300" stop="20260922051200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Pelados e Condenados</title>
+    <desc lang="pt">Em Houston, um homem nu ataca passageiros com pesticidas; na Carolina do Norte, uma mulher nua rouba a viatura de um policial - e desaparece em seguida; em Miami, um frequentador da praia tenta roubar um jet ski.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040700 -0300" stop="20260922053700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Pelados e Condenados</title>
+    <desc lang="pt">Um elenco colorido de infratores nus no sul inclui um invasor de residência brandindo um facão, uma viatura policial roubada, um motorista sem calças que brinca com os policiais, e um ícone do país completamente nu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922043100 -0300" stop="20260922060100 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">De luto pela morte da mãe, Annie e Jessica Andrews fazem uma sessão espírita em casa para tentar entrar em contato com ela. Pouco depois, coisas estranhas começam a acontecer.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922051500 -0300" stop="20260922064500 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Mentiras Criminosas</title>
+    <desc lang="pt">Jenny Webb, de 32 anos, não volta para casa no estado de Michigan. Seus parentes se preocupam, pois a futura mamãe está a poucas semanas de dar à luz. Mais tarde, os piores temores de todos são confirmados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922055900 -0300" stop="20260922072900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">People Magazine - Além da Notícia</title>
+    <desc lang="pt">Em 2011, um homem encontra sua mulher morta na sala. Ele alega que foi suicídio, mas a polícia logo conclui que ela foi assassinada. A investigação revela um dos crimes premeditados mais revoltantes da história recente.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -95046,6 +97797,104 @@
   <programme start="20260925045200 -0300" stop="20260925062200 -0300" channel="Max Up">
     <title lang="pt">Apostas &amp; Segredos</title>
     <desc lang="pt">Muriel e o marido Lee estão prestes a começarem uma nova vida, mas são surpreendidos pela chegada do irmão de Lee. Muriel passa a viver uma vida secreta, apostando em cavalos de corrida e descobrindo um amor que ela nunca imaginou ser possível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922053700 -0300" stop="20260922070700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922081700 -0300" stop="20260922094700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922101700 -0300" stop="20260922114700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922122200 -0300" stop="20260922135200 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922140200 -0300" stop="20260922153200 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922160700 -0300" stop="20260922173700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922175200 -0300" stop="20260922192200 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922193200 -0300" stop="20260922210200 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922210700 -0300" stop="20260922223700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922230200 -0300" stop="20260923003200 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922004700 -0300" stop="20260922021700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922022700 -0300" stop="20260922035700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922040200 -0300" stop="20260922053200 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260922055700 -0300" stop="20260922072700 -0300" channel="Maxprime*e">
+    <title lang="pt">Filme</title>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -117891,6 +120740,34 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20260925010200 -0300" stop="20260925023200 -0300" channel="Premiere 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925090200 -0300" stop="20260925103200 -0300" channel="Premiere 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925170200 -0300" stop="20260925183200 -0300" channel="Premiere 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925010200 -0300" stop="20260925023200 -0300" channel="Premiere 3">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20260922010200 -0300" stop="20260922023200 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Premiere 3</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
@@ -124635,6 +127512,188 @@
   <programme start="20260924055200 -0300" stop="20260924072200 -0300" channel="RBS TV Florianópolis">
     <title lang="pt">Vai que Cola</title>
     <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925055200 -0300" stop="20260925072200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Vai que Cola</title>
+    <desc lang="pt">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925070200 -0300" stop="20260925083200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Hora 1</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925090200 -0300" stop="20260925103200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Bom Dia SC</title>
+    <desc lang="pt">As notícias mais importantes do dia. Tudo sobre economia, política, serviço, entrevistas, saúde e cultura, esporte além da previsão do tempo. Um telejornal dinâmico que conta com comentários diferenciados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925095200 -0300" stop="20260925112200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Austrália x Brasil</title>
+    <desc lang="pt">Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925120700 -0300" stop="20260925133700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925124700 -0300" stop="20260925141700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta mostra tudo o que rolou em sua estreia na Semana de Moda de Nova York. Roberta Miranda celebra 40 anos de carreira. Adolescente leva centenas de picadas de abelhas em frente à escola em Belo Horizonte. Farmacêutica dá dicas de onde guardar medicamentos sem prejudicar a eficácia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925134200 -0300" stop="20260925151200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925144700 -0300" stop="20260925161700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925160200 -0300" stop="20260925173200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925162700 -0300" stop="20260925175700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos gaúchos, como trânsito e previsão do tempo no estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925163700 -0300" stop="20260925180700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Globo Esporte SC</title>
+    <desc lang="pt">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925165200 -0300" stop="20260925182200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925180200 -0300" stop="20260925193200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Além do Tempo - Edição Especial</title>
+    <desc lang="pt">Emília implora que Lívia se afaste de Vitória. Bento procura Bernardo. Alberto avisa a Emília que só deixará a cidade depois que se encontrar com Vitória. Bento devolve a chave para Rosa e fala que alugou uma casa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925183700 -0300" stop="20260925200700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">80 for Brady - Quatro Amigas e uma Paixão</title>
+    <desc lang="pt">Quatro melhores amigas fazem uma viagem inesquecível para ver Tom Brady jogar no Super Bowl.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925201200 -0300" stop="20260925214200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Vale a Pena Ver de Novo - Avenida Brasil</title>
+    <desc lang="pt">Max acha que Carminha está tentando colocar ele contra Nina; Jorginho e Nina tentam fazer as pazes e deixar tudo esclarecido; Jorginho não sabe que Tufão está gostando de Nina; Carminha pede o apoio de Nilo e diz que vai recompensá-lo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925212200 -0300" stop="20260925225200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925220700 -0300" stop="20260925233700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">NSC Notícias</title>
+    <desc lang="pt">Os assuntos do dia e uma prévia do que será manchete no dia seguinte nas áreas de política, economia, consumo, serviço, esporte, polícia, comportamento e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925223700 -0300" stop="20260926000700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925233200 -0300" stop="20260926010200 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Propaganda Eleitoral</title>
+    <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925235700 -0300" stop="20260926012700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925004700 -0300" stop="20260925021700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, ela vai parar em um abrigo. Lá, Adriana cruza pela primeira vez com o caminho de Pedro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925015700 -0300" stop="20260925032700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925030700 -0300" stop="20260925043700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">This Is Us - Histórias de Família</title>
+    <desc lang="pt">Beth e Randall se adaptam à vida na Filadélfia; Jack e Rebecca levam seus filhos para a piscina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925035700 -0300" stop="20260925052700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925044700 -0300" stop="20260925061700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Omar avisa que conseguiu cancelar as passagens. Casemiro revela que expulsou Mirinho de casa, e Marta se espanta. Ritinha presenteia Diógenes com desenho feito por ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20260925052700 -0300" stop="20260925065700 -0300" channel="RBS TV Florianópolis">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a última promessa que lhe fez nos minutos finais de vida.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
