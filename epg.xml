@@ -70935,6 +70935,433 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20261026053700 -0300" stop="20261026070700 -0300" channel="Futura HD">
+    <title lang="pt">Tem Clima pra Isso?</title>
+    <desc lang="pt">Inspirados no conceito de Pacha Mama, a relação com a terra, saberes ancestrais e o papel de mulheres e LGBTQIAP+.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026061700 -0300" stop="20261026074700 -0300" channel="Futura HD">
+    <title lang="pt">Futurando</title>
+    <desc lang="pt">Conheça projetos inovadores desenvolvidos ao redor do mundo e as pessoas que estão por trás dessas iniciativas. Os temas são variados: pesquisas espaciais, inovações da medicina e esforços para criar metrópoles sustentáveis.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026064700 -0300" stop="20261026081700 -0300" channel="Futura HD">
+    <title lang="pt">Desafio nas Escolas</title>
+    <desc lang="pt">Diversos Estudantes retomam sala de artes com breaking para criarem apresentação em mostra de dança.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026070200 -0300" stop="20261026083200 -0300" channel="Futura HD">
+    <title lang="pt">Conexão</title>
+    <desc lang="pt">Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026073200 -0300" stop="20261026090200 -0300" channel="Futura HD">
+    <title lang="pt">Mutirão Saúde</title>
+    <desc lang="pt">Valéria, 55 anos, agricultora orgânica, enfrenta hipertensão e pré-diabetes. A equipe busca ajustar sua dieta e incluir atividades físicas mais frequentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026080200 -0300" stop="20261026093200 -0300" channel="Futura HD">
+    <title lang="pt">Brasil da Paz</title>
+    <desc lang="pt">A juventude deve ser ouvida na construção de uma cultura de paz. Uma ativista fomenta o engajamento social juvenil, enquanto outra encontra no slam sua plataforma de mobilização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026083200 -0300" stop="20261026100200 -0300" channel="Futura HD">
+    <title lang="pt">Deu Bola</title>
+    <desc lang="pt">O Brasil contemporâneo visto através do futebol. Uma série feita para quem gosta de futebol e também para quem quer ver o Brasil por outros olhos. Com linguagem moderna, pontuada por reflexões cinematográficas e culturais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026090200 -0300" stop="20261026103200 -0300" channel="Futura HD">
+    <title lang="pt">A(u)tores</title>
+    <desc lang="pt">Beth Goulart, filha de artistas, interpretou Clarice Lispector nos palcos e compartilha sua jornada, lendo trechos da obra da escritora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026093200 -0300" stop="20261026110200 -0300" channel="Futura HD">
+    <title lang="pt">Manual de Sobrevivência para o Século 21</title>
+    <desc lang="pt">Marcos visita escolas com projetos sustentáveis, aprende sobre moda ecológica, abelhas e fraldas verdes. A educação transforma.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026100200 -0300" stop="20261026113200 -0300" channel="Futura HD">
+    <title lang="pt">O Dia em que me Tornei Mais Forte</title>
+    <desc lang="pt">Histórias fortes e típicas de meninas e meninos que descrevem como superaram os desafios.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026100700 -0300" stop="20261026113700 -0300" channel="Futura HD">
+    <title lang="pt">Tuiga</title>
+    <desc lang="pt">Tuiga está à beira do burnout quando chega o Dia da Girafa, uma data em que as girafas são obrigadas a relaxar. Amélia e Taco têm que dar conta das entregas. Tuiga relembra como é bom fazer uma pausa. Canjica descobre que as girafas sabem viver.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026101200 -0300" stop="20261026114200 -0300" channel="Futura HD">
+    <title lang="pt">Tuiga</title>
+    <desc lang="pt">A entrega do dia é um pacote de medalhas para uma competição inusitada: galinhas fazendo gols. Tuiga conhece Ana Ronalda, uma galinha super atleta que vai dar boas dicas de treinamento para Taco.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026101700 -0300" stop="20261026114700 -0300" channel="Futura HD">
+    <title lang="pt">Missão 347</title>
+    <desc lang="pt">Kira está na missão de catalogar flores terráqueas, mas Arlo, como sempre, atrapalha a irmã. Logo eles são surpreendidos por um fruto estranho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026102700 -0300" stop="20261026115700 -0300" channel="Futura HD">
+    <title lang="pt">Contos do Iéti</title>
+    <desc lang="pt">Leon cuida com muito carinho de suas flores-de-baunilha, que são, na verdade, narcisos. É importante conversar com as plantas, então, uma história certamente vai ajudar no crescimento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026103200 -0300" stop="20261026120200 -0300" channel="Futura HD">
+    <title lang="pt">Contos do Iéti</title>
+    <desc lang="pt">Nina e Leon pregam uma peça em Yeti com um cogumelo, o que lhe dá uma ideia para a história do dia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026104200 -0300" stop="20261026121200 -0300" channel="Futura HD">
+    <title lang="pt">Tainá e os Guardiões da Amazônia</title>
+    <desc lang="pt">Antônio, o filhote de anta, não quer tomar banho de jeito nenhum, e Tainá e seus amigos são chamados para ajudar. Só que Antônio é um porcalhão nato e adora brincar na lama, dando um baile em Tainá e seus amigos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026105200 -0300" stop="20261026122200 -0300" channel="Futura HD">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis</title>
+    <desc lang="pt">Leco desiste de jogar xadrez porque o jogo possui muitas regras. Mytikah aparece e leva ele e Manga para conhecer Toussaint Louverture, que lidera o único levante de pessoas escravizadas que resultou em uma nação livre, o Haiti.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026110200 -0300" stop="20261026123200 -0300" channel="Futura HD">
+    <title lang="pt">Quintal TV</title>
+    <desc lang="pt">O programa fala sobre o conceito de família, suas diversas formas e significados, celebrando a importância dos laços que realmente importam e a beleza da diversidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026111700 -0300" stop="20261026124700 -0300" channel="Futura HD">
+    <title lang="pt">Tuca, o Mestre Cuca</title>
+    <desc lang="pt">Pri fica com ciúmes de toda a atenção que Tuca recebe dos amigos e da vó Maga, que, dessa vez, sugere batatas ao murro. Mas chegam novas cartas da avó dizendo que a turma deve esquecer as comidas e obedecer às ordens de Pri, o centro das atenções.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026112700 -0300" stop="20261026125700 -0300" channel="Futura HD">
+    <title lang="pt">Tuca, o Mestre Cuca</title>
+    <desc lang="pt">Tuca leva a culinária muito a sério e não gosta quando Pri, Jonas e Olívia brincam com os macarrões que têm formatos engraçados, como o parafuso ou a gravata. Com a ajuda da mãe, ele descobre que a paixão a sério não significa deixar de se divertir.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026113200 -0300" stop="20261026130200 -0300" channel="Futura HD">
+    <title lang="pt">O Dia em que me Tornei Mais Forte</title>
+    <desc lang="pt">Histórias fortes e típicas de meninas e meninos que descrevem como superaram os desafios.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026113700 -0300" stop="20261026130700 -0300" channel="Futura HD">
+    <title lang="pt">Comer, Beber e Aprender</title>
+    <desc lang="pt">Helena e sua mãe conhecem um produtor de mel e visitam as colmeias. Ela colhe o mel e aprende a fazer a receita local com pimenta: doce, ardente e inesquecível.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026120200 -0300" stop="20261026133200 -0300" channel="Futura HD">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis</title>
+    <desc lang="pt">Manga e Leco estão brincando quando Mytikah os leva para a Argentina para conhecer Olga Cossettini, uma professora que realiza atividades que envolvem a escola e a comunidade. Ela ensina que aprender pode ser muito divertido.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026121700 -0300" stop="20261026134700 -0300" channel="Futura HD">
+    <title lang="pt">Tuiga</title>
+    <desc lang="pt">A equipe Tuiga está apavorada com a entrega para um peixe dragão do mar, que só pode ser um monstro. Nas profundezas, eles vão descobrir que os peixes abissais, assustadores à primeira vista, são ótimos companheiros de jogatina.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026122700 -0300" stop="20261026135700 -0300" channel="Futura HD">
+    <title lang="pt">Tainá e os Guardiões da Amazônia</title>
+    <desc lang="pt">Uru, o filho de Uirapuru, não quer cantar na Árvore dos Uirapurus. Para ele, após séculos de existência, a árvore está caindo. Além disso, ele quer mostrar o seu canto moderno e cheio de ginga.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026123200 -0300" stop="20261026140200 -0300" channel="Futura HD">
+    <title lang="pt">Missão 347</title>
+    <desc lang="pt">Kira está na missão de catalogar flores terráqueas, mas Arlo, como sempre, atrapalha a irmã. Logo eles são surpreendidos por um fruto estranho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026124200 -0300" stop="20261026141200 -0300" channel="Futura HD">
+    <title lang="pt">Matemágica</title>
+    <desc lang="pt">O matemático Eric demonstra a incrível potência do número dois, mostra o desafio da data de aniversário e pergunta sobre quadrados e retângulos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026125200 -0300" stop="20261026142200 -0300" channel="Futura HD">
+    <title lang="pt">Matemágica</title>
+    <desc lang="pt">O matemágico Eric surpreende com seus incríveis poderes de estimativa, ensina um truque para ler mentes e mostra que temos de altura sete de nossos próprios pés.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026130200 -0300" stop="20261026143200 -0300" channel="Futura HD">
+    <title lang="pt">Tem Clima pra Isso?</title>
+    <desc lang="pt">Inspirados no conceito de Pacha Mama, a relação com a terra, saberes ancestrais e o papel de mulheres e LGBTQIAP+.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026133200 -0300" stop="20261026150200 -0300" channel="Futura HD">
+    <title lang="pt">Hora de Agir</title>
+    <desc lang="pt">Na 10.ª edição do Caminho da Inovação das Águas do Tejo Atlântico, o foco é a preservação hídrica. Em meio à crise climática, debatem-se a disponibilidade da água, a segurança e a resiliência das infraestruturas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026140200 -0300" stop="20261026153200 -0300" channel="Futura HD">
+    <title lang="pt">Sou Carimbó</title>
+    <desc lang="pt">Uma das principais características do ritmo Carimbó é a riqueza de seus instrumentos. A sonoridade e origem deles ganham nos relatos de músicos uma musicalidade diferenciada e com ritmo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026143200 -0300" stop="20261026160200 -0300" channel="Futura HD">
+    <title lang="pt">Da Nascente à Foz</title>
+    <desc lang="pt">A transposição do Rio São Francisco leva água para a caatinga. Logo abaixo, os Kariri-Xocó vivem uma estiagem contínua. Na sua foz, este rio que outrora empurrava o mar, agoniza em silêncio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026150200 -0300" stop="20261026163200 -0300" channel="Futura HD">
+    <title lang="pt">Eco Brasil</title>
+    <desc lang="pt">Em uma visita aos Karipunas, o programa apresenta um leque de possibilidades na Amazônia, a floresta que tem a maior área de vegetação tropical do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026153200 -0300" stop="20261026170200 -0300" channel="Futura HD">
+    <title lang="pt">Mutirão Saúde</title>
+    <desc lang="pt">Valéria, 55 anos, agricultora orgânica, enfrenta hipertensão e pré-diabetes. A equipe busca ajustar sua dieta e incluir atividades físicas mais frequentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026160200 -0300" stop="20261026173200 -0300" channel="Futura HD">
+    <title lang="pt">Caça Joia - Clipes</title>
+    <desc lang="pt">Neste episódio, Chinaina apresenta Felipe S. &amp; Barbarelli, Fitti, Ava, Nicolas Geraldi, Amanda Magalhães, Gabriê e Kristal Werner.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026170200 -0300" stop="20261026183200 -0300" channel="Futura HD">
+    <title lang="pt">Natureza Forte</title>
+    <desc lang="pt">No Sertão, o teatro se torna resistência. Em Exu, jovens artistas quebram barreiras culturais com a Cia Traquejo, enquanto em Petrolina, a Cia Biruta transforma a arte em ferramenta de mudança social e empoderamento.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026173200 -0300" stop="20261026190200 -0300" channel="Futura HD">
+    <title lang="pt">Brasil da Paz</title>
+    <desc lang="pt">A juventude deve ser ouvida na construção de uma cultura de paz. Uma ativista fomenta o engajamento social juvenil, enquanto outra encontra no slam sua plataforma de mobilização.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026180200 -0300" stop="20261026193200 -0300" channel="Futura HD">
+    <title lang="pt">Negros em Foco</title>
+    <desc lang="pt">Entenda se as campanhas de saúde e medicina familiar têm surtido efeito para a população negra.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026183200 -0300" stop="20261026200200 -0300" channel="Futura HD">
+    <title lang="pt">Agbara Dudu - Narrativas Negras</title>
+    <desc lang="pt">Na Festa de Yemanjá, o Sítio de Pai Adão reafirma o Xangô pernambucano. Água, memória e ancestralidade sustentam a fé e todo o povo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026190200 -0300" stop="20261026203200 -0300" channel="Futura HD">
+    <title lang="pt">Da Nascente à Foz</title>
+    <desc lang="pt">Palco de uma das maiores catástrofes ambientais do Brasil, o rio doce segue, barrento, seco e sem vida. É impossível saber quando, mas, um dia, ele voltará a ser rio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026193200 -0300" stop="20261026210200 -0300" channel="Futura HD">
+    <title lang="pt">Sou Palhaço</title>
+    <desc lang="pt">Viaje pelo mágico universo dos palhaços de circo. Mostramos como as gerações se renovam e a paixão que estes artistas possuem pelo picadeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026200200 -0300" stop="20261026213200 -0300" channel="Futura HD">
+    <title lang="pt">Amazônia: Novas Histórias</title>
+    <desc lang="pt">A Região Amazônica é conhecida pelas fontes de geração de energia fóssil, como gás natural e petróleo, mas também tem grande potencial a partir de fontes renováveis como hidrelétricas e oleaginosas, como o biodiesel.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026201700 -0300" stop="20261026214700 -0300" channel="Futura HD">
+    <title lang="pt">Giro Universidades</title>
+    <desc lang="pt">O programa acompanha o projeto Pelas Letras, PUC-Minas, que visa a remição de pena por meio da leitura. Visita escolar ao Museu Oceanográfico da Univali. A força de autores independentes na Bienal do Livro de Salvador (Unijorge).</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026203200 -0300" stop="20261026220200 -0300" channel="Futura HD">
+    <title lang="pt">Sabores da Floresta</title>
+    <desc lang="pt">Em Bragança, o caranguejo é um dos ingredientes mais apreciados. Nos manguezais, Thiago Castanho conhece a extração dessa espécie e a importância dela na economia e nos ecossistemas da região.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026210200 -0300" stop="20261026223200 -0300" channel="Futura HD">
+    <title lang="pt">Conexão</title>
+    <desc lang="pt">Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026213200 -0300" stop="20261026230200 -0300" channel="Futura HD">
+    <title lang="pt">Canal da Quebrada</title>
+    <desc lang="pt">Conheça artistas que quebraram as barreiras e ganharam o país com seus talentos e criatividade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026220200 -0300" stop="20261026233200 -0300" channel="Futura HD">
+    <title lang="pt">Caça Tempestades</title>
+    <desc lang="pt">Ao desembarcarem no arquipélago de Anavilhanas, os caçadores buscam ver de perto o espetáculo de luzes do local com mais raios no Brasil e entendem como os trovões dão força ao povo Waimiri-Atroari.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026223200 -0300" stop="20261027000200 -0300" channel="Futura HD">
+    <title lang="pt">Dinos do Brasil</title>
+    <desc lang="pt">Na região de Santa Maria?RS, são encontrados os fósseis mais antigos do mundo, um berço, inclusive de precursores dos pterossauros. E na região de Cruzeiro do Oeste?PR, o ninhal de pterossauros.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026230200 -0300" stop="20261027003200 -0300" channel="Futura HD">
+    <title lang="pt">Deu Bola</title>
+    <desc lang="pt">O Brasil contemporâneo visto através do futebol. Uma série feita para quem gosta de futebol e também para quem quer ver o Brasil por outros olhos. Com linguagem moderna, pontuada por reflexões cinematográficas e culturais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026233200 -0300" stop="20261027010200 -0300" channel="Futura HD">
+    <title lang="pt">Ciência para Todos</title>
+    <desc lang="pt">A poluição no oceano vem prejudicando espécies marinhas e, consequentemente, a saúde das pessoas. A ciência busca mapear essa contaminação para conseguir combatê-la.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026234700 -0300" stop="20261027011700 -0300" channel="Futura HD">
+    <title lang="pt">Giro Universidades</title>
+    <desc lang="pt">Iniciativas, programas e projetos especiais de instituições de ensino superior de todo o Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026000200 -0300" stop="20261026013200 -0300" channel="Futura HD">
+    <title lang="pt">Expresso Futuro</title>
+    <desc lang="pt">Existem mais de 180 povos indígenas na Amazônia, com mais de 300 línguas faladas. Confira como o conhecimento tradicional da região não pertence ao passado, mas sim ao futuro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026003200 -0300" stop="20261026020200 -0300" channel="Futura HD">
+    <title lang="pt">Desafio nas Escolas</title>
+    <desc lang="pt">Antiga sala de leitura é revitalizada e ganha novo uso com atividades culturais e cenas teatrais criadas por estudantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026004700 -0300" stop="20261026021700 -0300" channel="Futura HD">
+    <title lang="pt">E Aí, Professor?</title>
+    <desc lang="pt">Especialistas analisam como educadores podem fortalecer a consciência política aos educandos da EJA, discutindo democracia, autoritarismo e o impacto transformador da educação na sociedade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026010200 -0300" stop="20261026023200 -0300" channel="Futura HD">
+    <title lang="pt">Reconstruindo Nosso Ambiente</title>
+    <desc lang="pt">A importância do uso da energia eólica como um método de economia de combustível e da evolução e do funcionamento dos sistemas desta energia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026013200 -0300" stop="20261026030200 -0300" channel="Futura HD">
+    <title lang="pt">Assunto na Mesa</title>
+    <desc lang="pt">Com novas tecnologias surgindo, veja como os professores acompanham as mudanças no aprendizado dos alunos. Mauro Braga, especialista na formação docente, debate o tema com Sil Bahia e Alê Sayad em uma conversa repleta de insights.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026020200 -0300" stop="20261026033200 -0300" channel="Futura HD">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt">Conheça a escola localizada no coração do Brasil, em um dos acampamentos remanescentes da época da construção de Brasília. A Escola Classe Comunidade de Aprendizagem do Paranoá atua com as premissas de que todo espaço é um espaço de aprendizagem e que todas as pessoas são educadores em potencial. Dessa forma, o local vem mudando a vida das 500 crianças atendidas, de suas famílias e da comunidade do entorno.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026023200 -0300" stop="20261026040200 -0300" channel="Futura HD">
+    <title lang="pt">Claquete</title>
+    <desc lang="pt">Programa exibe e discute o curta &quot;Invasão ou Contatos Imediatos do Terceiro Mundo&quot;, em que óvnis surgem no Recife e documentaristas buscam entender o impacto na população.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026030200 -0300" stop="20261026043200 -0300" channel="Futura HD">
+    <title lang="pt">Um Herói</title>
+    <desc lang="pt">Rahim está preso devido a uma dívida que não conseguiu pagar. Durante uma condicional de dois dias, ele tenta convencer seu credor a retirar a queixa, caso ele consiga pagar parte do que deve. Porém, as coisas não saem como planejadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026052700 -0300" stop="20261026065700 -0300" channel="Futura HD">
+    <title lang="pt">A(u)tores</title>
+    <desc lang="pt">Beth Goulart, filha de artistas, interpretou Clarice Lispector nos palcos e compartilha sua jornada, lendo trechos da obra da escritora.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026054700 -0300" stop="20261026071700 -0300" channel="Futura HD">
+    <title lang="pt">(In)Confidências</title>
+    <desc lang="pt">O escritor Michel Laub discute a influência das redes e traz um panorama.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20261023051600 -0300" stop="20261023064600 -0300" channel="Gazeta HD">
     <title lang="pt">Gazeta Esportiva</title>
     <desc lang="pt">Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte.</desc>
@@ -71260,6 +71687,83 @@
   <programme start="20261025050200 -0300" stop="20261025063200 -0300" channel="Gazeta HD">
     <title lang="pt">Gazeta Shopping</title>
     <desc lang="pt">Acompanhe ofertas e lançamentos em diversos segmentos do mercado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026050200 -0300" stop="20261026063200 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">Acompanhe ofertas e lançamentos em diversos segmentos do mercado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026090200 -0300" stop="20261026103200 -0300" channel="Gazeta HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026160200 -0300" stop="20261026173200 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta News</title>
+    <desc lang="pt">O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026170200 -0300" stop="20261026183200 -0300" channel="Gazeta HD">
+    <title lang="pt">Fofoca Aí</title>
+    <desc lang="pt">O programa aborda assuntos sobre celebridades e bastidores da TV, com uma linguagem descontraída e bem-humorada.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026183200 -0300" stop="20261026200200 -0300" channel="Gazeta HD">
+    <title lang="pt">Mulheres</title>
+    <desc lang="pt">Através de relatos e performances o documentário fala sobre as marcas deixadas pela cultura patriarcal nas diversas formas de violência e controle sobre os corpos femininos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026204700 -0300" stop="20261026221700 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta News</title>
+    <desc lang="pt">O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026210200 -0300" stop="20261026223200 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta Esportiva</title>
+    <desc lang="pt">Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026220200 -0300" stop="20261026233200 -0300" channel="Gazeta HD">
+    <title lang="pt">Jornal da Gazeta</title>
+    <desc lang="pt">O programa apresenta as principais notícias do dia, reportagens exclusivas e análises feitas por uma equipe de comentaristas especializados em política, economia, sustentabilidade e cultura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026230200 -0300" stop="20261027003200 -0300" channel="Gazeta HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026234200 -0300" stop="20261027011200 -0300" channel="Gazeta HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026051600 -0300" stop="20261026064600 -0300" channel="Gazeta HD">
+    <title lang="pt">Gazeta Esportiva</title>
+    <desc lang="pt">Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -78876,6 +79380,524 @@
   <programme start="20261026055400 -0300" stop="20261026072400 -0300" channel="+ Globosat">
     <title lang="pt">Destino Certo</title>
     <desc lang="pt">Apresentação das cinco cachoeiras mais impressionantes da Europa: Cataratas de Staubbach e as de Trummelbach, na Suíça, Rota das cachoeiras, na Noruega, Cascata Delle Marmore, na Itália, e Cachoeiras do Parque Nacional dos Lagos Plitvice, na Croácia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023055400 -0300" stop="20261023072400 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Xandiar, o capitão dos guardas, desafia Cal. O aprendiz tem a ideia de pedir ajuda a Fafnir, um gnomo com uma personalidade forte, que se juntará ao grupo da magia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023060600 -0300" stop="20261023073600 -0300" channel="Gloob HD">
+    <title lang="pt">Gormiti</title>
+    <desc lang="pt">Os mensageiros são capturados pela irmã do Riff, Finna, crendo que sejam aliados dos Darkans.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023061600 -0300" stop="20261023074600 -0300" channel="Gloob HD">
+    <title lang="pt">Gormiti</title>
+    <desc lang="pt">Riff percebe que a Tribo do Fogo não tem Rei, e decide provar que deve assumir o poder.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023062800 -0300" stop="20261023075800 -0300" channel="Gloob HD">
+    <title lang="pt">Gormiti</title>
+    <desc lang="pt">Os mensageiros acreditam na vitória quando finalmente recuperam o último fragmento da Elestar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023063900 -0300" stop="20261023080900 -0300" channel="Gloob HD">
+    <title lang="pt">Gormiti</title>
+    <desc lang="pt">Voidus escapa de Darkor, e a mais épica batalha de Gorm está prestes a começar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023065300 -0300" stop="20261023082300 -0300" channel="Gloob HD">
+    <title lang="pt">As Aventuras do Gato de Botas</title>
+    <desc lang="pt">Gato bola um plano para fazer com que Pepinito se sinta como um rei no dia de seu aniversário, mas o poder acaba lhe subindo à cabeça.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023071600 -0300" stop="20261023084600 -0300" channel="Gloob HD">
+    <title lang="pt">As Aventuras do Gato de Botas</title>
+    <desc lang="pt">Gato se une a um grupo de piratas em busca de um lendário tesouro, na esperança de obter uma coroa especial que pode ajudá-lo a derrotar seu inimigo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023073900 -0300" stop="20261023090900 -0300" channel="Gloob HD">
+    <title lang="pt">Dragões - Pilotos de Berk</title>
+    <desc lang="pt">Quando Stoico e Soluço posam para um quadro que fará parte da coleção exposta no grande salão, Soluço acaba sendo retratado como um viking forte, e não como realmente é: magrelo. Ele fica desapontado com o resultado da pintura.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023080200 -0300" stop="20261023093200 -0300" channel="Gloob HD">
+    <title lang="pt">Dragões - Pilotos de Berk</title>
+    <desc lang="pt">O comerciante Johann chega a Berk carregando mercadorias novas e exóticas que os moradores se apressam em adquirir; os dragões começam a espirrar e ficam doentes. Soluço precisa encontrar um antídoto antes que seja tarde demais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023082400 -0300" stop="20261023095400 -0300" channel="Gloob HD">
+    <title lang="pt">As Meninas da Garagem Secreta</title>
+    <desc lang="pt">Sentindo-se incompreendida, Carolina busca uma referência que represente quem é. Com a ajuda das amigas, encontra uma grande inspiração.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023084100 -0300" stop="20261023101100 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023085300 -0300" stop="20261023102300 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023090400 -0300" stop="20261023103400 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023091600 -0300" stop="20261023104600 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023092700 -0300" stop="20261023105700 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023093900 -0300" stop="20261023110900 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023095000 -0300" stop="20261023112000 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023100200 -0300" stop="20261023113200 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023101300 -0300" stop="20261023114300 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023102500 -0300" stop="20261023115500 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023103600 -0300" stop="20261023120600 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023104800 -0300" stop="20261023121800 -0300" channel="Gloob HD">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <desc lang="pt">Dave desaparece e os esquilos se convencem de que ele se tornou um zumbi.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023105900 -0300" stop="20261023122900 -0300" channel="Gloob HD">
+    <title lang="pt">Madagascar - Pequenos Selvagens</title>
+    <desc lang="pt">Depois de ouvir Melman tocar uma música country fantástica durante seu banho, Antney contrata Melman para abrir para uma grande estrela, Lil Baa, em um grande festival. Melman fica ansioso, e acaba desenvolvendo um grande quadro de soluço.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023112200 -0300" stop="20261023125200 -0300" channel="Gloob HD">
+    <title lang="pt">Madagascar - Pequenos Selvagens</title>
+    <desc lang="pt">Alex aceita dirigir um musical para Rocky, apesar de não ter experiência na função. O show, porém, acaba indo no caminho de virar um desastre.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023114500 -0300" stop="20261023131500 -0300" channel="Gloob HD">
+    <title lang="pt">As Aventuras do Gato de Botas</title>
+    <desc lang="pt">Os moradores de San Lorenzo ficam apavorados quando o Gato de Botas traz o exército de esqueletos de volta que ignoram as tentativas patéticas de Uli de assustá-los.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023120800 -0300" stop="20261023133800 -0300" channel="Gloob HD">
+    <title lang="pt">As Aventuras do Gato de Botas</title>
+    <desc lang="pt">O Gato de Botas descobre que uma pedra preciosa da Coroa das Almas foi dividida em três partes por três irmãs bruxas. Ele procura Malviola para pedir que devolva a pedra que roubou.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023123100 -0300" stop="20261023140100 -0300" channel="Gloob HD">
+    <title lang="pt">Dragões - Pilotos de Berk</title>
+    <desc lang="pt">Uma garota misteriosa aparece na costa de Berk. Provando-se uma valiosa adição ao vilarejo, ela logo conquista todo mundo. Todos menos Astrid, que percebe que a garota está particularmente interessada em dragões voadores e no Livro dos Dragões.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023125400 -0300" stop="20261023142400 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Gala está doente e Tara deve levar outro Pégaso aos estábulos imperiais para jogar Celeste Ball. Mas Magister aproveita a situação para preparar uma armadilha para ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023130600 -0300" stop="20261023143600 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Cal quer um carro para seu grupo de amigos e implora à Imperatriz para obter permissão. Mas Magister decide sabotar o projeto adulterando o carro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023131800 -0300" stop="20261023144800 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">É o dia da partida em Tingal. Uma das equipes é vítima de um feitiço misterioso que interrompe o jogo. Os heróis investigam.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023133000 -0300" stop="20261023150000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Após roubar a caixa de Miraculous, Hawk Moth vira Monarch e usa o Miraculous do Coelho para retornar a um momento vulnerável de Ladybug e Cat Noir no passado e capturar seus Miraculous.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023135200 -0300" stop="20261023152200 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette decide desistir de seu amor por Adrien para evitar novos desastres e foca em se preparar para lutar com Monarch, mas os dias passam e nenhum akumatizado aparece. Ela se pergunta se o vilão desistiu.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023141500 -0300" stop="20261023154500 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Saiba se Hawk Moth pode forçar os kwamis, que conhecem o endereço de Ladybug, a levá-lo até ela - e se Marinette Dupain-Cheng seria capaz de escapar de Hawk Moth caso ele aparecesse na casa dela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023143700 -0300" stop="20261023160700 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette fica surpresa ao descobrir que uma ex-colega de escola, Jacqueline, está se passando por Ladybug; ela tenta dissuadi-la de se arriscar dessa forma, mas Monarch está de olho nela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023150000 -0300" stop="20261023163000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Mesmo sem seu Miraculous para ajudar os heróis da cidade, Nino quer continuar ajudando Ladybug e Cat Noir. Ele decide criar uma Rede de Resistência na escola.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023152300 -0300" stop="20261023165300 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette tenta se convencer a deixar de lado a paixão por Adrien, pois isso desvia seu foco do papel de super-heroína. Durante o processo, ela descobre que tem sentimentos por outra pessoa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023154600 -0300" stop="20261023171600 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Ladybug e Cat Noir trocam seus Miraculous para escapar de um vilão implacável. Mas o retorno de Mister Bug torna as coisas ainda mais confusas no coração de Lady Noire.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023161000 -0300" stop="20261023174000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette descobre que Alix encontrou uma maneira de se comunicar com seus entes queridos sem pôr os pés no presente, e, também, uma interessante função do seu kwagamata.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023163300 -0300" stop="20261023180300 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Aparentemente, Marinette está procurando outra desculpa para fugir de seus sentimentos por Adrien.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023165600 -0300" stop="20261023182600 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Tikki e Plagg lamentam ver o seu campeão tão triste por terem de desistir dos seus sentimentos. Então, os kwamis fazem uma escolha drástica que mudará muitas coisas em Paris.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023172000 -0300" stop="20261023185000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">O mundo está prestes a ser reconfigurado e ninguém parece ser capaz de evitar o que acontecerá, pois os Kwamis fizeram uma escolha que distraiu completamente Marinette e Adrien de suas responsabilidades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023174300 -0300" stop="20261023191300 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">A turma decide ajudar Marinette a se aproximar de Adrien, mas ela já tem seus próprios planos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023180700 -0300" stop="20261023193700 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Luka desperta o interesse do proprietário da gravadora Bob Roth. Mas Bob subestima Luka, que está pronto para sempre defender seus valores e seus amigos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023183000 -0300" stop="20261023200000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette está prestes a ter um encontro normal com Adrien, mas ela começa a sofrer repetidos ataques de pânico. Criando uma situação emocional que pode torná-la um alvo para Monarca.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023185300 -0300" stop="20261023202300 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">As tecnologias Tsurugi decidem testar seu novo avião espacial e Monarca sente que está pronto para fazer qualquer coisa, mesmo que essa seja sua última chance de capturar os Miraculous.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023191500 -0300" stop="20261023204500 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">A turma bola outro plano complicado para reunir Marinette e Adrien; Lila usa seu talento para a manipulação e tenta convencer Kagami de que Marinette é mentirosa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023193800 -0300" stop="20261023210800 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">A super-heroína Marinette, mais conhecida como Ladybug, e seu parceiro Adrien, famoso pelo nome de Cat Noir, têm a missão de salvar a cidade de Paris de um misterioso vilão, mantendo sigilo sobre suas identidades secretas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023200200 -0300" stop="20261023213200 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette descobre que Adrien não se atreveu a contar a ela sobre o baile e ela decide ir também.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023202600 -0300" stop="20261023215600 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette decide ter uma conversa franca com Gabriel Agreste sobre seu namoro com Adrien; sua coragem é inspiradora para sua amiga Kagami, que tenta se abrir para sua mãe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023205000 -0300" stop="20261023222000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">A aproximação de Marinette e Adrien leva o pai do menino a nomear Kagami como o novo rosto de sua marca, enfurecendo Lila; a garota coloca em prática um plano com resultados inesperados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023211400 -0300" stop="20261023224400 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Lila e Chloe são as novas representantes de classe, e Marinette e Adrien se preocupam.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023213800 -0300" stop="20261023230800 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Monarch decide colocar em prática um plano perigoso para sua identidade secreta - e para a de Ladybug e Cat Noir também.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023220200 -0300" stop="20261023233200 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous World - Paris, as Aventuras de Shadybug e Claw Noir</title>
+    <desc lang="pt">Marinette e Adrien precisam lidar com seus novos poderes, enquanto suas versões malignas, Shadybug e Claw Noir, estão em Paris atrás do Miraculous da Borboleta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023222400 -0300" stop="20261023235400 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Chloe e Monarch estão mais poderosos do que nunca; a vida de Marinette e Adrien está prestes a mudar para sempre.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023224800 -0300" stop="20261024001800 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Adrien desobedece ao pai para encontrar Marinette e Gabriel acumatiza a si para encontrar o filho; Marinette descobre um grande segredo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023231200 -0300" stop="20261024004200 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Monarca acaba de posicionar as últimas peças de seu plano em seu tabuleiro de xadrez maligno.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023233600 -0300" stop="20261024010600 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Nada parece deter Monarch, especialmente no momento em que o mundo parece coberto pelo caos e o supervilão consegue capturar Ladybug.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023000200 -0300" stop="20261023013200 -0300" channel="Gloob HD">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <desc lang="pt">Gru muda radicalmente sua vida e se dedica às filhas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Anti-vilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023001700 -0300" stop="20261023014700 -0300" channel="Gloob HD">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <desc lang="pt">Gru muda radicalmente sua vida e se dedica às filhas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Anti-vilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023013600 -0300" stop="20261023030600 -0300" channel="Gloob HD">
+    <title lang="pt">Pokémon, a Série: Sol e Lua - Ultralendas</title>
+    <desc lang="pt">Julia e Sara querem visitar uma casa mal-assombrada, mas acabam se divertindo um pouco demais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023015800 -0300" stop="20261023032800 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Uma esgrimista misteriosa é akumatizada e transformada em Revanche. A vilã quer se vingar de Adrien após perder para ele em uma luta. Para protegê-lo, Ladybug terá que tirar uma espada da manga.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023022000 -0300" stop="20261023035000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">A avó de Marinette vem visitar a família e acaba sendo akumatizada. Transformada em Befana, ela quer dar uma lição em Marinette, que preferiu passar mais tempo com os amigos do que com sua avó.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023024300 -0300" stop="20261023041300 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Uma jovem artista é akumatizada e se transforma na Cantora. Com seu microfone mágico, ela quer tornar Paris um grande musical. Ladybug e Cat Noir precisam dançar conforme a música para deter esta vilã.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023030500 -0300" stop="20261023043500 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">O segurança de Adrien é transformado em Gorizilla por Hawk Moth. Agora dono de uma incrível força e um olfato muito sensível, ele persegue Adrien por toda a cidade de Paris.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023032800 -0300" stop="20261023045800 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Markov é akumatizado e transformado em Robustus, vilão que consegue dar vida a objetos inanimados.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023035000 -0300" stop="20261023052000 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">O diretor da escola é akumatizado e transformado em Coruja Negra. Com seus aparelhos tecnológicos, ele quer se vingar de Ladybug e Cat Noir.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023041300 -0300" stop="20261023054300 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">As irmãs de Alya são akumatizadas e transformadas em Sapotis, dois pequenos monstros que causam um grande estrago em Paris. Esta será uma tarefa difícil para as babás Ladybug e Cat Noir.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023043500 -0300" stop="20261023060500 -0300" channel="Gloob HD">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Ondine, uma campeã de natação, é akumatizada e transformada na Sereia. Como ela gosta de Kim, seu objetivo é transformar a cidade de Paris em um Reino Submarino para seu príncipe encantado. Ladybug e Cat Noir têm que virar a maré para o seu lado se quiserem derrotar a Sereia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023045800 -0300" stop="20261023062800 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Os Magicazes estão passando por Tingal. Tara e seus amigos estão tão empolgados em receber os músicos no palácio, mas o show não vai como planejado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023051000 -0300" stop="20261023064000 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Na esperança de encontrar uma cura para seu avô, Tara pode ter causado outra catástrofe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023052200 -0300" stop="20261023065200 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">É o aniversário do mestre Chem, mas Tara e o presente de seus amigos acaba sendo uma má ideia. Transformado em um dragão bebê, o mestre Chem é levado pelos Soldados do Medo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023053400 -0300" stop="20261023070400 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">A Imperatriz envia Tara e seus amigos ao Reino de Anões para trazer a ela um presente para a delegação élfica que chegará em breve. Tara terá que aprender a arte da diplomacia.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023054600 -0300" stop="20261023071600 -0300" channel="Gloob HD">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Um ladrão percorre a cidade de Tingal e ataca apenas durante os shows de Mozardo. Cal e seus amigos decidem investigar, mas se encontram no meio de uma confusão.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261023055800 -0300" stop="20261023072800 -0300" channel="Gloob HD">
+    <title lang="pt">Gormiti</title>
+    <desc lang="pt">Quatro amigos se unem em busca da lendária Torre, lar dos poderosos Gormiti, com a missão de salvarem o Reino de Gorm.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -87246,6 +88268,125 @@
     </rating>
   </programme>
   <programme start="20261025050200 -0300" stop="20261025063200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Butterfield Bermuda Championship - Rodada Final</title>
+    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026050200 -0300" stop="20261026063200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Butterfield Bermuda Championship - Rodada Final</title>
+    <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026080200 -0300" stop="20261026093200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026083200 -0300" stop="20261026100200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026090200 -0300" stop="20261026103200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026093200 -0300" stop="20261026110200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026100200 -0300" stop="20261026113200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Stifel Charity Classic - Rodada Final</title>
+    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026120200 -0300" stop="20261026133200 -0300" channel="Golf Channel HD">
+    <title lang="pt">5 Clubs With Gary Williams</title>
+    <desc lang="pt">Conversas com pessoas notáveis do mundo do golfe, desde jogadores do passado e da atualidade até membros da mídia, administradores e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026130200 -0300" stop="20261026143200 -0300" channel="Golf Channel HD">
+    <title lang="pt">5 Clubs With Gary Williams</title>
+    <desc lang="pt">Conversas com pessoas notáveis do mundo do golfe, desde jogadores do passado e da atualidade até membros da mídia, administradores e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026140200 -0300" stop="20261026153200 -0300" channel="Golf Channel HD">
+    <title lang="pt">5 Clubs With Gary Williams</title>
+    <desc lang="pt">Conversas com pessoas notáveis do mundo do golfe, desde jogadores do passado e da atualidade até membros da mídia, administradores e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026150200 -0300" stop="20261026163200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Stifel Charity Classic - Rodada Final</title>
+    <desc lang="pt">Todas as etapas do circuito de golfe promovido pela PGA com jogadores maiores de cinquenta anos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026170200 -0300" stop="20261026183200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Today</title>
+    <desc lang="pt">Acompanhe debates especiais sobre o mundo do golfe com quem melhor entende do assunto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026180200 -0300" stop="20261026193200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Primeira Rodada</title>
+    <desc lang="pt">Do East Lake Golf Club, em Atlanta, EUA.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026210200 -0300" stop="20261026223200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Acompanhe resultados, análises aprofundadas, notícias, destaques e muito mais do mundo do golfe.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026220200 -0300" stop="20261026233200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Golf Channel Podcast With Rex &amp; Lav</title>
+    <desc lang="pt">Os redatores do GolfChannel.com discutem e debatem as notícias do PGA Tour, DP World Tour, LPGA, Korn Ferry Tour, Champions Tour, golfe universitário e golfe amador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026230200 -0300" stop="20261027003200 -0300" channel="Golf Channel HD">
+    <title lang="pt">PGA Tour Highlights</title>
+    <desc lang="pt">Reprises, compactos e principais destaques dos torneios que integram o circuito masculino PGA Tour.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026000200 -0300" stop="20261026013200 -0300" channel="Golf Channel HD">
+    <title lang="pt">Primeira Rodada</title>
+    <desc lang="pt">Do East Lake Golf Club, em Atlanta, EUA.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026030200 -0300" stop="20261026043200 -0300" channel="Golf Channel HD">
     <title lang="pt">Butterfield Bermuda Championship - Rodada Final</title>
     <desc lang="pt">Circuito de torneios masculinos organizado pela Professional Golfers&apos; Association of America.</desc>
     <rating system="Brazil">
@@ -99127,6 +100268,97 @@
   <programme start="20261025040200 -0300" stop="20261025053200 -0300" channel="Megapix HD">
     <title lang="pt">Jurassic World - Reino Ameaçado</title>
     <desc lang="pt">Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão. Lá, a dupla encontra novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026040200 -0300" stop="20261026053200 -0300" channel="Megapix HD">
+    <title lang="pt">Jurassic World - Reino Ameaçado</title>
+    <desc lang="pt">Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão. Lá, a dupla encontra novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026062200 -0300" stop="20261026075200 -0300" channel="Megapix HD">
+    <title lang="pt">Efeito Borboleta</title>
+    <desc lang="pt">O estudante universitário Evan Treborn está aflito com dores de cabeça tão fortes que frequentemente desmaia. Enquanto está inconsciente, Evan pode viajar de volta no tempo para momentos de dificuldades na infância. Ele também pode alterar o passado para os amigos, como Kayleigh, que foi molestada pelo pai. Porém, ao mudar o passado, ele pode alterar o presente, o que leva Evan a se encontrar em um pesadelo de realidades alternativas, incluindo uma onde ele está preso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026083200 -0300" stop="20261026100200 -0300" channel="Megapix HD">
+    <title lang="pt">Eduardo e Mônica</title>
+    <desc lang="pt">Em um dia atípico, uma série de coincidências levam Eduardo a conhecer Mônica em uma festa. Uma curiosidade é despertada entre os dois e, apesar de não serem parecidos, eles se apaixonam perdidamente. Em Brasília, na década de 1980, esse amor precisa amadurecer e aprender a superar as diferenças.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026105200 -0300" stop="20261026122200 -0300" channel="Megapix HD">
+    <title lang="pt">Chernobyl: O Filme</title>
+    <desc lang="pt">Após o terrível acidente nuclear na usina de Chernobyl, um bombeiro arrisca sua vida para evitar um desastre ainda maior. Ao lado de um engenheiro e um mergulhador militar, eles partem na perigosa missão de drenar a água de um reator em chamas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026132200 -0300" stop="20261026145200 -0300" channel="Megapix HD">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+    <desc lang="pt">Balthazar Bratt, ex-ator mirim e astro de TV, foi um típico malvado bem-sucedido nos anos 1980 e agora está de volta à ativa. Ele aterroriza a vida de Gru, Agnes, Margo, Edith, Dr. Nefário e os atrapalhados Minions. Em meio a tudo isso, Gru também encontra o seu irmão gêmeo, Drew.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026150200 -0300" stop="20261026163200 -0300" channel="Megapix HD">
+    <title lang="pt">Space Jam - O Jogo do Século</title>
+    <desc lang="pt">Alienígenas querem que Pernalonga e sua turma se tornem a principal atração de um parque de diversões. Prestes a ser capturado, Pernalonga propõe um jogo de basquete em troca de sua liberdade. E, para enfrentar o temível time alienígena, o coelho convoca um importante reforço, uma conhecida estrela do basquete americano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026164200 -0300" stop="20261026181200 -0300" channel="Megapix HD">
+    <title lang="pt">Queima de Arquivo</title>
+    <desc lang="pt">Agente do governo especializado, John Kruger é encarregado de proteger uma testemunha-chave que sabe tudo sobre uma empresa de armas que pretende vender um fuzil revolucionário no mercado negro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026185200 -0300" stop="20261026202200 -0300" channel="Megapix HD">
+    <title lang="pt">O Conde de Monte Cristo</title>
+    <desc lang="pt">Edmond Dantes é preso por um crime que não cometeu. Após 14 anos na prisão, ele consegue realizar uma fuga ousada. Agora rico além dos seus sonhos, ele assume a identidade do Conde de Monte Cristo e executa sua vingança.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026220200 -0300" stop="20261026233200 -0300" channel="Megapix HD">
+    <title lang="pt">Rota de Fuga</title>
+    <desc lang="pt">Ray Breslin é a maior autoridade que existe quando se trata de segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. No entanto, Ray acaba sendo preso, mas é enviado justamente para a prisão que ele mesmo criou. Lá, ele precisa encontrar uma brecha não imaginada até então, que possa permitir sua fuga.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026000200 -0300" stop="20261026013200 -0300" channel="Megapix HD">
+    <title lang="pt">O Lutador</title>
+    <desc lang="pt">Preso na Rússia, um homem depende de suas habilidades no ringue para poder salvar sua própria vida ao enfrentar um boxeador extremamente bruto.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026015700 -0300" stop="20261026032700 -0300" channel="Megapix HD">
+    <title lang="pt">Corrida Mortal</title>
+    <desc lang="pt">Acusado de um assassinato que não cometeu, o tricampeão de corridas de carro Jensen Ames é preso em Terminal Island, a penitenciária mais implacável dos EUA. Lá, ele tem a chance inesperada de ser solto quando o diretor lhe oferece uma escolha: competir na Corrida da Morte ou apodrecer numa cela. Dirigindo um carro equipado com lança-chamas e lança-granadas, Ames terá de sobreviver ao desafio de enfrentar criminosos violentos para ganhar sua liberdade - ou morrer tentando.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026035700 -0300" stop="20261026052700 -0300" channel="Megapix HD">
+    <title lang="pt">MR-9 - Missão Mortal</title>
+    <desc lang="pt">Um espião de elite de Bangladesh e um agente da CIA formam uma aliança improvável para deter um império do crime implacável liderado por um magnata inescrupuloso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026055700 -0300" stop="20261026072700 -0300" channel="Megapix HD">
+    <title lang="pt">Corrente do Mal</title>
+    <desc lang="pt">A jovem e despreocupada Jay leva uma vida tranquila entre escola, paqueras e passeios no lago. No entanto, após uma transa, o garoto com quem passou a noite lhe explica que ele carregava no corpo uma força maligna, transmissível às pessoas apenas pelo sexo. Agora, enquanto vive o dilema de carregar a sina ou passá-la adiante, a jovem Jay começa a ser perseguida por figuras estranhas que tentam matá-la e que não são vistas por mais ninguém.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
