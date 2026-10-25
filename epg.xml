@@ -6808,6 +6808,209 @@
       <value>[14]</value>
     </rating>
   </programme>
+  <programme start="20261026051200 -0300" stop="20261026064200 -0300" channel="AXN HD">
+    <title lang="pt">CSI</title>
+    <desc lang="pt">Um ex-policial é brutalmente assassinado e a equipe descobre algo em sua cela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026060700 -0300" stop="20261026073700 -0300" channel="AXN HD">
+    <title lang="pt">CSI</title>
+    <desc lang="pt">Uma série de mortes em um espaço de oito horas, entre elas um homem morto no sofá de casa e outro, recém-divorciado, numa piscina, incita uma aposta entre os agentes do CSI.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026070200 -0300" stop="20261026083200 -0300" channel="AXN HD">
+    <title lang="pt">CSI</title>
+    <desc lang="pt">Ray e Sara visitam uma amiga de Grissom, Lady Heather, para resolver um estranho caso envolvendo uma mulher atacada até a morte por um leão da montanha.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026080200 -0300" stop="20261026093200 -0300" channel="AXN HD">
+    <title lang="pt">CSI</title>
+    <desc lang="pt">O famoso assassino em série &quot;Dick &amp; Jane&quot; ressurge, pela primeira vez após sua fuga, num vídeo ameaçador.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026090200 -0300" stop="20261026103200 -0300" channel="AXN HD">
+    <title lang="pt">CSI: Miami</title>
+    <desc lang="pt">Horatio and Eric go to Los Angeles to clear Jesse&apos;s name after accusations of evidence tampering arise; Horatio faces a dangerous element within the LAPD.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026095200 -0300" stop="20261026112200 -0300" channel="AXN HD">
+    <title lang="pt">CSI: Miami</title>
+    <desc lang="pt">The team investigates the murder of an unpopular receptionist.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026104200 -0300" stop="20261026121200 -0300" channel="AXN HD">
+    <title lang="pt">CSI: Miami</title>
+    <desc lang="pt">After returning from war, Horatio&apos;s son seeks his help to solve a murder.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026113200 -0300" stop="20261026130200 -0300" channel="AXN HD">
+    <title lang="pt">S.W.A.T.</title>
+    <desc lang="pt">Após a morte de um colega, a S.W.A.T. enfrenta uma possível represália de seus superiores; Chris lida com o luto e Hondo foca em acabar com a célula terrorista dos Cavaleiros Brancos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026122200 -0300" stop="20261026135200 -0300" channel="AXN HD">
+    <title lang="pt">S.W.A.T.</title>
+    <desc lang="pt">Chris e Street se preparam para a entrevista final da T.L.I.; o novo colega de equipe trabalha duro para ganhar a confiança de Hondo durante a busca por uma mulher desaparecida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026131200 -0300" stop="20261026144200 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">McGee relutantemente visita sua escola já que a única senha do computador que ele usou quando adolescente está ligada ao assassinato de um empreiteiro do departamento de defesa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026140200 -0300" stop="20261026153200 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">A equipe investiga o caso fatal de um homem que caiu no mar; Torres é designado para ser o mentor de três alunos do Ensino Médio.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026145700 -0300" stop="20261026162700 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Jimmy fica dividido entre a família e o trabalho quando seu sogro lhe pede para fazer uma adulteração nas evidências de uma investigação de assassinato, na qual a equipe está trabalhando atualmente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026155200 -0300" stop="20261026172200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Uma série de mortes por estrangulamento leva a equipe a Boston em busca de um assassino que guarda lembranças de suas vítimas; o bar favorito de Rossi arrisca fechar as portas, e a equipe o ajuda a lidar com a perda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026164700 -0300" stop="20261026181700 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A equipe procura adolescentes desaparecidos que são suspeitos numa série de assassinatos em Chicago.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026174200 -0300" stop="20261026191200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Esqueletos encontrados no quintal de uma casa na Virgínia levam a equipe a suspeitar de seus moradores; a investigação acaba desenterrando segredos familiares e levantando questões de segregação racial do passado do Sul dos Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026183200 -0300" stop="20261026200200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando um menino desaparece da sua casa, a equipe examina um caso arquivado em busca de pistas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026192200 -0300" stop="20261026205200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Blake recebe um telefonema do pai, que a informa sobre uma série de assassinatos. Apesar de não estar ansiosa para voltar a Kansas City, ela terá de trabalhar com o pai e com o irmão neste importante caso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026201200 -0300" stop="20261026214200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Em 2004, o time viajou a San Jose, na Califórnia, para investigar a morte de oito prostitutas e recrutar Garcia, uma &quot;hacker&quot; na época. Apesar de Sam Russell ter assumido os crimes, os policiais recebem mensagens de que ele é inocente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026210200 -0300" stop="20261026223200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Enquanto a equipe procura um justiceiro assassino em Cleveland, uma ex-oficial da Marinha, a quem Rossi era subordinado, está desaparecida em Los Angeles; JJ, secretamente, está ligada a ela.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026215200 -0300" stop="20261026232200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando J.J. é sequestrada, a UAC investiga seu passado no Departamento de Estado para encontrar pistas e descobre que ela está envolvida em uma missão secreta perigosa. Desesperados, os agentes procuram a ajuda de uma ex-colega, Emily Prentiss.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026224200 -0300" stop="20261027001200 -0300" channel="AXN HD">
+    <title lang="pt">S.W.A.T.</title>
+    <desc lang="pt">Após a morte de um colega, a S.W.A.T. enfrenta uma possível represália de seus superiores; Chris lida com o luto e Hondo foca em acabar com a célula terrorista dos Cavaleiros Brancos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026233200 -0300" stop="20261027010200 -0300" channel="AXN HD">
+    <title lang="pt">S.W.A.T.</title>
+    <desc lang="pt">Chris e Street se preparam para a entrevista final da T.L.I.; o novo colega de equipe trabalha duro para ganhar a confiança de Hondo durante a busca por uma mulher desaparecida.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026002200 -0300" stop="20261026015200 -0300" channel="AXN HD">
+    <title lang="pt">Hudson &amp; Rex</title>
+    <desc lang="pt">A Crimes Graves investiga um mercado na dark web após o assassinato de um florista que cultivava cogumelos. Charlie e Rex protegem uma testemunha em sua própria casa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026011200 -0300" stop="20261026024200 -0300" channel="AXN HD">
+    <title lang="pt">Hudson &amp; Rex</title>
+    <desc lang="pt">Após um promissor jogador de hóquei ser encontrado morto, Charlie e Jesse divergem sobre quem é o principal suspeito do crime.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026020200 -0300" stop="20261026033200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Uma série de mortes por estrangulamento leva a equipe a Boston em busca de um assassino que guarda lembranças de suas vítimas; o bar favorito de Rossi arrisca fechar as portas, e a equipe o ajuda a lidar com a perda.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026025700 -0300" stop="20261026042700 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A equipe procura adolescentes desaparecidos que são suspeitos numa série de assassinatos em Chicago.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026035200 -0300" stop="20261026052200 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Esqueletos encontrados no quintal de uma casa na Virgínia levam a equipe a suspeitar de seus moradores; a investigação acaba desenterrando segredos familiares e levantando questões de segregação racial do passado do Sul dos Estados Unidos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026044700 -0300" stop="20261026061700 -0300" channel="AXN HD">
+    <title lang="pt">Hudson &amp; Rex</title>
+    <desc lang="pt">A Crimes Graves investiga um mercado na dark web após o assassinato de um florista que cultivava cogumelos. Charlie e Rex protegem uma testemunha em sua própria casa.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026054200 -0300" stop="20261026071200 -0300" channel="AXN HD">
+    <title lang="pt">Hudson &amp; Rex</title>
+    <desc lang="pt">Após um promissor jogador de hóquei ser encontrado morto, Charlie e Jesse divergem sobre quem é o principal suspeito do crime.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
   <programme start="20261027054200 -0300" stop="20261027071200 -0300" channel="AXN HD">
     <title lang="pt">Hudson &amp; Rex</title>
     <desc lang="pt">Após um promissor jogador de hóquei ser encontrado morto, Charlie e Jesse divergem sobre quem é o principal suspeito do crime.</desc>
@@ -7140,6 +7343,153 @@
   <programme start="20261024050200 -0300" stop="20261024063200 -0300" channel="Band Amazonas HD">
     <title lang="pt">No Concurso do Prazer</title>
     <desc lang="pt">April é uma estilista que participa de um concurso de design e está determinada a vencer. Danny, um conhecido de infância, é seu principal concorrente. Ambos fazem de tudo para vencer, inclusive transar com pessoas influentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025050200 -0300" stop="20261025063200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">No Concurso do Prazer</title>
+    <desc lang="pt">April é uma estilista que participa de um concurso de design e está determinada a vencer. Danny, um conhecido de infância, é seu principal concorrente. Ambos fazem de tudo para vencer, inclusive transar com pessoas influentes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025061700 -0300" stop="20261025074700 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Chama no Privé</title>
+    <desc lang="pt">Aborda os desafios dos relacionamentos e da sexualidade. Com bom humor e respeito, o programa reúne personalidades para compartilharem suas experiências inusitadas e situações que se transformaram em boas histórias para serem contadas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025070200 -0300" stop="20261025083200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Vingança</title>
+    <desc lang="pt">Após sua esposa ser brutalmente assassinada, o ex-policial Ben Archer embarca em uma jornada de vingança contra o lorde do crime organizado chinês, responsável pelo crime.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025083200 -0300" stop="20261025100200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">+ Info</title>
+    <desc lang="pt">Reportagens especiais sobre assuntos variados do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025090200 -0300" stop="20261025103200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025103200 -0300" stop="20261025120200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Santa Missa em Seu Lar</title>
+    <desc lang="pt">Missas transmitidas diretamente da comunidade local.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025113200 -0300" stop="20261025130200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025123200 -0300" stop="20261025140200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Auto Motor</title>
+    <desc lang="pt">O programa é dedicado ao público apaixonado por carros. Veja dicas de oficina, prestação de serviços, participação do telespectador, lançamentos, impressões ao volante, &quot;test drive&quot;, motos e cobertura dos salões internacionais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025130200 -0300" stop="20261025143200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Amazonas Acontece</title>
+    <desc lang="pt">Entrevistas com personalidades locais, empresários, médicos, especialistas e líderes de diferentes setores da sociedade do Amazonas, abordando temas como empreendedorismo, inovação, saúde, economia e cultura regional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025133200 -0300" stop="20261025150200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">A Virada de Chave</title>
+    <desc lang="pt">O programa visa realizar o sonho de acessibilidade, mobilidade e conforto para seus telespectadores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025140200 -0300" stop="20261025153200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Viva Sorte</title>
+    <desc lang="pt">Concorra a uma casa própria e prêmios em dinheiro com o título de capitalização Viva Sorte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025150200 -0300" stop="20261025163200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O programa traz o gol mais bonito, aquele lance polêmico da rodada, resultados e melhores momentos dos principais jogos. Isso tudo com hilários esquetes de humor, games divertidos e muitos convidados: atletas, famosos, cantores e técnicos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025193200 -0300" stop="20261025210200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Band Eleições</title>
+    <desc lang="pt">A cobertura completa das eleições de 2026.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025230200 -0300" stop="20261026003200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025010200 -0300" stop="20261025023200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Som dos Oceanos</title>
+    <desc lang="pt">Eri Johnson entrevista artistas e mostra os bastidores de diferentes cruzeiros ao redor do Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025020200 -0300" stop="20261025033200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">O Valor</title>
+    <desc lang="pt">Histórias reais de corretores de imóveis de todo o Brasil e a importância de seu trabalho.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025021200 -0300" stop="20261025034200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">13º Distrito</title>
+    <desc lang="pt">Um policial infiltrado em Detroit anda por um bairro perigoso, cercado por um muro de contenção, com a ajuda de um ex-presidiário, a fim de derrubar um senhor do crime e seu plano para devastar toda a cidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025033200 -0300" stop="20261025050200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <desc lang="pt">A revista semanal apresenta as novidades e as tendências das artes no Brasil e no mundo: música, teatro, dança, literatura e artes plásticas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025040200 -0300" stop="20261025053200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Economia pra Você</title>
+    <desc lang="pt">Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025043200 -0300" stop="20261025060200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">+ Info</title>
+    <desc lang="pt">Reportagens especiais sobre assuntos variados do Brasil e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261025050200 -0300" stop="20261025063200 -0300" channel="Band Amazonas HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -8377,6 +8727,188 @@
     </rating>
   </programme>
   <programme start="20261025053200 -0300" stop="20261025070200 -0300" channel="Band Belém">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026053200 -0300" stop="20261026070200 -0300" channel="Band Belém">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026070200 -0300" stop="20261026083200 -0300" channel="Band Belém">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026090200 -0300" stop="20261026103200 -0300" channel="Band Belém">
+    <title lang="pt">Prece Poderosa</title>
+    <desc lang="pt">Confira mensagens religiosas.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026093200 -0300" stop="20261026110200 -0300" channel="Band Belém">
+    <title lang="pt">Camisa 13</title>
+    <desc lang="pt">Programa inovador que apresenta notícias do esporte amador e profissional logo no início do dia. O comando é de Zaire Filho e Mariana Malato, que sempre acrescentam seus comentários às reportagens que retratam diversas modalidades de esporte.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026100200 -0300" stop="20261026113200 -0300" channel="Band Belém">
+    <title lang="pt">Barra Pesada</title>
+    <desc lang="pt">O programa atende à comunidade por meio de prestação de serviços, denúncias e informação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026110100 -0300" stop="20261026123100 -0300" channel="Band Belém">
+    <title lang="pt">Shopping Mix</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026110200 -0300" stop="20261026123200 -0300" channel="Band Belém">
+    <title lang="pt">Carros e Consórcios</title>
+    <desc lang="pt">Confira ofertas de carros com a facilidade e credibilidade das grandes concessionárias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026120200 -0300" stop="20261026133200 -0300" channel="Band Belém">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026140200 -0300" stop="20261026153200 -0300" channel="Band Belém">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do esporte no estado do Ceará e no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026145200 -0300" stop="20261026162200 -0300" channel="Band Belém">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do esporte no estado do Ceará e no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026152200 -0300" stop="20261026165200 -0300" channel="Band Belém">
+    <title lang="pt">Bora Cidade</title>
+    <desc lang="pt">O programa mostra a cara do Pará, com muita informação, entretenimento, esporte e interatividade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026165900 -0300" stop="20261026182900 -0300" channel="Band Belém">
+    <title lang="pt">Shopping Mix</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026170200 -0300" stop="20261026183200 -0300" channel="Band Belém">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026180200 -0300" stop="20261026193200 -0300" channel="Band Belém">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026190200 -0300" stop="20261026203200 -0300" channel="Band Belém">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026203200 -0300" stop="20261026220200 -0300" channel="Band Belém">
+    <title lang="pt">RBA Urgente</title>
+    <desc lang="pt">Acompanhe tudo o que acontece de mais relevante no estado do Pará.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026214200 -0300" stop="20261026231200 -0300" channel="Band Belém">
+    <title lang="pt">Jornal RBA</title>
+    <desc lang="pt">O programa mantém o telespectador informado sobre os acontecimentos do dia com imparcialidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026222200 -0300" stop="20261026235200 -0300" channel="Band Belém">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026233200 -0300" stop="20261027010200 -0300" channel="Band Belém">
+    <title lang="pt">Guerra das Rosas</title>
+    <desc lang="pt">Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tornar uma designer de moda como ela, a vida de Gülru muda completamente quando Ömer demonstra interesse pela jovem.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026002700 -0300" stop="20261026015700 -0300" channel="Band Belém">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026012200 -0300" stop="20261026025200 -0300" channel="Band Belém">
+    <title lang="pt">Argumento</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades ligadas ao business regional e nacional.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026021200 -0300" stop="20261026034200 -0300" channel="Band Belém">
+    <title lang="pt">Apito Final</title>
+    <desc lang="pt">Acompanhe um giro esportivo para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026035200 -0300" stop="20261026052200 -0300" channel="Band Belém">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026042200 -0300" stop="20261026055200 -0300" channel="Band Belém">
+    <title lang="pt">Band Eleições</title>
+    <desc lang="pt">A cobertura completa das eleições de 2026.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026045200 -0300" stop="20261026062200 -0300" channel="Band Belém">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261026055200 -0300" stop="20261026072200 -0300" channel="Band Belém">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
     <rating system="Brazil">
@@ -11109,6 +11641,160 @@
   <programme start="20261027050200 -0300" stop="20261027063200 -0300" channel="Band Curitiba HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024060200 -0300" stop="20261024073200 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024070200 -0300" stop="20261024083200 -0300" channel="Band HD">
+    <title lang="pt">O Novato</title>
+    <desc lang="pt">Erro de novato em operação acaba por exterminar uma equipe inteira, e ele é forçado a juntar as peças em busca da verdade guiado apenas por um áudio gravado no dia do incidente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024083200 -0300" stop="20261024100200 -0300" channel="Band HD">
+    <title lang="pt">Vida na Água</title>
+    <desc lang="pt">Cadu e Lo Mourão embarcam em uma jornada para completar o Fishing Map Brasil com as 40 principais espécies de peixes do país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024090200 -0300" stop="20261024103200 -0300" channel="Band HD">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024101700 -0300" stop="20261024114700 -0300" channel="Band HD">
+    <title lang="pt">Casa Decorada</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024103200 -0300" stop="20261024120200 -0300" channel="Band HD">
+    <title lang="pt">Programa Viver &amp; Empreender</title>
+    <desc lang="pt">A jornalista e apresentadora Stela Jordy fala sobre a trajetória dos empreendedores no Brasil.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024110200 -0300" stop="20261024123200 -0300" channel="Band HD">
+    <title lang="pt">Direção Sobre Rodas</title>
+    <desc lang="pt">O programa é voltado para os apaixonados por carros e motos. Acompanhe entrevistas especiais, dicas de especialistas, eventos, histórias inspiradoras e muito mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024113200 -0300" stop="20261024130200 -0300" channel="Band HD">
+    <title lang="pt">Brasil que Faz</title>
+    <desc lang="pt">Veja entrevistas com temas relacionados a empreendedorismo, negócios e histórias de superação.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024120200 -0300" stop="20261024133200 -0300" channel="Band HD">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024121700 -0300" stop="20261024134700 -0300" channel="Band HD">
+    <title lang="pt">Você Melhor</title>
+    <desc lang="pt">Programa informativo leve e dinâmico que mostra as tendências e novidades nas áreas de saúde, beleza, qualidade de vida e bem-estar.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024123200 -0300" stop="20261024140200 -0300" channel="Band HD">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024130200 -0300" stop="20261024143200 -0300" channel="Band HD">
+    <title lang="pt">Você Torceu Aqui</title>
+    <desc lang="pt">Uma revisita a grandes partidas e momentos da história do futebol brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024140200 -0300" stop="20261024153200 -0300" channel="Band HD">
+    <title lang="pt">Fórmula Band</title>
+    <desc lang="pt">Todas as informações e acontecimentos dos principais eventos de automobilismo de 2024.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024150200 -0300" stop="20261024163200 -0300" channel="Band HD">
+    <title lang="pt">Pedreiro Top Brasil</title>
+    <desc lang="pt">Primeiro reality voltado para profissionais da construção civil. O programa combina competição, conhecimento técnico e entretenimento para valorizar pedreiros, serventes e mestres de obras que constroem o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024153200 -0300" stop="20261024170200 -0300" channel="Band HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024190200 -0300" stop="20261024203200 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024222200 -0300" stop="20261024235200 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024233200 -0300" stop="20261025010200 -0300" channel="Band HD">
+    <title lang="pt">Café com Aroma de Mulher</title>
+    <desc lang="pt">A trabalhadora rural Gaivota e o herdeiro da aristocracia cafeeira Sebastián devem lutar contra obstáculos, intrigas e a resistência de suas famílias para viver um grande amor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024013200 -0300" stop="20261024030200 -0300" channel="Band HD">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Reportagens especiais produzidas pela equipe de jornalismo da TV Bandeirantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024023200 -0300" stop="20261024040200 -0300" channel="Band HD">
+    <title lang="pt">SFT</title>
+    <desc lang="pt">Todas as emoções das lutas de artes marciais mistas promovidas pela organização brasileira SFT.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024040200 -0300" stop="20261024053200 -0300" channel="Band HD">
+    <title lang="pt">BWF</title>
+    <desc lang="pt">Todas as emoções dos eventos de luta livre promovidos pela Brazilian Wrestling Federation.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024050200 -0300" stop="20261024063200 -0300" channel="Band HD">
+    <title lang="pt">No Concurso do Prazer</title>
+    <desc lang="pt">April é uma estilista que participa de um concurso de design e está determinada a vencer. Danny, um conhecido de infância, é seu principal concorrente. Ambos fazem de tudo para vencer, inclusive transar com pessoas influentes.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -14147,6 +14833,202 @@
   <programme start="20261027053200 -0300" stop="20261027070200 -0300" channel="Band Mato Grosso HD">
     <title lang="pt">Treino Aberto</title>
     <desc lang="pt">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024060200 -0300" stop="20261024073200 -0300" channel="Band Minas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024070200 -0300" stop="20261024083200 -0300" channel="Band Minas">
+    <title lang="pt">O Novato</title>
+    <desc lang="pt">Erro de novato em operação acaba por exterminar uma equipe inteira, e ele é forçado a juntar as peças em busca da verdade guiado apenas por um áudio gravado no dia do incidente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024083200 -0300" stop="20261024100200 -0300" channel="Band Minas">
+    <title lang="pt">Vida na Água</title>
+    <desc lang="pt">Cadu e Lo Mourão embarcam em uma jornada para completar o Fishing Map Brasil com as 40 principais espécies de peixes do país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024090200 -0300" stop="20261024103200 -0300" channel="Band Minas">
+    <title lang="pt">Band Kids</title>
+    <desc lang="pt">Desenhos, animações e séries para o público infantil e adolescente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024101700 -0300" stop="20261024114700 -0300" channel="Band Minas">
+    <title lang="pt">Band Motores</title>
+    <desc lang="pt">Um conteúdo completo e exclusivo sobre o mundo automotivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024103200 -0300" stop="20261024120200 -0300" channel="Band Minas">
+    <title lang="pt">Band Kids</title>
+    <desc lang="pt">Desenhos, animações e séries para o público infantil e adolescente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024105700 -0300" stop="20261024122700 -0300" channel="Band Minas">
+    <title lang="pt">Thermas Internacional de MG</title>
+    <desc lang="pt">Programa de entretenimento que mostra o maior parque aquático recreativo esportivo do estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024105900 -0300" stop="20261024122900 -0300" channel="Band Minas">
+    <title lang="pt">Band Kids</title>
+    <desc lang="pt">Desenhos, animações e séries para o público infantil e adolescente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024113200 -0300" stop="20261024130200 -0300" channel="Band Minas">
+    <title lang="pt">Sarau MTC</title>
+    <desc lang="pt">Cantora, compositora, musicista, sambista e educadora musical. Idealizadora do coletivo de mulheres sambistas de Minas Gerais Donas de Si e do projeto de samba de raiz intitulado Samba da Januário.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024115200 -0300" stop="20261024132200 -0300" channel="Band Minas">
+    <title lang="pt">Caminhos para o Sucesso</title>
+    <desc lang="pt">As melhores ideias sobre o que há de mais inovador no mercado dos negócios e mais.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024121200 -0300" stop="20261024134200 -0300" channel="Band Minas">
+    <title lang="pt">Momento Celebridades</title>
+    <desc lang="pt">Entrevistas com celebridades e empresários de sucesso.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024121700 -0300" stop="20261024134700 -0300" channel="Band Minas">
+    <title lang="pt">Momento Bem-Estar</title>
+    <desc lang="pt">Conversas e reportagens que tratam sobre saúde, beleza, decoração, filantropia, empreendedorismo e muito mais. Tudo para que os espectadores possam gerar bem-estar para si e para todos ao seu redor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024123200 -0300" stop="20261024140200 -0300" channel="Band Minas">
+    <title lang="pt">Paulo Navarro</title>
+    <desc lang="pt">Fique por dentro dos principais acontecimentos e eventos de Minas Gerais, como lançamento de produtos e serviços, inaugurações, exposições e feiras, encontros empresariais e de negócios, moda, cultura, decoração, política, lazer e turismo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024130200 -0300" stop="20261024143200 -0300" channel="Band Minas">
+    <title lang="pt">Viajando com Toledo</title>
+    <desc lang="pt">Passeios que valorizam as histórias, personagens e tradições de Minas Gerais, além de explorar destinos em outras regiões do Brasil. Entre os temas abordados estão a produção de queijos artesanais, o folclore e a valorização de pequenas cidades.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024133200 -0300" stop="20261024150200 -0300" channel="Band Minas">
+    <title lang="pt">Roteiro de Minas</title>
+    <desc lang="pt">O programa mostra as características dos municípios de Minas, bem como sua história, economia, cultura, turismo e o povo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024134700 -0300" stop="20261024151700 -0300" channel="Band Minas">
+    <title lang="pt">Carros e Consórcios</title>
+    <desc lang="pt">Confira ofertas de carros com a facilidade e credibilidade das grandes concessionárias.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024141700 -0300" stop="20261024154700 -0300" channel="Band Minas">
+    <title lang="pt">Sabores e Acordes</title>
+    <desc lang="pt">Programa traz gastronomia, música ao vivo e bate-papo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024143700 -0300" stop="20261024160700 -0300" channel="Band Minas">
+    <title lang="pt">Band Kids</title>
+    <desc lang="pt">Desenhos, animações e séries para o público infantil e adolescente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024150200 -0300" stop="20261024163200 -0300" channel="Band Minas">
+    <title lang="pt">Pedreiro Top Brasil</title>
+    <desc lang="pt">Primeiro reality voltado para profissionais da construção civil. O programa combina competição, conhecimento técnico e entretenimento para valorizar pedreiros, serventes e mestres de obras que constroem o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024153200 -0300" stop="20261024170200 -0300" channel="Band Minas">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024190200 -0300" stop="20261024203200 -0300" channel="Band Minas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024214200 -0300" stop="20261024231200 -0300" channel="Band Minas">
+    <title lang="pt">Entrevista Coletiva</title>
+    <desc lang="pt">Entrevistas com empresários, políticos e especialistas de diversas áreas e discussões sobre os mais variados assuntos.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024222200 -0300" stop="20261024235200 -0300" channel="Band Minas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024233200 -0300" stop="20261025010200 -0300" channel="Band Minas">
+    <title lang="pt">Café com Aroma de Mulher</title>
+    <desc lang="pt">A trabalhadora rural Gaivota e o herdeiro da aristocracia cafeeira Sebastián devem lutar contra obstáculos, intrigas e a resistência de suas famílias para viver um grande amor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024013200 -0300" stop="20261024030200 -0300" channel="Band Minas">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Reportagens especiais produzidas pela equipe de jornalismo da TV Bandeirantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024023200 -0300" stop="20261024040200 -0300" channel="Band Minas">
+    <title lang="pt">SFT</title>
+    <desc lang="pt">Todas as emoções das lutas de artes marciais mistas promovidas pela organização brasileira SFT.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024040200 -0300" stop="20261024053200 -0300" channel="Band Minas">
+    <title lang="pt">BWF</title>
+    <desc lang="pt">Todas as emoções dos eventos de luta livre promovidos pela Brazilian Wrestling Federation.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024050200 -0300" stop="20261024063200 -0300" channel="Band Minas">
+    <title lang="pt">No Concurso do Prazer</title>
+    <desc lang="pt">April é uma estilista que participa de um concurso de design e está determinada a vencer. Danny, um conhecido de infância, é seu principal concorrente. Ambos fazem de tudo para vencer, inclusive transar com pessoas influentes.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
@@ -18242,6 +19124,153 @@
   <programme start="20261027050200 -0300" stop="20261027063200 -0300" channel="Band Rio Grande do Sul HD">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024060200 -0300" stop="20261024073200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024070200 -0300" stop="20261024083200 -0300" channel="Band RJ HD">
+    <title lang="pt">O Novato</title>
+    <desc lang="pt">Erro de novato em operação acaba por exterminar uma equipe inteira, e ele é forçado a juntar as peças em busca da verdade guiado apenas por um áudio gravado no dia do incidente.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024083200 -0300" stop="20261024100200 -0300" channel="Band RJ HD">
+    <title lang="pt">Vida na Água</title>
+    <desc lang="pt">Cadu e Lo Mourão embarcam em uma jornada para completar o Fishing Map Brasil com as 40 principais espécies de peixes do país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024090200 -0300" stop="20261024103200 -0300" channel="Band RJ HD">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024110200 -0300" stop="20261024123200 -0300" channel="Band RJ HD">
+    <title lang="pt">Interior Acontece</title>
+    <desc lang="pt">Notícias e reportagens das cidades do interior do Rio de Janeiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024113200 -0300" stop="20261024130200 -0300" channel="Band RJ HD">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024123200 -0300" stop="20261024140200 -0300" channel="Band RJ HD">
+    <title lang="pt">Gente do Rio</title>
+    <desc lang="pt">Um programa de entrevista sobre a Retomada do Rio, com foco em política, economia, turismo, educação e cultura. Veja quais medidas políticas podem ser tomadas para mudar os rumos do Estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024130200 -0300" stop="20261024143200 -0300" channel="Band RJ HD">
+    <title lang="pt">Você Torceu Aqui</title>
+    <desc lang="pt">Uma revisita a grandes partidas e momentos da história do futebol brasileiro.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024140200 -0300" stop="20261024153200 -0300" channel="Band RJ HD">
+    <title lang="pt">PodPeople</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024150200 -0300" stop="20261024163200 -0300" channel="Band RJ HD">
+    <title lang="pt">Pedreiro Top Brasil</title>
+    <desc lang="pt">Primeiro reality voltado para profissionais da construção civil. O programa combina competição, conhecimento técnico e entretenimento para valorizar pedreiros, serventes e mestres de obras que constroem o país.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024153200 -0300" stop="20261024170200 -0300" channel="Band RJ HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024190200 -0300" stop="20261024203200 -0300" channel="Band RJ HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024203200 -0300" stop="20261024220200 -0300" channel="Band RJ HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024210200 -0300" stop="20261024223200 -0300" channel="Band RJ HD">
+    <title lang="pt">Fórum BandNews FM Rio</title>
+    <desc lang="pt">Sem descrição</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024220200 -0300" stop="20261024233200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jornal do Rio</title>
+    <desc lang="pt">O jornal apresenta os principais fatos do dia na capital fluminense e em todo o estado.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024222200 -0300" stop="20261024235200 -0300" channel="Band RJ HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024233200 -0300" stop="20261025010200 -0300" channel="Band RJ HD">
+    <title lang="pt">Café com Aroma de Mulher</title>
+    <desc lang="pt">A trabalhadora rural Gaivota e o herdeiro da aristocracia cafeeira Sebastián devem lutar contra obstáculos, intrigas e a resistência de suas famílias para viver um grande amor.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024013200 -0300" stop="20261024030200 -0300" channel="Band RJ HD">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Reportagens especiais produzidas pela equipe de jornalismo da TV Bandeirantes.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024023200 -0300" stop="20261024040200 -0300" channel="Band RJ HD">
+    <title lang="pt">SFT</title>
+    <desc lang="pt">Todas as emoções das lutas de artes marciais mistas promovidas pela organização brasileira SFT.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024040200 -0300" stop="20261024053200 -0300" channel="Band RJ HD">
+    <title lang="pt">BWF</title>
+    <desc lang="pt">Todas as emoções dos eventos de luta livre promovidos pela Brazilian Wrestling Federation.</desc>
+    <rating system="Brazil">
+      <value>[14]</value>
+    </rating>
+  </programme>
+  <programme start="20261024050200 -0300" stop="20261024063200 -0300" channel="Band RJ HD">
+    <title lang="pt">No Concurso do Prazer</title>
+    <desc lang="pt">April é uma estilista que participa de um concurso de design e está determinada a vencer. Danny, um conhecido de infância, é seu principal concorrente. Ambos fazem de tudo para vencer, inclusive transar com pessoas influentes.</desc>
     <rating system="Brazil">
       <value>[14]</value>
     </rating>
